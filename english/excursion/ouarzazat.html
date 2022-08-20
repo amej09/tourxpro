@@ -29,14 +29,7 @@
 
 <body>
 
-    <div class="preloader">
-        <div class="loader">
-            <span></span>
-            <span></span>
-            <span></span>
-            <span></span>
-        </div>
-    </div>
+   
 
 
     <div class="main-searchbar-wrapper">
@@ -410,6 +403,48 @@
                                 <form action="#" method="post" id="booking-form">
                                     <div class="booking-form-wrapper">
                                         <div class="custom-input-group">
+                                            Select date and participants: 
+                                            <i class="bi bi-calendar3"></i>
+                                            <input placeholder="Select your date" type="text" name="checkIn"
+                                                id="datepicker2" value="" class="calendar">
+                                        </div>
+                                        <div class="row">
+                                            <div class="custom-input-group">
+                                                <i class="bi bi-chevron-down"></i>
+                                                <select id="truist-adult">
+                                                    <option selected> Number of travelers: </option>
+                                                    <option value="1"> 1</option>
+                                                    <option value="2"> 2</option>
+                                                    <option value="3"> 3</option>
+                                                    <option value="4"> 4</option>
+                                                    <option value="5"> 5</option>
+                                                </select>
+                                            </div>
+                                        </div><br>
+                                        <div class="row">
+                                            
+                                             <div class="col-1">
+                                                <input type="radio" class="radiosize"   name="radio" value="Guide (15€)"/> &nbsp;
+                                            </div> 
+                                            <div class="col-5">
+                                                Guide(15€)
+                                            </div>
+                                           
+                                            <div class="col-1">
+                                                <input type="radio"  class="radiosize"  name="radio" value="Lunch (10€ / per)"/>&nbsp;
+                                            </div>
+                                            <div class="col-5">
+                                                Lunch (10€ / per) <i class="bi bi-chevron-down"></i>
+
+                                            </div> 
+
+                                            
+                                        </div>
+                                        <div class="custom-input-group">
+                                       
+                                            Total Price <input type="text" value="140 €" id="totalprice"  class="form-control" disabled>
+                                        </div>
+                                        <div class="custom-input-group">
                                             <input type="text" placeholder="Your Full Name" id="name">
                                         </div>
                                         <div class="custom-input-group">
@@ -418,17 +453,8 @@
                                         <div class="custom-input-group">
                                             <input type="tel" placeholder="Phone" id="phone">
                                         </div>
-                                        <div class="custom-input-group">
-                                            <i class="bi bi-chevron-down"></i>
-                                            <select id="ticket_type">
-                                                <option selected>Tickets Type</option>
-                                                <option value="1">Tickets Type 1</option>
-                                                <option value="2">Tickets Type 2</option>
-                                                <option value="3">Tickets Type 3</option>
-                                            </select>
-                                        </div>
+                                        
                                         <div class="row">
-                                            <div class="col-sm-6">
                                                 <div class="custom-input-group">
                                                     <i class="bi bi-chevron-down"></i>
                                                     <select id="truist-adult">
@@ -436,16 +462,14 @@
                                                         <option value="1"> 1</option>
                                                         <option value="2"> 2</option>
                                                         <option value="3"> 3</option>
+                                                        <option value="4"> 4</option>
+                                                        <option value="5"> 5</option>
                                                     </select>
                                                 </div>
-                                            </div>
                                             
                                         </div>
-                                        <div class="custom-input-group">
-                                            <i class="bi bi-calendar3"></i>
-                                            <input placeholder="Select your date" type="text" name="checkIn"
-                                                id="datepicker2" value="" class="calendar">
-                                        </div>
+                                       
+                                       
                                         <div class="custom-input-group">
                                             <textarea cols="20" rows="7" placeholder="Your message"></textarea>
                                         </div>
@@ -471,7 +495,7 @@
                                         </div>
                                         <div class="info">
                                             <h6>Duration</h6>
-                                            <span>4 Days</span>
+                                            <span>10 hours</span>
                                         </div>
                                     </div>
                                 </div>
@@ -481,19 +505,19 @@
                                             <img src="../../assets/images/icons/pd2.svg" alt="">
                                         </div>
                                         <div class="info">
-                                            <h6>Tour Type</h6>
-                                            <span>Daily Tour</span>
+                                            <h6> Distance</h6>
+                                            <span>204 Km x 2</span>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col">
                                     <div class="pd-single-info">
                                         <div class="info-icon">
-                                            <img src="../../assets/images/icons/pd3.svg" alt="">
+                                            <img src="../../assets/images/icons/pd2.svg" alt="">
                                         </div>
                                         <div class="info">
-                                            <h6>Group Size</h6>
-                                            <span>30 People</span>
+                                            <h6>Departure time</h6>
+                                            <span> 07h00</span>
                                         </div>
                                     </div>
                                 </div>
@@ -503,18 +527,18 @@
                                             <img src="../../assets/images/icons/pd4.svg" alt="">
                                         </div>
                                         <div class="info">
-                                            <h6>Tour Guide</h6>
-                                            <span>05 People</span>
+                                            <h6> Availability </h6>
+                                            <span>Every day</span>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="pd-thumb">
-                                <img src="../../assets/images/package/pd-thumb.png" alt="">
+                                <img src="../../assets/images/ouarzazat.jpg" alt="">
                             </div>
                             <div class="header-bottom">
                                 <div class="pd-lavel d-flex justify-content-between align-items-center flex-wrap gap-2">
-                                    <h5 class="location"><i class="bi bi-geo-alt"></i> Mount Dtna, Spain</h5>
+                                    <h5 class="location"><i class="bi bi-geo-alt"></i> Ouarzazate, morocco</h5>
                                     <ul class="d-flex align-items-center rating">
                                         <li><i class="bi bi-star-fill"></i></li>
                                         <li><i class="bi bi-star-fill"></i></li>
@@ -523,7 +547,7 @@
                                         <li><i class="bi bi-star-fill"></i></li>
                                     </ul>
                                 </div>
-                                <h2 class="pd-title">San Francisco Golden Gate Bridge.</h2>
+                                <h2 class="pd-title">Day Trip to Ouarzazate - Ait Benhaddou</h2>
                             </div>
                         </div>
                     </div>    
@@ -531,13 +555,64 @@
                 <div class="col-lg-3">
                     <div class="package-sidebar">
                         <aside class="package-widget-style-2 widget-form mt-30">
-                            <div class="widget-title text-center d-flex justify-content-between">
-                                <h4>Book This Tour</h4>
-                                <h3 class="widget-lavel">$75 <span>Per Person</span></h3>
+                            <div class="widget-title">
+                                <table class="table" style="color: white; border: solid 0px ;border-color: #162b32; ">
+                                    <tr  style="height: 40px ;text-align: center;">
+                                        <th   >35 €</th>
+                                    </tr>
+                                    <tr  style="height: 40px;text-align: center; ">
+                                        <th > Per person </th>                                        
+                                    </tr>
+                                   
+                                </table>
                             </div>
+
                             <div class="widget-body">
                                 <form action="#" method="post" id="booking-form">
                                     <div class="booking-form-wrapper">
+                                        <div class="custom-input-group">
+                                            Select date and participants: 
+                                            <i class="bi bi-calendar3"></i>
+                                            <input placeholder="Select your date" type="text" name="checkIn"
+                                                id="datepicker2" value="" class="calendar">
+                                        </div>
+                                        <div class="row">
+                                            <div class="custom-input-group">
+                                                <i class="bi bi-chevron-down"></i>
+                                                <select id="truist-adult">
+                                                    <option selected> Number of travelers: </option>
+                                                    <option value="1"> 1</option>
+                                                    <option value="2"> 2</option>
+                                                    <option value="3"> 3</option>
+                                                    <option value="4"> 4</option>
+                                                    <option value="5"> 5</option>
+                                                </select>
+                                            </div>
+                                        </div><br>
+                                        <div class="row">
+                                            
+                                             <div class="col-1">
+                                                <input type="radio" class="radiosize"   name="radio" value="Guide (15€)"/> &nbsp;
+                                            </div> 
+                                            <div class="col-5">
+                                                Guide(15€)
+                                            </div>
+                                           
+                                            <div class="col-1">
+                                                <input type="radio"  class="radiosize"  name="radio" value="Lunch (10€ / per)"/>&nbsp;
+                                            </div>
+                                            <div class="col-5">
+                                                Lunch (10€ / per) <i class="bi bi-chevron-down"></i>
+
+                                            </div> 
+
+                                            
+                                        </div>
+                                        
+                                        <div class="custom-input-group">
+                                       
+                                            Total Price <input type="text" value="35 €"  class="form-control" disabled>
+                                        </div>
                                         <div class="custom-input-group">
                                             <input type="text" placeholder="Your Full Name" id="name">
                                         </div>
@@ -547,17 +622,8 @@
                                         <div class="custom-input-group">
                                             <input type="tel" placeholder="Phone" id="phone">
                                         </div>
-                                        <div class="custom-input-group">
-                                            <i class="bi bi-chevron-down"></i>
-                                            <select id="ticket_type">
-                                                <option selected>Tickets Type</option>
-                                                <option value="1">Tickets Type 1</option>
-                                                <option value="2">Tickets Type 2</option>
-                                                <option value="3">Tickets Type 3</option>
-                                            </select>
-                                        </div>
+                                        
                                         <div class="row">
-                                            <div class="col-sm-6">
                                                 <div class="custom-input-group">
                                                     <i class="bi bi-chevron-down"></i>
                                                     <select id="truist-adult">
@@ -565,26 +631,14 @@
                                                         <option value="1"> 1</option>
                                                         <option value="2"> 2</option>
                                                         <option value="3"> 3</option>
+                                                        <option value="4"> 4</option>
+                                                        <option value="5"> 5</option>
                                                     </select>
                                                 </div>
-                                            </div>
-                                            <div class="col-sm-6">
-                                                <div class="custom-input-group ">
-                                                    <i class="bi bi-chevron-down"></i>
-                                                    <select id="tourist-child">
-                                                        <option selected>Child</option>
-                                                        <option value="1"> 1</option>
-                                                        <option value="2">2</option>
-                                                        <option value="3"> 3</option>
-                                                    </select>
-                                                </div>
-                                            </div>
+                                            
                                         </div>
-                                        <div class="custom-input-group">
-                                            <i class="bi bi-calendar3"></i>
-                                            <input placeholder="Select your date" type="text" name="checkIn"
-                                                id="datepicker2" value="" class="calendar">
-                                        </div>
+                                       
+                                       
                                         <div class="custom-input-group">
                                             <textarea cols="20" rows="7" placeholder="Your message"></textarea>
                                         </div>
@@ -606,7 +660,6 @@
                 
                 <div class="col-lg-12">
                     <div class="tour-package-details">
-                        <center >
 
                         <div class="package-details-tabs">
                                 <ul class="nav nav-pills tab-switchers gap-xxl-4 gap-3" id="pills-tab" role="tablist">
@@ -637,19 +690,60 @@
                                 <div class="tab-pane fade show active package-info-tab mt-3" id="pill-body1"
                                     role="tabpanel" aria-labelledby="pills-package1">
                                     <h3 class="d-subtitle">Package Details</h3>
-                                    <p>Pellentesque accumsan magna in augue sagittis, non fringilla eros molestie. Sed
-                                        feugiat mi nec ex vehicula, nec vestibulum orci semper. Class aptent taciti
-                                        sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec
-                                        tristique commodo fringilla. Duis aliquet varius mauris eget rutrum. Nullam sit
-                                        amet justo consequat, bibendum orci in, convallis enim. Proin convallis neque
-                                        viverra finibus cursus. Mauris lacinia lacinia erat in finibus. In non enim
-                                        libero.Pellentesque accumsan magna in augue sagittis, non fringilla eros
-                                        molestie. Sed feugiat mi nec ex vehicula, nec vestibulum orci semper. Class
-                                        aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
-                                        himenaeos. Donec tristique commodo fringilla. Duis aliquet varius mauris eget
-                                        rutrum. Nullam sit amet justo consequat, bibendum orci in, convallis enim. Proin
-                                        convallis neque viverra finibus cursus. Mauris lacinia lacinia erat in finibus.
-                                        In non enim libero.</p>
+ <pre>
+    
+This day trip takes you right across the chain of the High Atlas Mountains and over the famous Tizi N’Tichka's pass 1412 miles (2260 meters) high, the highest in the whole of Africa. All along the route you can see the Berber villages perched on the side of the mountains, sometimes hardly distinguishable from the mountains themselves…  
+
+As you reach the far side of the mountains the landscape changes dramatically, becoming semi-arid and desert-like. Here is the Kasbah architecture with turrets on all the buildings, adorned with grilled windows and soft peach coloured walls. These traditional houses are made of adobe, highly suitable for the climatic conditions of the south.  
+
+Following your journey through the beautiful valleys you will arrive at the ancient kasbah of Aït Ben Haddou, which is a UNESCO World Heritage listed site. After visiting the Kasbah you will then journey onward to Ouarzazate, world renowned as the Moroccan Hollywood because of the famous films which have been shot there, including the diamond of the Nile, Lawrence of Arabia, Sodome et Gomorre, le Joyau du Nil, Jésus de Nazareth, Kingdom of heaven, the Mommy, Gladiator, 7 days in Tebet, Alexander the Great, Babel…  
+
+You can also take the chance to visit the Taourirt Kasbah, classified by UNESCO as a World Heritage listed site. You may also stop by a cinema studio if this would interest you…
+
+Distance: 204 Km x 2  
+Duration:   10 hours
+Availability: Every day
+Deparature time: 07h00 am
+
+    No Booking Fees
+    Book Now and Pay Later
+    Best Price Guaranteed
+    Excellent Service
+    Free cancellation
+    Available every day
+
+What is included?
+
+    Hotel pickup and drop-off
+    Transport by air-conditioned minivan
+    Transportation Insurance
+    Professional Liability Insurance
+    Quality service reliability
+    All taxes
+
+What is not included?
+
+    Lunch
+    Local Guide
+    Tips
+    Entrance tickets (Cinema Studios and Taourirt Kasbah)
+
+Meeting place:
+
+    Our driver will pick you up at your hotel/Riad or any other location at the agreed time.
+    In case of any problem: please email us or call us on the numbers displayed on contact informations.
+
+Easy Booking: Accepted until 6pm the day before (Marrakech time), If you have any difficulties to book or need another service, please use our Contact Form
+
+Easy Cancellation: Cancellation up to 24 hours in advance for a full refund
+
+Payment Methods:
+
+    Online (we can send you a secure link on request)
+    In cash (Euros or MAD) upon arrival
+    Or by credit card upon arrival
+
+ </pre>
                                     <div class="p-info-featured-img row position-relative g-4 row-cols-1 row-cols-sm-2">
                                         <div class="col">
                                             <div class="featured-img">
@@ -1135,7 +1229,6 @@
                                 </div>
                             </div>
                         </div>
-                    </center>
 
                     </div>
                 </div>
