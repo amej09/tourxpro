@@ -405,14 +405,14 @@
                                         <div class="custom-input-group">
                                             Select date and participants: 
                                             <i class="bi bi-calendar3"></i>
-                                            <input placeholder="Select your date" type="text" name="checkIn"
-                                                id="datepicker2" value="" class="calendar">
+                                            <input placeholder="Select your date" type="date" name="datepickerprive"
+                                                id="datepickerprive" value="" class="calendar">
                                         </div>
                                         <div class="row">
                                             <div class="custom-input-group">
                                                 <i class="bi bi-chevron-down"></i>
                                                 <select id="truist-adult">
-                                                    <option selected> Number of travelers: </option>
+                                                    <option selected > Number of travelers: </option>
                                                     <option value="1"> 1</option>
                                                     <option value="2"> 2</option>
                                                     <option value="3"> 3</option>
@@ -424,14 +424,14 @@
                                         <div class="row">
                                             
                                              <div class="col-1">
-                                                <input type="radio" class="radiosize"   name="radio" value="Guide (15€)"/> &nbsp;
+                                                <input type="checkbox" class="radiosize" id="Guide"  name="Guide" value="Guide (15€)"/> &nbsp;
                                             </div> 
                                             <div class="col-5">
                                                 Guide(15€)
                                             </div>
                                            
                                             <div class="col-1">
-                                                <input type="radio"  class="radiosize"  name="radio" value="Lunch (10€ / per)"/>&nbsp;
+                                                <input type="checkbox"  class="radiosize"  id="Lunch"  name="Lunch" value="Lunch (10€ / per)"/>&nbsp;
                                             </div>
                                             <div class="col-5">
                                                 Lunch (10€ / per) <i class="bi bi-chevron-down"></i>
@@ -442,7 +442,7 @@
                                         </div>
                                         <div class="custom-input-group">
                                        
-                                            Total Price <input type="text" value="140 €" id="totalprice"  class="form-control" disabled>
+                                            Total Price in  €<input type="text" value="140  " id="totalpriceprive"  class="form-control" disabled>
                                         </div>
                                         <div class="custom-input-group">
                                             <input type="text" placeholder="Your Full Name" id="name">
@@ -573,13 +573,13 @@
                                         <div class="custom-input-group">
                                             Select date and participants: 
                                             <i class="bi bi-calendar3"></i>
-                                            <input placeholder="Select your date" type="text" name="checkIn"
-                                                id="datepicker2" value="" class="calendar">
+                                            <input placeholder="Select your date" type="date" name="datepickerfroup"
+                                                id="datepickerfroup" value="" class="calendar">
                                         </div>
                                         <div class="row">
                                             <div class="custom-input-group">
                                                 <i class="bi bi-chevron-down"></i>
-                                                <select id="truist-adult">
+                                                <select id="truist-adultgroup">
                                                     <option selected> Number of travelers: </option>
                                                     <option value="1"> 1</option>
                                                     <option value="2"> 2</option>
@@ -591,28 +591,27 @@
                                         </div><br>
                                         <div class="row">
                                             
-                                             <div class="col-1">
-                                                <input type="radio" class="radiosize"   name="radio" value="Guide (15€)"/> &nbsp;
-                                            </div> 
-                                            <div class="col-5">
-                                                Guide(15€)
-                                            </div>
-                                           
                                             <div class="col-1">
-                                                <input type="radio"  class="radiosize"  name="radio" value="Lunch (10€ / per)"/>&nbsp;
-                                            </div>
-                                            <div class="col-5">
-                                                Lunch (10€ / per) <i class="bi bi-chevron-down"></i>
+                                               <input type="checkbox" class="radiosize" id="Guidegroup"  name="Guidegroup" value="Guide (15€)"/> &nbsp;
+                                           </div> 
+                                           <div class="col-5">
+                                               Guide(15€)
+                                           </div>
+                                          
+                                           <div class="col-1">
+                                               <input type="checkbox"  class="radiosize"  id="Lunchgroup"  name="Lunchgroup" value="Lunch (10€ / per)"/>&nbsp;
+                                           </div>
+                                           <div class="col-5">
+                                               Lunch (10€ / per) <i class="bi bi-chevron-down"></i>
 
-                                            </div> 
+                                           </div> 
 
-                                            
-                                        </div>
-                                        
-                                        <div class="custom-input-group">
-                                       
-                                            Total Price <input type="text" value="35 €"  class="form-control" disabled>
-                                        </div>
+                                           
+                                       </div>
+                                       <div class="custom-input-group">
+                                      
+                                           Total Price in  €<input type="text" value="35  " id="totalpricegroup"  class="form-control" disabled>
+                                       </div>
                                         <div class="custom-input-group">
                                             <input type="text" placeholder="Your Full Name" id="name">
                                         </div>
@@ -923,7 +922,7 @@ Payment Methods:
         </div>
     </div>
 
-
+ 
     <script data-cfasync="false" src="../../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
     <script src="../../assets/js/jquery-3.6.0.min.js"></script>
     <script src="../../assets/js/bootstrap.bundle.min.js"></script>
@@ -935,6 +934,124 @@ Payment Methods:
     <script src="../../assets/js/jquery-ui.js"></script>
 
     <script src="../../assets/js/main.js"></script>
+    <script >
+          var nbr_prive=140 ;
+        
+         $('#Guide').change(function() {
+           /* */
+            if($(this).is(':checked')){
+                nbr_prive+=15;
+            }
+            else{
+                nbr_prive-=15;
+            }
+            $('#totalpriceprive').val(nbr_prive );
+
+         });
+         $('#Lunch').change(function() {
+            /* */
+            if($(this).is(':checked')){
+                nbr= $( '#truist-adult' ).val();
+                if(nbr=='2'){
+                    nbr_prive+=20;
+                }else if(nbr=='3'){
+                    nbr_prive+=30;
+                }
+                else if(nbr=='4'){
+                    nbr_prive+=40;
+                }
+                else if(nbr=='5'){
+                    nbr_prive+=50;
+                }else{
+                    nbr_prive+=10;
+
+                }
+                    
+            }
+            else{
+                nbr_prive-=10;
+            }
+            $('#totalpriceprive').val(nbr_prive );
+
+        });
+
+         $( '#truist-adult' ).change(function() {
+            $( "#Lunch" ).prop( "checked", false );
+            $( "#Guide" ).prop( "checked", false );
+          nbr= $( '#truist-adult' ).val();
+          nbr_prive=140;
+           if(nbr=='3'){
+            nbr_prive+=10;
+           }else if(nbr=='4'){
+            nbr_prive+=20;
+         }else if(nbr=='5'){
+            nbr_prive+=30;
+         }
+         $('#totalpriceprive').val(nbr_prive );
+
+         });
+  </script>
+  <script >
+    var nbr_group=35 ;
+  
+   $('#Guidegroup').change(function() {
+     /* */
+      if($(this).is(':checked')){
+        nbr_group+=15;
+      }
+      else{
+        nbr_group-=15;
+      }
+      $('#totalpricegroup').val(nbr_group );
+
+   });
+   $('#Lunchgroup').change(function() {
+     /* */
+      if($(this).is(':checked')){
+        nbr= $( '#truist-adultgroup' ).val();
+        if(nbr=='2'){
+            nbr_group+=20;
+        }else if(nbr=='3'){
+            nbr_group+=30;
+        }
+        else if(nbr=='4'){
+            nbr_group+=40;
+        }
+        else if(nbr=='5'){
+            nbr_group+=50;
+        }else{
+            nbr_group+=10;
+
+        }
+            
+      }
+      else{
+        nbr_group-=10;
+      }
+      $('#totalpricegroup').val(nbr_group );
+
+   });
+
+   $( '#truist-adultgroup' ).change(function() {
+      $( "#Lunchgroup" ).prop( "checked", false );
+      $( "#Guidegroup" ).prop( "checked", false );
+    nbr= $( '#truist-adultgroup' ).val();
+    nbr_group=35;
+   if(nbr=='2'){
+        nbr_group=(nbr_group * 2);
+   }else if(nbr=='3'){
+    nbr_group=(nbr_group * 3);
+   }
+   else if(nbr=='4'){
+    nbr_group=(nbr_group * 4);
+   }
+   else if(nbr=='5'){
+    nbr_group=(nbr_group * 5);
+   }
+   $('#totalpricegroup').val(nbr_group );
+
+   });
+</script>
 </body>
 
 <!-- Mirrored from demo.egenslab.com/html/tourxpro/demo/package-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 18 Aug 2022 11:46:30 GMT -->
