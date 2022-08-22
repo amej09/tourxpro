@@ -13,7 +13,8 @@
 <div class="breadcrumb breadcrumb-style-one">
     <div class="container">
         <div class="col-lg-12 text-center">
-            <h2 class="breadcrumb-title">Marrakech Menara Airport <--> Marrakech </h2>
+            <h2 class="breadcrumb-title">Casablanca Mohamed V Airport <--> Marrakech
+ </h2>
             <ul class="d-flex justify-content-center breadcrumb-items">
                 <li class="breadcrumb-item"><a href="index.php">acceuil</a></li>
                 <li class="breadcrumb-item active">Transfer</li>
@@ -230,7 +231,7 @@
                                 <tr>
                                     
                                     <td>1 --> 5 Pers</td>
-                                    <td>15 Euro</td>
+                                    <td>160 Euro</td>
                                     
 
                                 </tr>
@@ -242,7 +243,7 @@
                                 <tr>
                                     
                                     <td>1 --> 5 Pers</td>
-                                    <td>20 Euro</td>
+                                    <td>250 Euro</td>
                                     
 
                                 </tr>
@@ -255,7 +256,7 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#faq-collapseOne" aria-expanded="false"
                                         aria-controls="faq-collapseOne">
-                                        Arrival at Marrakech - Menara airport
+                                        Arrival at Casablanca - Mohamed V airport
                                     </button>
                                 </h2>
                                 <div id="faq-collapseOne" class="accordion-collapse collapse"
@@ -340,7 +341,7 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#faq-collapseTwo" aria-expanded="false"
                                         aria-controls="faq-collapseTwo">
-                                        Departure from Marrakech - Menara airport
+                                        Departure from Casablanca - Mohamed V airport
                                     </button>
                                 </h2>
                                 <div id="faq-collapseTwo" class="accordion-collapse collapse"
@@ -425,7 +426,7 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#faq-collapseThree" aria-expanded="false"
                                         aria-controls="faq-collapseThree">
-                                        Arrival and departure, Marrakech - Menara airport
+                                        Arrival and departure, Casablanca - Mohamed V airport
                                     </button>
                                 </h2>
                                 <div id="faq-collapseThree" class="accordion-collapse collapse"
@@ -547,31 +548,30 @@
                                 <h3 class="d-subtitle">Package Details</h3>
                                 <br>
                                 <pre>
-Let us worry about the details of your transportation, allowing you the time to think about other particulars.
+Mohammed V Airport is an international airport located about 210 km north of Marrakech. With a capacity of almost fourteen million passengers and 150,000 tons of cargo a year, it is the main airport in Morocco.
 
-If you are heading to the airport then you can rely on our car service to pick you up wherever you are in Marrakech and get you to the airport in good time for your flight.
+Since the majority of international flights land at Mohamed V Casablanca airport, we offer private transfers to and from - Marrakech, for all travelers who want to reach Marrakech without making a stopover in Casablanca.
 
 In order to always satisfy you, we have set up a management device which take into account our vehicles disponibility and our customer incoming calls, and which is linked up to a reservation exchange that works 24/24 and 7/7, ready to react to all our customers demands as soon as they reach us.
 
-At your arrival in the lobby of the airport there will a driver, ready to await you, to welcome you, and to help you to recover and carry your luggage.
+At your arrival in the lobby of the airport there will a driver, ready to wait you, to welcome you, and to help you to recover and carry your luggage.
 
-All our drivers will introduce themselves with a welcome panel on which will appear your name as well as the one of your belonging organization, if you do not desire that your name appears, please let us know in advance so our driver can identify you with the panel of "Traces Berbères Voyages".
+All our drivers will introduce themselves with a welcome panel on which will appear your name as well as the one of your belonging organization, if you do not want that we mention your name, please let us know in order to identify you with the panel of your travel agency "Traces Berbères Voyages".
 
-If you are looking for a professional and prudent driver to take you to or from the airport, this service is exactly what you need. Relax and be sure that the beginning or end of your stay in Marrakech is in good hands.
+If you are looking for a professional shuttle service, this service is exactly what you need. Be sure that the beginning and end of your trip is in safe hands.
 
-Whether you are travelling for business or pleasure, you will be transported to or from Marrakech-Menara airport to your destination, in complete safety and comfort.
+Whether you are travelling for leisure or business, you will be driven from Casablanca airport to Marrakech (or vice versa) in complete security and comfort.
 
-Arrival Transfer from the airport: Your driver will be waiting for you in the lobby of the airport, with a panel mentioning your name. If your flight is late, don't worry, the driver will wait for you until you arrive. Then you will be driven to your hotel
+Arrival Transfer from the airport: The driver will be waiting for you in the main hall of the airport, with a panel bearing your name or the name of your travel agency. If your flight is delayed, your driver will wait until your arrival.
 
-Departure Transfer to the airport: The driver will pick you up from your hotel or Riad in Marrakech at the agreed time and he will make sure that you reach the airport at least two hours before the departure flight in order to have enough time for baggage check-in.
+Departure Transfer to the airport: Your professional driver will pick you up from your hotel or guest house in Marrakech at the agreed time, then he will make sure that you will be at the airport at least 2 hours before the departure flight, so you can have enough time for luggage check-in.
 
-Airport-Hotel Transfer (Arrival & Departure): If you wish to enjoy easy and comfortable transport during your stay in Marrakech, book a private shuttle service for your transfers from and to the airport, you will be driven to your destination on time and in complete safety.
+Airport-Hotel Transfer (Arrival & Departure): If you have a short stay in Morocco and you don’t want to waste your time in public transport, you can book a private suttle service for your transportation between Mohammed V Airport in Casablanca and your hotel or Riad in Marrakech and enjoy a luxury  and comfortable transport during your stay.
 
+Distance: 210 Km 
+Duration:   2 hours 30 minutes
+Availability: Every day
  
-
-<bold>Distance:</bold> Between 10 and 15 km
-<bold>Duration:</bold> 20 min
-<bold>Availability:</bold> Every day
 
 <i class='bx bx-check'></i>  No Booking Fees
 <i class='bx bx-check'></i>  Book Now and Pay Later
@@ -609,17 +609,17 @@ Airport-Hotel Transfer (Arrival & Departure): If you wish to enjoy easy and comf
                                 <div class="row g-4">
                                 <div class="col-6">
                                         <div class="package-gallary-item">
-                                            <img src="../assets/images/transfers/marrakech_menara_airport_1.jpg" alt="">
+                                            <img src="../assets/images/transfers/Mohammed_V_Airport_in_Casablanca.jpg" alt="">
                                         </div>
                                     </div>
                                     <div class="col-6">
                                         <div class="package-gallary-item">
-                                            <img src="../assets/images/transfers/marrakech_menara_airport_2.jpg" alt="">
+                                            <img src="../assets/images/transfers/Passengers_in_Casablanca_Airport.jpg" alt="">
                                         </div>
                                     </div>
                                     <div class="col-6">
                                         <div class="package-gallary-item">
-                                            <img src="../assets/images/transfers/marrakech_menara_airport_3.jpg" alt="">
+                                            <img src="../assets/images/transfers/The_Hall_of_Casablanca_Airport.jpg" alt="">
                                         </div>
                                     </div>
                                     <div class="col-6">
@@ -630,13 +630,13 @@ Airport-Hotel Transfer (Arrival & Departure): If you wish to enjoy easy and comf
                                     
                                     <div class="col-6">
                                         <div class="package-gallary-item">
-                                            <img src="../assets/images/visites/marrakech1.jpg" alt="">
+                                            <img src="../assets/images/transfers/casa1.jpg" alt="">
                                         </div>
                                     </div>
                                     
                                     <div class="col-6">
                                         <div class="package-gallary-item">
-                                            <img src="../assets/images/visites/marrakech3.jpg" alt="">
+                                            <img src="../assets/images/transfers/casa2.jpg" alt="">
                                         </div>
                                     </div>
                                     
