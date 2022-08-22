@@ -1,37 +1,5 @@
 <!doctype html>
 <html lang="en">
-
-<!-- Mirrored from demo.egenslab.com/html/tourxpro/demo/package-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 18 Aug 2022 11:46:12 GMT -->
-
-<head>
-    <title>happy marrakech tours</title>
-
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" href="../assets/images/favicon.png" type="image/gif" sizes="20x20">
-
-    <link rel="stylesheet" href="../assets/css/select2.min.css">
-
-    <link rel="stylesheet" href="../assets/css/jquery.fancybox.min.css">
-
-    <link href='../../assets/css/boxicons.min.css' rel='stylesheet'>
-
-    <link rel="stylesheet" href="../assets/css/swiper-bundle.min.css">
-    <link rel="stylesheet" href="../assets/css/style-maj.css">
-
-    <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
-
-    <link rel="stylesheet" href="../assets/css/animate.min.css">
-
-    <link rel="stylesheet" href="../assets/css/style.css">
-    <link rel="stylesheet" href="../assets/css/responsive.css">
-</head>
-
-<body>
-
-   
-
-
     <?php include('template/header.php')?>
 
 
@@ -78,7 +46,7 @@
                             </div>
 
                             <div class="widget-body">
-                                <form action="../../sender.php" method="post" id="booking-form">
+                                <form action="../sender.php" method="post" id="booking-form">
                                     <div class="booking-form-wrapper">
                                         <div class="custom-input-group">
                                             <input type="hidden"      name="type_reservation"  value="prive"/> &nbsp;
@@ -114,7 +82,7 @@
                                             <div class="col-md-6">
                                                 <input type="checkbox"  class="radiosize"  id="Lunch"    value="Lunch (10€ / per)"/>&nbsp;
                                           
-                                                Lunch (10€ / per) <i class="bi bi-chevron-down"></i>
+                                                Lunch (10€ / per)  
 
                                             </div> 
 
@@ -251,7 +219,7 @@
                             </div>
 
                             <div class="widget-body">
-                                <form action="../../sender.php" method="post" id="booking-form">
+                                <form action="../sender.php" method="post" id="booking-form">
                                     <div class="booking-form-wrapper">
                                         <div class="custom-input-group">
                                             <input type="hidden"      name="type_reservation" value="groupe"/> &nbsp;
@@ -287,7 +255,7 @@
                                            <div class="col-6">
                                             <input type="checkbox"  class="radiosize"  id="Lunchgroup"  name="Lunch" value="Lunch (10€ / per)"/>&nbsp;
                                           
-                                               Lunch (10€ / per) <i class="bi bi-chevron-down"></i>
+                                               Lunch (10€ / per)  
 
                                            </div> 
 
@@ -474,7 +442,7 @@ In cash (Euros or MAD) upon arrival
 
 
  
-    <script data-cfasync="false" src="../../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+    <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
     <script src="../assets/js/jquery-3.6.0.min.js"></script>
     <script src="../assets/js/bootstrap.bundle.min.js"></script>
     <script src="../assets/js/chain_fade.js"></script>
