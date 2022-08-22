@@ -1,5 +1,5 @@
 <head>
-    <title>TourX Pro - Travels Tourism Agency HTML Template</title>
+    <title>happy marrakech tours</title>
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -19,17 +19,22 @@
     <link rel="stylesheet" href="../assets/css/responsive.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
     <script src="https://kit.fontawesome.com/77aaa306cb.js" crossorigin="anonymous"></script>
-</head>
+
+
+    <link rel="stylesheet" type="text/css" href="your_website_domain/css_root/flaticon.css">
+    <link rel="stylesheet" href="../assets/css/style-maj.css">
+    <link rel="stylesheet" href="../assets/css/animate.min.css">
+    </head>
 
 <body>
-<div class="preloader">
+    <!--<div class="preloader">
         <div class="loader">
             <span></span>
             <span></span>
             <span></span>
             <span></span>
         </div>
-    </div>
+    </div>-->
 
 
     <div class="main-searchbar-wrapper">
