@@ -291,14 +291,14 @@
                                     <a href="javascript:void(0)">Excursions</a>
                                     <i class="fl flaticon-plus">+</i>
                                     <ul class="sub-menu">
-                                        <li><a href="excersion-ouarzazat.php">Day trip to Ouarzazate - Ait Benhaddou</a></li>
-                                        <li><a href="excersion-essaouira.php">Day trip to Vallée de l'Ourika</a></li>
-                                        <li><a href="excersion-ouzoud.php">Day trip to Essaouira - Mogador</a></li>
-                                        <li><a href="excersion-ourika.php">Day trip to Ouzoud Watterfalls</a></li>
-                                        <li><a href="excersion-imlil.php">Day trip to The Threy Valleys </a></li>
-                                        <li><a href="excersion-threevalley.php">Day trip to Imlil & Hight Atlas</a></li>
-                                        <li><a href="excersion-casablanca.php">Day trip to Casablanca</a></li>
-                                        <li><a href="excersion-agadrir.php">Day trip to Agadrir</a></li>
+                                        <li><a href="excursion-ouarzazat.php">Day trip to Ouarzazate - Ait Benhaddou</a></li>
+                                        <li><a href="excursion-essaouira.php">Day trip to Vallée de l'Ourika</a></li>
+                                        <li><a href="excursion-ouzoud.php">Day trip to Essaouira - Mogador</a></li>
+                                        <li><a href="excursion-ourika.php">Day trip to Ouzoud Watterfalls</a></li>
+                                        <li><a href="excursion-imlil.php">Day trip to The Threy Valleys </a></li>
+                                        <li><a href="excursion-threevalley.php">Day trip to Imlil & Hight Atlas</a></li>
+                                        <li><a href="excursion-casablanca.php">Day trip to Casablanca</a></li>
+                                        <li><a href="excursion-agadrir.php">Day trip to Agadrir</a></li>
                                     </ul>
                                 </li>
                                 <li class="has-child-menu">
