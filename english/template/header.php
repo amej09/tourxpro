@@ -3,7 +3,7 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" href="../../assets/images/favicon.png" type="image/gif" sizes="20x20">
+    <link rel="icon" href="../assets/images/favicon.png" type="image/gif" sizes="20x20">
 
     <link rel="stylesheet" href="../assets/css/select2.min.css">
 
@@ -17,6 +17,7 @@
 
     <link rel="stylesheet" href="../assets/css/style.css">
     <link rel="stylesheet" href="../assets/css/responsive.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
     <script src="https://kit.fontawesome.com/77aaa306cb.js" crossorigin="anonymous"></script>
 </head>
 
@@ -252,7 +253,7 @@
                     <div
                         class="col-xl-2 col-lg-12 col-md-12 col-sm-12 col-xs-12 align-items-center d-xl-flex d-lg-block">
                         <div class="nav-logo d-flex justify-content-between align-items-center">
-                            <a href="index.html"><img src="../../assets/images/logo11.png" style="height: 130px;width:130px;" id="logo"  alt="logo"></a>
+                            <a href="index.html"><img src="../assets/images/logop1.svg" style="height: 55px;" id="logo"  alt="logo"></a>
                             <div class="d-flex align-items-center gap-4">
                                 <div class="nav-right d-xl-none">
                                     <ul class="nav-actions">
@@ -274,26 +275,84 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-8 col-lg-8 col-md-8 col-sm-6 col-xs-6">
+                    <div class="col-xl-10 col-lg-8 col-md-8 col-sm-6 col-xs-6">
                         <nav class="main-nav float-end">
                             <div class="inner-logo d-xl-none text-center">
                                 <a href="#"><img src="../assets/images/logo11.png" style="height: 110px;width:100px;" alt=""></a>
                             </div>
                             <ul>
+                                <li><a href="index.php">Home</a></li>
                                 <li class="has-child-menu">
-                                    <a href="javascript:void(0)">Excursion</a>
+                                    <a href="javascript:void(0)">Excursions</a>
                                     <i class="fl flaticon-plus">+</i>
                                     <ul class="sub-menu">
-                                        <li><a href="ouarzazat.php">ouarzazat</a></li>
-                                        <li><a href="essaouira.php">essaouira</a></li>
-                                        <li><a href="ouzoud.php">ouzoud</a></li>
-                                        <li><a href="ourika.php">ourika</a></li>
-                                        <li><a href="imlil.php">imlil</a></li>
-                                        <li><a href="threevalley.php">three valley</a></li>
-                                        <li><a href="casablanca.php">casablanca</a></li>
-                                        <li><a href="agadrir.php">agadrir</a></li>
+                                        <li><a href="excersion-ouarzazat.php">Day trip to Ouarzazate - Ait Benhaddou</a></li>
+                                        <li><a href="excersion-essaouira.php">Day trip to Vallée de l'Ourika</a></li>
+                                        <li><a href="excersion-ouzoud.php">Day trip to Essaouira - Mogador</a></li>
+                                        <li><a href="excersion-ourika.php">Day trip to Ouzoud Watterfalls</a></li>
+                                        <li><a href="excersion-imlil.php">Day trip to The Threy Valleys </a></li>
+                                        <li><a href="excersion-threevalley.php">Day trip to Imlil & Hight Atlas</a></li>
+                                        <li><a href="excersion-casablanca.php">Day trip to Casablanca</a></li>
+                                        <li><a href="excersion-agadrir.php">Day trip to Agadrir</a></li>
                                     </ul>
                                 </li>
+                                <li class="has-child-menu">
+                                    <a href="javascript:void(0)">Circuits</a>
+                                    <i class="fl flaticon-plus">+</i>
+                                    <ul class="sub-menu">
+                                        <li><a href="circuit-zagora.php">2-Days Zagora Desert Tour</a></li>
+                                        <li><a href="circuit-chegaga.php">3-Days to Erg Chegaga</a></li>
+                                        <li><a href="circuit-fez.php">3-Days Desert Trip from Marrakech to Fez</a></li>
+                                        <li><a href="circuit-zagora-marzouga.php">4-Days Tour to Zagora & Marzouga</a></li>
+                                    </ul>
+                                </li>
+                                <li class="has-child-menu">
+                                    <a href="javascript:void(0)">Visits</a>
+                                    <i class="fl flaticon-plus">+</i>
+                                    <ul class="sub-menu">
+                                        <li><a href="visit-marrakech-halfday.php">Marrakech City Highlight Half-Day Tour</a></li>
+                                        <li><a href="visit-marrakech-histical.php">Marrakech Historical and Cultural Tour</a></li>
+                                        <li><a href="visit-marrakech-night.php">Marrakech By Night City Privat Tour</a></li>
+                                        <li><a href="visit-marrakech-medina.php">Medina Souks Shopping Tour</a></li>
+                                        <li><a href="visit-marrakech-chezali.php">Restaurant Chez Ali</a></li>
+                                    </ul>
+                                </li>
+                                <li class="has-child-menu">
+                                    <a href="javascript:void(0)">Activity</a>
+                                    <i class="fl flaticon-plus">+</i>
+                                    <ul class="sub-menu">
+                                        <li><a href="activity-buggy.php">Buggy adventure at the Palmeraie </a></li>
+                                        <li><a href="activity-quad-camel.php">Quad and Camel at the Palmeraie </a></li>
+                                        <li><a href="activity-quad.php">Quad Excursion to Marrakech</a></li>
+                                        <li><a href="activity-camel.php">Camel walk to the Palmeraie</a></li>
+                                        <li><a href="activity-montgolfiere.php">Flight by Montgolfiere at Marrakech</a></li>
+                                    </ul>
+                                </li>
+                                <li class="has-child-menu">
+                                    <a href="javascript:void(0)">Agafay</a>
+                                    <i class="fl flaticon-plus">+</i>
+                                    <ul class="sub-menu">
+                                        <li><a href="agafay-quad.php">Quad Biking in the Agafay Desert </a></li>
+                                        <li><a href="agafay-buggy-camel.php">Buggy adventure in the Agafay Desert </a></li>
+                                        <li><a href="agafay-camels.php">Camels at sunset in Agafay</a></li>
+                                        <li><a href="agafay-sunset.php">Sunset in the Agafay Desert </a></li>
+                                        <li><a href="agafay-bivouac.php">Overnight in Bivouac in the Agafay Desert</a></li>
+                                    </ul>
+                                </li>
+                                <li class="has-child-menu">
+                                    <a href="javascript:void(0)">Trensfers</a>
+                                    <i class="fl flaticon-plus">+</i>
+                                    <ul class="sub-menu">
+                                        <li><a href="trensfers-airoport-marrakech.php">Marrakech Menara Airport <--> Marrakech </a></li>
+                                        <li><a href="trensfers-marrakech-casablanca.php">Marrakech  <--> Airport M5 Casablanca </a></li>
+                                        <li><a href="trensfers-marrakech-agadir.php">Marrakech  <--> Agadir</a></li>
+                                        <li><a href="trensfers-marrakech-chefchaoun.php">Marrakech  <--> Chefchaoun </a></li>
+                                        <li><a href="trensfers-marrakech-fes.php">Marrakech  <--> Fès</a></li>
+                                        <li><a href="trensfers-marrakech-tanger.php">Marrakech  <--> Tanger</a></li>
+                                        <li><a href="trensfers-marrakech-essaouira.php">Marrakech  <-->   Essaouira </a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="contact.php">Contact Us</a></li>
                                 
                             </ul>
                             <div class="inner-contact-options d-xl-none">
@@ -307,18 +366,7 @@
                             </div>
                         </nav>
                     </div>
-                    <div class="col-xl-2">
-                        <div class="nav-right float-end d-xl-flex d-none ">
-                            <ul class="nav-actions">
-                                <li class="category-toggle">
-                                    <i class='bx bx-category'></i>
-                                </li>
-                                <li class="search-toggle">
-                                    <i class='bx bx-search-alt'></i>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
+                    
                 </div>
             </div>
         </div>
