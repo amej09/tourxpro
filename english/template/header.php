@@ -1,9 +1,9 @@
 <head>
-    <title>TourX Pro - Travels Tourism Agency HTML Template</title>
+    <title>happy marrakech tours</title>
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" href="../../assets/images/favicon.png" type="image/gif" sizes="20x20">
+    <link rel="icon" href="../assets/images/favicon.png" type="image/gif" sizes="20x20">
 
     <link rel="stylesheet" href="../assets/css/select2.min.css">
 
@@ -18,17 +18,22 @@
     <link rel="stylesheet" href="../assets/css/style.css">
     <link rel="stylesheet" href="../assets/css/responsive.css">
     <script src="https://kit.fontawesome.com/77aaa306cb.js" crossorigin="anonymous"></script>
-</head>
+
+
+    <link rel="stylesheet" type="text/css" href="your_website_domain/css_root/flaticon.css">
+    <link rel="stylesheet" href="../assets/css/style-maj.css">
+    <link rel="stylesheet" href="../assets/css/animate.min.css">
+    </head>
 
 <body>
-<div class="preloader">
+    <!--<div class="preloader">
         <div class="loader">
             <span></span>
             <span></span>
             <span></span>
             <span></span>
         </div>
-    </div>
+    </div>-->
 
 
     <div class="main-searchbar-wrapper">
@@ -252,7 +257,7 @@
                     <div
                         class="col-xl-2 col-lg-12 col-md-12 col-sm-12 col-xs-12 align-items-center d-xl-flex d-lg-block">
                         <div class="nav-logo d-flex justify-content-between align-items-center">
-                            <a href="index.html"><img src="../../assets/images/logo11.png" style="height: 130px;width:130px;" id="logo"  alt="logo"></a>
+                            <a href="index.html"><img src="../assets/images/logo11.png" style="height: 130px;width:130px;" id="logo"  alt="logo"></a>
                             <div class="d-flex align-items-center gap-4">
                                 <div class="nav-right d-xl-none">
                                     <ul class="nav-actions">
@@ -284,14 +289,14 @@
                                     <a href="javascript:void(0)">Excursion</a>
                                     <i class="fl flaticon-plus">+</i>
                                     <ul class="sub-menu">
-                                        <li><a href="ouarzazat.php">ouarzazat</a></li>
-                                        <li><a href="essaouira.php">essaouira</a></li>
-                                        <li><a href="ouzoud.php">ouzoud</a></li>
-                                        <li><a href="ourika.php">ourika</a></li>
-                                        <li><a href="imlil.php">imlil</a></li>
-                                        <li><a href="threevalley.php">three valley</a></li>
-                                        <li><a href="casablanca.php">casablanca</a></li>
-                                        <li><a href="agadrir.php">agadrir</a></li>
+                                        <li><a href="excursion-ouarzazat.php">ouarzazat</a></li>
+                                        <li><a href="excursion-essaouira.php">essaouira</a></li>
+                                        <li><a href="excursion-ouzoud.php">ouzoud</a></li>
+                                        <li><a href="excursion-ourika.php">ourika</a></li>
+                                        <li><a href="excursion-imlil.php">imlil</a></li>
+                                        <li><a href="excursion-threevalley.php">three valley</a></li>
+                                        <li><a href="excursion-casablanca.php">casablanca</a></li>
+                                        <li><a href="excursion-agadir.php">agadir</a></li>
                                     </ul>
                                 </li>
                                 

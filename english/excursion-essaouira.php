@@ -8,23 +8,23 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" href="../../assets/images/favicon.png" type="image/gif" sizes="20x20">
+    <link rel="icon" href="../assets/images/favicon.png" type="image/gif" sizes="20x20">
 
-    <link rel="stylesheet" href="../../assets/css/select2.min.css">
+    <link rel="stylesheet" href="../assets/css/select2.min.css">
 
-    <link rel="stylesheet" href="../../assets/css/jquery.fancybox.min.css">
+    <link rel="stylesheet" href="../assets/css/jquery.fancybox.min.css">
 
     <link href='../../assets/css/boxicons.min.css' rel='stylesheet'>
 
-    <link rel="stylesheet" href="../../assets/css/swiper-bundle.min.css">
-    <link rel="stylesheet" href="../../assets/css/style-maj.css">
+    <link rel="stylesheet" href="../assets/css/swiper-bundle.min.css">
+    <link rel="stylesheet" href="../assets/css/style-maj.css">
 
-    <link rel="stylesheet" href="../../assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
 
-    <link rel="stylesheet" href="../../assets/css/animate.min.css">
+    <link rel="stylesheet" href="../assets/css/animate.min.css">
 
-    <link rel="stylesheet" href="../../assets/css/style.css">
-    <link rel="stylesheet" href="../../assets/css/responsive.css">
+    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="stylesheet" href="../assets/css/responsive.css">
 </head>
 
 <body>
@@ -32,14 +32,14 @@
    
 
 
-    <?php include('../template/header.php')?>
+<?php include('template/header.php')?>
 
 
 
     <div class="breadcrumb breadcrumb-style-one">
         <div class="container">
             <div class="col-lg-12 text-center">
-                <h2 class="breadcrumb-title">Excursion Ouarzazate - Ait Benhaddou  </h2>
+                <h2 class="breadcrumb-title"> Day Trip to Essaouira - Mogador  </h2>
                 <ul class="d-flex justify-content-center breadcrumb-items">
                     <li class="breadcrumb-item"><a href="index.html">acceuil</a></li>
                     <li class="breadcrumb-item active">excursion</li>
@@ -68,10 +68,10 @@
                                     </tr>
                                     <tr>
                                         <th>prix* €</th>
-                                        <td>70</td>
-                                        <td>50</td>
-                                        <td>40</td>
-                                        <td>34</td>
+                                        <td>60</td>
+                                        <td>44</td>
+                                        <td>35</td>
+                                        <td>30</td>
 
                                     </tr>
                                 </table>
@@ -83,7 +83,7 @@
                                         <div class="custom-input-group">
                                             <input type="hidden"      name="type_reservation"  value="prive"/> &nbsp;
                                             <input type="hidden"      name="type_tour" value="Excursion"/> &nbsp;
-                                            <input type="hidden"      name="name_tour" value="ouarzazat"/> &nbsp;
+                                            <input type="hidden"      name="name_tour" value="essaouira"/> &nbsp;
 
                                             Select date and participants: 
                                             <i class="bi bi-calendar3"></i>
@@ -106,15 +106,15 @@
                                         <div class="row">
                                             
                                              <div class="col-md-6">
-                                                <input type="checkbox" class="radiosize" id="Guide"    value="Guide (15€)"/> &nbsp;
+                                                <input type="checkbox" class="radiosize" id="Guide"   /> &nbsp;
                                             
                                                 Guide(15€)
                                             </div>
                                            
                                             <div class="col-md-6">
-                                                <input type="checkbox"  class="radiosize"  id="Lunch"    value="Lunch (10€ / per)"/>&nbsp;
+                                                <input type="checkbox"  class="radiosize"  id="Lunch"  />&nbsp;
                                           
-                                                Lunch (10€ / per) <i class="bi bi-chevron-down"></i>
+                                                Lunch (15€ / per) <i class="bi bi-chevron-down"></i>
 
                                             </div> 
 
@@ -171,40 +171,40 @@
                                 <div class="col">
                                     <div class="pd-single-info">
                                         <div class="info-icon">
-                                            <img src="../../assets/images/icons/pd1.svg" alt="">
+                                            <img src="../assets/images/icons/pd1.svg" alt="">
                                         </div>
                                         <div class="info">
                                             <h6>Duration</h6>
-                                            <span>10 hours</span>
+                                            <span>9-10 hours</span>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col">
                                     <div class="pd-single-info">
                                         <div class="info-icon">
-                                            <img src="../../assets/images/icons/pd2.svg" alt="">
+                                            <img src="../assets/images/icons/pd2.svg" alt="">
                                         </div>
                                         <div class="info">
                                             <h6> Distance</h6>
-                                            <span>204 Km x 2</span>
+                                            <span>170 Km x 2</span>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col">
                                     <div class="pd-single-info">
                                         <div class="info-icon">
-                                            <img src="../../assets/images/icons/pd2.svg" alt="">
+                                            <img src="../assets/images/icons/pd2.svg" alt="">
                                         </div>
                                         <div class="info">
                                             <h6>Departure time</h6>
-                                            <span> 07h00</span>
+                                            <span> 08h00</span>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col">
                                     <div class="pd-single-info">
                                         <div class="info-icon">
-                                            <img src="../../assets/images/icons/pd4.svg" alt="">
+                                            <img src="../assets/images/icons/pd4.svg" alt="">
                                         </div>
                                         <div class="info">
                                             <h6> Availability </h6>
@@ -214,11 +214,11 @@
                                 </div>
                             </div>
                             <div class="pd-thumb">
-                                <img src="../../assets/images/ouarzazat.jpg" alt="">
+                                <img src="../assets/images/excursion/essaouira7.jpg" alt="">
                             </div>
                             <div class="header-bottom">
                                 <div class="pd-lavel d-flex justify-content-between align-items-center flex-wrap gap-2">
-                                    <h5 class="location"><i class="bi bi-geo-alt"></i> Ouarzazate, morocco</h5>
+                                    <h5 class="location"><i class="bi bi-geo-alt"></i> essaouira, morocco</h5>
                                     <ul class="d-flex align-items-center rating">
                                         <li><i class="bi bi-star-fill"></i></li>
                                         <li><i class="bi bi-star-fill"></i></li>
@@ -227,7 +227,7 @@
                                         <li><i class="bi bi-star-fill"></i></li>
                                     </ul>
                                 </div>
-                                <h2 class="pd-title">Day Trip to Ouarzazate - Ait Benhaddou</h2>
+                                <h2 class="pd-title"> Day Trip to Essaouira - Mogador : Program </h2>
                             </div>
                         </div>
                     </div>    
@@ -241,7 +241,7 @@
                                         <th   >Groupe</th>
                                     </tr>
                                     <tr  style="height: 40px ;text-align: center;">
-                                        <th   >35 €</th>
+                                        <th   >30 €</th>
                                     </tr>
                                     <tr  style="height: 40px;text-align: center; ">
                                         <th > Per person </th>                                        
@@ -256,7 +256,7 @@
                                         <div class="custom-input-group">
                                             <input type="hidden"      name="type_reservation" value="groupe"/> &nbsp;
                                             <input type="hidden"      name="type_tour" value="Excursion"/> &nbsp;
-                                            <input type="hidden"      name="name_tour" value="ouarzazat"/> &nbsp;
+                                            <input type="hidden"      name="name_tour" value="essaouira"/> &nbsp;
 
                                             Select date and participants: 
                                             <i class="bi bi-calendar3"></i>
@@ -279,15 +279,15 @@
                                         <div class="row">
                                             
                                             <div class="col-6">
-                                               <input type="checkbox" class="radiosize" id="Guidegroup"  name="Guide" value="Guide (15€)"/> &nbsp;
+                                               <input type="checkbox" class="radiosize" id="Guidegroup"  name="Guide" /> &nbsp;
                                            
                                                Guide(15€)
                                            </div>
                                           
                                            <div class="col-6">
-                                            <input type="checkbox"  class="radiosize"  id="Lunchgroup"  name="Lunch" value="Lunch (10€ / per)"/>&nbsp;
+                                            <input type="checkbox"  class="radiosize"  id="Lunchgroup"  name="Lunch" />&nbsp;
                                           
-                                               Lunch (10€ / per) <i class="bi bi-chevron-down"></i>
+                                               Lunch (15€ / per) <i class="bi bi-chevron-down"></i>
 
                                            </div> 
 
@@ -366,56 +366,60 @@
                                     role="tabpanel" aria-labelledby="pills-package1">
                                     <h3 class="d-subtitle">Package Details</h3>
  <pre>
+
+
+    After departing Marrakech at 8 am you will be personally transported through the vast and breathtaking Moroccan landscape to Essaouira. On the journey you may see a few scattered villages and some camels, sheep and goats grazing in the countryside.
+
+    The vegetation then changes to Argan trees that only grow in the wild and which provide berries for local goats to eat. If you wish, it is possible to stop for Argan oil tasting in a small cooperative run by local women, where the Argan oil is extracted from the trees. This multipurpose oil is very famous for its uses in cooking and also in cosmetics.  
     
-This day trip takes you right across the chain of the High Atlas Mountains and over the famous Tizi N’Tichka's pass 1412 miles (2260 meters) high, the highest in the whole of Africa. All along the route you can see the Berber villages perched on the side of the mountains, sometimes hardly distinguishable from the mountains themselves…  
+    Nearby you can gaze at a panoramic view of Essaouira, a charming and artistic blue and white town. Once you arrive in Essaouira, you can explore its peculiar wonders at your leisure. Stroll along the quays, where you can watch fishermen unloading their catch of the day and fishing boats coming back to shore, or enjoy the many good restaurants at the port and dine on fresh fish and seafood.  
+    
+    Essaouira is a picturesque and diverse town where you can explore the historic ramparts and visit the Medina full of local artists selling their crafts made of Thuya wood. The ramparts will give you an insight in to how this old seaport village was armed against the threat of invasion. Marquetry still remains a traditional specialty of Essaouira; and another beautiful attraction of the region is its tranquil beach, where you could easily spend a relaxing and peaceful afternoon.   
+    
+        Optional activities for the private excursion:
+            Quad biking on various fields: dunes, forest ... (2 hours)
+            Camel ride on the beach of Essaouira (1 hour)
+    
+    Duration:   10 hours
+    Distance:   170Km x 2  
+    Availability: Every day
+    Deparature time: 8h00
+    
+    <i class='bx bx-check'></i> No Booking Fees
+    <i class='bx bx-check'></i> Book Now and Pay Later
+    <i class='bx bx-check'></i> Best Price Guaranteed
+    <i class='bx bx-check'></i> Excellent Service
+    <i class='bx bx-check'></i> Free cancellation
+    <i class='bx bx-check'></i> Available every day
+    
+    What is included?
+    
+    <i class='bx bx-check'></i> Hotel pickup and drop-off
+    <i class='bx bx-check'></i> Transport by air-conditioned minivan
+    <i class='bx bx-check'></i> Transportation Insurance
+    <i class='bx bx-check'></i> Professional Liability Insurance
+    <i class='bx bx-check'></i> Quality service reliability
+    <i class='bx bx-check'></i> All taxes
+    
+    What is not included?
+    
+    <i class='bx bx-check'></i>  Lunch
+    <i class='bx bx-check'></i>   Local Guide
+    <i class='bx bx-check'></i>  Tips
+    
+    Meeting place:
+    
+    <i class='bx bx-check'></i>  Our driver will pick you up at your hotel/Riad or any other location at the agreed time.
+    <i class='bx bx-check'></i>  In case of any problem: please email us or call us on the numbers displayed on contact informations.
+    
+    Easy Booking: Accepted until 6pm the day before (Marrakech time), If you have any difficulties to book or need another service, please use our Contact Form
 
-As you reach the far side of the mountains the landscape changes dramatically, becoming semi-arid and desert-like. Here is the Kasbah architecture with turrets on all the buildings, adorned with grilled windows and soft peach coloured walls. These traditional houses are made of adobe, highly suitable for the climatic conditions of the south.  
-
-Following your journey through the beautiful valleys you will arrive at the ancient kasbah of Aït Ben Haddou, which is a UNESCO World Heritage listed site. After visiting the Kasbah you will then journey onward to Ouarzazate, world renowned as the Moroccan Hollywood because of the famous films which have been shot there, including the diamond of the Nile, Lawrence of Arabia, Sodome et Gomorre, le Joyau du Nil, Jésus de Nazareth, Kingdom of heaven, the Mommy, Gladiator, 7 days in Tebet, Alexander the Great, Babel…  
-
-You can also take the chance to visit the Taourirt Kasbah, classified by UNESCO as a World Heritage listed site. You may also stop by a cinema studio if this would interest you…
-
-Distance: 204 Km x 2  
-Duration:   10 hours
-Availability: Every day
-Deparature time: 07h00 am
-
-<i class='bx bx-check'></i> No Booking Fees
-<i class='bx bx-check'></i> Book Now and Pay Later
-<i class='bx bx-check'></i> Best Price Guaranteed
-<i class='bx bx-check'></i> Excellent Service
-<i class='bx bx-check'></i> Free cancellation
-<i class='bx bx-check'></i> Available every day
-
-What is included?
-
-<i class='bx bx-check'></i> Hotel pickup and drop-off
-<i class='bx bx-check'></i> Transport by air-conditioned minivan
-<i class='bx bx-check'></i> Transportation Insurance
-<i class='bx bx-check'></i> Professional Liability Insurance
-<i class='bx bx-check'></i> Quality service reliability
-<i class='bx bx-check'></i> All taxes
-
-What is not included?
-
-<i class='bx bx-check'></i> Lunch
-<i class='bx bx-check'></i> Local Guide
-<i class='bx bx-check'></i> Tips
-<i class='bx bx-check'></i> Entrance tickets (Cinema Studios and Taourirt Kasbah)
-
-Meeting place:
-
-<i class='bx bx-check'></i> Our driver will pick you up at your hotel/Riad or any other location at the agreed time.
-<i class='bx bx-check'></i> In case of any problem: please email us or call us on the numbers displayed on contact informations.
-
-Easy Booking: Accepted until 6pm the day before (Marrakech time), If you have any difficulties to book or need another service, please use our Contact Form
-
-
-Payment Methods:
-
-    Online (we can send you a secure link on request)
-    In cash (Euros or MAD) upon arrival
-
+    
+    Payment Methods:
+    
+        In cash (Euros or MAD) upon arrival
+    
+    
  </pre>                    
                                 </div>
                                 <div class="tab-pane fade package-gallary-tab mt-3" id="pill-body3" role="tabpanel"
@@ -423,34 +427,35 @@ Payment Methods:
                                     <div class="row g-4">
                                         <div class="col-6">
                                             <div class="package-gallary-item">
-                                                <img  src="../../assets/images/excursion/ouarzazate1.jpg" alt="">
+                                                <img  src="../assets/images/excursion/essaouira1.jpg" alt="">
                                             </div>
                                         </div>
                                         <div class="col-6">
                                             <div class="package-gallary-item">
-                                                <img  src="../../assets/images/excursion/ouarzazate2.jpg" alt="">
+                                                <img  src="../assets/images/excursion/essaouira2.jpg" alt="">
                                             </div>
                                         </div>
                                         <div class="col-6">
                                                 <div class="package-gallary-item">
-                                                    <img  src="../../assets/images/excursion/ouarzazate3.jpg" alt="">
+                                                    <img  src="../assets/images/excursion/essaouira3.jpg" alt="">
                                                 </div>
                                         </div>
                                         <div class="col-6">
                                             <div class="package-gallary-item">
-                                                <img  src="../../assets/images/excursion/ouarzazate4.jpg" alt="">
+                                                <img  src="../assets/images/excursion/essaouira4.jpg" alt="">
                                             </div>
                                         </div>
                                         <div class="col-6">
                                                 <div class="package-gallary-item">
-                                                    <img  src="../../assets/images/excursion/ouarzazate5.jpg" alt="">
+                                                    <img  src="../assets/images/excursion/essaouira5.jpg" alt="">
                                                 </div>
                                         </div>
+                                        
                                         <div class="col-6">
-                                                <div class="package-gallary-item">
-                                                    <img  src="../../assets/images/excursion/ouarzazate6.jpg" alt="">
-                                                </div>
-                                        </div>
+                                            <div class="package-gallary-item">
+                                                <img  src="../assets/images/excursion/essaouira6.jpg" alt="">
+                                            </div>
+                                    </div>
                                         
                                         
                                     </div>
@@ -467,170 +472,169 @@ Payment Methods:
         </div>
     </div>
 
-    <?php include('../template/footer.php')?>
+    <?php include('template/footer.php')?>
 
 
  
     <script data-cfasync="false" src="../../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
-    <script src="../../assets/js/jquery-3.6.0.min.js"></script>
-    <script src="../../assets/js/bootstrap.bundle.min.js"></script>
-    <script src="../../assets/js/chain_fade.js"></script>
-    <script src="../../assets/js/owl.carousel.min.js"></script>
-    <script src="../../assets/js/swiper-bundle.min.js"></script>
-    <script src="../../assets/js/jquery.fancybox.min.js"></script>
-    <script src="../../assets/js/select2.min.js"></script>
-    <script src="../../assets/js/jquery-ui.js"></script>
+    <script src="../assets/js/jquery-3.6.0.min.js"></script>
+    <script src="../assets/js/bootstrap.bundle.min.js"></script>
+    <script src="../assets/js/chain_fade.js"></script>
+    <script src="../assets/js/owl.carousel.min.js"></script>
+    <script src="../assets/js/swiper-bundle.min.js"></script>
+    <script src="../assets/js/jquery.fancybox.min.js"></script>
+    <script src="../assets/js/select2.min.js"></script>
+    <script src="../assets/js/jquery-ui.js"></script>
 
-    <script src="../../assets/js/main.js"></script>
+    <script src="../assets/js/main.js"></script>
     
     <script >
-        var nbr_prive=140;
-        $('#totalpriceprive').val(nbr_prive );
-
-       $('#Guide').change(function() {
-         /* */
-          if($(this).is(':checked')){
-              nbr_prive+=15;
-          }
-          else{
-              nbr_prive-=15;
-          }
+          var nbr_prive=120 ;
           $('#totalpriceprive').val(nbr_prive );
 
-       });
-       $('#Lunch').change(function() {
-          /* */          
-          var lunch=10;
+         $('#Guide').change(function() {
+           /* */
+            if($(this).is(':checked')){
+                nbr_prive+=15;
+            }
+            else{
+                nbr_prive-=15;
+            }
+            $('#totalpriceprive').val(nbr_prive );
 
-          if($(this).is(':checked')){
-              nbr= $( '#truist-adult' ).val();
-              if(nbr=='2'){
-                  nbr_prive+=lunch*2;
-              }else if(nbr=='3'){
-                  nbr_prive+=lunch*3;
-              }
-              else if(nbr=='4'){
-                  nbr_prive+=lunch*4;
-              }
-              else if(nbr=='5'){
-                  nbr_prive+=lunch*5;
-              }else{
-                  nbr_prive+=lunch;
+         });
+         $('#Lunch').change(function() {
+            /* */                var lunch=15;
 
-              }
-                  
-          }
-          else{
-              nbr= $( '#truist-adult' ).val();
-              if(nbr=='2'){
-                  nbr_prive-=lunch*2;
-              }else if(nbr=='3'){
-                  nbr_prive-=lunch*3;
-              }
-              else if(nbr=='4'){
-                  nbr_prive-=lunch*4;
-              }
-              else if(nbr=='5'){
-                  nbr_prive-=lunch*5;
-              }else{
-                  nbr_prive-=lunch;
+            if($(this).is(':checked')){
+                nbr= $( '#truist-adult' ).val();
+                if(nbr=='2'){
+                    nbr_prive+=lunch*2;
+                }else if(nbr=='3'){
+                    nbr_prive+=lunch*3;
+                }
+                else if(nbr=='4'){
+                    nbr_prive+=lunch*4;
+                }
+                else if(nbr=='5'){
+                    nbr_prive+=lunch*5;
+                }else{
+                    nbr_prive+=lunch;
 
-              }            }
-          $('#totalpriceprive').val(nbr_prive );
+                }
+                    
+            }
+            else{
+                nbr= $( '#truist-adult' ).val();
+                if(nbr=='2'){
+                    nbr_prive-=lunch*2;
+                }else if(nbr=='3'){
+                    nbr_prive-=lunch*3;
+                }
+                else if(nbr=='4'){
+                    nbr_prive-=lunch*4;
+                }
+                else if(nbr=='5'){
+                    nbr_prive-=lunch*5;
+                }else{
+                    nbr_prive-=lunch;
 
-      });
+                }            }
+            $('#totalpriceprive').val(nbr_prive );
 
-       $( '#truist-adult' ).change(function() {
-          $( "#Lunch" ).prop( "checked", false );
-          $( "#Guide" ).prop( "checked", false );
-        nbr= $( '#truist-adult' ).val();
-        nbr_prive=140;
-         if(nbr=='3'){
-          nbr_prive+=10;
-         }else if(nbr=='4'){
-          nbr_prive+=20;
-       }else if(nbr=='5'){
-          nbr_prive+=30;
-       }
-       $('#totalpriceprive').val(nbr_prive );
+        });
 
-       });
-</script>
-<script >
-  var nbr_group=35 ;
-  $('#totalpricegroup').val(nbr_group );
+         $( '#truist-adult' ).change(function() {
+            $( "#Lunch" ).prop( "checked", false );
+            $( "#Guide" ).prop( "checked", false );
+          nbr= $( '#truist-adult' ).val();
+          nbr_prive=120;
+           if(nbr=='3'){
+            nbr_prive+=12;
+           }else if(nbr=='4'){
+            nbr_prive+=20;
+         }else if(nbr=='5'){
+            nbr_prive+=30;
+         }
+         $('#totalpriceprive').val(nbr_prive );
 
- $('#Guidegroup').change(function() {
-   /* */
-    if($(this).is(':checked')){
-      nbr_group+=15;
-    }
-    else{
-      nbr_group-=15;
-    }
+         });
+  </script>
+  <script >
+    var nbr_group=30 ;
     $('#totalpricegroup').val(nbr_group );
 
- });
- $('#Lunchgroup').change(function() {
-   /* */
-      var lunchgroup=10;
+   $('#Guidegroup').change(function() {
+     /* */
+      if($(this).is(':checked')){
+        nbr_group+=15;
+      }
+      else{
+        nbr_group-=15;
+      }
+      $('#totalpricegroup').val(nbr_group );
 
-    if($(this).is(':checked')){
-      nbr= $( '#truist-adultgroup' ).val();
-      if(nbr=='2'){
-          nbr_group+= lunchgroup * 2;
-      }else if(nbr=='3'){
-          nbr_group+= lunchgroup * 3;
-      }
-      else if(nbr=='4'){
-          nbr_group+= lunchgroup * 4;
-      }
-      else if(nbr=='5'){
-          nbr_group+= lunchgroup * 5;
-      }else{
-          nbr_group+= lunchgroup;
+   });
+   $('#Lunchgroup').change(function() {
+     /* */
+        var lunchgroup=15;
 
-      }
-          
-    }
-    else{
-      if(nbr=='2'){
-          nbr_group-= lunchgroup * 2;
-      }else if(nbr=='3'){
-          nbr_group-= lunchgroup * 3;
-      }
-      else if(nbr=='4'){
-          nbr_group-= lunchgroup * 4;
-      }
-      else if(nbr=='5'){
-          nbr_group-= lunchgroup * 5;
-      }else{
-          nbr_group-= lunchgroup;
+      if($(this).is(':checked')){
+        nbr= $( '#truist-adultgroup' ).val();
+        if(nbr=='2'){
+            nbr_group+= lunchgroup * 2;
+        }else if(nbr=='3'){
+            nbr_group+= lunchgroup * 3;
+        }
+        else if(nbr=='4'){
+            nbr_group+= lunchgroup * 4;
+        }
+        else if(nbr=='5'){
+            nbr_group+= lunchgroup * 5;
+        }else{
+            nbr_group+= lunchgroup;
 
+        }
+            
       }
-    }
-    $('#totalpricegroup').val(nbr_group );
- });
+      else{
+        if(nbr=='2'){
+            nbr_group-= lunchgroup * 2;
+        }else if(nbr=='3'){
+            nbr_group-= lunchgroup * 3;
+        }
+        else if(nbr=='4'){
+            nbr_group-= lunchgroup * 4;
+        }
+        else if(nbr=='5'){
+            nbr_group-= lunchgroup * 5;
+        }else{
+            nbr_group-= lunchgroup;
 
- $( '#truist-adultgroup' ).change(function() {
-    $( "#Lunchgroup" ).prop( "checked", false );
-    $( "#Guidegroup" ).prop( "checked", false );
-  nbr= $( '#truist-adultgroup' ).val();
-  nbr_group=35;
- if(nbr=='2'){
-      nbr_group=(nbr_group * 2);
- }else if(nbr=='3'){
-  nbr_group=(nbr_group * 3);
- }
- else if(nbr=='4'){
-  nbr_group=(nbr_group * 4);
- }
- else if(nbr=='5'){
-  nbr_group=(nbr_group * 5);
- }
- $('#totalpricegroup').val(nbr_group );
+        }
+      }
+      $('#totalpricegroup').val(nbr_group );
+   });
 
- });
+   $( '#truist-adultgroup' ).change(function() {
+      $( "#Lunchgroup" ).prop( "checked", false );
+      $( "#Guidegroup" ).prop( "checked", false );
+    nbr= $( '#truist-adultgroup' ).val();
+    nbr_group=30;
+   if(nbr=='2'){
+        nbr_group=(nbr_group * 2);
+   }else if(nbr=='3'){
+    nbr_group=(nbr_group * 3);
+   }
+   else if(nbr=='4'){
+    nbr_group=(nbr_group * 4);
+   }
+   else if(nbr=='5'){
+    nbr_group=(nbr_group * 5);
+   }
+   $('#totalpricegroup').val(nbr_group );
+
+   });
 </script>
 </body>
 
