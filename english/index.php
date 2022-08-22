@@ -3,29 +3,7 @@
 
 <!-- Mirrored from demo.egenslab.com/html/tourxpro/demo/index2.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 18 Aug 2022 11:46:46 GMT -->
 
-<head>
-    <title>TourX Pro - Travels Tourism Agency HTML Template</title>
 
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" href="../../assets/images/favicon.png" type="image/gif" sizes="20x20">
-
-    <link rel="stylesheet" href="../assets/css/select2.min.css">
-
-    <link rel="stylesheet" href="../assets/css/jquery.fancybox.min.css">
-
-    <link href='../assets/css/boxicons.min.css' rel='stylesheet'>
-
-    <link rel="stylesheet" href="../assets/css/swiper-bundle.min.css">
-
-    <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
-
-    <link rel="stylesheet" href="../assets/css/style.css">
-    <link rel="stylesheet" href="../assets/css/responsive.css">
-    <script src="https://kit.fontawesome.com/77aaa306cb.js" crossorigin="anonymous"></script>
-</head>
-
-<body>
 
     <?php  include 'template/header.php' ?>
 
