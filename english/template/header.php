@@ -252,7 +252,7 @@
                     <div
                         class="col-xl-2 col-lg-12 col-md-12 col-sm-12 col-xs-12 align-items-center d-xl-flex d-lg-block">
                         <div class="nav-logo d-flex justify-content-between align-items-center">
-                            <a href="index.html"><img src="../assets/images/logo.png" alt="logo"></a>
+                            <a href="index.html"><img src="../../assets/images/logo11.png" style="height: 130px;width:130px;" id="logo"  alt="logo"></a>
                             <div class="d-flex align-items-center gap-4">
                                 <div class="nav-right d-xl-none">
                                     <ul class="nav-actions">
@@ -277,7 +277,7 @@
                     <div class="col-xl-8 col-lg-8 col-md-8 col-sm-6 col-xs-6">
                         <nav class="main-nav float-end">
                             <div class="inner-logo d-xl-none text-center">
-                                <a href="#"><img src="../assets/images/logo.png" alt=""></a>
+                                <a href="#"><img src="../assets/images/logo11.png" style="height: 110px;width:100px;" alt=""></a>
                             </div>
                             <ul>
                                 <li class="has-child-menu">
