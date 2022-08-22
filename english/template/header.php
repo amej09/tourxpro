@@ -258,55 +258,20 @@
                             </div>
                             <ul>
                                 <li class="has-child-menu">
-                                    <a href="javascript:void(0)">Home</a>
+                                    <a href="javascript:void(0)">Excursion</a>
                                     <i class="fl flaticon-plus">+</i>
                                     <ul class="sub-menu">
-                                        <li><a href="index.html">Home Style 1</a></li>
-                                        <li><a href="index2.html">Home Style 2</a></li>
-                                        <li><a href="index3.html">Home Style 3</a></li>
-                                        <li><a href="index4.html">Home Style 4</a></li>
+                                        <li><a href="ouarzazat.php">ouarzazat</a></li>
+                                        <li><a href="essaouira.php">essaouira</a></li>
+                                        <li><a href="ouzoud.php">ouzoud</a></li>
+                                        <li><a href="ourika.php">ourika</a></li>
+                                        <li><a href="imlil.php">imlil</a></li>
+                                        <li><a href="threevalley.php">three valley</a></li>
+                                        <li><a href="casablanca.php">casablanca</a></li>
+                                        <li><a href="agadrir.php">agadrir</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="about.html">About Us</a></li>
-                                <li class="has-child-menu">
-                                    <a href="javascript:void(0)">Destination</a>
-                                    <i class="fl flaticon-plus">+</i>
-                                    <ul class="sub-menu">
-                                        <li><a href="destination.html">Destination</a></li>
-                                        <li><a href="destination-details.html">Destination Details</a></li>
-                                    </ul>
-                                </li>
-                                <li class="has-child-menu">
-                                    <a href="javascript:void(0)">Package</a>
-                                    <i class="fl flaticon-plus">+</i>
-                                    <ul class="sub-menu">
-                                        <li><a href="package.html">Package Grid</a></li>
-                                        <li><a href="package-sidebar.html">Package Sidebar</a></li>
-                                        <li><a href="package-standard.html">Package Standard</a></li>
-                                        <li><a href="package-details.html">Package Details </a></li>
-                                    </ul>
-                                </li>
-                                <li class="has-child-menu">
-                                    <a href="javascript:void(0)">Blogs</a>
-                                    <i class="fl flaticon-plus">+</i>
-                                    <ul class="sub-menu">
-                                        <li><a href="blog.html">Blog Grid</a></li>
-                                        <li><a href="blog-sidebar.html">Blog Sidebar</a></li>
-                                        <li><a href="blog-standard.html">Blog Standard </a></li>
-                                        <li><a href="blog-details.html">Blog Details</a></li>
-                                    </ul>
-                                </li>
-                                <li class="has-child-menu">
-                                    <a href="javascript:void(0)">Pages</a>
-                                    <i class="fl flaticon-plus">+</i>
-                                    <ul class="sub-menu">
-                                        <li><a href="guide.html">Guide</a></li>
-                                        <li><a href="gallary.html">Gallary</a></li>
-                                        <li><a href="faq.html">FAQ</a></li>
-                                        <li><a href="404.html">404</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="contact.html">Contact Us</a></li>
+                                
                             </ul>
                             <div class="inner-contact-options d-xl-none">
                                 <div class="contact-box-inner"><i class="bi bi-telephone-fill"></i> <a

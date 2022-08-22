@@ -3,9 +3,21 @@
     @media only screen and (min-width: 500px) {
         .navmargin{
             margin-left: 170px;}
+       
       }
-
+      
+      @media only screen and (max-width: 500px) {
+        .imageininerary{
+          height: 400px;
+          width: 500px;
+        }
+      }
+     
       .radiosize{
         height: 15px;
         width: 15px;
       }
+      /*.imageininerary{
+        height: 700px;
+        width: 1000px;
+      }*/
