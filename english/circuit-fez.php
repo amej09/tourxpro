@@ -9,7 +9,7 @@
             <div class="col-lg-12 text-center">
                 <h2 class="breadcrumb-title">3-Days Desert Trip from Marrakech to Fez :  </h2>
                 <ul class="d-flex justify-content-center breadcrumb-items">
-                    <li class="breadcrumb-item"><a href="index.html">acceuil</a></li>
+                    <li class="breadcrumb-item"><a href="index.php">acceuil</a></li>
                     <li class="breadcrumb-item active">Cercuits</li>
                 </ul>
             </div>
