@@ -32,8 +32,8 @@
                                               Discover more of the Moroccan culture with the local of your choice.
                                         </p>
                                         <div class="hero-btns">
-                                            <a href="package-sidebar.html" class="button-fill-round">Book Now</a>
-                                            <a href="package-details.html" class="button-fill-round">View Details</a>
+                                            <a href="#excursion" class="button-fill-round">Book Now</a>
+                                            <a href="excursion-imlil.php" class="button-fill-round">View Details</a>
                                         </div>
                                     </div>
                                 </div>
@@ -59,8 +59,8 @@
                                              We provide the most authentic, best price/quality ratio days trips and tours.
                                         </p>
                                         <div class="hero-btns">
-                                            <a href="package-sidebar.html" class="button-fill-round">Book Now</a>
-                                            <a href="package-details.html" class="button-fill-round">View Details</a>
+                                            <a href="#cercuit" class="button-fill-round">Book Now</a>
+                                            <a href="circuit-zagora-marzouga.php" class="button-fill-round">View Details</a>
                                         </div>
                                     </div>
                                 </div>
@@ -87,8 +87,8 @@
                                              inter cities Transfers, hotels or private homes or any private address Transfers.
                                         </p>
                                         <div class="hero-btns">
-                                            <a href="package-sidebar.html" class="button-fill-round">Book Now</a>
-                                            <a href="package-details.html" class="button-fill-round">View Details</a>
+                                            
+                                            <a href="trensfers-airoport-marrakech.php" class="button-fill-round">View Details</a>
                                         </div>
                                     </div>
                                 </div>
@@ -108,7 +108,7 @@
     </div>
 
 
-    <div class="package-area package-style-two pt-110 ">
+    <div class="package-area package-style-two pt-110 " id="excursion">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-12">
@@ -121,16 +121,16 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="package-card-alpha">
                         <div class="package-thumb">
-                            <a href="package-details.html"><img src="../assets/images/excursion/Test/Ourika1.jpg" alt=""></a>
+                            <a href="excursion-ourika.php"><img src="../assets/images/excursion/Test/Ourika1.jpg" alt=""></a>
                             <p class="card-lavel">
                                 <i class="bi bi-clock"></i> <span>7 to 8 Hours</span>
                             </p>
                         </div>
                         <div class="package-card-body">
-                            <h3 class="p-card-title"><a href="package-details.html">Day Trip to Ourika Valley</a></h3>
+                            <h3 class="p-card-title"><a href="excursion-ourika.php">Day Trip to Ourika Valley</a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
-                                    <a href="package-details.html">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
+                                    <a href="excursion-ourika.php">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
                                 </div>
                                 <div class="p-card-info">
                                     <span>From</span>
@@ -143,16 +143,16 @@
                 <div class="col-lg-4 col-md-6 ">
                     <div class="package-card-alpha">
                         <div class="package-thumb">
-                            <a href="package-details.html"><img src="../assets/images/excursion/Test/Essaouira1.jpg" alt=""></a>
+                            <a href="excursion-essaouira.php"><img src="../assets/images/excursion/Test/Essaouira1.jpg" alt=""></a>
                             <p class="card-lavel">
                                 <i class="bi bi-clock"></i> <span>9 To 10 Hours</span>
                             </p>
                         </div>
                         <div class="package-card-body">
-                            <h3 class="p-card-title"><a href="package-details.html">Day Trip to Essaouira - Mogador</a></h3>
+                            <h3 class="p-card-title"><a href="excursion-essaouira.php">Day Trip to Essaouira - Mogador</a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
-                                    <a href="package-details.html">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
+                                    <a href="excursion-essaouira.php">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
                                 </div>
                                 <div class="p-card-info">
                                     <span>From</span>
@@ -165,16 +165,16 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="package-card-alpha">
                         <div class="package-thumb">
-                            <a href="package-details.html"><img src="../assets/images/excursion/ouarzazate1.jpg" alt=""></a>
+                            <a href="excursion-ouarzazat.php"><img src="../assets/images/excursion/ouarzazate2.jpg" alt=""></a>
                             <p class="card-lavel">
                                 <i class="bi bi-clock"></i> <span>10 Hours</span>
                             </p>
                         </div>
                         <div class="package-card-body">
-                            <h3 class="p-card-title"><a href="package-details.html">Day Trip to Ouarzazate - Ait Benhaddou.</a></h3>
+                            <h3 class="p-card-title"><a href="excursion-ouarzazat.php">Day Trip to Ouarzazate - Ait Benhaddou.</a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
-                                    <a href="package-details.html">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
+                                    <a href="excursion-ouarzazat.php">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
                                 </div>
                                 <div class="p-card-info">
                                     <span>From</span>
@@ -187,16 +187,16 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="package-card-alpha">
                         <div class="package-thumb">
-                            <a href="package-details.html"><img src="../assets/images/excursion/Test/Imlil1.jpg" alt=""></a>
+                            <a href="excursion-imlil.php"><img src="../assets/images/excursion/Test/Imlil1.jpg" alt=""></a>
                             <p class="card-lavel">
                                 <i class="bi bi-clock"></i> <span>7 to 8 Hours</span>
                             </p>
                         </div>
                         <div class="package-card-body">
-                            <h3 class="p-card-title"><a href="package-details.html">Day Trip to Imlil & High Atlas </a></h3>
+                            <h3 class="p-card-title"><a href="excursion-imlil.php">Day Trip to Imlil & High Atlas </a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
-                                    <a href="package-details.html">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
+                                    <a href="excursion-imlil.php">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
                                 </div>
                                 <div class="p-card-info">
                                     <span>From</span>
@@ -209,16 +209,16 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="package-card-alpha">
                         <div class="package-thumb">
-                            <a href="package-details.html"><img src="../assets/images/excursion/Test/Agadir1.jpg" alt=""></a>
+                            <a href="excursion-agadir.php"><img src="../assets/images/excursion/Test/Agadir1.jpg" alt=""></a>
                             <p class="card-lavel">
                                 <i class="bi bi-clock"></i> <span>9 to 10 Hours</span>
                             </p>
                         </div>
                         <div class="package-card-body">
-                            <h3 class="p-card-title"><a href="package-details.html">Day Trip to Agadir</a></h3>
+                            <h3 class="p-card-title"><a href="excursion-agadir.php">Day Trip to Agadir</a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
-                                    <a href="package-details.html">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
+                                    <a href="excursion-agadir.php">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
                                 </div>
                                 <div class="p-card-info">
                                     <span>From</span>
@@ -231,16 +231,16 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="package-card-alpha">
                         <div class="package-thumb">
-                            <a href="package-details.html"><img src="../assets/images/excursion/Test/Casablanca1.jpg" alt=""></a>
+                            <a href="excursion-casablanca.php"><img src="../assets/images/excursion/Test/Casablanca1.jpg" alt=""></a>
                             <p class="card-lavel">
                                 <i class="bi bi-clock"></i> <span>12 Hours</span>
                             </p>
                         </div>
                         <div class="package-card-body">
-                            <h3 class="p-card-title"><a href="package-details.html">Day Trip to Casablanca</a></h3>
+                            <h3 class="p-card-title"><a href="excursion-casablanca.php">Day Trip to Casablanca</a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
-                                    <a href="package-details.html">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
+                                    <a href="excursion-casablanca.php">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
                                 </div>
                                 <div class="p-card-info">
                                     <span>From</span>
@@ -252,7 +252,7 @@
                 </div>
             </div>
             <div class="package-page-btn text-center mt-60">
-                <a href="package.html" class="button-fill-round">View All</a>
+                <a href="#" class="button-fill-round">View All</a>
             </div>
         </div>
     </div>
@@ -269,16 +269,16 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="package-card-alpha">
                         <div class="package-thumb">
-                            <a href="package-details.html"><img src="../assets/images/tours/MarrakechHalfDay.jpg" alt=""></a>
+                            <a href="visit-marrakech-halfday.php"><img src="../assets/images/tours/MarrakechHalfDay.jpg" alt=""></a>
                             <p class="card-lavel">
                                 <i class="bi bi-clock"></i> <span>3 to 4 Hours</span>
                             </p>
                         </div>
                         <div class="package-card-body">
-                            <h3 class="p-card-title"><a href="package-details.html">Marrakech City Highlights Half-Day Tour</a></h3>
+                            <h3 class="p-card-title"><a href="visit-marrakech-halfday.php">Marrakech City Highlights Half-Day Tour</a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
-                                    <a href="package-details.html">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
+                                    <a href="visit-marrakech-halfday.php">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
                                 </div>
                                 <div class="p-card-info">
                                     <span>From</span>
@@ -291,16 +291,16 @@
                 <div class="col-lg-4 col-md-6 ">
                     <div class="package-card-alpha">
                         <div class="package-thumb">
-                            <a href="package-details.html"><img src="../assets/images/tours/Histoire&Colture.jpg" alt=""></a>
+                            <a href="visit-marrakech-histical.php"><img src="../assets/images/tours/Histoire&Colture.jpg" alt=""></a>
                             <p class="card-lavel">
                                 <i class="bi bi-clock"></i> <span>6 To 8 Hours</span>
                             </p>
                         </div>
                         <div class="package-card-body">
-                            <h3 class="p-card-title"><a href="package-details.html">Marrakech Historical and Cultural Tour</a></h3>
+                            <h3 class="p-card-title"><a href="visit-marrakech-histical.php">Marrakech Historical and Cultural Tour</a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
-                                    <a href="package-details.html">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
+                                    <a href="visit-marrakech-histical.php">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
                                 </div>
                                 <div class="p-card-info">
                                     <span>From</span>
@@ -313,16 +313,16 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="package-card-alpha">
                         <div class="package-thumb">
-                            <a href="package-details.html"><img src="../assets/images/tours/ElMedina.jpg" alt=""></a>
+                            <a href="visit-marrakech-medina.php"><img src="../assets/images/tours/ElMedina.jpg" alt=""></a>
                             <p class="card-lavel">
                                 <i class="bi bi-clock"></i> <span>3 To 4 Hours</span>
                             </p>
                         </div>
                         <div class="package-card-body">
-                            <h3 class="p-card-title"><a href="package-details.html">Medina Souks Shopping Tour</a></h3>
+                            <h3 class="p-card-title"><a href="visit-marrakech-medina.php">Medina Souks Shopping Tour</a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
-                                    <a href="package-details.html">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
+                                    <a href="visit-marrakech-medina.php">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
                                 </div>
                                 <div class="p-card-info">
                                     <span>From</span>
@@ -335,16 +335,16 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="package-card-alpha">
                         <div class="package-thumb">
-                            <a href="package-details.html"><img src="../assets/images/tours/MarrakechNight.jpg" alt=""></a>
+                            <a href="visit-marrakech-night.php"><img src="../assets/images/tours/MarrakechNight.jpg" alt=""></a>
                             <p class="card-lavel">
                                 <i class="bi bi-clock"></i> <span>3 To 4 Hours</span>
                             </p>
                         </div>
                         <div class="package-card-body">
-                            <h3 class="p-card-title"><a href="package-details.html">Marrakech by Night City Private Tour </a></h3>
+                            <h3 class="p-card-title"><a href="visit-marrakech-night.php">Marrakech by Night City Private Tour </a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
-                                    <a href="package-details.html">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
+                                    <a href="visit-marrakech-night.php">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
                                 </div>
                                 <div class="p-card-info">
                                     <span>From</span>
@@ -357,16 +357,16 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="package-card-alpha">
                         <div class="package-thumb">
-                            <a href="package-details.html"><img src="../assets/images/tours/Restaurant_Chez_Ali.jpg" alt=""></a>
+                            <a href="visit-marrakech-chezali.php"><img src="../assets/images/tours/Restaurant_Chez_Ali.jpg" alt=""></a>
                             <p class="card-lavel">
                                 <i class="bi bi-clock"></i> <span>3 to 4 Hours</span>
                             </p>
                         </div>
                         <div class="package-card-body">
-                            <h3 class="p-card-title"><a href="package-details.html">Chez Ali Fantasia - Dinner And Show</a></h3>
+                            <h3 class="p-card-title"><a href="visit-marrakech-chezali.php">Chez Ali Fantasia - Dinner And Show</a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
-                                    <a href="package-details.html">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
+                                    <a href="visit-marrakech-chezali.php">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
                                 </div>
                                 <div class="p-card-info">
                                     <span>From</span>
@@ -379,16 +379,16 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="package-card-alpha">
                         <div class="package-thumb">
-                            <a href="package-details.html"><img src="../assets/images/Activite/Quad+Chameau.jpg" alt=""></a>
+                            <a href="activity-quad-camel.php"><img src="../assets/images/Activite/Quad+Chameau.jpg" alt=""></a>
                             <p class="card-lavel">
                                 <i class="bi bi-clock"></i> <span>3 To 4 Hours</span>
                             </p>
                         </div>
                         <div class="package-card-body">
-                            <h3 class="p-card-title"><a href="package-details.html">Quad + Camel at the Palmeraie</a></h3>
+                            <h3 class="p-card-title"><a href="activity-quad-camel.php">Quad + Camel at the Palmeraie</a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
-                                    <a href="package-details.html">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
+                                    <a href="activity-quad-camel.php">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
                                 </div>
                                 <div class="p-card-info">
                                     <span>From</span>
@@ -401,16 +401,16 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="package-card-alpha">
                         <div class="package-thumb">
-                            <a href="package-details.html"><img src="../assets/images/Activite/Buggy.jpg" alt=""></a>
+                            <a href="activity-buggy.php"><img src="../assets/images/Activite/Buggy.jpg" alt=""></a>
                             <p class="card-lavel">
                                 <i class="bi bi-clock"></i> <span>3 To 4 Hours</span>
                             </p>
                         </div>
                         <div class="package-card-body">
-                            <h3 class="p-card-title"><a href="package-details.html">Buggy at the Palmeraie</a></h3>
+                            <h3 class="p-card-title"><a href="activity-buggy.php">Buggy at the Palmeraie</a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
-                                    <a href="package-details.html">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
+                                    <a href="activity-buggy.php">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
                                 </div>
                                 <div class="p-card-info">
                                     <span>From</span>
@@ -423,16 +423,16 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="package-card-alpha">
                         <div class="package-thumb">
-                            <a href="package-details.html"><img src="../assets/images/Activite/Quad.jpg" alt=""></a>
+                            <a href="activity-quad.php"><img src="../assets/images/Activite/Quad.jpg" alt=""></a>
                             <p class="card-lavel">
                                 <i class="bi bi-clock"></i> <span>3 To 4 Hours</span>
                             </p>
                         </div>
                         <div class="package-card-body">
-                            <h3 class="p-card-title"><a href="package-details.html">Quad  at the Palmeraie</a></h3>
+                            <h3 class="p-card-title"><a href="activity-quad.php">Quad  at the Palmeraie</a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
-                                    <a href="package-details.html">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
+                                    <a href="activity-quad.php">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
                                 </div>
                                 <div class="p-card-info">
                                     <span>From</span>
@@ -445,7 +445,7 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="package-card-alpha">
                         <div class="package-thumb">
-                            <a href="package-details.html"><img src="../assets/images/Activite/montgolfiere-marrakech1.jpg" alt=""></a>
+                            <a href="activity-montgolfiere.php"><img src="../assets/images/Activite/montgolfiere-marrakech1.jpg" alt=""></a>
                             <p class="card-lavel">
                                 <i class="bi bi-clock"></i> <span>1 Hour</span>
                             </p>
@@ -466,7 +466,7 @@
                 </div>
             </div>
             <div class="package-page-btn text-center mt-60">
-                <a href="package.html" class="button-fill-round">View All</a>
+                <a href="#" class="button-fill-round">View All</a>
             </div>
         </div>
     </div>
@@ -489,24 +489,24 @@
                     </div>
                 </div>
             </div>
-            <div class="row align-items-center justify-content-center fadeffect">
+            <div class="row align-items-center justify-content-center fadeffect" id="cercuit">
                 <div class="col-lg-12">
                     <div class="swiper upcoming-tour">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">
                                 <div class="package-card-beta">
                                     <div class="package-thumb">
-                                        <a href="package-details.html"><img src="../assets/images/Circuit/Bivouac_la_nuit_à_Zagora.jpg"
+                                        <a href="circuit-zagora.php"><img src="../assets/images/Circuit/Bivouac_la_nuit_à_Zagora.jpg"
                                                 alt=""></a>
                                         <p class="card-lavel">
                                             <i class="bi bi-clock"></i> <span>2 Day & 1 night</span>
                                         </p>
                                     </div>
                                     <div class="package-card-body">
-                                        <h3 class="p-card-title"><a href="package-details.html">2-Day Zagora Desert Tour<br><br></a></h3>
+                                        <h3 class="p-card-title"><a href="circuit-zagora.php">2-Day Zagora Desert Tour<br><br></a></h3>
                                         <div class="p-card-bottom">
                                             <div class="book-btn">
-                                                <a href="package-details.html">Book Now <i
+                                                <a href="circuit-zagora.php">Book Now <i
                                                         class='bx bxs-right-arrow-alt'></i></a>
                                             </div>
                                             <div class="p-card-info">
@@ -520,17 +520,17 @@
                             <div class="swiper-slide">
                                 <div class="package-card-beta">
                                     <div class="package-thumb">
-                                        <a href="package-details.html"><img src="../assets/images/Circuit/Randonnée_Chameau_à_Merzouga.jpg"
+                                        <a href="circuit-fez.php"><img src="../assets/images/Circuit/Randonnée_Chameau_à_Merzouga.jpg"
                                                 alt=""></a>
                                         <p class="card-lavel">
                                             <i class="bi bi-clock"></i> <span>3 Day & 2 night</span>
                                         </p>
                                     </div>
                                     <div class="package-card-body">
-                                        <h3 class="p-card-title"><a href="package-details.html">3-Days Desert Trip from Marrakech to Fez </a></h3>
+                                        <h3 class="p-card-title"><a href="circuit-fez.php">3-Days Desert Trip from Marrakech to Fez </a></h3>
                                         <div class="p-card-bottom">
                                             <div class="book-btn">
-                                                <a href="package-details.html">Book Now <i
+                                                <a href="circuit-fez.php">Book Now <i
                                                         class='bx bxs-right-arrow-alt'></i></a>
                                             </div>
                                             <div class="p-card-info">
@@ -544,17 +544,17 @@
                             <div class="swiper-slide">
                                 <div class="package-card-beta">
                                     <div class="package-thumb">
-                                        <a href="package-details.html"><img src="../assets/images/Circuit/excursion_ouarzazate_ait_benhaddou.jpg"
+                                        <a href="circuit-zagora-marzouga.php"><img src="../assets/images/Circuit/excursion_ouarzazate_ait_benhaddou.jpg"
                                                 alt=""></a>
                                         <p class="card-lavel">
                                             <i class="bi bi-clock"></i> <span>4 Day & 3 night</span>
                                         </p>
                                     </div>
                                     <div class="package-card-body">
-                                        <h3 class="p-card-title"><a href="package-details.html">4-Day Desert Tour to Zagora & Merzouga</a></h3>
+                                        <h3 class="p-card-title"><a href="circuit-zagora-marzouga.php">4-Day Desert Tour to Zagora & Merzouga</a></h3>
                                         <div class="p-card-bottom">
                                             <div class="book-btn">
-                                                <a href="package-details.html">Book Now <i
+                                                <a href="circuit-zagora-marzouga.php">Book Now <i
                                                         class='bx bxs-right-arrow-alt'></i></a>
                                             </div>
                                             <div class="p-card-info">
@@ -568,17 +568,17 @@
                             <div class="swiper-slide">
                                 <div class="package-card-beta">
                                     <div class="package-thumb">
-                                        <a href="package-details.html"><img src="../assets/images/Circuit/camp-bivouac-desert-chegaga.jpg"
+                                        <a href="circuit-chegaga.php"><img src="../assets/images/Circuit/camp-bivouac-desert-chegaga.jpg"
                                                 alt=""></a>
                                         <p class="card-lavel">
                                             <i class="bi bi-clock"></i> <span>3 Day & 2 night</span>
                                         </p>
                                     </div>
                                     <div class="package-card-body">
-                                        <h3 class="p-card-title"><a href="package-details.html">3-Day Tour to Erg Chegaga <br><br> </a></h3>
+                                        <h3 class="p-card-title"><a href="circuit-chegaga.php">3-Day Tour to Erg Chegaga <br><br> </a></h3>
                                         <div class="p-card-bottom">
                                             <div class="book-btn">
-                                                <a href="package-details.html">Book Now <i
+                                                <a href="circuit-chegaga.php">Book Now <i
                                                         class='bx bxs-right-arrow-alt'></i></a>
                                             </div>
                                             <div class="p-card-info">
@@ -597,7 +597,7 @@
             </div>
             <div class="row text-center d-flex justify-content-center">
                 <div class="col-md-4">
-                    <a href="destination.html" class="button-outlined-primary upcoming-btn mt-50">View All Offer</a>
+                    <a href="#" class="button-outlined-primary upcoming-btn mt-50">View All Offer</a>
                 </div>
             </div>
         </div>
@@ -624,7 +624,7 @@
                             
                         </div>
                         <div class="guide-content">
-                            <a href="guide.html">
+                            <a href="agafay-quad.php">
                                 <h4 class="guide-name">Quad Biking in Agafay Desert<br><br> </h4>
                             </a>
                             <h6 class="guide-designation">Tour Guide</h6>
@@ -638,7 +638,7 @@
                             
                         </div>
                         <div class="guide-content">
-                            <a href="guide.html">
+                            <a href="agafay-buggy-camel.php">
                                 <h4 class="guide-name">Buggy Adventure in Agafay Desert</h4>
                             </a>
                             <h6 class="guide-designation">Tour Guide</h6>
@@ -654,7 +654,7 @@
                             </ul>
                         </div>
                         <div class="guide-content">
-                            <a href="guide.html">
+                            <a href="agafay-camels.php">
                                 <h4 class="guide-name">Camel Ride at sunset in Agafay </h4>
                             </a>
                             <h6 class="guide-designation">Tour Guide</h6>
@@ -670,7 +670,7 @@
                             </ul>
                         </div>
                         <div class="guide-content">
-                            <a href="guide.html">
+                            <a href="agafay-bivouac.php">
                                 <h4 class="guide-name">Night in Bivouac in Agafay Desert</h4>
                             </a>
                             <h6 class="guide-designation">Tour Guide</h6>
@@ -686,7 +686,7 @@
                             </ul>
                         </div>
                         <div class="guide-content">
-                            <a href="guide.html">
+                            <a href="agafay-sunset.php">
                                 <h4 class="guide-name">Sunset in Agafay <br><br></h4>
                             </a>
                             <h6 class="guide-designation">Tour Guide</h6>
