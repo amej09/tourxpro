@@ -8,7 +8,7 @@
                     <div class="col-lg-4">
 
                         <div class="footer-about text-lg-start text-center">
-                        <a href="index.php"><img src="../assets/images/logowhite.png" style="width:-moz-available;" alt=""></a>
+                        <a href="index.php"><img src="../assets/images/logowhite.png" id="logo" style="width:100%;" alt=""></a>
 
                             <p>Happy marrakech tours has been organising holidays, excursions and tours in Morocco since 2007. Travelling
                                  in a group or independently, join one of 
