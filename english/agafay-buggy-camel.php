@@ -41,7 +41,7 @@
                                     <div class="booking-form-wrapper">
                                         <div class="custom-input-group">
                                             <input type="hidden"      name="type_reservation"  value="prive"/> &nbsp;
-                                            <input type="hidden"      name="type_tour" value="visites"/> &nbsp;
+                                            <input type="hidden"      name="type_tour" value="Agafay"/> &nbsp;
                                             <input type="hidden"      name="name_tour" value="Buggy Adventure in Agafay Desert "/> &nbsp;
 
                                             Select date and participants: 

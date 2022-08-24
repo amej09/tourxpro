@@ -6,7 +6,7 @@
     <div class="breadcrumb breadcrumb-style-one">
         <div class="container">
             <div class="col-lg-12 text-center">
-                <h2 class="breadcrumb-title">Camel Ride at sunset in Agafay  </h2>
+                <h2 class="breadcrumb-title">Agafay Sahara magical Sunset from Marrakech </h2>
                 <ul class="d-flex justify-content-center breadcrumb-items">
                     <li class="breadcrumb-item"><a href="index.php">acceuil</a></li>
                     <li class="breadcrumb-item active">Agafay</li>
@@ -22,12 +22,12 @@
                     <div class="package-sidebar">
                         <aside class="package-widget-style-2 widget-form mt-30">
                             <div class="widget-title">
-                            <table class="table" style="color: white; border: solid 0px ;border-color: #162b32; ">
+                                <table class="table" style="color: white; border: solid 0px ;border-color: #162b32; ">
                                     <tr  style="height: 40px ;text-align: center;">
                                         <th   >Prive</th>
                                     </tr>
                                     <tr  style="height: 40px ;text-align: center;">
-                                        <th   >40 €</th>
+                                        <th   >70 €</th>
                                     </tr>
                                     <tr  style="height: 40px;text-align: center; ">
                                         <th > Per person </th>                                        
@@ -42,7 +42,7 @@
                                         <div class="custom-input-group">
                                             <input type="hidden"      name="type_reservation"  value="prive"/> &nbsp;
                                             <input type="hidden"      name="type_tour" value="Agafay"/> &nbsp;
-                                            <input type="hidden"      name="name_tour" value="Camel Ride at sunset in Agafay "/> &nbsp;
+                                            <input type="hidden"      name="name_tour" value="Agafay Sahara magical Sunset from Marrakech "/> &nbsp;
 
                                             Select date and participants: 
                                             <i class="bi bi-calendar3"></i>
@@ -53,7 +53,7 @@
                                             <div class="custom-input-group">
                                                 <i class="bi bi-chevron-down"></i>
                                                 <select id="truist-adult" name="numbertravels">
-                                                    <option  value="notselected" selected > Number of travelers: </option>
+                                                    <option value="1" selected > Number of travelers: </option>
                                                     <option value="1"> 1</option>
                                                     <option value="2"> 2</option>
                                                     <option value="3"> 3</option>
@@ -61,7 +61,21 @@
                                                     <option value="5"> 5</option>
                                                 </select>
                                             </div>
-                                        </div><br>
+                                        </div>
+                                        <div class="row">
+                                            <div class="custom-input-group">
+                                                <i class="bi bi-chevron-down"></i>
+                                                <select id="truist-child" name="numberchilds">
+                                                    <option  value="0" selected > Number of childs:(Age 4-11) </option>
+                                                    <option value="0"> 0</option>
+                                                    <option value="1"> 1</option>
+                                                    <option value="2"> 2</option>
+                                                    <option value="3"> 3</option>
+                                                    <option value="4"> 4</option>
+                                                    <option value="5"> 5</option>
+                                                </select>
+                                            </div>
+                                        </div>
                                         
                                         <div class="custom-input-group">
                                        
@@ -76,10 +90,7 @@
                                         <div class="custom-input-group">
                                             <input type="tel" placeholder="Phone" id="phone" name="phone" required>
                                         </div>
-                                        
-                                         
-                                       
-                                       
+ 
                                         <div class="custom-input-group">
                                             <textarea cols="20" rows="7" name="message" placeholder="Your message"></textarea>
                                         </div>
@@ -105,7 +116,7 @@
                                         </div>
                                         <div class="info">
                                             <h6>Duration</h6>
-                                            <span>1 hours</span>
+                                            <span>3 -4  hours</span>
                                         </div>
                                     </div>
                                 </div>
@@ -117,18 +128,7 @@
                                         </div>
                                         <div class="info">
                                             <h6>Departure time</h6>
-                                            <span> At choice  </span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col">
-                                    <div class="pd-single-info">
-                                        <div class="info-icon">
-                                            <img src="../assets/images/icons/pd2.svg" alt="">
-                                        </div>
-                                        <div class="info">
-                                            <h6>Distance</h6>
-                                            <span> 30km </span>
+                                            <span> 17h00/18h00</span>
                                         </div>
                                     </div>
                                 </div>
@@ -145,7 +145,7 @@
                                 </div>
                             </div>
                             <div class="pd-thumb">
-                                <img src="../assets/images/Agafay/agafayc5.jpg" alt="">
+                                <img src="../assets/images/agafay/agafays10.jpg" alt="">
                             </div>
                             <div class="header-bottom">
                                 <div class="pd-lavel d-flex justify-content-between align-items-center flex-wrap gap-2">
@@ -158,7 +158,7 @@
                                         <li><i class="bi bi-star-fill"></i></li>
                                     </ul>
                                 </div>
-                                <h2 class="pd-title">Camel Ride at sunset in Agafay </h2>
+                                <h2 class="pd-title">Agafay Sahara magical Sunset from Marrakech </h2>
                             </div>
                         </div>
                     </div>    
@@ -193,64 +193,40 @@
                                     role="tabpanel" aria-labelledby="pills-package1">
                                     <h3 class="d-subtitle">Package Details</h3>
 <pre>
+ <b>Overview</b>
+
+    On the off chance that you are too hot to even consider visiting the medina of Marrakech and need to take a break, At the
+        gates of Marrakech, this stone desert will surprise you and make you forget the intense atmosphere of central Marrakech.
+
+ <b>What's Included</b>
+
+    <i class='bx bx-check'></i> Hotel pickup and drop-off
+    <i class='bx bx-check'></i> Air-conditioned vehicle
+    <i class='bx bx-check'></i> Private transportation
+    <i class='bx bx-check'></i> Coffee or Tea or Fruit juice or Soda
+    <i class='bx bx-check'></i> All Taxes
+
+ <b> Please Note  </b>
+    We start picking up clients from all hotels, riads, and tourist apartments in the defined area between 5:30 p.m. And 6:00 p.m.
+    It depends where your hotel is located. travelers who are not in our selected area can also email us with their hotel
+    name and address so we can discuss their pickup details.
+  
+  <h3>What To Expect</h3>
+  <b>Marrakech </b>
+  At the time, and after the pick-up, be ready to start a short Meditative trip to see the gorgeous,
+   if not the most amazing, sunset. Admire the fiery red sun as it prepares to depart, leaving those vast desert hills. 
+   45 minutes • Admission Ticket Free
+   <b>Agafay </b>
+   Once we are in the Agafay desert, you will be amazed by the magnificent surroundings. you would never have an
+   experience such as this one again, in addition, you will have an opportunity to get the most beautiful sunset ever. 
+   Discover the incredible majesty of the Agafay desert, and enjoy a glass of traditional Moroccan mint tea in a
+    Saharan tent facing the desertic hills and continuing to the Atlas Mountains. 
+    1 hour 30 minutes • Admission Ticket Free 
+    <b>Agafay (Pass By)</b>
+   After a short period of admiration and amazement, you will notice that the sky is starting to darken, it is time to 
+   return to Marrakesh. We will take you to the place where the journey began.
 
 
-Considered as one of the most beautiful sites around Marrakech, Agafay desert is a Reg (stony desert) located at about 30Km from the city of Marrakech.
-
-This fabulous wild desert that resembles the Sahara offers a panorama of almost unique desert landscapes with pleasant views on the peaks of Atlas Mountains.
-
-On this half-day excursion from Marrakech, you will be driven from your hotel or Riad at the agreed time by a professional and friendly driver-guide.
-
-Upon arrival, you will be invited to enjoy a good Moroccan mint tea under a nomad tent to more appreciate the panoramic landscapes and the absolute calm of this small corner of paradise.
-
-Wear the Cheich (Sahraoui Scarf) and climb on your camel for about an hour camel ride through the trails and the beautiful white dunes of the desert.
-
-After this impressive camel ride, you can enjoy your free time to admire amazing sunset in Agafay desert, the clear views and an inspiring feeling of being alone in this world in order to purify your mind and renew the energy of your body.
-
-Later, you will be free to join your driver to return back to Marrakech or to go for a short visit to Lalla Takerkoust Lake with a small coffee break by the lakeside.
-
-Excursion Duration: 3 to 4 hours
-Camel Ride Duration : 1h00
-Availability: Every day
-Deparature time: At Your Choice
-
-Number of Participants: Minimum 2 persons
-
-    <i class='bx bx-check'></i>No Booking Fees
-    <i class='bx bx-check'></i>Book Now and Pay Later
-    <i class='bx bx-check'></i>Best Price Guaranteed
-    <i class='bx bx-check'></i>Excellent Service
-    <i class='bx bx-check'></i>Free cancellation
-    <i class='bx bx-check'></i>Available every day
-
-What is included?
-
-    <i class='bx bx-check'></i>Hotel pickup and drop-off
-    <i class='bx bx-check'></i>Transport by air-conditioned minivan
-    <i class='bx bx-check'></i>Traditional Moroccan tea
-    <i class='bx bx-check'></i>1h00 Camel ride tour
-    <i class='bx bx-check'></i>Desert scarf
-    <i class='bx bx-check'></i>Liability insurance
-    <i class='bx bx-check'></i>All taxes
-
-What is not included?
-
-    <i class='bx bx-check'></i>Coffee break at Restaurant Flouka
-    <i class='bx bx-check'></i>Lunch
-    <i class='bx bx-check'></i>Drinks
-    <i class='bx bx-check'></i>Tips
-
-Meeting Place :
-
-    <i class='bx bx-check'></i>Our driver will pick you up at your hotel/Riad or any other location at the agreed time.
-    <i class='bx bx-check'></i>In case of any problem: please email us or call us on the numbers displayed on contact informations.
-
-Easy Booking: Accepted until 6pm the day before (Marrakech time), If you have any difficulties to book or need another service, please use our Contact Form
-
-
-Payment Methods:
-
-    In cash (Euros or MAD) upon arrival
 
 
 </pre>                    
@@ -258,52 +234,63 @@ Payment Methods:
                                 <div class="tab-pane fade package-gallary-tab mt-3" id="pill-body3" role="tabpanel"
                                     aria-labelledby="pills-package3">
                                     <div class="row g-4">
-                                         <div class="col-6">
+                                         
+                                        <div class="col-6">
                                             <div class="package-gallary-item">
-                                                <img  src="../assets/images/Agafay/agafayc.jpg" alt="">
+                                                <img  src="../assets/images/agafay/agafays.jpg" alt="">
                                             </div>
                                         </div>
                                         <div class="col-6">
                                             <div class="package-gallary-item">
-                                                <img  src="../assets/images/Agafay/agafayc6.jpg" alt="">
-                                            </div>
-                                        </div>
-                                        <div class="col-6">
-                                            <div class="package-gallary-item">
-                                                <img  src="../assets/images/Agafay/agafayg3.jpg" alt="">
-                                            </div>
-                                        </div>
-                                        <div class="col-6">
-                                            <div class="package-gallary-item">
-                                                <img  src="../assets/images/Agafay/agafayc1.jpg" alt="">
-                                            </div>
-                                        </div>
-                                        <div class="col-6">
-                                            <div class="package-gallary-item">
-                                                <img  src="../assets/images/Agafay/agafayg.jpg" alt="">
-                                            </div>
-                                        </div>
-                                         <div class="col-6">
-                                            <div class="package-gallary-item">
-                                                <img  src="../assets/images/Agafay/agafayg1.jpg" alt="">
-                                            </div>
-                                        </div>
-                                        <div class="col-6">
-                                            <div class="package-gallary-item">
-                                                <img  src="../assets/images/Agafay/agafay.jpg" alt="">
-                                            </div>
-                                        </div>
-                                        <div class="col-6">
-                                            <div class="package-gallary-item">
-                                                <img  src="../assets/images/Agafay/agafayc2.jpg" alt="">
+                                                <img  src="../assets/images/agafay/agafays1.jpg" alt="">
                                             </div>
                                         </div>
                                         <div class="col-6">
                                                 <div class="package-gallary-item">
-                                                    <img  src="../assets/images/Agafay/agafayg4.jpg" alt="">
+                                                    <img  src="../assets/images/agafay/agafays2.jpg" alt="">
                                                 </div>
                                         </div>
-                                        
+                                        <div class="col-6">
+                                                <div class="package-gallary-item">
+                                                    <img  src="../assets/images/agafay/agafays3.jpg" alt="">
+                                                </div>
+                                        </div>
+                                        <div class="col-6">
+                                                <div class="package-gallary-item">
+                                                    <img  src="../assets/images/agafay/agafays4.jpg" alt="">
+                                                </div>
+                                        </div>
+                                        <div class="col-6">
+                                            <div class="package-gallary-item">
+                                                <img  src="../assets/images/agafay/agafays5.jpg" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="col-6">
+                                            <div class="package-gallary-item">
+                                                <img  src="../assets/images/agafay/agafays6.jpg" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="col-6">
+                                                <div class="package-gallary-item">
+                                                    <img  src="../assets/images/agafay/agafays7.jpg" alt="">
+                                                </div>
+                                        </div>
+                                        <div class="col-6">
+                                                <div class="package-gallary-item">
+                                                    <img  src="../assets/images/agafay/agafays8.jpg" alt="">
+                                                </div>
+                                        </div>
+                                        <div class="col-6">
+                                                <div class="package-gallary-item">
+                                                    <img  src="../assets/images/agafay/agafays9.jpg" alt="">
+                                                </div>
+                                        </div>
+                                        <div class="col-6">
+                                                <div class="package-gallary-item">
+                                                    <img  src="../assets/images/agafay/agafays10.jpg" alt="">
+                                                </div>
+                                        </div>
+                                      
 
                                         
                                         
@@ -373,19 +360,30 @@ Payment Methods:
     <script src="../assets/js/jquery-ui.js"></script>
 
     <script src="../assets/js/main.js"></script>
-   
+ 
     <script >
-        var nbr_prive=40;
+        var nbr_prive=70;
         $('#totalpriceprive').val(nbr_prive );
 
-       
-       $( '#truist-adult' ).change(function() {
-    
-        nbr= $( '#truist-adult' ).val();
-        nbr_prive=40 * nbr;
-       
-       $('#totalpriceprive').val(nbr_prive );
+         $( '#truist-child' ).change(function() {
+            nbr_prive=70;
+            var childtaxes=20;
+            var nuberchild= $( '#truist-child' ).val();
+            nbr= $( '#truist-adult' ).val();
+            nbr_prive=nbr_prive * nbr;
+            nbr_prive+=nuberchild * childtaxes;
+            $('#totalpriceprive').val(nbr_prive );
 
+        });
+
+       $( '#truist-adult' ).change(function() {
+            nbr_prive=70;
+            var childtaxes=20;
+            var nuberchild= $( '#truist-child' ).val();
+            nbr= $( '#truist-adult' ).val();
+            nbr_prive=nbr_prive * nbr;
+            nbr_prive+=nuberchild * childtaxes;
+            $('#totalpriceprive').val(nbr_prive );
        });
 </script>
 

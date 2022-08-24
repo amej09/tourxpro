@@ -6,9 +6,15 @@
             <div class="container">
                 <div class="row justify-content-center g-4">
                     <div class="col-lg-4">
+
                         <div class="footer-about text-lg-start text-center">
-                            <p>Duis rutrum nisl urna. Maecenas vel libero faucibus nisi venenatis hendrerit a id lectus.
-                                Suspendissendt molestie turpis nec lacinia vehicula.</p>
+                        <a href="index.php"><img src="../assets/images/logowhite.png" style="width:-moz-available;" alt=""></a>
+
+                            <p>Happy marrakech tours has been organising holidays, excursions and tours in Morocco since 2007. Travelling
+                                 in a group or independently, join one of 
+                                our safaris and you will discover fascinating landscapes of the mountains and the 
+                                desert. We have also choosen a wide range of activities to make your stay in 
+                                Marrakech an unforgettable experience.</p>
                             <div class="footer-social-wrap">
                                 <h5>Follow Us On:</h5>
                                 <ul class="footer-social-links justify-content-lg-start justify-content-center">
@@ -23,26 +29,26 @@
                     </div>
                     <div class="col-lg-2 col-md-4">
                         <div class="footer-widget">
-                            <h4 class="footer-widget-title">Quick Link</h4>
+                            <h4 class="footer-widget-title">Transfers</h4>
                             <ul class="footer-links">
-                                <li><a href="about.html">About Us</a></li>
-                                <li><a href="package.html">Tour Package</a></li>
-                                <li><a href="destination.html">Destination</a></li>
-                                <li><a href="guide.html">Tour Guide</a></li>
-                                <li><a href="package-details.html">Booking Process</a></li>
-                                <li><a href="blog.html">Blog</a></li>
+                                 <li><a href="trensfers-airoport-marrakech.php">Marrakech Menara Airport <--> Marrakech </a></li>
+                                <li><a href="trensfers-marrakech-casablanca.php">Marrakech  <--> Airport M5 Casablanca </a></li>
+                                <li><a href="trensfers-marrakech-agadir.php">Marrakech  <--> Agadir</a></li>
+                                <li><a href="trensfers-marrakech-chefchaoun.php">Marrakech  <--> Chefchaoun </a></li>
+                                <li><a href="trensfers-marrakech-fes.php">Marrakech  <--> Fès</a></li>
+                                <li><a href="trensfers-marrakech-tanger.php">Marrakech  <--> Tanger</a></li>
+                                <li><a href="trensfers-marrakech-essaouira.php">Marrakech  <-->   Essaouira </a></li>
                             </ul>
                         </div>
                     </div>
                     <div class="col-lg-2 col-md-4">
                         <div class="footer-widget">
-                            <h4 class="footer-widget-title">Tour Type</h4>
+                            <h4 class="footer-widget-title">Circuit</h4>
                             <ul class="footer-links">
-                                <li><a href="#">Wild & Adventure Tours</a></li>
-                                <li><a href="#">Group Tour</a></li>
-                                <li><a href="#">Seasonal Tours</a></li>
-                                <li><a href="#">Relaxation Tours</a></li>
-                                <li><a href="#">Family Friendly Tours</a></li>
+                                    <li><a href="circuit-zagora.php">2-Days Zagora Desert Tour</a></li>
+                                    <li><a href="circuit-chegaga.php">3-Days to Erg Chegaga</a></li>
+                                    <li><a href="circuit-fez.php">3-Days Desert Trip from Marrakech to Fez</a></li>
+                                    <li><a href="circuit-zagora-marzouga.php">4-Days Tour to Zagora & Marzouga</a></li>
                             </ul>
                         </div>
                     </div>
@@ -51,22 +57,22 @@
                             <h4 class="footer-widget-title text-center">Gallery</h4>
                             <div class="footer-gallary-grid">
                                 <div class="footer-gallary-item">
-                                    <a href="../assets/images/gallary/fg-1.png" data-fancybox="footer" data-caption="Caption Here"><img src="../assets/images/gallary/fg-1.png" alt=""></a>
+                                    <a href="../assets/images/excursion/agadir4.jpg" data-fancybox="footer" data-caption="Caption Here"><img src="../assets/images/excursion/agadir4.jpg" alt=""></a>
                                 </div>
                                 <div class="footer-gallary-item">
-                                    <a href="../assets/images/gallary/fg-2.png" data-fancybox="footer" data-caption="Caption Here"><img src="../assets/images/gallary/fg-2.png" alt=""></a>
+                                    <a href="../assets/images/excursion/essaouira7.jpg" data-fancybox="footer" data-caption="Caption Here"><img src="../assets/images/excursion/essaouira7.jpg" alt=""></a>
                                 </div>
                                 <div class="footer-gallary-item">
-                                    <a href="../assets/images/gallary/fg-3.png" data-fancybox="footer" data-caption="Caption Here"><img src="../assets/images/gallary/fg-3.png" alt=""></a>
+                                    <a href="../assets/images/excursion/ouarzazate3.jpg" data-fancybox="footer" data-caption="Caption Here"><img src="../assets/images/excursion/ouarzazate3.jpg" alt=""></a>
                                 </div>
                                 <div class="footer-gallary-item">
-                                    <a href="../assets/images/gallary/fg-4.png" data-fancybox="footer" data-caption="Caption Here"><img src="../assets/images/gallary/fg-4.png" alt=""></a>
+                                    <a href="../assets/images/excursion/casablanca8.jpg" data-fancybox="footer" data-caption="Caption Here"><img src="../assets/images/excursion/casablanca8.jpg" alt=""></a>
                                 </div>
                                 <div class="footer-gallary-item">
-                                    <a href="../assets/images/gallary/fg-5.png" data-fancybox="footer" data-caption="Caption Here"><img src="../assets/images/gallary/fg-5.png" alt=""></a>
+                                    <a href="../assets/images/excursion/ouzoud4.jpg" data-fancybox="footer" data-caption="Caption Here"><img src="../assets/images/excursion/ouzoud4.jpg" alt=""></a>
                                 </div>
                                 <div class="footer-gallary-item">
-                                    <a href="../assets/images/gallary/fg-6.png" data-fancybox="footer" data-caption="Caption Here"><img src="../assets/images/gallary/fg-6.png" alt=""></a>
+                                    <a href="../assets/images/excursion/ouzoud1.jpg" data-fancybox="footer" data-caption="Caption Here"><img src="../assets/images/excursion/ouzoud1.jpg" alt=""></a>
                                 </div>
                             </div>
                         </div>
@@ -78,7 +84,7 @@
                         <li><i class="bi bi-telephone-x"></i> <a href="tel:+17632275032">+1 763-227-5032</a></li>
                         <li><i class="bi bi-envelope-open"></i> <a href="https://demo.egenslab.com/cdn-cgi/l/email-protection#1f767179705f6b706a6d676f6d70317c7072"><span class="__cf_email__" data-cfemail="fb92959d94bb8f948e89838b8994d5989496">[email&#160;protected]</span></a>
                         </li>
-                        <li><i class="bi bi-geo-alt"></i> <a href="#">2752 Willison Street Eagan, United State</a></li>
+                        <li><i class="bi bi-geo-alt"></i> <a href="#">Marrakech , Morocco</a></li>
                     </ul>
                 </div>
             </div>
@@ -86,24 +92,20 @@
         <div class="footer-bottom">
             <div class="container">
                 <div class="row align-items-center justify-content-center">
-                    <div class="col-lg-4 col-md-6 order-lg-1 order-3 ">
+                    <div class="col-lg-12 col-md-12   ">
                         <div class="copyright-link text-lg-start text-center">
-                            <p>Copyright 2021 TourXPro | Design By <a href="#"> Egens Lab</a></p>
+                            <p>Copyright 2022 by  <b><a href="https://www.alwaysite.com/"> Alwaysite.com</a></b></p>
                         </div>
                     </div>
-                    <div class="col-lg-4  order-lg-2 order-1">
-                        <div class="footer-logo text-center">
-                            <a href="index.php"><img src="../assets/images/logo-w.png" alt=""></a>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 order-lg-3 order-2">
+                    
+                   <!-- <div class="col-lg-4 col-md-6 order-lg-3 order-2">
                         <div class="policy-links">
                             <ul class="policy-list justify-content-lg-end justify-content-center">
                                 <li><a href="#">Terms & Condition</a></li>
                                 <li><a href="#">Privacy Policy</a></li>
                             </ul>
                         </div>
-                    </div>
+                    </div>-->
                 </div>
             </div>
         </div>

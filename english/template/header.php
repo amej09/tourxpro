@@ -257,8 +257,8 @@
                 <div class="row">
                     <div
                         class="col-xl-2 col-lg-12 col-md-12 col-sm-12 col-xs-12 align-items-center d-xl-flex d-lg-block">
-                        <div class="nav-logo d-flex justify-content-between align-items-center">
-                            <a href="index.php"><img src="../assets/images/logop1.svg" style="height: 55px;" id="logo"  alt="logo"></a>
+                        <div class=" d-flex justify-content-between align-items-center">
+                            <a href="index.php"><img src="../assets/images/logocolor.png"  style="width: 200px;"   alt="logo"></a>
                             <div class="d-flex align-items-center gap-4">
                                 <div class="nav-right d-xl-none">
                                     <ul class="nav-actions">
