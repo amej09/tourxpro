@@ -1,3 +1,6 @@
+<?php 
+    session_start();
+ ?>
 <!doctype html>
 <html lang="en">
 
@@ -757,8 +760,13 @@
         </div>
     </div>
 -->
+    <script>
+        var etat = <?php echo $_GET['etat'] ?>
+        alert(etat);
+    </script>
 
     <?php  include 'template/footer.php ' ?>
+    
 </body>
 
 <!-- Mirrored from demo.egenslab.com/html/tourxpro/demo/index2.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 18 Aug 2022 11:46:51 GMT -->

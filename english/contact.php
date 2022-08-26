@@ -58,7 +58,7 @@
             </div>
         </div>
         <div class="container mt-120">
-            <form action="../sender.php" method="post"   id="contact_form">
+            <form action="../assets/php/sender.php" method="post"   id="booking-form">
                 <div class="contact-form-wrap">
                     <h4>Get a free Keystroke quote now</h4>
                     <p>Your email address will not be published. Required fields are marked *</p>

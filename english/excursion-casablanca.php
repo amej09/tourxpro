@@ -48,7 +48,7 @@
                             </div>
 
                             <div class="widget-body">
-                                <form action="../sender.php" method="post" id="booking-form">
+                                <form action="../assets/php/sender.php" method="post" id="booking-form">
                                     <div class="booking-form-wrapper">
                                         <div class="custom-input-group">
                                             <input type="hidden"      name="type_reservation"  value="prive"/> &nbsp;
@@ -345,6 +345,7 @@ Payment Methods:
     <script src="../assets/js/main.js"></script>
     
     <script >
+        
         var nbr_prive=170;
         $('#totalpriceprive').val(nbr_prive );
 
