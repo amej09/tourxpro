@@ -27,7 +27,7 @@
                         <aside class="package-widget-style-2 widget-form mt-30">
                             <div class="widget-title">
                                 <table class="table" style="color: white;">
-                                    <tr  style="height: 40px ;text-align: center;">
+                                     <tr  style="height: 40px ;text-align: center;" class="privebackground">
                                         <th  colspan="5" >Prive</th>
                                     </tr>
                                     <tr>
@@ -194,7 +194,7 @@
                         <aside class="package-widget-style-2 widget-form mt-30">
                             <div class="widget-title">
                                 <table class="table" style="color: white; border: solid 0px ;border-color: #162b32; ">
-                                    <tr  style="height: 40px ;text-align: center;">
+                                    <tr  style="height: 40px ;text-align: center;" class="groupbackground">
                                         <th   >Groupe</th>
                                     </tr>
                                     <tr  style="height: 40px ;text-align: center;">
