@@ -47,7 +47,7 @@
                             </div>
 
                             <div class="widget-body">
-                                <form action="../sender.php" method="post" id="booking-form">
+                                <form action="../assets/php/sender.php" method="post" id="booking-form">
                                     <div class="booking-form-wrapper">
                                         <div class="custom-input-group">
                                             <input type="hidden"      name="type_reservation"  value="prive"/> &nbsp;
@@ -205,7 +205,7 @@
                             </div>
 
                             <div class="widget-body">
-                                <form action="../sender.php" method="post" id="booking-form">
+                                <form action="../assets/php/sender.php" method="post" id="booking-form2">
                                     <div class="booking-form-wrapper">
                                         <div class="custom-input-group">
                                             <input type="hidden"      name="type_reservation" value="groupe"/> &nbsp;

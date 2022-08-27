@@ -52,7 +52,7 @@
                         </div>
 
                         <div class="widget-body">
-                            <form action="../../sender.php" method="post" id="booking-form">
+                            <form action="../../assets/php/sender.php" method="post" id="booking-form">
                                 <div class="booking-form-wrapper">
                                     <div class="custom-input-group">
                                         <input type="hidden" name="type_reservation" value="prive" /> &nbsp;
@@ -255,27 +255,31 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#faq-collapseOne" aria-expanded="false"
                                         aria-controls="faq-collapseOne">
-                                        Arrival at Marrakech - Chefchaoun
+                                        Arrival at Marrakech -- > Chafchaouen
                                     </button>
                                 </h2>
                                 <div id="faq-collapseOne" class="accordion-collapse collapse"
                                     aria-labelledby="faq-headingOne" data-bs-parent="#faq-accordion-example">
                                     <div class="accordion-body">
                                         <div class="container mt-20">
-                                            <form action="#" id="contact_form">
+                                            <form action="../assets/php/sender.php" id="booking-form">
+                                                <input type="hidden"   name="name_tour" value="transfer">
+                                                <input type="hidden"   name="type_tour" value="marrakech <==> Chafchaouen">
+                                                <input type="hidden"   name="genre_tour" value="Arival">
+                                                
                                                 <div class="contact-form-wrap">
                                                     <h5><i class="bi bi-airplane"></i>Airoport <bold>--></bold><i class="bi bi-house"></i>Hotel/Riad</h5>
                                                     <div class="row">
                                                         <div class="col-lg-6">
                                                             <div class="custom-input-group">
                                                                 <label for="name">Full Name</label>
-                                                                <input type="text" placeholder="Your Full name" id="name">
+                                                                <input type="text" placeholder="Your Full name" id="name" name="name">
                                                             </div>
                                                         </div>
                                                         <div class="col-lg-6">
                                                             <div class="custom-input-group">
                                                                 <label for="passenger">Number Of Passenger</label>
-                                                                <input type="number" placeholder="Number Of Passenger" id="passenger" min="0" max="5">
+                                                                <input type="number" placeholder="Number Of Passenger" name="passenger" id="passenger" min="0" max="5">
                                                             </div>
                                                         </div>
                                                     </div>
@@ -283,13 +287,13 @@
                                                         <div class="col-lg-6">
                                                             <div class="custom-input-group">
                                                                 <label for="arrival">Arrival date</label>
-                                                                <input type="date" placeholder=" Your Arrival date" id="arrival">
+                                                                <input type="date" placeholder=" Your Arrival date" name="arrival" id="arrival">
                                                             </div>
                                                         </div>
                                                         <div class="col-lg-6">
                                                             <div class="custom-input-group">
                                                                 <label for="timearrival">Time of arrival</label>
-                                                                <input type="time" placeholder="Your Time of arrival" id="timearrival">
+                                                                <input type="time" placeholder="Your Time of arrival" name="timearrival" id="timearrival">
                                                             </div>
                                                         </div>
                                                     </div>
@@ -297,13 +301,13 @@
                                                         <div class="col-lg-6">
                                                             <div class="custom-input-group">
                                                                 <label for="flightnumber">Arrival flight number</label>
-                                                                <input type="text" placeholder="Your Arrival flight number" id="flightnumber">
+                                                                <input type="text" placeholder="Your Arrival flight number" name="flightnumber" id="flightnumber">
                                                             </div>
                                                         </div>
                                                         <div class="col-lg-6">
                                                             <div class="custom-input-group">
-                                                                <label for="destinition">The destination address in chefchaoun</label>
-                                                                <input type="text" placeholder="Your destination address in Marrakech" id="destinition">
+                                                                <label for="destinition">The destination address in Chafchaouen</label>
+                                                                <input type="text" placeholder="Your destination address in Chafchaouen" name="destinition" id="destinition">
                                                             </div>
                                                         </div>
                                                     </div>
@@ -311,18 +315,18 @@
                                                         <div class="col-lg-6">
                                                             <div class="custom-input-group">
                                                                 <label for="Email">Email </label>
-                                                                <input type="text" placeholder="Your Email" id="Email">
+                                                                <input type="text" placeholder="Your Email" id="Email" name="email">
                                                             </div>
                                                         </div>
                                                         <div class="col-lg-6">
                                                             <div class="custom-input-group">
                                                                 <label for="Phone">Phone Number</label>
-                                                                <input type="text" placeholder="Your Phone Number" id="Phone">
+                                                                <input type="text" placeholder="Your Phone Number" id="Phone" name="phone">
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="custom-input-group">
-                                                        <textarea cols="20" rows="7" placeholder="Your message"></textarea>
+                                                        <textarea cols="20" rows="7" placeholder="Your message" name="message"></textarea>
                                                     </div>
                                                     <div class="custom-input-group">
                                                         <div class="submite-btn">
@@ -340,27 +344,30 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#faq-collapseTwo" aria-expanded="false"
                                         aria-controls="faq-collapseTwo">
-                                        Departure from chefchaoun - Menara airport
+                                        Departure from Chafchaouen - Menara airport
                                     </button>
                                 </h2>
                                 <div id="faq-collapseTwo" class="accordion-collapse collapse"
                                     aria-labelledby="faq-headingTwo" data-bs-parent="#faq-accordion-example">
                                     <div class="accordion-body">
                                         <div class="container mt-20">
-                                            <form action="#" id="contact_form">
+                                        <form action="../assets/php/sender.php" id="booking-form2">
+                                                <input type="hidden"   name="name_tour" value="transfer">
+                                                <input type="hidden"   name="type_tour" value="marrakech <==> Chafchaouen">
+                                                <input type="hidden"   name="genre_tour" value="Departure">
                                                 <div class="contact-form-wrap">
                                                     <h5> <i class="bi bi-house"></i>Hotel/Riad<bold>--></bold><i class="bi bi-airplane"></i>Airoport</h5>
                                                     <div class="row">
                                                         <div class="col-lg-6">
                                                             <div class="custom-input-group">
                                                                 <label for="name">Full Name</label>
-                                                                <input type="text" placeholder="Your Full name" id="name">
+                                                                <input type="text" placeholder="Your Full name" id="name" name="name">
                                                             </div>
                                                         </div>
                                                         <div class="col-lg-6">
                                                             <div class="custom-input-group">
                                                                 <label for="passenger">Number Of Passenger</label>
-                                                                <input type="number" placeholder="Number Of Passenger" id="passenger" min="0" max="5">
+                                                                <input type="number" placeholder="Number Of Passenger" name="passenger" id="passenger" min="0" max="5">
                                                             </div>
                                                         </div>
                                                     </div>
@@ -368,13 +375,13 @@
                                                         <div class="col-lg-6">
                                                             <div class="custom-input-group">
                                                                 <label for="departure">Departure date</label>
-                                                                <input type="date" placeholder=" Your Departure date" id="departure">
+                                                                <input type="date" placeholder=" Your Departure date" name="departure" id="departure">
                                                             </div>
                                                         </div>
                                                         <div class="col-lg-6">
                                                             <div class="custom-input-group">
                                                                 <label for="timedeparture">Time of Departure</label>
-                                                                <input type="time" placeholder="Your Time of Departure" id="timedeparture">
+                                                                <input type="time" placeholder="Your Time of Departure" name="timedeparture" id="timedeparture">
                                                             </div>
                                                         </div>
                                                     </div>
@@ -382,13 +389,13 @@
                                                         <div class="col-lg-6">
                                                             <div class="custom-input-group">
                                                                 <label for="flightnumber">Departure flight number</label>
-                                                                <input type="text" placeholder="Your Departure flight number" id="flightnumber">
+                                                                <input type="text" placeholder="Your Departure flight number" name="flightnumber" id="flightnumber">
                                                             </div>
                                                         </div>
                                                         <div class="col-lg-6">
                                                             <div class="custom-input-group">
                                                                 <label for="pickupadresse">Pick Up Point Adresse</label>
-                                                                <input type="text" placeholder="Your Pick Up Point Adresse" id="pickupadresse">
+                                                                <input type="text" placeholder="Your Pick Up Point Adresse" name="pickupadresse" id="pickupadresse">
                                                             </div>
                                                         </div>
                                                     </div>
@@ -396,18 +403,18 @@
                                                         <div class="col-lg-6">
                                                             <div class="custom-input-group">
                                                                 <label for="Email">Email </label>
-                                                                <input type="text" placeholder="Your Email" id="Email">
+                                                                <input type="text" placeholder="Your Email" id="Email" name="email" >
                                                             </div>
                                                         </div>
                                                         <div class="col-lg-6">
                                                             <div class="custom-input-group">
                                                                 <label for="Phone">Phone Number</label>
-                                                                <input type="text" placeholder="Your Phone Number" id="Phone">
+                                                                <input type="text" placeholder="Your Phone Number" id="Phone" name="phone">
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="custom-input-group">
-                                                        <textarea cols="20" rows="7" placeholder="Your message"></textarea>
+                                                        <textarea cols="20" rows="7" placeholder="Your message" name="message"></textarea>
                                                     </div>
                                                     <div class="custom-input-group">
                                                         <div class="submite-btn">
@@ -425,27 +432,30 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#faq-collapseThree" aria-expanded="false"
                                         aria-controls="faq-collapseThree">
-                                        Arrival and departure, Marrakech - chefchaoun
+                                        Arrival and departure, Marrakech - Chafchaouen
                                     </button>
                                 </h2>
                                 <div id="faq-collapseThree" class="accordion-collapse collapse"
                                     aria-labelledby="faq-headingThree" data-bs-parent="#faq-accordion-example">
                                     <div class="accordion-body">
                                         <div class="container mt-20">
-                                            <form action="#" id="contact_form">
+                                        <form action="../assets/php/sender.php" id="booking-form3">
+                                                <input type="hidden"   name="name_tour" value="transfer">
+                                                <input type="hidden"   name="type_tour" value="marrakech <==> Chafchaouen">
+                                                <input type="hidden"   name="genre_tour" value="Arrival and departure">
                                                 <div class="contact-form-wrap">
                                                     <h5><i class="bi bi-airplane"></i>Airoport <bold>--></bold> <i class="bi bi-house"></i>Hotel/Riad<bold>--></bold><i class="bi bi-airplane"></i>Airoport</h5>
                                                     <div class="row">
                                                         <div class="col-lg-6">
                                                             <div class="custom-input-group">
                                                                 <label for="name">Full Name</label>
-                                                                <input type="text" placeholder="Your Full name" id="name">
+                                                                <input type="text" placeholder="Your Full name" id="name" name="name">
                                                             </div>
                                                         </div>
                                                         <div class="col-lg-6">
                                                             <div class="custom-input-group">
                                                                 <label for="passenger">Number Of Passenger</label>
-                                                                <input type="number" placeholder="Number Of Passenger" id="passenger" min="0" max="5">
+                                                                <input type="number" placeholder="Number Of Passenger" id="passenger" name="passenger"  min="0" max="5">
                                                             </div>
                                                         </div>
                                                     </div>
@@ -453,13 +463,13 @@
                                                         <div class="col-lg-6">
                                                             <div class="custom-input-group">
                                                                 <label for="arrival">Arrival date</label>
-                                                                <input type="date" placeholder=" Your Arrival date" id="arrival">
+                                                                <input type="date" placeholder=" Your Arrival date" name="arrival" id="arrival">
                                                             </div>
                                                         </div>
                                                         <div class="col-lg-6">    
                                                             <div class="custom-input-group">
                                                                 <label for="departure">Departure date</label>
-                                                                <input type="date" placeholder=" Your Departure date" id="departure">
+                                                                <input type="date" placeholder=" Your Departure date" name="departure" id="departure">
                                                             </div>
                                                         </div>
                                                         
@@ -468,13 +478,13 @@
                                                         <div class="col-lg-6">
                                                             <div class="custom-input-group">
                                                                 <label for="timearrival">Time of Arrival</label>
-                                                                <input type="time" placeholder="Your Time of Arrival" id="timearrival">
+                                                                <input type="time" placeholder="Your Time of Arrival" name="timearrival" id="timearrival">
                                                             </div>
                                                         </div>
                                                         <div class="col-lg-6">
                                                             <div class="custom-input-group">
                                                                 <label for="timedeparture">Time of Departure</label>
-                                                                <input type="time" placeholder="Your Time of Departure" id="timedeparture">
+                                                                <input type="time" placeholder="Your Time of Departure" name="timedeparture" id="timedeparture">
                                                             </div>
                                                         </div>
                                                         
@@ -484,13 +494,13 @@
                                                         <div class="col-lg-6">
                                                             <div class="custom-input-group">
                                                                 <label for="arrivalflightnumber">Arrival flight number</label>
-                                                                <input type="text" placeholder="Your Arrival flight number" id="arrivalflightnumber">
+                                                                <input type="text" placeholder="Your Arrival flight number" name="arrivalflightnumber" id="arrivalflightnumber">
                                                             </div>
                                                         </div>
                                                         <div class="col-lg-6">
                                                             <div class="custom-input-group">
                                                                 <label for="departurflightnumber">Departure flight number</label>
-                                                                <input type="text" placeholder="Your Departure flight number" id="departurflightnumber">
+                                                                <input type="text" placeholder="Your Departure flight number" name="departurflightnumber" id="departurflightnumber">
                                                             </div>
                                                         </div>
                                                     </div>
@@ -498,8 +508,8 @@
                                                         <div class="col-lg-6">
                                                             
                                                                 <div class="custom-input-group">
-                                                                    <label for="destinationadresse">The destination address in Chafchaoun</label>
-                                                                    <input type="text" placeholder="Your destination address in Marrakech" id="destinationadresse">
+                                                                    <label for="destinationadresse">The destination address in Chafchaouen</label>
+                                                                    <input type="text" placeholder="Your destination address in Chafchaouen" name="destinationadresse" id="destinationadresse">
                                                                 </div>
                                                             
                                                         </div>
@@ -507,7 +517,7 @@
                                                             
                                                                 <div class="custom-input-group">
                                                                     <label for="pickupadresse">Pick Up Point Adresse</label>
-                                                                    <input type="text" placeholder="Your Pick Up Point Adresse" id="pickupadresse">
+                                                                    <input type="text" placeholder="Your Pick Up Point Adresse" name="pickupadresse" id="pickupadresse">
                                                                 </div>
                                                         </div>
                                                         
@@ -516,18 +526,18 @@
                                                         <div class="col-lg-6">
                                                             <div class="custom-input-group">
                                                                 <label for="Email">Email </label>
-                                                                <input type="text" placeholder="Your Email" id="Email">
+                                                                <input type="text" placeholder="Your Email" name="email" id="Email">
                                                             </div>
                                                         </div>
                                                         <div class="col-lg-6">
                                                             <div class="custom-input-group">
                                                                 <label for="Phone">Phone Number</label>
-                                                                <input type="text" placeholder="Your Phone Number" id="Phone">
+                                                                <input type="text" placeholder="Your Phone Number" name="phone" id="Phone">
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="custom-input-group">
-                                                        <textarea cols="20" rows="7" placeholder="Your message"></textarea>
+                                                        <textarea cols="20" rows="7" placeholder="Your message" name="message"></textarea>
                                                     </div>
                                                     <div class="custom-input-group">
                                                         <div class="submite-btn">
