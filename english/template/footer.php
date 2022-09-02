@@ -18,11 +18,12 @@
                         <div class="footer-social-wrap">
                             <h5>Follow Us On:</h5>
                             <ul class="footer-social-links justify-content-lg-start justify-content-center">
-                                <li><a href="#"><i class="bx bxl-instagram"></i></a></li>
-                                <li><a href="#"><i class="bx bxl-facebook"></i></a></li>
-                                <li><a href="#"><i class="bx bxl-twitter"></i></a></li>
-                                <li><a href="#"><i class="bx bxl-whatsapp"></i></a></li>
-                                <li><a href="#"><i class='bx bxl-pinterest-alt'></i></a></li>
+                                <li><a href="https://www.instagram.com/happymarrakechtours/" target="blank"><i class='bx bxl-facebook'></i></a></li>
+                                <li><a href="https://www.facebook.com/Annoqri.tours" target="blank"><i class="bx bxl-facebook"></i></a></li>
+                                <li><a href="https://www.tripadvisor.fr/Attraction_Review-g293734-d17582639-Reviews-AnnoQri_Travel_Services-Marrakech_Marrakech_Safi.html" target="blank"><img src="../assets/images/icons/tripadvisor.svg"  style="height: 20.36px;width: 20px;color: #fd2929;background: darkorange;"/></a></li>
+
+                                <li><a href="https://wa.me/212660117948" target="blank"><i class="bx bxl-whatsapp"></i></a></li>
+                                <li><a href="https://www.pinterest.com/happymarrakechtours/" target="blank"><i class='bx bxl-pinterest-alt'></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -81,8 +82,11 @@
             <div class="footer-contact-wrapper">
                 <h5>Contact Us:</h5>
                 <ul class="footer-contact-list">
-                    <li><i class="bi bi-telephone-x"></i> <a href="tel:+17632275032">+1 763-227-5032</a></li>
-                    <li><i class="bi bi-envelope-open"></i> <a href="https://demo.egenslab.com/cdn-cgi/l/email-protection#1f767179705f6b706a6d676f6d70317c7072"><span class="__cf_email__" data-cfemail="fb92959d94bb8f948e89838b8994d5989496">[email&#160;protected]</span></a>
+                    
+                    <li><i class="bi bi-envelope-open"></i> <a
+                                        href="mailto:contact@happymarrakechtour.com"><span
+                                            class="__cf_email__"
+                                            data-cfemail="4c25222a230c29342d213c2029622f2321">contact@happymarrakechtour.com</span></a>
                     </li>
                     <li><i class="bi bi-geo-alt"></i> <a href="#">Marrakech , Morocco</a></li>
                 </ul>
@@ -111,7 +115,22 @@
     </div>
 </div>
 
-
+<!-- GetButton.io widget -->
+<script type="text/javascript">
+    (function () {
+        var options = {
+            whatsapp: "+212660117948", // WhatsApp number
+            call_to_action: "Contact Us", // Call to action
+            button_color: "#FF6550", // Color of button
+            position: "right", // Position may be 'right' or 'left'
+        };
+        var proto = 'https:', host = "getbutton.io", url = proto + '//static.' + host;
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
+        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+    })();
+</script>
+<!-- /GetButton.io widget -->
 
 <script data-cfasync="false" src="../../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
 

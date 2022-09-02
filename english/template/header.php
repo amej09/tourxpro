@@ -223,27 +223,27 @@
                 <div class="col-xl-4 align-items-center d-xl-flex d-none">
                     <div class="topbar-contact-left">
                         <ul class="contact-list">
-                            <li><i class="bi bi-telephone-fill"></i> <a href="tel:+17632275032">+1 763-227-5032</a></li>
+
                             <li><i class="bi bi-envelope-fill"></i> <a
-                                    href="https://demo.egenslab.com/cdn-cgi/l/email-protection#a8c1c6cec7e8cdd0c9c5d8c4cd86cbc7c5"><span
-                                        class="__cf_email__"
-                                        data-cfemail="2a43444c456a4f524b475a464f04494547">[email&#160;protected]</span></a>
+                                        href="mailto:contact@happymarrakechtour.com"><span
+                                            class="__cf_email__"
+                                            data-cfemail="4c25222a230c29342d213c2029622f2321">contact@happymarrakechtour.com</span></a>
                             </li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-xl-5 col-lg-6 col-md-6 text-xl-center text-md-start text-center">
                     <div class="topbar-ad">
-                        <a href="#">Black Friday Big Offer</a>
+                        <a href="#">Always We Have A Good Offers For You</a>
                     </div>
                 </div>
                 <div class="col-xl-3 col-lg-6 col-md-6 d-md-flex  d-none align-items-center justify-content-end">
                     <ul class="topbar-social-links">
-                        <li><a href="#"><i class='bx bxl-facebook'></i></a></li>
-                        <li><a href="#"><i class='bx bxl-instagram-alt'></i></a></li>
-                        <li><a href="#"><i class='bx bxl-twitter'></i></a></li>
-                        <li><a href="#"><i class="bx bxl-whatsapp-square"></i></a></li>
-                        <li><a href="#"><i class='bx bxl-pinterest'></i></a></li>
+                        <li><a href="https://www.facebook.com/Annoqri.tours" target="blank"><i class='bx bxl-facebook'></i></a></li>
+                        <li><a href="https://www.instagram.com/happymarrakechtours/" target="blank"><i class='bx bxl-instagram-alt'></i></a></li>
+                        <li><a href="https://www.tripadvisor.fr/Attraction_Review-g293734-d17582639-Reviews-AnnoQri_Travel_Services-Marrakech_Marrakech_Safi.html" target="blank"><img src="../assets/images/icons/tripadvisor.svg"  style="height: 20.36px;width: 20px;color: #fd2929;background: darkorange;"/></a></li>
+                        <li><a href="https://wa.me/212660117948" target="blank"><i class="bx bxl-whatsapp-square"></i></a></li>
+                        <li><a href="https://www.pinterest.com/happymarrakechtours/" target="blank"><i class='bx bxl-pinterest'></i></a></li>
                     </ul>
                 </div>
             </div>
@@ -361,12 +361,11 @@
                                 
                             </ul>
                             <div class="inner-contact-options d-xl-none">
-                                <div class="contact-box-inner"><i class="bi bi-telephone-fill"></i> <a
-                                        href="tel:+17632275032">+1 763-227-5032</a></div>
+                                
                                 <div class="contact-box-inner"><i class="bi bi-envelope-fill"></i> <a
-                                        href="https://demo.egenslab.com/cdn-cgi/l/email-protection#670e09010827021f060a170b024904080a"><span
+                                        href="mailto:contact@happymarrakechtour.com"><span
                                             class="__cf_email__"
-                                            data-cfemail="4c25222a230c29342d213c2029622f2321">[email&#160;protected]</span></a>
+                                            data-cfemail="4c25222a230c29342d213c2029622f2321">contact@happymarrakechtour.com</span></a>
                                 </div>
                             </div>
                         </nav>
