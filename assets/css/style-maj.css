@@ -13,7 +13,12 @@
         }
        
       }
-     
+     .privebackground{
+      background-color: #FAD02C;
+     }
+     .groupbackground{
+      background-color: #B5E5CF      ;
+     }
       .radiosize{
         height: 15px;
         width: 15px;
