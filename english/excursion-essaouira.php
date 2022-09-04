@@ -40,9 +40,9 @@
                                     <tr>
                                         <th>prix* €</th>
                                         <td>60</td>
-                                        <td>44</td>
-                                        <td>35</td>
+                                        <td>40</td>
                                         <td>30</td>
+                                        <td>24</td>
 
                                     </tr>
                                 </table>

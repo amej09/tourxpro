@@ -36,10 +36,10 @@
                                     </tr>
                                     <tr>
                                         <th>prix* €</th>
-                                        <td>40</td>
-                                        <td>30</td>
+                                        <td>35</td>
                                         <td>25</td>
                                         <td>20</td>
+                                        <td>15</td>
 
                                     </tr>
                                 </table>
