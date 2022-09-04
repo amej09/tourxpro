@@ -1,5 +1,5 @@
 <?php 
-    session_start();
+    /**session_start();*/
  ?>
 <!doctype html>
 <html lang="en">
@@ -761,12 +761,22 @@
     </div>
 -->
     <script>
-        var etat = <?php echo $_GET['etat'] ?>
-        alert(etat);
+       /* var etat = <?php echo $_GET['etat'] ?>
+        alert(etat);*/
     </script>
 
     <?php  include 'template/footer.php ' ?>
-    
+    <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+    <script src="../assets/js/jquery-3.6.0.min.js"></script>
+    <script src="../assets/js/bootstrap.bundle.min.js"></script>
+    <script src="../assets/js/chain_fade.js"></script>
+    <script src="../assets/js/owl.carousel.min.js"></script>
+    <script src="../assets/js/swiper-bundle.min.js"></script>
+    <script src="../assets/js/jquery.fancybox.min.js"></script>
+    <script src="../assets/js/select2.min.js"></script>
+    <script src="../assets/js/jquery-ui.js"></script>
+
+    <script src="../assets/js/main.js"></script>
 </body>
 
 <!-- Mirrored from demo.egenslab.com/html/tourxpro/demo/index2.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 18 Aug 2022 11:46:51 GMT -->
