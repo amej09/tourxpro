@@ -760,10 +760,7 @@
         </div>
     </div>
 -->
-    <script>
-       /* var etat = <?php echo $_GET['etat'] ?>
-        alert(etat);*/
-    </script>
+   
 
     <?php  include 'template/footer.php ' ?>
     <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>

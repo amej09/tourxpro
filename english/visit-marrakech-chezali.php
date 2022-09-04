@@ -24,21 +24,17 @@
                             <div class="widget-title">
                                 <table class="table" style="color: white;">
                                      <tr  style="height: 40px ;text-align: center;" class="privebackground">
-                                        <th  colspan="5" >Prive</th>
+                                        <th  colspan="5" >In Private</th>
                                     </tr>
                                     <tr>
                                         <th>nbr max*</th>
-                                        <td>1</td>
-                                        <td>2</td>
-                                        <td>3</td>
-                                        <td>4</td>
+                                        <td>Person</td>
+                                        
                                     </tr>
                                     <tr>
                                         <th>prix* €</th>
-                                        <td>35</td>
-                                        <td>42</td>
-                                        <td>44</td>
-                                        <td>48</td>
+                                        <td>45</td>
+                                        
 
                                     </tr>
                                 </table>
@@ -227,26 +223,9 @@
 
     Our Menus :
 
-    Menu N° 1 – Drinks excluded :        
+ 
 
-    - Moroccan Harira
-    - Vegetable Tagine without meat
-    Or Omelette with Rice
-    - Vegetable couscous without meat
-    - Seasonal fruits
-    - Moroccan pastries
-        
-
-    Menu N° 2 – Drinks excluded :             
-
-    - Maroccan Harira
-    - Meat Skewers
-    - Seven-Vegetable Couscous
-    - Seasonal fruits
-    - Mint tea
-    - Moroccan pastries
-
-    Menu N° 3 – Drinks excluded :     
+    Menu N° 1 – Drinks excluded :     
 
     Moroccan Harira
     - Chiken Tagine with lemon
@@ -257,7 +236,7 @@
     - Moroccan pastries
         
 
-    Menu N° 4 – Drinks excluded :
+    Menu N° 2 – Drinks excluded :
 
     - Maroccan Harira
     - 1/2 Méchoui (lamb)
@@ -301,7 +280,7 @@
     - Children from 5 to 10 years : 50% discount
     - Children 11 years and older will be charged the full price
 
-    Easy Booking: Accepted until 18h00 the day before (Marrakech time), If you have any difficulties to book or need another service, please use our Contact Form
+    Easy Booking: Accepted until 18h00 the day before (Marrakech time), If you have any difficulties to book or need another service, please use our <a href="contact.php" > Contact Form </a> 
 
     
     Payment Methods:

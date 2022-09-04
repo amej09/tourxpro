@@ -32,7 +32,7 @@
                         <div class="widget-title">
                             <table class="table" style="color: white;">
                                 <tr style="height: 40px ;text-align: center;">
-                                    <th colspan="5">Prive</th>
+                                    <th colspan="5">Privat</th>
                                 </tr>
                                 <tr>
                                     <th>nbr max*</th>
@@ -230,8 +230,8 @@
                                 </tr>
                                 <tr>
                                     
-                                    <td>1 --> 5 Pers</td>
-                                    <td>160 Euro</td>
+                                    <td>1 --> 7 Pers</td>
+                                    <td>150 Euro</td>
                                     
 
                                 </tr>
@@ -242,7 +242,7 @@
                                 </tr>
                                 <tr>
                                     
-                                    <td>1 --> 5 Pers</td>
+                                    <td>1 --> 7 Pers</td>
                                     <td>250 Euro</td>
                                     
 
@@ -256,7 +256,7 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#faq-collapseOne" aria-expanded="false"
                                         aria-controls="faq-collapseOne">
-                                        Arrival at Marrakech --> Casablanca
+                                        Transfert Casablanca airport to Marrakech
                                     </button>
                                 </h2>
                                 <div id="faq-collapseOne" class="accordion-collapse collapse"
@@ -307,8 +307,8 @@
                                                         </div>
                                                         <div class="col-lg-6">
                                                             <div class="custom-input-group">
-                                                                <label for="destinition">The destination address in Casablanca</label>
-                                                                <input type="text" placeholder="Your destination address in Casablanca" name="destinition" id="destinition">
+                                                                <label for="destinition">The destination address in Marrakech</label>
+                                                                <input type="text" placeholder="Your destination address in Marrakech" name="destinition" id="destinition">
                                                             </div>
                                                         </div>
                                                     </div>
@@ -340,100 +340,13 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="accordion-item faq-accordion">
-                                <h2 class="accordion-header" id="faq-headingTwo">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                        data-bs-target="#faq-collapseTwo" aria-expanded="false"
-                                        aria-controls="faq-collapseTwo">
-                                        Departure from Casablanca --> Menara airport
-                                    </button>
-                                </h2>
-                                <div id="faq-collapseTwo" class="accordion-collapse collapse"
-                                    aria-labelledby="faq-headingTwo" data-bs-parent="#faq-accordion-example">
-                                    <div class="accordion-body">
-                                        <div class="container mt-20">
-                                        <form action="../assets/php/sender.php" id="booking-form2">
-                                                <input type="hidden"   name="name_tour" value="transfer">
-                                                <input type="hidden"   name="type_tour" value="marrakech <==> Casablanca">
-                                                <input type="hidden"   name="genre_tour" value="Departure">
-                                                <div class="contact-form-wrap">
-                                                    <h5> <i class="bi bi-house"></i>Hotel/Riad<bold>--></bold><i class="bi bi-airplane"></i>Airoport</h5>
-                                                    <div class="row">
-                                                        <div class="col-lg-6">
-                                                            <div class="custom-input-group">
-                                                                <label for="name">Full Name</label>
-                                                                <input type="text" placeholder="Your Full name" id="name" name="name">
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-lg-6">
-                                                            <div class="custom-input-group">
-                                                                <label for="passenger">Number Of Passenger</label>
-                                                                <input type="number" placeholder="Number Of Passenger" name="passenger" id="passenger" min="0" max="5">
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="row">
-                                                        <div class="col-lg-6">
-                                                            <div class="custom-input-group">
-                                                                <label for="departure">Departure date</label>
-                                                                <input type="date" placeholder=" Your Departure date" name="departure" id="departure">
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-lg-6">
-                                                            <div class="custom-input-group">
-                                                                <label for="timedeparture">Time of Departure</label>
-                                                                <input type="time" placeholder="Your Time of Departure" name="timedeparture" id="timedeparture">
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="row">
-                                                        <div class="col-lg-6">
-                                                            <div class="custom-input-group">
-                                                                <label for="flightnumber">Departure flight number</label>
-                                                                <input type="text" placeholder="Your Departure flight number" name="flightnumber" id="flightnumber">
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-lg-6">
-                                                            <div class="custom-input-group">
-                                                                <label for="pickupadresse">Pick Up Point Adresse</label>
-                                                                <input type="text" placeholder="Your Pick Up Point Adresse" name="pickupadresse" id="pickupadresse">
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="row">
-                                                        <div class="col-lg-6">
-                                                            <div class="custom-input-group">
-                                                                <label for="Email">Email </label>
-                                                                <input type="text" placeholder="Your Email" id="Email" name="email" >
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-lg-6">
-                                                            <div class="custom-input-group">
-                                                                <label for="Phone">Phone Number</label>
-                                                                <input type="text" placeholder="Your Phone Number" id="Phone" name="phone">
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="custom-input-group">
-                                                        <textarea cols="20" rows="7" placeholder="Your message" name="message"></textarea>
-                                                    </div>
-                                                    <div class="custom-input-group">
-                                                        <div class="submite-btn">
-                                                            <button type="submit">Send</button>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </form>
-                                         </div>
-                                    </div>
-                                </div>
-                            </div>
+                           
                             <div class="accordion-item faq-accordion">
                                 <h2 class="accordion-header" id="faq-headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#faq-collapseThree" aria-expanded="false"
                                         aria-controls="faq-collapseThree">
-                                        Arrival and departure, Marrakech - Menara airport
+                                        Arrival and Departure marrakech - Casablanca
                                     </button>
                                 </h2>
                                 <div id="faq-collapseThree" class="accordion-collapse collapse"
@@ -509,7 +422,7 @@
                                                         <div class="col-lg-6">
                                                             
                                                                 <div class="custom-input-group">
-                                                                    <label for="destinationadresse">The destination address in Casablanca</label>
+                                                                    <label for="destinationadresse">The destination address in Marrakech</label>
                                                                     <input type="text" placeholder="Your destination address in Casablance" name="destinationadresse" id="destinationadresse">
                                                                 </div>
                                                             
@@ -606,7 +519,7 @@ Availability: Every day
 <i class='bx bx-check'></i>  In case of any problem: please email us or call us on the numbers displayed on contact informations.
 
 
-<bold>Easy Booking:</bold> Accepted until 6pm the day before (Marrakech time), If you have any difficulties to book or need another service, please use our Contact Form
+<bold>Easy Booking:</bold> Accepted until 6pm the day before (Marrakech time), If you have any difficulties to book or need another service, please use our <a href="contact.php" > Contact Form </a> 
 
 <bold>Payment Methods:</bold>
 

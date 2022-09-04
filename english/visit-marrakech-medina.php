@@ -24,7 +24,7 @@
                             <div class="widget-title">
                                 <table class="table" style="color: white;">
                                      <tr  style="height: 40px ;text-align: center;" class="privebackground">
-                                        <th  colspan="5" >Prive</th>
+                                        <th  colspan="5" >Privat</th>
                                     </tr>
                                     <tr>
                                         <th>nbr max*</th>

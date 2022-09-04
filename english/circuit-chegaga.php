@@ -25,7 +25,7 @@
                             <div class="widget-title">
                                 <table class="table" style="color: white;">
                                      <tr  style="height: 40px ;text-align: center;" class="privebackground">
-                                        <th  colspan="5" >Prive</th>
+                                        <th  colspan="5" >Privat</th>
                                     </tr>
                                     <tr>
                                         <th>nbr max*</th>
@@ -313,7 +313,7 @@ Meeting place:
 <i class='bx bx-check'></i> Our driver will pick you up at your hotel/Riad or any other location at the agreed time.
 <i class='bx bx-check'></i> In case of any problem: please email us or call us on the numbers displayed on contact informations.
 
-Easy Booking: Accepted until 6pm the day before (Marrakech time), If you have any difficulties to book or need another service, please use our Contact Form
+Easy Booking: Accepted until 6pm the day before (Marrakech time), If you have any difficulties to book or need another service, please use our <a href="contact.php" > Contact Form </a> 
 
 
 Payment Methods:

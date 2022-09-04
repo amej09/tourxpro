@@ -24,10 +24,10 @@
                             <div class="widget-title">
                                 <table class="table" style="color: white; border: solid 0px ;border-color: #162b32; ">
                                     <tr  style="height: 40px ;text-align: center;">
-                                        <th   >Prive</th>
+                                        <th   >Privat</th>
                                     </tr>
                                     <tr  style="height: 40px ;text-align: center;">
-                                        <th   >70 €</th>
+                                        <th   >50 €</th>
                                     </tr>
                                     <tr  style="height: 40px;text-align: center; ">
                                         <th > Per person </th>                                        

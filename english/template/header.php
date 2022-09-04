@@ -142,11 +142,11 @@
                                     <a href="javascript:void(0)">Activity</a>
                                     <i class="fl flaticon-plus">+</i>
                                     <ul class="sub-menu">
-                                        <li><a href="activity-buggy.php">Buggy adventure at the Palmeraie </a></li>
-                                        <li><a href="activity-quad-camel.php">Quad and Camel at the Palmeraie </a></li>
-                                        <li><a href="activity-quad.php">Quad Excursion to Marrakech</a></li>
-                                        <li><a href="activity-camel.php">Camel walk to the Palmeraie</a></li>
-                                        <li><a href="activity-montgolfiere.php">Flight by Montgolfiere at Marrakech</a></li>
+                                        <li><a href="activity-buggy.php">Buggy adventure in the Palmeraie </a></li>
+                                        <li><a href="activity-quad-camel.php">Quad and Camel in the Palmeraie </a></li>
+                                        <li><a href="activity-quad.php">Quad Excursion in Marrakech</a></li>
+                                        <li><a href="activity-camel.php">Camel walk in the Palmeraie</a></li>
+                                        <li><a href="activity-montgolfiere.php">Flight by Montgolfiere in Marrakech</a></li>
                                     </ul>
                                 </li>
                                 <li class="has-child-menu">

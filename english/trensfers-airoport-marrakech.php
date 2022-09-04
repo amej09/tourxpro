@@ -31,7 +31,7 @@
                         <div class="widget-title">
                             <table class="table" style="color: white;">
                                 <tr style="height: 40px ;text-align: center;">
-                                    <th colspan="5">Prive</th>
+                                    <th colspan="5">Privat</th>
                                 </tr>
                                 <tr>
                                     <th>nbr max*</th>
@@ -229,19 +229,14 @@
                                 </tr>
                                 <tr>
                                     
-                                    <td>1 --> 5 Pers</td>
+                                    <td>Transfer airport From/To guiliz or mdina</td>
                                     <td>15 Euro</td>
                                     
 
                                 </tr>
                                 <tr>
-                                    <th>Transfer arrival & departure</th>
-                                    <th>Price</th>
                                     
-                                </tr>
-                                <tr>
-                                    
-                                    <td>1 --> 5 Pers</td>
+                                    <td>Transfer airport From / To Palmerie</td>
                                     <td>20 Euro</td>
                                     
 
@@ -606,7 +601,7 @@ Airport-Hotel Transfer (Arrival & Departure): If you wish to enjoy easy and comf
 <i class='bx bx-check'></i>  In case of any problem: please email us or call us on the numbers displayed on contact informations.
 
 
-<bold>Easy Booking:</bold> Accepted until 6pm the day before (Marrakech time), If you have any difficulties to book or need another service, please use our Contact Form
+<bold>Easy Booking:</bold> Accepted until 6pm the day before (Marrakech time), If you have any difficulties to book or need another service, please use our <a href="contact.php" > Contact Form </a> 
 
 <bold>Payment Methods:</bold>
 
