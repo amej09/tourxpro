@@ -132,22 +132,7 @@
 </script>
 <!-- /GetButton.io widget -->
 
-<script data-cfasync="false" src="../../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
-
-<script src="../assets/js/jquery-3.6.0.min.js"></script>
-<script src="../assets/js/bootstrap.bundle.min.js"></script>
-<script src="../assets/js/chain_fade.js"></script>
-<script src="../assets/js/owl.carousel.min.js"></script>
-<script src="../assets/js/swiper-bundle.min.js"></script>
-<script src="../assets/js/jquery.fancybox.min.js"></script>
-<script src="../assets/js/select2.min.js"></script>
-<script src="../assets/js/jquery-ui.js"></script>
-
-<script src="../assets/js/main.js"></script>
-<script src="../assets/js/custom-swiper.js"></script>
-<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
-<script src="../assets/js/notify.js"></script>
-
+ 
 <script>
     $("#booking-form").submit(function(e) {
 

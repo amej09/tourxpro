@@ -14,7 +14,7 @@
             <div class="col-lg-12 text-center">
                 <h2 class="breadcrumb-title">Marrakech City Highlights Half-Day Tour  </h2>
                 <ul class="d-flex justify-content-center breadcrumb-items">
-                    <li class="breadcrumb-item"><a href="index.php">acceuil</a></li>
+                    <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                     <li class="breadcrumb-item active">visits</li>
                 </ul>
             </div>

@@ -8,7 +8,7 @@
             <div class="col-lg-12 text-center">
                 <h2 class="breadcrumb-title">Night in Bivouac in Agafay Desert </h2>
                 <ul class="d-flex justify-content-center breadcrumb-items">
-                    <li class="breadcrumb-item"><a href="index.php">acceuil</a></li>
+                    <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                     <li class="breadcrumb-item active">Agafay</li>
                 </ul>
             </div>
