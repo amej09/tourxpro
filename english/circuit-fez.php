@@ -364,74 +364,11 @@ Payment Methods:
         var nbr_prive=680;
         $('#totalpriceprive').val(nbr_prive );
 
-       $('#Guide').change(function() {
-         /* */
-          if($(this).is(':checked')){
-              nbr_prive+=15;
-          }
-          else{
-              nbr_prive-=15;
-          }
-          $('#totalpriceprive').val(nbr_prive );
-
-       });
-       $('#Lunch').change(function() {
-          /* */          
-          var lunch=10;
-
-          if($(this).is(':checked')){
-              nbr= $( '#truist-adult' ).val();
-              if(nbr=='2'){
-                  nbr_prive+=lunch*2;
-              }else if(nbr=='3'){
-                  nbr_prive+=lunch*3;
-              }
-              else if(nbr=='4'){
-                  nbr_prive+=lunch*4;
-              }
-              else if(nbr=='5'){
-                  nbr_prive+=lunch*5;
-              }else{
-                  nbr_prive+=lunch;
-
-              }
-                  
-          }
-          else{
-              nbr= $( '#truist-adult' ).val();
-              if(nbr=='2'){
-                  nbr_prive-=lunch*2;
-              }else if(nbr=='3'){
-                  nbr_prive-=lunch*3;
-              }
-              else if(nbr=='4'){
-                  nbr_prive-=lunch*4;
-              }
-              else if(nbr=='5'){
-                  nbr_prive-=lunch*5;
-              }else{
-                  nbr_prive-=lunch;
-
-              }            }
-          $('#totalpriceprive').val(nbr_prive );
-
-      });
-
        $( '#truist-adult' ).change(function() {
-          $( "#Lunch" ).prop( "checked", false );
-          $( "#Guide" ).prop( "checked", false );
+          
         nbr= $( '#truist-adult' ).val();
-        nbr_prive=70;
-         if(nbr=='2'){
-          nbr_prive+=10;
-         }else if(nbr=='3'){
-          nbr_prive+=20;
-       }else if(nbr=='4'){
-          nbr_prive+=30;
-       }else if(nbr=='5'){
-          nbr_prive+=30;
-       }
-       $('#totalpriceprive').val(nbr_prive );
+       var new_nbr_prive = nbr_prive / nbr ;
+       $('#totalpriceprive').val(new_nbr_prive );
 
        });
 </script>

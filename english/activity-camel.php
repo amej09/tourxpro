@@ -308,18 +308,11 @@ Payment Methods:
         var nbr_prive=27
         $('#totalpriceprive').val(nbr_prive );
 
-       
-
        $( '#truist-adult' ).change(function() {
-      
+          
         nbr= $( '#truist-adult' ).val();
-        nbr_prive=27;
-         if(nbr=='3'){
-          nbr_prive+=1;
-       }else if(nbr=='4'){
-          nbr_prive+=2;
-       }
-       $('#totalpriceprive').val(nbr_prive );
+       var new_nbr_prive = nbr_prive * nbr ;
+       $('#totalpriceprive').val(new_nbr_prive );
 
        });
 </script>

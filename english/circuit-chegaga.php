@@ -389,78 +389,15 @@ Payment Methods:
 
     <script src="../assets/js/main.js"></script>
     
-    <script >
+<script >
         var nbr_prive=605;
         $('#totalpriceprive').val(nbr_prive );
 
-       $('#Guide').change(function() {
-         /* */
-          if($(this).is(':checked')){
-              nbr_prive+=15;
-          }
-          else{
-              nbr_prive-=15;
-          }
-          $('#totalpriceprive').val(nbr_prive );
-
-       });
-       $('#Lunch').change(function() {
-          /* */          
-          var lunch=10;
-
-          if($(this).is(':checked')){
-              nbr= $( '#truist-adult' ).val();
-              if(nbr=='2'){
-                  nbr_prive+=lunch*2;
-              }else if(nbr=='3'){
-                  nbr_prive+=lunch*3;
-              }
-              else if(nbr=='4'){
-                  nbr_prive+=lunch*4;
-              }
-              else if(nbr=='5'){
-                  nbr_prive+=lunch*5;
-              }else{
-                  nbr_prive+=lunch;
-
-              }
-                  
-          }
-          else{
-              nbr= $( '#truist-adult' ).val();
-              if(nbr=='2'){
-                  nbr_prive-=lunch*2;
-              }else if(nbr=='3'){
-                  nbr_prive-=lunch*3;
-              }
-              else if(nbr=='4'){
-                  nbr_prive-=lunch*4;
-              }
-              else if(nbr=='5'){
-                  nbr_prive-=lunch*5;
-              }else{
-                  nbr_prive-=lunch;
-
-              }            }
-          $('#totalpriceprive').val(nbr_prive );
-
-      });
-
        $( '#truist-adult' ).change(function() {
-          $( "#Lunch" ).prop( "checked", false );
-          $( "#Guide" ).prop( "checked", false );
+          
         nbr= $( '#truist-adult' ).val();
-        nbr_prive=70;
-         if(nbr=='2'){
-          nbr_prive+=10;
-         }else if(nbr=='3'){
-          nbr_prive+=20;
-       }else if(nbr=='4'){
-          nbr_prive+=30;
-       }else if(nbr=='5'){
-          nbr_prive+=30;
-       }
-       $('#totalpriceprive').val(nbr_prive );
+       var new_nbr_prive = nbr_prive / nbr ;
+       $('#totalpriceprive').val(new_nbr_prive );
 
        });
 </script>
@@ -468,75 +405,12 @@ Payment Methods:
   var nbr_group=65 ;
   $('#totalpricegroup').val(nbr_group );
 
- $('#Guidegroup').change(function() {
-   /* */
-    if($(this).is(':checked')){
-      nbr_group+=15;
-    }
-    else{
-      nbr_group-=15;
-    }
-    $('#totalpricegroup').val(nbr_group );
-
- });
- $('#Lunchgroup').change(function() {
-   /* */
-      var lunchgroup=10;
-
-    if($(this).is(':checked')){
-      nbr= $( '#truist-adultgroup' ).val();
-      if(nbr=='2'){
-          nbr_group+= lunchgroup * 2;
-      }else if(nbr=='3'){
-          nbr_group+= lunchgroup * 3;
-      }
-      else if(nbr=='4'){
-          nbr_group+= lunchgroup * 4;
-      }
-      else if(nbr=='5'){
-          nbr_group+= lunchgroup * 5;
-      }else{
-          nbr_group+= lunchgroup;
-
-      }
-          
-    }
-    else{
-      if(nbr=='2'){
-          nbr_group-= lunchgroup * 2;
-      }else if(nbr=='3'){
-          nbr_group-= lunchgroup * 3;
-      }
-      else if(nbr=='4'){
-          nbr_group-= lunchgroup * 4;
-      }
-      else if(nbr=='5'){
-          nbr_group-= lunchgroup * 5;
-      }else{
-          nbr_group-= lunchgroup;
-
-      }
-    }
-    $('#totalpricegroup').val(nbr_group );
- });
-
- $( '#truist-adultgroup' ).change(function() {
-    $( "#Lunchgroup" ).prop( "checked", false );
-    $( "#Guidegroup" ).prop( "checked", false );
+$( '#truist-adultgroup' ).change(function() {
+   
   nbr= $( '#truist-adultgroup' ).val();
-  nbr_group=25;
- if(nbr=='2'){
-      nbr_group=(nbr_group * 2);
- }else if(nbr=='3'){
-  nbr_group=(nbr_group * 3);
- }
- else if(nbr=='4'){
-  nbr_group=(nbr_group * 4);
- }
- else if(nbr=='5'){
-  nbr_group=(nbr_group * 5);
- }
- $('#totalpricegroup').val(nbr_group );
+    
+  var new_nbr_group =   nbr_group * nbr ;
+ $('#totalpricegroup').val(new_nbr_group );
 
  });
 </script>
