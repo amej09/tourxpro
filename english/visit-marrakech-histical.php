@@ -35,10 +35,10 @@
                                     </tr>
                                     <tr>
                                         <th>prix* €</th>
-                                        <td>50</td>
                                         <td>35</td>
-                                        <td>30</td>
-                                        <td>25</td>
+                                        <td>23</td>
+                                        <td>17</td>
+                                        <td>14</td>
 
                                     </tr>
                                 </table>
@@ -89,7 +89,7 @@
                                         </div>
                                         <div class="custom-input-group">
                                        
-                                            Total Price in  €<input type="text"  id="totalpriceprive"  name="totalprice" class="form-control" disabled>
+                                            Total Price in  € Per Person<input type="text"  id="totalpriceprive"  name="totalprice" class="form-control" disabled>
                                         </div>
                                         <div class="custom-input-group">
                                             <input type="text" placeholder="Your Full Name" id="name" name="name" required>
@@ -394,39 +394,11 @@ Payment Methods:
           var lunch=12;
 
           if($(this).is(':checked')){
-              nbr= $( '#truist-adult' ).val();
-              if(nbr=='2'){
-                  nbr_prive+=lunch*2;
-              }else if(nbr=='3'){
-                  nbr_prive+=lunch*3;
-              }
-              else if(nbr=='4'){
-                  nbr_prive+=lunch*4;
-              }
-              else if(nbr=='5'){
-                  nbr_prive+=lunch*5;
-              }else{
-                  nbr_prive+=lunch;
-
-              }
-                  
+            nbr_prive+=lunch;
           }
           else{
-              nbr= $( '#truist-adult' ).val();
-              if(nbr=='2'){
-                  nbr_prive-=lunch*2;
-              }else if(nbr=='3'){
-                  nbr_prive-=lunch*3;
-              }
-              else if(nbr=='4'){
-                  nbr_prive-=lunch*4;
-              }
-              else if(nbr=='5'){
-                  nbr_prive-=lunch*5;
-              }else{
-                  nbr_prive-=lunch;
-
-              }            }
+            nbr_prive-=lunch;
+      }
           $('#totalpriceprive').val(nbr_prive );
 
       });
@@ -435,16 +407,7 @@ Payment Methods:
           $( "#Lunch" ).prop( "checked", false );
           $( "#Guide" ).prop( "checked", false );
         nbr= $( '#truist-adult' ).val();
-        nbr_prive=70;
-         if(nbr=='2'){
-          nbr_prive+=30;
-         }else if(nbr=='3'){
-          nbr_prive+=35;
-       }else if(nbr=='4'){
-          nbr_prive+=50;
-       }else if(nbr=='5'){
-          nbr_prive+=55;
-       }
+        nbr_prive=parseInt( 70 / nbr);
        $('#totalpriceprive').val(nbr_prive );
 
        });

@@ -65,7 +65,7 @@
                                         
                                         <div class="custom-input-group">
                                        
-                                            Total Price in  €<input type="text"  id="totalpriceprive"  name="totalprice" class="form-control" disabled>
+                                            Total Price in  € Per Person<input type="text"  id="totalpriceprive"  name="totalprice" class="form-control" disabled>
                                         </div>
                                         <div class="custom-input-group">
                                             <input type="text" placeholder="Your Full Name" id="name" name="name" required>
@@ -375,14 +375,14 @@ Payment Methods:
     <script src="../assets/js/main.js"></script>
    
     <script >
-        var nbr_prive=40;
+        var nbr_prive=45;
         $('#totalpriceprive').val(nbr_prive );
 
        
        $( '#truist-adult' ).change(function() {
     
         nbr= $( '#truist-adult' ).val();
-        nbr_prive=40 * nbr;
+        nbr_prive=45 * nbr;
        
        $('#totalpriceprive').val(nbr_prive );
 

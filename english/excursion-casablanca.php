@@ -39,8 +39,8 @@
                                     <tr>
                                         <th>prix* €</th>
                                         <td>85</td>
-                                        <td>57</td>
-                                        <td>43</td>
+                                        <td>56</td>
+                                        <td>42</td>
                                         <td>34</td>
 
                                     </tr>
@@ -76,7 +76,7 @@
                                          
                                         <div class="custom-input-group">
                                        
-                                            Total Price in  €<input type="text"  id="totalpriceprive"  name="totalprice" class="form-control" disabled>
+                                            Total Price in  € Per Person<input type="text"  id="totalpriceprive"  name="totalprice" class="form-control" disabled>
                                         </div>
                                         <div class="custom-input-group">
                                             <input type="text" placeholder="Your Full Name" id="name" name="name" required>
@@ -345,22 +345,15 @@ Payment Methods:
     <script src="../assets/js/main.js"></script>
     
     <script >
-        
         var nbr_prive=170;
         $('#totalpriceprive').val(nbr_prive );
-
-       
 
        $( '#truist-adult' ).change(function() {
       
         nbr= $( '#truist-adult' ).val();
-        nbr_prive=170;
-         if(nbr=='3'){
-          nbr_prive+=1;
-       }else if(nbr=='4'){
-          nbr_prive+=2;
-       }
-       $('#totalpriceprive').val(nbr_prive );
+        nbr_prive=parseInt(170 / nbr);
+       
+        $('#totalpriceprive').val(nbr_prive );
 
        });
 </script>

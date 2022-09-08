@@ -37,9 +37,9 @@
                                     <tr>
                                         <th>prix* €</th>
                                         <td>35</td>
-                                        <td>25</td>
-                                        <td>20</td>
-                                        <td>15</td>
+                                        <td>23</td>
+                                        <td>17</td>
+                                        <td>14</td>
 
                                     </tr>
                                 </table>
@@ -90,7 +90,7 @@
                                         </div>
                                         <div class="custom-input-group">
                                        
-                                            Total Price in  €<input type="text"  id="totalpriceprive"  name="totalprice" class="form-control" disabled>
+                                            Total Price in  € Per Person<input type="text"  id="totalpriceprive"  name="totalprice" class="form-control" disabled>
                                         </div>
                                         <div class="custom-input-group">
                                             <input type="text" placeholder="Your Full Name" id="name" name="name" required>
@@ -486,16 +486,8 @@ In cash (Euros or MAD) upon arrival
           $( "#Lunch" ).prop( "checked", false );
           $( "#Guide" ).prop( "checked", false );
         nbr= $( '#truist-adult' ).val();
-        nbr_prive=70;
-         if(nbr=='2'){
-          nbr_prive+=10;
-         }else if(nbr=='3'){
-          nbr_prive+=20;
-       }else if(nbr=='4'){
-          nbr_prive+=30;
-       }else if(nbr=='5'){
-          nbr_prive+=30;
-       }
+        nbr_prive=parseInt(70 / nbr);
+
        $('#totalpriceprive').val(nbr_prive );
 
        });
@@ -560,18 +552,7 @@ In cash (Euros or MAD) upon arrival
     $( "#Lunchgroup" ).prop( "checked", false );
     $( "#Guidegroup" ).prop( "checked", false );
   nbr= $( '#truist-adultgroup' ).val();
-  nbr_group=25;
- if(nbr=='2'){
-      nbr_group=(nbr_group * 2);
- }else if(nbr=='3'){
-  nbr_group=(nbr_group * 3);
- }
- else if(nbr=='4'){
-  nbr_group=(nbr_group * 4);
- }
- else if(nbr=='5'){
-  nbr_group=(nbr_group * 5);
- }
+  nbr_group=25 *nbr ;
  $('#totalpricegroup').val(nbr_group );
 
  });
