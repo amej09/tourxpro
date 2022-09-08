@@ -37,10 +37,10 @@
                                 </tr>
                                 <tr>
                                     <th>prix* €</th>
-                                    <td>85</td>
-                                    <td>56</td>
-                                    <td>42</td>
-                                    <td>34</td>
+                                    <td>70</td>
+                                    <td>46</td>
+                                    <td>35</td>
+                                    <td>28</td>
 
                                 </tr>
                             </table>
@@ -182,13 +182,7 @@
                             </div>
                             <h2 class="pd-title">Day Trip to Ouarzazate - Ait Benhaddou</h2>
                         </div>
-                        <div id="TA_cdswritereviewlgvi431" class="TA_cdswritereviewlgvi">
-                            <ul id="fqSG6u0" class="TA_links n4VVgmN">
-                                <li id="dUv4hUwty3" class="XkCs4S07">
-                                    <a target="_blank" href="https://www.tripadvisor.com/"><img src="https://static.tacdn.com/img2/brand_refresh/Tripadvisor_lockup_horizontal_secondary_registered.svg" alt="TripAdvisor" /></a>
-                                </li>
-                            </ul>
-                        </div>
+                       
                     </div>
                 </div>
             </div>
@@ -470,7 +464,7 @@ Payment Methods:
         $("#Lunch").prop("checked", false);
         $("#Guide").prop("checked", false);
         nbr = $('#truist-adult').val();
-        nbr_prive=parseInt(170 / nbr);
+        nbr_prive=parseInt(140 / nbr);
         $('#totalpriceprive').val(nbr_prive);
 
     });
