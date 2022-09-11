@@ -598,7 +598,7 @@
                     </div>
                 </div>
             </div>
-           
+             
         </div>
     </div>
 
@@ -626,7 +626,7 @@
                             <a href="agafay-quad.php">
                                 <h4 class="guide-name">Quad Biking in Agafay Desert<br><br> </h4>
                             </a>
-                            <h6 class="guide-designation">Tour Guide</h6>
+                            <h6 class="guide-designation">Guide touristique</h6>
                         </div>
                     </div>
                 </div>
@@ -640,7 +640,7 @@
                             <a href="agafay-buggy-camel.php">
                                 <h4 class="guide-name">Buggy Adventure in Agafay Desert</h4>
                             </a>
-                            <h6 class="guide-designation">Tour Guide</h6>
+                            <h6 class="guide-designation">Guide touristique</h6>
                         </div>
                     </div>
                 </div>
@@ -656,7 +656,7 @@
                             <a href="agafay-camels.php">
                                 <h4 class="guide-name">Camel Ride at sunset in Agafay </h4>
                             </a>
-                            <h6 class="guide-designation">Tour Guide</h6>
+                            <h6 class="guide-designation">Guide touristique</h6>
                         </div>
                     </div>
                 </div>
@@ -672,7 +672,7 @@
                             <a href="agafay-bivouac.php">
                                 <h4 class="guide-name">Night in Bivouac in Agafay Desert</h4>
                             </a>
-                            <h6 class="guide-designation">Tour Guide</h6>
+                            <h6 class="guide-designation">Guide touristique</h6>
                         </div>
                     </div>
                 </div>
@@ -688,7 +688,7 @@
                             <a href="agafay-sunset.php">
                                 <h4 class="guide-name">Sunset in Agafay <br><br></h4>
                             </a>
-                            <h6 class="guide-designation">Tour Guide</h6>
+                            <h6 class="guide-designation">Guide touristique</h6>
                         </div>
                     </div>
                 </div>
