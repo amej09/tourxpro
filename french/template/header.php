@@ -156,7 +156,7 @@
                                         <li><a href="agafay-quad.php">Quad Biking au Désert d'Agafay</a></li>
                                         <li><a href="agafay-buggy-camel.php">Aventure Buggy au Désert d'Agafay</a></li>
                                         <li><a href="agafay-camels.php">Chameaux au Coucher du Soleil à Agafay</a></li>
-                                        <li><a href="agafay-sunset.php">Agafay Sahara magical Sunset from Marrakech </a></li>
+                                        <li><a href="agafay-sunset.php">Agafay Sahara coucher de soleil magique</a></li>
                                         <li><a href="agafay-bivouac.php">Nuit en Bivouac au Désert d'Agafay</a></li>
                                     </ul>
                                 </li>

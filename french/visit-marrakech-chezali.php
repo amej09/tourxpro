@@ -61,8 +61,7 @@
                                                     <select id="truist-menu" name="menue">
                                                     <option  value="menu1" selected > Menu N° 1  </option>
                                                     <option  value="menu2"  > Menu N° 2  </option>
-                                                    <option  value="menu3"  > Menu N° 3  </option>
-                                                    <option  value="menu4"  > Menu N° 4  </option>
+                                                    
                                                     
                                                     </select>
                                                  </div>
@@ -226,33 +225,9 @@ Certains soirs, un sultan et sa favorite survolent la foule… sur un tapis vola
 
 Nos Menus:
 
- 
 
-Menu N° 1 – Hors boissons:                               
 
-    <i class='bx bx-check'></i>Harira Marocaine 
-    <i class='bx bx-check'></i>Tagine de Légumes sans viande
-    <i class='bx bx-check'></i>OU Omelette avec du Riz
-    <i class='bx bx-check'></i>Couscous aux sept légumes 
-    <i class='bx bx-check'></i>Fruits de saison 
-    <i class='bx bx-check'></i>Thé à la menthe 
-    <i class='bx bx-check'></i>Pâtisseries Marocaines
-
- 
-	
-
-Menu N° 2 – Hors boissons:                                
-
-    <i class='bx bx-check'></i>Harira Marocaine 
-    <i class='bx bx-check'></i>Brochettes de viandes 
-    <i class='bx bx-check'></i>Couscous aux sept légumes 
-    <i class='bx bx-check'></i>Fruits de saison 
-    <i class='bx bx-check'></i>Thé à la menthe 
-    <i class='bx bx-check'></i>Pâtisseries Marocaines
-
- 
-
-Menu N° 3 – Hors boissons:                                
+Menu N° 1 – Hors boissons:                                
 
     <i class='bx bx-check'></i>Harira Marocaine
     <i class='bx bx-check'></i>Tajine de viande aux pruneaux  OU Tagine de poulet au citron. 
@@ -264,7 +239,7 @@ Menu N° 3 – Hors boissons:
  
 	
 
-Menu N° 4 – Hors boissons
+Menu N° 2 – Hors boissons
 
     <i class='bx bx-check'></i>Harira Marocaine 
     <i class='bx bx-check'></i>1/2 Méchoui
@@ -430,19 +405,11 @@ Modes de Paiement:
             var childtaxes=0;
             var nuberchild= $( '#truist-child' ).val();
              menu= $( '#truist-menu' ).val();
-             if(menu=='menu1'){
-                nbr_prive=35;
-                childtaxes=17.5;
-
-            }else if(menu=='menu2'){
-                nbr_prive=42;
-                childtaxes=21;
-
-            }else if(menu=='menu3'){
+            if(menu=='menu1'){
                 nbr_prive=44;
                 childtaxes=22;
 
-            }else if(menu=='menu4'){
+            }else if(menu=='menu2'){
                 nbr_prive=48;
                 childtaxes=24;
 
@@ -459,12 +426,8 @@ Modes de Paiement:
             menu= $( '#truist-menu' ).val();
 
             if(menu=='menu1'){
-                nbr_prive=35;
-            }else if(menu=='menu2'){
-                nbr_prive=42;
-            }else if(menu=='menu3'){
                 nbr_prive=44;
-            }else if(menu=='menu4'){
+            }else if(menu=='menu2'){
                 nbr_prive=48;
             }
 
@@ -475,19 +438,11 @@ Modes de Paiement:
        
        $( '#truist-adult' ).change(function() {
           menu= $( '#truist-menu' ).val();
-            if(menu=='menu1'){
-                nbr_prive=35;
-                childtaxes=17.5;
-
-            }else if(menu=='menu2'){
-                nbr_prive=42;
-                childtaxes=21;
-
-            }else if(menu=='menu3'){
+             if(menu=='menu1'){
                 nbr_prive=44;
                 childtaxes=22;
 
-            }else if(menu=='menu4'){
+            }else if(menu=='menu2'){
                 nbr_prive=48;
                 childtaxes=24;
 
@@ -504,6 +459,5 @@ Modes de Paiement:
 
 </body>
 
-<!-- Mirrored from demo.egenslab.com/html/tourxpro/demo/package-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 18 Aug 2022 11:46:30 GMT -->
-
+ 
 </html>

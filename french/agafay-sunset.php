@@ -6,7 +6,7 @@
     <div class="breadcrumb breadcrumb-style-one">
         <div class="container">
             <div class="col-lg-12 text-center">
-                <h2 class="breadcrumb-title">Agafay Sahara magical Sunset from Marrakech </h2>
+                <h2 class="breadcrumb-title">Agafay Sahara coucher de soleil magique au départ de Marrakech</h2>
                 <ul class="d-flex justify-content-center breadcrumb-items">
                     <li class="breadcrumb-item"><a href="index.php">Acceuil</a></li>
                     <li class="breadcrumb-item active">Agafay</li>
@@ -158,7 +158,7 @@
                                         <li><i class="bi bi-star-fill"></i></li>
                                     </ul>
                                 </div>
-                                <h2 class="pd-title">Agafay Sahara magical Sunset from Marrakech </h2>
+                                <h2 class="pd-title">Agafay Sahara coucher de soleil magique au départ de Marrakech</h2>
                             </div>
                         </div>
                     </div>    
@@ -193,41 +193,40 @@
                                     role="tabpanel" aria-labelledby="pills-package1">
                                     <h3 class="d-subtitle">Détails du forfait</h3>
 <pre>
- <b>Overview</b>
+ <b>Vue d'ensemble</b>
 
-    On the off chance that you are too hot to even consider visiting the medina of Marrakech and need to take a break, At the
-        gates of Marrakech, this stone desert will surprise you and make you forget the intense atmosphere of central Marrakech.
+ Au cas où vous auriez trop chaud pour envisager de visiter la médina de Marrakech et que vous ayez besoin de faire 
+ une pause, Aux portes de Marrakech, ce désert de pierre vous surprendra et vous fera oublier l'atmosphère intense du centre de Marrakech.
 
- <b>What's Included</b>
+ <b>Ce qui est inclus</b>
 
-    <i class='bx bx-check'></i> Hotel pickup and drop-off
-    <i class='bx bx-check'></i> Air-conditioned vehicle
-    <i class='bx bx-check'></i> Private transportation
-    <i class='bx bx-check'></i> Coffee or Tea or Fruit juice or Soda
-    <i class='bx bx-check'></i> All Taxes
+    <i class='bx bx-check'></i> Prise en charge et retour à l'hôtel
+    <i class='bx bx-check'></i> Véhicule climatisé
+    <i class='bx bx-check'></i> Transport privé
+    <i class='bx bx-check'></i> Café ou Thé ou Jus de fruits ou Soda
+    <i class='bx bx-check'></i> Toutes les taxes
 
- <b> Please Note  </b>
-    We start picking up clients from all hotels, riads, and tourist apartments in the defined area between 5:30 p.m. And 6:00 p.m.
-    It depends where your hotel is located. travelers who are not in our selected area can also email us with their hotel
-    name and address so we can discuss their pickup details.
-  
-  <h3>What To Expect</h3>
+ <b> Détails sur la prise en charge </b>
+ Nous commençons à récupérer les clients de tous les hôtels, riads et appartements touristiques de la zone définie entre 
+ 17h30 et 17h30. Et 18h00. Cela dépend de l'emplacement de votre hôtel. les voyageurs qui ne se trouvent pas dans notre 
+ zone sélectionnée peuvent également nous envoyer un e-mail avec le nom et l'adresse de leur hôtel afin que nous 
+ puissions discuter des détails de leur prise en charge.
+
+  <h3>À quoi s'attendre</h3>
   <b>Marrakech </b>
-  At the time, and after the pick-up, be ready to start a short Meditative trip to see the gorgeous,
-   if not the most amazing, sunset. Admire the fiery red sun as it prepares to depart, leaving those vast desert hills. 
-   45 minutes • Admission Ticket Free
+  À ce moment-là et après la prise en charge, soyez prêt à commencer un court voyage méditatif pour voir le
+   magnifique, sinon le plus étonnant, coucher de soleil. Admirez le soleil rouge ardent alors qu'il se prépare à partir,
+    laissant ces vastes collines désertiques.
+
    <b>Agafay </b>
-   Once we are in the Agafay desert, you will be amazed by the magnificent surroundings. you would never have an
-   experience such as this one again, in addition, you will have an opportunity to get the most beautiful sunset ever. 
-   Discover the incredible majesty of the Agafay desert, and enjoy a glass of traditional Moroccan mint tea in a
-    Saharan tent facing the desertic hills and continuing to the Atlas Mountains. 
-    1 hour 30 minutes • Admission Ticket Free 
-    <b>Agafay (Pass By)</b>
-   After a short period of admiration and amazement, you will notice that the sky is starting to darken, it is time to 
-   return to Marrakesh. We will take you to the place where the journey began.
-
-
-
+   Une fois dans le désert d'Agafay, vous serez émerveillé par le cadre magnifique. vous n'auriez plus jamais une
+    expérience comme celle-ci, en plus, vous aurez l'occasion d'obtenir le plus beau coucher de soleil de tous les
+     temps. Découvrez l'incroyable majesté du désert d'Agafay et dégustez un verre de thé à la menthe marocain 
+     traditionnel dans une tente saharienne face aux collines désertiques et continuez vers les montagnes de l'Atlas.
+    
+    <b>Agafay (Passe devant)</b>
+    Après une courte période d'admiration et d'étonnement, vous remarquerez que le ciel commence à s'assombrir,
+     il est temps de retourner à Marrakech. Nous vous emmènerons à l'endroit où le voyage a commencé.
 
 </pre>                    
                                 </div>

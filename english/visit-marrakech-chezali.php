@@ -61,8 +61,7 @@
                                                     <select id="truist-menu" name="menue">
                                                     <option  value="menu1" selected > Menu N° 1  </option>
                                                     <option  value="menu2"  > Menu N° 2  </option>
-                                                    <option  value="menu3"  > Menu N° 3  </option>
-                                                    <option  value="menu4"  > Menu N° 4  </option>
+                                                   
                                                     
                                                     </select>
                                                  </div>
@@ -401,19 +400,11 @@
             var childtaxes=0;
             var nuberchild= $( '#truist-child' ).val();
              menu= $( '#truist-menu' ).val();
-             if(menu=='menu1'){
-                nbr_prive=35;
-                childtaxes=17.5;
-
-            }else if(menu=='menu2'){
-                nbr_prive=42;
-                childtaxes=21;
-
-            }else if(menu=='menu3'){
+              if(menu=='menu1'){
                 nbr_prive=44;
                 childtaxes=22;
 
-            }else if(menu=='menu4'){
+            }else if(menu=='menu2'){
                 nbr_prive=48;
                 childtaxes=24;
 
@@ -429,13 +420,9 @@
             $( '#truist-child' ).val('0');
             menu= $( '#truist-menu' ).val();
 
-            if(menu=='menu1'){
-                nbr_prive=35;
-            }else if(menu=='menu2'){
-                nbr_prive=42;
-            }else if(menu=='menu3'){
+             if(menu=='menu1'){
                 nbr_prive=44;
-            }else if(menu=='menu4'){
+            }else if(menu=='menu2'){
                 nbr_prive=48;
             }
 
@@ -446,19 +433,11 @@
        
        $( '#truist-adult' ).change(function() {
           menu= $( '#truist-menu' ).val();
-            if(menu=='menu1'){
-                nbr_prive=35;
-                childtaxes=17.5;
-
-            }else if(menu=='menu2'){
-                nbr_prive=42;
-                childtaxes=21;
-
-            }else if(menu=='menu3'){
+             if(menu=='menu1'){
                 nbr_prive=44;
                 childtaxes=22;
 
-            }else if(menu=='menu4'){
+            }else if(menu=='menu2'){
                 nbr_prive=48;
                 childtaxes=24;
 
