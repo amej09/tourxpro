@@ -6,9 +6,9 @@
     <div class="breadcrumb breadcrumb-style-one">
         <div class="container">
             <div class="col-lg-12 text-center">
-                <h2 class="breadcrumb-title">Shopping dans les Souks de La Médina  </h2>
+                <h2 class="breadcrumb-title">Visite de Marrakech Le Soir </h2>
                 <ul class="d-flex justify-content-center breadcrumb-items">
-                    <li class="breadcrumb-item"><a href="index.php">acceuil</a></li>
+                    <li class="breadcrumb-item"><a href="index.php">Acceuil</a></li>
                     <li class="breadcrumb-item active">visites</li>
                 </ul>
             </div>
@@ -24,7 +24,7 @@
                             <div class="widget-title">
                                 <table class="table" style="color: white;">
                                      <tr  style="height: 40px ;text-align: center;" class="privebackground">
-                                        <th  colspan="5" >Prive</th>
+                                        <th  colspan="5" >Privée</th>
                                     </tr>
                                     <tr>
                                         <th>nbr max*</th>
@@ -35,10 +35,10 @@
                                     </tr>
                                     <tr>
                                         <th>prix* €</th>
-                                        <td>39</td>
-                                        <td>27</td>
-                                        <td>20</td>
-                                        <td>15</td>
+                                        <td>25</td>
+                                        <td>16</td>
+                                        <td>12</td>
+                                        <td>10</td>
 
                                     </tr>
                                 </table>
@@ -50,7 +50,7 @@
                                         <div class="custom-input-group">
                                             <input type="hidden"      name="type_reservation"  value="prive"/> &nbsp;
                                             <input type="hidden"      name="type_tour" value="visites"/> &nbsp;
-                                            <input type="hidden"      name="name_tour" value="Shopping dans les Souks de La Médina "/> &nbsp;
+                                            <input type="hidden"      name="name_tour" value="Marrakech by Night City Private Tour"/> &nbsp;
 
                                             Sélectionnez la date et les participants 
                                             <i class="bi bi-calendar3"></i>
@@ -85,7 +85,6 @@
                                             <input type="tel" placeholder="téléphone" id="phone" name="phone" required>
                                         </div>
                                         
-                                         
                                        
                                        
                                         <div class="custom-input-group">
@@ -113,7 +112,7 @@
                                         </div>
                                         <div class="info">
                                             <h6>Duration</h6>
-                                            <span>3-4 hours</span>
+                                            <span>3 hours</span>
                                         </div>
                                     </div>
                                 </div>
@@ -125,7 +124,7 @@
                                         </div>
                                         <div class="info">
                                             <h6>Heure de départ</h6>
-                                            <span> 9h00 / 14h00 </span>
+                                            <span> 20h00</span>
                                         </div>
                                     </div>
                                 </div>
@@ -142,7 +141,7 @@
                                 </div>
                             </div>
                             <div class="pd-thumb">
-                                <img src="../assets/images/visites/marrakech8.jpg" alt="">
+                                <img src="../assets/images/visites/marrakechn3.jpg" alt="">
                             </div>
                             <div class="header-bottom">
                                 <div class="pd-lavel d-flex justify-content-between align-items-center flex-wrap gap-2">
@@ -155,7 +154,7 @@
                                         <li><i class="bi bi-star-fill"></i></li>
                                     </ul>
                                 </div>
-                                <h2 class="pd-title">Shopping dans les Souks de La Médina  </h2>
+                                <h2 class="pd-title">Visite de Marrakech Le Soir  </h2>
                             </div>
                         </div>
                     </div>    
@@ -192,73 +191,54 @@
 <pre>
 
 
-Vous souhaitez découvrir les secrets de l'artisanat marocain et vous recherchez des souvenirs distingués de vos vacances à Marrakech ?
+Nous mettons à votre entière disposition un chauffeur-guide expérimenté, spécialiste de Marrakech, et un véhicule climatisé pendant 3h00 pour vous permettre de découvrir Marrakech après le coucher de soleil. Vous pouvez gérer vous-même le programme de la visite selon votre choix et vos priorités, ci-après notre proposition de programme :
 
-Si c’est le cas, cette excursion privée de Marrakech est conçue spécialement pour vous.
+La Place de Jemaa el-Fna est la place centrale de Marrakech et le lieu le plus important de la Médina, où se déroule la vie publique de Marrakech de jour comme de nuit.
 
-Rejoignez cette visite privée de Shopping dans la Médina et laissez à votre guide local le soin de vous guider à travers les labyrinthes des Souks de Marrakech. Choisissez avec votre guide l'itinéraire qui répond mieux à vos besoins et visitez les boutiques d’artisanats les plus fréquentées par les visiteurs de la ville ocre : Des shops de tapis, Jellabas et vêtements traditionnels, des potiers et des herboristeries.
+Dès la tombée de la nuit, la place change totalement d’ambiance. A croire que la place se métamorphose : Toutes les échoppes de la matinée disparaissent pour laisser place à des stands de nourriture, des musiciens et des spectacles improvisés de toute sorte, la place Jamaâ El Fna raconte à travers ses conteurs, ses danseurs, ses vendeurs d’eau et ses charmeurs de serpents, l’histoire du Maroc d’hier et d’aujourd’hui  tout en séduisant  ses visiteurs par son charme qui débute le matin et ne trouve encore son comble que le soir.
 
-Avant d'acheter vos souvenirs et vos cadeaux, apprenez à négocier avec les marchands à la marocaine et profitez de réductions exclusives.
+La médina de Marrakech est une cité médiévale fortifiée et densément peuplée datant de l'Empire berbère, l’un des symboles essentiels de cette ville impériale se retrouve dans ses remparts, entourant la Médina, la vieille ville. Et bien sûr, les murs de cette ville fortifiée sont rouges, faits de terre, de chaux et montés sur une armature en bois. Ces remparts ont évolué avec Marrakech, accompagnant sa croissance, et construits progressivement, au long des siècles. La nuit, les remparts sont illuminés.
 
-Vous pouvez également visiter quelques ateliers d’artisanat au cœur de la Médina, où des artisans très talentueux vous montreront leurs savoir-faire hérités de père en fils.
+Une  ville où l'on fait la fête, où la nuit est vraiment sans fin, où les clubbers de tous les horizons se sentent chez eux. Marrakech regorge plus d’attractivité  pour sortir ! Bar branché, lounge cosy, glacier, restaurant romantique, Les restaurants classiques, Les restaurants à thème - Les clubs ,Les pubs , Les night clubs,
 
-Terminez par la suite, votre visite de la Médina par une pause-café sur les terrasses de la fabuleuse place Jamaa El Fna.
+Du prix raisonnable au délire somptuaire, de la nuit sage et tranquille à la nuit de folie, de l'ambiance la plus classique à l'exotisme ébouriffé. La musique est éclectique, très souvent de qualité. Les décors vont du rêve le plus fou, à l'épuré minimaliste en passant par l'orientalisme fastueux.
 
- 
-
-Les points forts de cette Expérience
-
-* Découvrez les souks de la Médina de Marrakech avec un guide professionnel
-
-* Visitez une variété de magasins d'artisanat que vous ne pouvez absolument pas trouver facilement
-
-* Rencontrez des artisans marocains et découvrez les méthodes traditionnelles de fabrication artisanale.
-
-* Bénéficiez de réductions importantes sur les achats avec votre guide touristique privé
-
-* Admirez une pause-café au cœur de la splendide place Jamaa El Fna
-
-NB: Cette Excursion privée comprend la livraison gratuite de vos marchandises directement à votre hôtel ou Riad à Marrakech
-
+Les portes des établissements, même les plus chics et chers, sont dans la plupart des cas ouvertes à tous, bien sûr les tenues doivent être correctes et les comportements à l'avenant.
  
 
 Durée: 3 à 4 heures
 Disponibilité: Tous les jours
-Heur de départ: 9h00 ou 14h00
+Heure de départ: Au Choix
 
     <i class='bx bx-check'></i>Pas De Frais De Réservation
     <i class='bx bx-check'></i>Réserver Maintenant et Payez Plus Tard
     <i class='bx bx-check'></i>Garantie Du Meilleur Tarif
     <i class='bx bx-check'></i>Excellent Service
-     
-
+ 
 Ce qui est inclus:
 
     <i class='bx bx-check'></i>Transport avec chauffeur guide
-    <i class='bx bx-check'></i>Guide Local parlant votre langue
-    <i class='bx bx-check'></i>Visite des Souks et Ateliers d'artisanat
-    <i class='bx bx-check'></i>Négociation des prix avec les marchands
-    <i class='bx bx-check'></i>Livraison gratuite de vos marchandises à votre hôtel ou Riad
-    <i class='bx bx-check'></i>Assurance responsabilité civile
+    <i class='bx bx-check'></i>Assurance de transport
+    <i class='bx bx-check'></i>Service de qualité et  fiabilité
     <i class='bx bx-check'></i>Toutes les taxes
 
 Ce qui n’est pas inclus:
 
-    <i class='bx bx-check'></i>Frais de la marchandise achetée
-    <i class='bx bx-check'></i>Pause Café à Jamaa El Fna
     <i class='bx bx-check'></i>Pourboires
 
 Point de rencontre:                                 
 
-    <i class='bx bx-check'></i> Notre chauffeur viendra vous chercher dans votre hôtel / Riad à Marrakech à l’heure convenue au moment de la réservation
-    <i class='bx bx-check'></i> En cas de problème : veuillez nous envoyer un email ou nous appeler sur les numéros affichés sur la bannière des contacts.
+    <i class='bx bx-check'></i>Notre chauffeur viendra vous chercher dans votre hôtel / Riad à Marrakech à l’heure convenue au moment de la réservation
+    <i class='bx bx-check'></i>En cas de problème : veuillez nous envoyer un email ou nous appeler sur les numéros affichés sur la bannière des contacts.
 
 Réservations faciles : Acceptées jusqu'à 18h00 de la veille (heure de Marrakech), Si vous rencontrez des difficultés pour réserver ou avez besoin d'un autre service, contactez-nous.
 
-
+ 
 Modes de Paiement:
 
-    En espèce (Euros ou MAD) à votre arrivée
+     <i class='bx bx-check'></i>En espèce (Euros ou MAD) à votre arrivée
+ 
+
 </pre>                    
                                 </div>
                                 <div class="tab-pane fade package-gallary-tab mt-3" id="pill-body3" role="tabpanel"
@@ -266,20 +246,24 @@ Modes de Paiement:
                                     <div class="row g-4">
                                         <div class="col-6">
                                             <div class="package-gallary-item">
-                                                <img  src="../assets/images/visites/marrakechc2.jpg" alt="">
+                                                <img  src="../assets/images/visites/marrakechn1.jpg" alt="">
                                             </div>
                                         </div>
                                         <div class="col-6">
                                             <div class="package-gallary-item">
-                                                <img  src="../assets/images/visites/marrakechc7.jpg" alt="">
+                                                <img  src="../assets/images/visites/marrakechn2.jpg" alt="">
                                             </div>
                                         </div>
                                         <div class="col-6">
                                                 <div class="package-gallary-item">
-                                                    <img  src="../assets/images/visites/marrakech6.jpg" alt="">
+                                                    <img  src="../assets/images/visites/marrakech2.jpg" alt="">
                                                 </div>
                                         </div>
-                                        
+                                        <div class="col-6">
+                                                <div class="package-gallary-item">
+                                                    <img  src="../assets/images/visites/marrakechn4.jpg" alt="">
+                                                </div>
+                                        </div>
 
                                         
                                         
@@ -351,23 +335,14 @@ Modes de Paiement:
     <script src="../assets/js/main.js"></script>
    
     <script >
-        var nbr_prive=79;
+        var nbr_prive=50;
         $('#totalpriceprive').val(nbr_prive );
 
        
        $( '#truist-adult' ).change(function() {
     
         nbr= $( '#truist-adult' ).val();
-        nbr_prive=79;
-         if(nbr=='2'){
-          nbr_prive-=1;
-         }else if(nbr=='3'){
-          nbr_prive+=2;
-       }else if(nbr=='4'){
-          nbr_prive+=1;
-       }else if(nbr=='5'){
-          nbr_prive-=4;
-       }
+        nbr_prive=parseInt(50 / nbr);
        $('#totalpriceprive').val(nbr_prive );
 
        });

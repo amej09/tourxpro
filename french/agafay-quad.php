@@ -6,10 +6,10 @@
     <div class="breadcrumb breadcrumb-style-one">
         <div class="container">
             <div class="col-lg-12 text-center">
-                <h2 class="breadcrumb-title">Shopping dans les Souks de La Médina  </h2>
+                <h2 class="breadcrumb-title">Quad Biking au Désert d'Agafay </h2>
                 <ul class="d-flex justify-content-center breadcrumb-items">
-                    <li class="breadcrumb-item"><a href="index.php">acceuil</a></li>
-                    <li class="breadcrumb-item active">visites</li>
+                    <li class="breadcrumb-item"><a href="index.php">Acceuil</a></li>
+                    <li class="breadcrumb-item active">Agafay</li>
                 </ul>
             </div>
         </div>
@@ -22,25 +22,17 @@
                     <div class="package-sidebar">
                         <aside class="package-widget-style-2 widget-form mt-30">
                             <div class="widget-title">
-                                <table class="table" style="color: white;">
-                                     <tr  style="height: 40px ;text-align: center;" class="privebackground">
-                                        <th  colspan="5" >Prive</th>
+                            <table class="table" style="color: white; border: solid 0px ;border-color: #162b32; ">
+                                    <tr  style="height: 40px ;text-align: center;">
+                                        <th   >Privat</th>
                                     </tr>
-                                    <tr>
-                                        <th>nbr max*</th>
-                                        <td>2</td>
-                                        <td>3</td>
-                                        <td>4</td>
-                                        <td>5</td>
+                                    <tr  style="height: 40px ;text-align: center;">
+                                        <th   >70 €</th>
                                     </tr>
-                                    <tr>
-                                        <th>prix* €</th>
-                                        <td>39</td>
-                                        <td>27</td>
-                                        <td>20</td>
-                                        <td>15</td>
-
+                                    <tr  style="height: 40px;text-align: center; ">
+                                        <th >par personne</th>                                        
                                     </tr>
+                                   
                                 </table>
                             </div>
 
@@ -49,8 +41,8 @@
                                     <div class="booking-form-wrapper">
                                         <div class="custom-input-group">
                                             <input type="hidden"      name="type_reservation"  value="prive"/> &nbsp;
-                                            <input type="hidden"      name="type_tour" value="visites"/> &nbsp;
-                                            <input type="hidden"      name="name_tour" value="Shopping dans les Souks de La Médina "/> &nbsp;
+                                            <input type="hidden"      name="type_tour" value="Agafay"/> &nbsp;
+                                            <input type="hidden"      name="name_tour" value="Quad Biking in Agafay Desert"/> &nbsp;
 
                                             Sélectionnez la date et les participants 
                                             <i class="bi bi-calendar3"></i>
@@ -84,10 +76,6 @@
                                         <div class="custom-input-group">
                                             <input type="tel" placeholder="téléphone" id="phone" name="phone" required>
                                         </div>
-                                        
-                                         
-                                       
-                                       
                                         <div class="custom-input-group">
                                             <textarea cols="20" rows="7" name="message" placeholder="votre message"></textarea>
                                         </div>
@@ -125,7 +113,18 @@
                                         </div>
                                         <div class="info">
                                             <h6>Heure de départ</h6>
-                                            <span> 9h00 / 14h00 </span>
+                                            <span> 9h30 / 14h30 </span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="pd-single-info">
+                                        <div class="info-icon">
+                                            <img src="../assets/images/icons/pd2.svg" alt="">
+                                        </div>
+                                        <div class="info">
+                                            <h6>Distance</h6>
+                                            <span> 30 Km </span>
                                         </div>
                                     </div>
                                 </div>
@@ -142,11 +141,11 @@
                                 </div>
                             </div>
                             <div class="pd-thumb">
-                                <img src="../assets/images/visites/marrakech8.jpg" alt="">
+                                <img src="../assets/images/Agafay/quad5.jpg" alt="">
                             </div>
                             <div class="header-bottom">
                                 <div class="pd-lavel d-flex justify-content-between align-items-center flex-wrap gap-2">
-                                    <h5 class="location"><i class="bi bi-geo-alt"></i> marrakech, maroc</h5>
+                                    <h5 class="location"><i class="bi bi-geo-alt"></i> Agafay, maroc</h5>
                                     <ul class="d-flex align-items-center rating">
                                         <li><i class="bi bi-star-fill"></i></li>
                                         <li><i class="bi bi-star-fill"></i></li>
@@ -155,7 +154,7 @@
                                         <li><i class="bi bi-star-fill"></i></li>
                                     </ul>
                                 </div>
-                                <h2 class="pd-title">Shopping dans les Souks de La Médina  </h2>
+                                <h2 class="pd-title">Quad Biking au Désert d'Agafay  </h2>
                             </div>
                         </div>
                     </div>    
@@ -192,73 +191,60 @@
 <pre>
 
 
-Vous souhaitez découvrir les secrets de l'artisanat marocain et vous recherchez des souvenirs distingués de vos vacances à Marrakech ?
+Partez à la découverte du lac de Lalla Takerkoust et le désert d’Agafay lors d’un circuit de 2 heures  en quad. Cette excursion vous emmène à travers des collines arides, des oasis et des rivières…
 
-Si c’est le cas, cette excursion privée de Marrakech est conçue spécialement pour vous.
+Cette excursion vous offre de nombreuses expériences : de l’aventure dans des paysages montagneux à couper le souffle à la découverte de la beauté du lac Lalla Takerkoust qui s’étend sur sept kilomètres à travers les forêts d’eucalyptus et de merveilleux canyons cachés en direction du désert d’Agafay.
 
-Rejoignez cette visite privée de Shopping dans la Médina et laissez à votre guide local le soin de vous guider à travers les labyrinthes des Souks de Marrakech. Choisissez avec votre guide l'itinéraire qui répond mieux à vos besoins et visitez les boutiques d’artisanats les plus fréquentées par les visiteurs de la ville ocre : Des shops de tapis, Jellabas et vêtements traditionnels, des potiers et des herboristeries.
+Après l’accueil des participants, un briefing est donné sur l’utilisation, la sécurité et l’usage des Quads, tout l’équipement nécessaire (lunettes, gants, casques et imperméables) est prévu,  un guide professionnel sera à vos côtés tout le long de la journée, adaptant la vitesse et les routes en fonction des différents niveaux des participants.
 
-Avant d'acheter vos souvenirs et vos cadeaux, apprenez à négocier avec les marchands à la marocaine et profitez de réductions exclusives.
+Vous suivrez les pistes de pierres du désert d’Agafay et ses collines arides, la sensation d’être seul au monde vous saisira dans ce paysage lunaire. Arrêt sur le « Plateau » pour profiter des vues extraordinaires sur un lac d’une longueur de 7km dont les eaux bleues s’étalent jusqu’au pied de l’Atlas, savourez un bon thé à la menthe dans une tente traditionnelle berbère.
 
-Vous pouvez également visiter quelques ateliers d’artisanat au cœur de la Médina, où des artisans très talentueux vous montreront leurs savoir-faire hérités de père en fils.
+À votre retour en direction de Marrakech, profitez de vues époustouflantes sur l’Atlas.
 
-Terminez par la suite, votre visite de la Médina par une pause-café sur les terrasses de la fabuleuse place Jamaa El Fna.
+NB: Cette excursion est accessible aux personnes âgées de plus de 14 ans
+Les enfants moins de 14 ans peuvent joindre cette expérience en tant que passagers
 
- 
-
-Les points forts de cette Expérience
-
-* Découvrez les souks de la Médina de Marrakech avec un guide professionnel
-
-* Visitez une variété de magasins d'artisanat que vous ne pouvez absolument pas trouver facilement
-
-* Rencontrez des artisans marocains et découvrez les méthodes traditionnelles de fabrication artisanale.
-
-* Bénéficiez de réductions importantes sur les achats avec votre guide touristique privé
-
-* Admirez une pause-café au cœur de la splendide place Jamaa El Fna
-
-NB: Cette Excursion privée comprend la livraison gratuite de vos marchandises directement à votre hôtel ou Riad à Marrakech
-
- 
-
-Durée: 3 à 4 heures
+Durée: 3-4 heures
+Tour en Quad: 2 heures
+Distance: 30km x 2
 Disponibilité: Tous les jours
-Heur de départ: 9h00 ou 14h00
+Heure de départ: Au Choix
 
     <i class='bx bx-check'></i>Pas De Frais De Réservation
     <i class='bx bx-check'></i>Réserver Maintenant et Payez Plus Tard
     <i class='bx bx-check'></i>Garantie Du Meilleur Tarif
     <i class='bx bx-check'></i>Excellent Service
-     
-
+ 
 Ce qui est inclus:
 
-    <i class='bx bx-check'></i>Transport avec chauffeur guide
-    <i class='bx bx-check'></i>Guide Local parlant votre langue
-    <i class='bx bx-check'></i>Visite des Souks et Ateliers d'artisanat
-    <i class='bx bx-check'></i>Négociation des prix avec les marchands
-    <i class='bx bx-check'></i>Livraison gratuite de vos marchandises à votre hôtel ou Riad
-    <i class='bx bx-check'></i>Assurance responsabilité civile
+    <i class='bx bx-check'></i>Transfert aller / retour de votre hôtel/riad
+    <i class='bx bx-check'></i>Véhicule climatisé et très confort 4x4 ou bien minibus.
+    <i class='bx bx-check'></i>Quad : 300/450 cc
+    <i class='bx bx-check'></i>Thé traditionnel marocain vous sera offert
+    <i class='bx bx-check'></i>Équipement nécessaire (gants, casques, lunettes)
+    <i class='bx bx-check'></i>Encadrement et assistance par des guides professionnels en quad.
+    <i class='bx bx-check'></i>Assurance responsabilité civile.
     <i class='bx bx-check'></i>Toutes les taxes
 
 Ce qui n’est pas inclus:
 
-    <i class='bx bx-check'></i>Frais de la marchandise achetée
-    <i class='bx bx-check'></i>Pause Café à Jamaa El Fna
+    <i class='bx bx-check'></i>Déjeuner
+    <i class='bx bx-check'></i>Boissons
     <i class='bx bx-check'></i>Pourboires
 
 Point de rencontre:                                 
 
-    <i class='bx bx-check'></i> Notre chauffeur viendra vous chercher dans votre hôtel / Riad à Marrakech à l’heure convenue au moment de la réservation
-    <i class='bx bx-check'></i> En cas de problème : veuillez nous envoyer un email ou nous appeler sur les numéros affichés sur la bannière des contacts.
+    <i class='bx bx-check'></i>Notre chauffeur viendra vous chercher dans votre hôtel / Riad à Marrakech à l’heure convenue au moment de la réservation
+    <i class='bx bx-check'></i>En cas de problème : veuillez nous envoyer un email ou nous appeler sur les numéros affichés sur la bannière des contacts.
 
 Réservations faciles : Acceptées jusqu'à 18h00 de la veille (heure de Marrakech), Si vous rencontrez des difficultés pour réserver ou avez besoin d'un autre service, contactez-nous.
 
-
+ 
 Modes de Paiement:
 
-    En espèce (Euros ou MAD) à votre arrivée
+     <i class='bx bx-check'></i>En espèce (Euros ou MAD) à votre arrivée
+ 
+
 </pre>                    
                                 </div>
                                 <div class="tab-pane fade package-gallary-tab mt-3" id="pill-body3" role="tabpanel"
@@ -266,17 +252,27 @@ Modes de Paiement:
                                     <div class="row g-4">
                                         <div class="col-6">
                                             <div class="package-gallary-item">
-                                                <img  src="../assets/images/visites/marrakechc2.jpg" alt="">
+                                                <img  src="../assets/images/Agafay/quad.jpg" alt="">
                                             </div>
                                         </div>
                                         <div class="col-6">
                                             <div class="package-gallary-item">
-                                                <img  src="../assets/images/visites/marrakechc7.jpg" alt="">
+                                                <img  src="../assets/images/Agafay/quad1.jpg" alt="">
                                             </div>
                                         </div>
                                         <div class="col-6">
                                                 <div class="package-gallary-item">
-                                                    <img  src="../assets/images/visites/marrakech6.jpg" alt="">
+                                                    <img  src="../assets/images/Agafay/quad2.jpg" alt="">
+                                                </div>
+                                        </div>
+                                        <div class="col-6">
+                                                <div class="package-gallary-item">
+                                                    <img  src="../assets/images/Agafay/quad3.jpg" alt="">
+                                                </div>
+                                        </div>
+                                        <div class="col-6">
+                                                <div class="package-gallary-item">
+                                                    <img  src="../assets/images/Agafay/quad4.jpg" alt="">
                                                 </div>
                                         </div>
                                         
@@ -351,23 +347,15 @@ Modes de Paiement:
     <script src="../assets/js/main.js"></script>
    
     <script >
-        var nbr_prive=79;
+        var nbr_prive=70;
         $('#totalpriceprive').val(nbr_prive );
 
        
        $( '#truist-adult' ).change(function() {
     
         nbr= $( '#truist-adult' ).val();
-        nbr_prive=79;
-         if(nbr=='2'){
-          nbr_prive-=1;
-         }else if(nbr=='3'){
-          nbr_prive+=2;
-       }else if(nbr=='4'){
-          nbr_prive+=1;
-       }else if(nbr=='5'){
-          nbr_prive-=4;
-       }
+          nbr_prive=70 * nbr;
+       
        $('#totalpriceprive').val(nbr_prive );
 
        });

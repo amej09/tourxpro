@@ -6,9 +6,9 @@
     <div class="breadcrumb breadcrumb-style-one">
         <div class="container">
             <div class="col-lg-12 text-center">
-                <h2 class="breadcrumb-title">Shopping dans les Souks de La Médina  </h2>
+                <h2 class="breadcrumb-title">Restaurant chez Ali Marrakech - Diner & spectacle Fantasia</h2>
                 <ul class="d-flex justify-content-center breadcrumb-items">
-                    <li class="breadcrumb-item"><a href="index.php">acceuil</a></li>
+                    <li class="breadcrumb-item"><a href="index.php">Acceuil</a></li>
                     <li class="breadcrumb-item active">visites</li>
                 </ul>
             </div>
@@ -24,21 +24,17 @@
                             <div class="widget-title">
                                 <table class="table" style="color: white;">
                                      <tr  style="height: 40px ;text-align: center;" class="privebackground">
-                                        <th  colspan="5" >Prive</th>
+                                        <th  colspan="5" >In Private</th>
                                     </tr>
                                     <tr>
                                         <th>nbr max*</th>
-                                        <td>2</td>
-                                        <td>3</td>
-                                        <td>4</td>
-                                        <td>5</td>
+                                        <td>Person</td>
+                                        
                                     </tr>
                                     <tr>
                                         <th>prix* €</th>
-                                        <td>39</td>
-                                        <td>27</td>
-                                        <td>20</td>
-                                        <td>15</td>
+                                        <td>45</td>
+                                        
 
                                     </tr>
                                 </table>
@@ -50,7 +46,7 @@
                                         <div class="custom-input-group">
                                             <input type="hidden"      name="type_reservation"  value="prive"/> &nbsp;
                                             <input type="hidden"      name="type_tour" value="visites"/> &nbsp;
-                                            <input type="hidden"      name="name_tour" value="Shopping dans les Souks de La Médina "/> &nbsp;
+                                            <input type="hidden"      name="name_tour" value="chez ali"/> &nbsp;
 
                                             Sélectionnez la date et les participants 
                                             <i class="bi bi-calendar3"></i>
@@ -58,10 +54,25 @@
                                                 id="datepickerprive" value="" class="calendar" required>
                                         </div>
                                         <div class="row">
+                                                     
+                                                <div class="custom-input-group">
+                                               
+                                                    <i class="bi bi-chevron-down"></i>
+                                                    <select id="truist-menu" name="menue">
+                                                    <option  value="menu1" selected > Menu N° 1  </option>
+                                                    <option  value="menu2"  > Menu N° 2  </option>
+                                                    <option  value="menu3"  > Menu N° 3  </option>
+                                                    <option  value="menu4"  > Menu N° 4  </option>
+                                                    
+                                                    </select>
+                                                 </div>
+                                            
+                                        </div>
+                                        <div class="row">
                                             <div class="custom-input-group">
                                                 <i class="bi bi-chevron-down"></i>
                                                 <select id="truist-adult" name="numbertravels">
-                                                    <option  value="notselected" selected > Nombre de voyageurs: : </option>
+                                                    <option value="1" selected > Nombre de voyageurs: : </option>
                                                     <option value="1"> 1</option>
                                                     <option value="2"> 2</option>
                                                     <option value="3"> 3</option>
@@ -69,11 +80,25 @@
                                                     <option value="5"> 5</option>
                                                 </select>
                                             </div>
-                                        </div><br>
+                                        </div>
+                                        <div class="row">
+                                            <div class="custom-input-group">
+                                                <i class="bi bi-chevron-down"></i>
+                                                <select id="truist-child" name="numberchilds">
+                                                    <option  value="0" selected >Nombre d'enfants:(Age 4-11) </option>
+                                                    <option value="0"> 0</option>
+                                                    <option value="1"> 1</option>
+                                                    <option value="2"> 2</option>
+                                                    <option value="3"> 3</option>
+                                                    <option value="4"> 4</option>
+                                                    <option value="5"> 5</option>
+                                                </select>
+                                            </div>
+                                        </div>
                                         
                                         <div class="custom-input-group">
                                        
-                                           Prix ​​total en € par personne<input type="text"  id="totalpriceprive"  name="totalprice" class="form-control" disabled>
+                                            Prix ​​total en € <input type="text"  id="totalpriceprive"  name="totalprice" class="form-control" disabled>
                                         </div>
                                         <div class="custom-input-group">
                                             <input type="text" placeholder="Ton nom complet" id="name" name="name" required>
@@ -85,7 +110,7 @@
                                             <input type="tel" placeholder="téléphone" id="phone" name="phone" required>
                                         </div>
                                         
-                                         
+                                       
                                        
                                        
                                         <div class="custom-input-group">
@@ -113,7 +138,7 @@
                                         </div>
                                         <div class="info">
                                             <h6>Duration</h6>
-                                            <span>3-4 hours</span>
+                                            <span>3 -4  hours</span>
                                         </div>
                                     </div>
                                 </div>
@@ -125,7 +150,7 @@
                                         </div>
                                         <div class="info">
                                             <h6>Heure de départ</h6>
-                                            <span> 9h00 / 14h00 </span>
+                                            <span> 20h00</span>
                                         </div>
                                     </div>
                                 </div>
@@ -142,7 +167,7 @@
                                 </div>
                             </div>
                             <div class="pd-thumb">
-                                <img src="../assets/images/visites/marrakech8.jpg" alt="">
+                                <img src="../assets/images/visites/chezali5.jpg" alt="">
                             </div>
                             <div class="header-bottom">
                                 <div class="pd-lavel d-flex justify-content-between align-items-center flex-wrap gap-2">
@@ -155,7 +180,7 @@
                                         <li><i class="bi bi-star-fill"></i></li>
                                     </ul>
                                 </div>
-                                <h2 class="pd-title">Shopping dans les Souks de La Médina  </h2>
+                                <h2 class="pd-title">Restaurant chez Ali Marrakech - Diner & spectacle Fantasia </h2>
                             </div>
                         </div>
                     </div>    
@@ -192,94 +217,138 @@
 <pre>
 
 
-Vous souhaitez découvrir les secrets de l'artisanat marocain et vous recherchez des souvenirs distingués de vos vacances à Marrakech ?
 
-Si c’est le cas, cette excursion privée de Marrakech est conçue spécialement pour vous.
+Envoûtés par les chants et danses des groupes folkloriques, on mange, on entend et on voit ce qu’on ne trouve nulle part ailleurs. Spectacle grandiose, dans une arène grande comme un terrain de football, défilent tour à tour, des cavaliers acrobates, de la fantasia, des chants et danses traditionnelles, le tout au son d’une musique qui vous fait rêver ...
 
-Rejoignez cette visite privée de Shopping dans la Médina et laissez à votre guide local le soin de vous guider à travers les labyrinthes des Souks de Marrakech. Choisissez avec votre guide l'itinéraire qui répond mieux à vos besoins et visitez les boutiques d’artisanats les plus fréquentées par les visiteurs de la ville ocre : Des shops de tapis, Jellabas et vêtements traditionnels, des potiers et des herboristeries.
+Magique, grandiose, féerique, le spectacle de Chez Ali est tout cela à la fois. Au fil des années, sa renommée a parcouru le monde et il constitue aujourd’hui le point d’orgue d’un séjour réussi à Marrakech. Danseuses, musiciens, acrobates, cavaliers, magiciens, y vivent leurs passions avec enthousiasme.  
 
-Avant d'acheter vos souvenirs et vos cadeaux, apprenez à négocier avec les marchands à la marocaine et profitez de réductions exclusives.
+Certains soirs, un sultan et sa favorite survolent la foule… sur un tapis volant ! Digne des Mille et Une Nuit…  
 
-Vous pouvez également visiter quelques ateliers d’artisanat au cœur de la Médina, où des artisans très talentueux vous montreront leurs savoir-faire hérités de père en fils.
-
-Terminez par la suite, votre visite de la Médina par une pause-café sur les terrasses de la fabuleuse place Jamaa El Fna.
+Nos Menus:
 
  
 
-Les points forts de cette Expérience
+Menu N° 1 – Hors boissons:                               
 
-* Découvrez les souks de la Médina de Marrakech avec un guide professionnel
+    <i class='bx bx-check'></i>Harira Marocaine 
+    <i class='bx bx-check'></i>Tagine de Légumes sans viande
+    <i class='bx bx-check'></i>OU Omelette avec du Riz
+    <i class='bx bx-check'></i>Couscous aux sept légumes 
+    <i class='bx bx-check'></i>Fruits de saison 
+    <i class='bx bx-check'></i>Thé à la menthe 
+    <i class='bx bx-check'></i>Pâtisseries Marocaines
 
-* Visitez une variété de magasins d'artisanat que vous ne pouvez absolument pas trouver facilement
+ 
+	
 
-* Rencontrez des artisans marocains et découvrez les méthodes traditionnelles de fabrication artisanale.
+Menu N° 2 – Hors boissons:                                
 
-* Bénéficiez de réductions importantes sur les achats avec votre guide touristique privé
-
-* Admirez une pause-café au cœur de la splendide place Jamaa El Fna
-
-NB: Cette Excursion privée comprend la livraison gratuite de vos marchandises directement à votre hôtel ou Riad à Marrakech
+    <i class='bx bx-check'></i>Harira Marocaine 
+    <i class='bx bx-check'></i>Brochettes de viandes 
+    <i class='bx bx-check'></i>Couscous aux sept légumes 
+    <i class='bx bx-check'></i>Fruits de saison 
+    <i class='bx bx-check'></i>Thé à la menthe 
+    <i class='bx bx-check'></i>Pâtisseries Marocaines
 
  
 
-Durée: 3 à 4 heures
+Menu N° 3 – Hors boissons:                                
+
+    <i class='bx bx-check'></i>Harira Marocaine
+    <i class='bx bx-check'></i>Tajine de viande aux pruneaux  OU Tagine de poulet au citron. 
+    <i class='bx bx-check'></i>Couscous aux sept  légumes 
+    <i class='bx bx-check'></i>Fruits de saison 
+    <i class='bx bx-check'></i>Thé à la menthe 
+    <i class='bx bx-check'></i>Pâtisseries Marocaines  
+
+ 
+	
+
+Menu N° 4 – Hors boissons
+
+    <i class='bx bx-check'></i>Harira Marocaine 
+    <i class='bx bx-check'></i>1/2 Méchoui
+    <i class='bx bx-check'></i>Couscous aux sept légumes 
+    <i class='bx bx-check'></i>Fruits de saison 
+    <i class='bx bx-check'></i>Thé à la menthe 
+    <i class='bx bx-check'></i>Pâtisseries Marocaines
+
+ 
+
+Durée: 3 à 4 heurs
 Disponibilité: Tous les jours
-Heur de départ: 9h00 ou 14h00
+Heur de départ: 19h00
 
     <i class='bx bx-check'></i>Pas De Frais De Réservation
     <i class='bx bx-check'></i>Réserver Maintenant et Payez Plus Tard
     <i class='bx bx-check'></i>Garantie Du Meilleur Tarif
     <i class='bx bx-check'></i>Excellent Service
-     
-
+ 
 Ce qui est inclus:
 
     <i class='bx bx-check'></i>Transport avec chauffeur guide
-    <i class='bx bx-check'></i>Guide Local parlant votre langue
-    <i class='bx bx-check'></i>Visite des Souks et Ateliers d'artisanat
-    <i class='bx bx-check'></i>Négociation des prix avec les marchands
-    <i class='bx bx-check'></i>Livraison gratuite de vos marchandises à votre hôtel ou Riad
-    <i class='bx bx-check'></i>Assurance responsabilité civile
+    <i class='bx bx-check'></i>Véhicule climatisé et très confort 4x4 ou bien mini bus.
+    <i class='bx bx-check'></i>Dîner (menu de votre choix)
+    <i class='bx bx-check'></i>Spectacle & Animation
+    <i class='bx bx-check'></i>Assurance de transport
+    <i class='bx bx-check'></i>Service de qualité et  fiabilité.
     <i class='bx bx-check'></i>Toutes les taxes
 
 Ce qui n’est pas inclus:
 
-    <i class='bx bx-check'></i>Frais de la marchandise achetée
-    <i class='bx bx-check'></i>Pause Café à Jamaa El Fna
+    <i class='bx bx-check'></i>Boissons supplémentaires
     <i class='bx bx-check'></i>Pourboires
 
 Point de rencontre:                                 
 
-    <i class='bx bx-check'></i> Notre chauffeur viendra vous chercher dans votre hôtel / Riad à Marrakech à l’heure convenue au moment de la réservation
-    <i class='bx bx-check'></i> En cas de problème : veuillez nous envoyer un email ou nous appeler sur les numéros affichés sur la bannière des contacts.
+    <i class='bx bx-check'></i>Notre chauffeur viendra vous chercher dans votre hôtel / Riad à Marrakech à l’heure convenue au moment de la réservation
+    <i class='bx bx-check'></i>En cas de problème : veuillez nous envoyer un email ou nous appeler sur les numéros affichés sur la bannière des contacts.
+
+Politique Enfant :
+Enfant de 0 à 04 ans : gratuit
+Enfant de 05 à 10 ans : 50% réduction
+Enfant de 11 et plus : plein tarif
 
 Réservations faciles : Acceptées jusqu'à 18h00 de la veille (heure de Marrakech), Si vous rencontrez des difficultés pour réserver ou avez besoin d'un autre service, contactez-nous.
 
-
+ 
 Modes de Paiement:
 
-    En espèce (Euros ou MAD) à votre arrivée
+    <i class='bx bx-check'></i>En espèce (Euros ou MAD) à votre arrivée
+ 
+
 </pre>                    
                                 </div>
                                 <div class="tab-pane fade package-gallary-tab mt-3" id="pill-body3" role="tabpanel"
                                     aria-labelledby="pills-package3">
                                     <div class="row g-4">
+                                         
                                         <div class="col-6">
                                             <div class="package-gallary-item">
-                                                <img  src="../assets/images/visites/marrakechc2.jpg" alt="">
+                                                <img  src="../assets/images/visites/chezali.jpg" alt="">
                                             </div>
                                         </div>
                                         <div class="col-6">
                                             <div class="package-gallary-item">
-                                                <img  src="../assets/images/visites/marrakechc7.jpg" alt="">
+                                                <img  src="../assets/images/visites/chezali1.jpg" alt="">
                                             </div>
                                         </div>
                                         <div class="col-6">
                                                 <div class="package-gallary-item">
-                                                    <img  src="../assets/images/visites/marrakech6.jpg" alt="">
+                                                    <img  src="../assets/images/visites/chezali2.jpg" alt="">
                                                 </div>
                                         </div>
-                                        
+                                        <div class="col-6">
+                                                <div class="package-gallary-item">
+                                                    <img  src="../assets/images/visites/chezali3.jpg" alt="">
+                                                </div>
+                                        </div>
+                                        <div class="col-6">
+                                                <div class="package-gallary-item">
+                                                    <img  src="../assets/images/visites/chezali4.jpg" alt="">
+                                                </div>
+                                        </div>
+                                      
 
                                         
                                         
@@ -349,25 +418,85 @@ Modes de Paiement:
     <script src="../assets/js/jquery-ui.js"></script>
 
     <script src="../assets/js/main.js"></script>
-   
+ 
     <script >
-        var nbr_prive=79;
+        var nbr_prive=35;
         $('#totalpriceprive').val(nbr_prive );
+     
+        
+        
+        
+         $( '#truist-child' ).change(function() {
+            var childtaxes=0;
+            var nuberchild= $( '#truist-child' ).val();
+             menu= $( '#truist-menu' ).val();
+             if(menu=='menu1'){
+                nbr_prive=35;
+                childtaxes=17.5;
+
+            }else if(menu=='menu2'){
+                nbr_prive=42;
+                childtaxes=21;
+
+            }else if(menu=='menu3'){
+                nbr_prive=44;
+                childtaxes=22;
+
+            }else if(menu=='menu4'){
+                nbr_prive=48;
+                childtaxes=24;
+
+            }
+            nbr= $( '#truist-adult' ).val();
+            nbr_prive=nbr_prive * nbr;
+            nbr_prive+=nuberchild * childtaxes;
+            $('#totalpriceprive').val(nbr_prive );
+
+        });
+        $( '#truist-menu' ).change(function() {
+            $( '#truist-adult' ).val('1');
+            $( '#truist-child' ).val('0');
+            menu= $( '#truist-menu' ).val();
+
+            if(menu=='menu1'){
+                nbr_prive=35;
+            }else if(menu=='menu2'){
+                nbr_prive=42;
+            }else if(menu=='menu3'){
+                nbr_prive=44;
+            }else if(menu=='menu4'){
+                nbr_prive=48;
+            }
+
+            $('#totalpriceprive').val(nbr_prive );
+
+        });
 
        
        $( '#truist-adult' ).change(function() {
-    
-        nbr= $( '#truist-adult' ).val();
-        nbr_prive=79;
-         if(nbr=='2'){
-          nbr_prive-=1;
-         }else if(nbr=='3'){
-          nbr_prive+=2;
-       }else if(nbr=='4'){
-          nbr_prive+=1;
-       }else if(nbr=='5'){
-          nbr_prive-=4;
-       }
+          menu= $( '#truist-menu' ).val();
+            if(menu=='menu1'){
+                nbr_prive=35;
+                childtaxes=17.5;
+
+            }else if(menu=='menu2'){
+                nbr_prive=42;
+                childtaxes=21;
+
+            }else if(menu=='menu3'){
+                nbr_prive=44;
+                childtaxes=22;
+
+            }else if(menu=='menu4'){
+                nbr_prive=48;
+                childtaxes=24;
+
+            }
+            var nuberchild= $( '#truist-child' ).val();
+            nbr= $( '#truist-adult' ).val();
+            nbr_prive=nbr_prive * nbr;
+            nbr_prive+=nuberchild * childtaxes;
+
        $('#totalpriceprive').val(nbr_prive );
 
        });

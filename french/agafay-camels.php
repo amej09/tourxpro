@@ -6,10 +6,10 @@
     <div class="breadcrumb breadcrumb-style-one">
         <div class="container">
             <div class="col-lg-12 text-center">
-                <h2 class="breadcrumb-title">Shopping dans les Souks de La Médina  </h2>
+                <h2 class="breadcrumb-title">Chameaux au Coucher du Soleil à Agafay  </h2>
                 <ul class="d-flex justify-content-center breadcrumb-items">
-                    <li class="breadcrumb-item"><a href="index.php">acceuil</a></li>
-                    <li class="breadcrumb-item active">visites</li>
+                    <li class="breadcrumb-item"><a href="index.php">Acceuil</a></li>
+                    <li class="breadcrumb-item active">Agafay</li>
                 </ul>
             </div>
         </div>
@@ -22,25 +22,17 @@
                     <div class="package-sidebar">
                         <aside class="package-widget-style-2 widget-form mt-30">
                             <div class="widget-title">
-                                <table class="table" style="color: white;">
-                                     <tr  style="height: 40px ;text-align: center;" class="privebackground">
-                                        <th  colspan="5" >Prive</th>
+                            <table class="table" style="color: white; border: solid 0px ;border-color: #162b32; ">
+                                    <tr  style="height: 40px ;text-align: center;">
+                                        <th   >Privat</th>
                                     </tr>
-                                    <tr>
-                                        <th>nbr max*</th>
-                                        <td>2</td>
-                                        <td>3</td>
-                                        <td>4</td>
-                                        <td>5</td>
+                                    <tr  style="height: 40px ;text-align: center;">
+                                        <th   >45 €</th>
                                     </tr>
-                                    <tr>
-                                        <th>prix* €</th>
-                                        <td>39</td>
-                                        <td>27</td>
-                                        <td>20</td>
-                                        <td>15</td>
-
+                                    <tr  style="height: 40px;text-align: center; ">
+                                        <th >par personne</th>                                        
                                     </tr>
+                                   
                                 </table>
                             </div>
 
@@ -49,8 +41,8 @@
                                     <div class="booking-form-wrapper">
                                         <div class="custom-input-group">
                                             <input type="hidden"      name="type_reservation"  value="prive"/> &nbsp;
-                                            <input type="hidden"      name="type_tour" value="visites"/> &nbsp;
-                                            <input type="hidden"      name="name_tour" value="Shopping dans les Souks de La Médina "/> &nbsp;
+                                            <input type="hidden"      name="type_tour" value="Agafay"/> &nbsp;
+                                            <input type="hidden"      name="name_tour" value="Camel Ride at sunset in Agafay "/> &nbsp;
 
                                             Sélectionnez la date et les participants 
                                             <i class="bi bi-calendar3"></i>
@@ -113,7 +105,7 @@
                                         </div>
                                         <div class="info">
                                             <h6>Duration</h6>
-                                            <span>3-4 hours</span>
+                                            <span>1 hours</span>
                                         </div>
                                     </div>
                                 </div>
@@ -125,7 +117,18 @@
                                         </div>
                                         <div class="info">
                                             <h6>Heure de départ</h6>
-                                            <span> 9h00 / 14h00 </span>
+                                            <span> At choice  </span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="pd-single-info">
+                                        <div class="info-icon">
+                                            <img src="../assets/images/icons/pd2.svg" alt="">
+                                        </div>
+                                        <div class="info">
+                                            <h6>Distance</h6>
+                                            <span> 30km </span>
                                         </div>
                                     </div>
                                 </div>
@@ -142,11 +145,11 @@
                                 </div>
                             </div>
                             <div class="pd-thumb">
-                                <img src="../assets/images/visites/marrakech8.jpg" alt="">
+                                <img src="../assets/images/Agafay/agafayc5.jpg" alt="">
                             </div>
                             <div class="header-bottom">
                                 <div class="pd-lavel d-flex justify-content-between align-items-center flex-wrap gap-2">
-                                    <h5 class="location"><i class="bi bi-geo-alt"></i> marrakech, maroc</h5>
+                                    <h5 class="location"><i class="bi bi-geo-alt"></i> Agafay, maroc</h5>
                                     <ul class="d-flex align-items-center rating">
                                         <li><i class="bi bi-star-fill"></i></li>
                                         <li><i class="bi bi-star-fill"></i></li>
@@ -155,7 +158,7 @@
                                         <li><i class="bi bi-star-fill"></i></li>
                                     </ul>
                                 </div>
-                                <h2 class="pd-title">Shopping dans les Souks de La Médina  </h2>
+                                <h2 class="pd-title">Chameaux au Coucher du Soleil à Agafay </h2>
                             </div>
                         </div>
                     </div>    
@@ -192,91 +195,113 @@
 <pre>
 
 
-Vous souhaitez découvrir les secrets de l'artisanat marocain et vous recherchez des souvenirs distingués de vos vacances à Marrakech ?
+Considéré comme l’un des plus beaux sites aux alentours de Marrakech, le désert d’Agafay est un Reg (désert caillouteux) situé à environ 30Km de la ville de Marrakech.
 
-Si c’est le cas, cette excursion privée de Marrakech est conçue spécialement pour vous.
+Ce fabuleux désert sauvage qui ressemble au Sahara offre un panorama de paysages désertiques presque uniques avec des vues agréables sur les cimes des montagnes de l’Atlas.
 
-Rejoignez cette visite privée de Shopping dans la Médina et laissez à votre guide local le soin de vous guider à travers les labyrinthes des Souks de Marrakech. Choisissez avec votre guide l'itinéraire qui répond mieux à vos besoins et visitez les boutiques d’artisanats les plus fréquentées par les visiteurs de la ville ocre : Des shops de tapis, Jellabas et vêtements traditionnels, des potiers et des herboristeries.
+Lors de cette demi-journée d’excursion à départ de Marrakech, vous serez conduit depuis votre hôtel ou Riad à l’heure convenue par un chauffeur-guide professionnel et amical.
 
-Avant d'acheter vos souvenirs et vos cadeaux, apprenez à négocier avec les marchands à la marocaine et profitez de réductions exclusives.
+Dès votre arrivée, vous serez invités à un bon verre de thé à la menthe sous une tente nomade pour mieux apprécier les paysages panoramiques et le calme absolu de ce petit coin du paradis.
 
-Vous pouvez également visiter quelques ateliers d’artisanat au cœur de la Médina, où des artisans très talentueux vous montreront leurs savoir-faire hérités de père en fils.
+Arborez le Cheich (Foulard Sahraoui) et montez à dos de votre dromadaire pour faire une balade d’environ une heure à travers les sentiers et les magnifiques dunes blanches du désert.
 
-Terminez par la suite, votre visite de la Médina par une pause-café sur les terrasses de la fabuleuse place Jamaa El Fna.
+Après cette impressionnante balade en chameaux, vous pouvez profiter de votre temps libre pour admirer le magnifique coucher du soleil au désert d’Agafay, les vues dégagées et cette sensation inspirante d’être seul dans ce monde afin de purifier votre esprit et renouveler l’énergie de votre corps.
 
- 
+Vous êtes libre par la suite, de rejoindre votre chauffeur pour revenir à Marrakech ou de faire une petite visite du Lac Lalla Takerkoust avec une petite pause-café au bord du lac.
 
-Les points forts de cette Expérience
+Durée de l’excursion : 3 à 4 heures
 
-* Découvrez les souks de la Médina de Marrakech avec un guide professionnel
-
-* Visitez une variété de magasins d'artisanat que vous ne pouvez absolument pas trouver facilement
-
-* Rencontrez des artisans marocains et découvrez les méthodes traditionnelles de fabrication artisanale.
-
-* Bénéficiez de réductions importantes sur les achats avec votre guide touristique privé
-
-* Admirez une pause-café au cœur de la splendide place Jamaa El Fna
-
-NB: Cette Excursion privée comprend la livraison gratuite de vos marchandises directement à votre hôtel ou Riad à Marrakech
-
- 
-
-Durée: 3 à 4 heures
+Durée de la balade en chameaux: 1h00
 Disponibilité: Tous les jours
-Heur de départ: 9h00 ou 14h00
+Heur de départ: Au Choix
+
+ 
+
+Nombre de Participants : Minimum 2 Personnes
 
     <i class='bx bx-check'></i>Pas De Frais De Réservation
     <i class='bx bx-check'></i>Réserver Maintenant et Payez Plus Tard
     <i class='bx bx-check'></i>Garantie Du Meilleur Tarif
     <i class='bx bx-check'></i>Excellent Service
-     
+ 
+Ce qui est inclus :
 
-Ce qui est inclus:
-
-    <i class='bx bx-check'></i>Transport avec chauffeur guide
-    <i class='bx bx-check'></i>Guide Local parlant votre langue
-    <i class='bx bx-check'></i>Visite des Souks et Ateliers d'artisanat
-    <i class='bx bx-check'></i>Négociation des prix avec les marchands
-    <i class='bx bx-check'></i>Livraison gratuite de vos marchandises à votre hôtel ou Riad
+    <i class='bx bx-check'></i>Transfert Hôtel Aller / Retour
+    <i class='bx bx-check'></i>Véhicule climatisé et confortable
+    <i class='bx bx-check'></i>Thé de Bienvenue
+    <i class='bx bx-check'></i>Cheich (Foulard Sahraoui)
+    <i class='bx bx-check'></i>1h00 de Dromadaire
     <i class='bx bx-check'></i>Assurance responsabilité civile
     <i class='bx bx-check'></i>Toutes les taxes
 
-Ce qui n’est pas inclus:
+Ce qui n’est pas inclus :
 
-    <i class='bx bx-check'></i>Frais de la marchandise achetée
-    <i class='bx bx-check'></i>Pause Café à Jamaa El Fna
+    <i class='bx bx-check'></i>Pause-café au Restaurant Flouka
+    <i class='bx bx-check'></i>Déjeuner
+    <i class='bx bx-check'></i>Boissons
     <i class='bx bx-check'></i>Pourboires
 
-Point de rencontre:                                 
+Point de Rencontre :                                 
 
-    <i class='bx bx-check'></i> Notre chauffeur viendra vous chercher dans votre hôtel / Riad à Marrakech à l’heure convenue au moment de la réservation
-    <i class='bx bx-check'></i> En cas de problème : veuillez nous envoyer un email ou nous appeler sur les numéros affichés sur la bannière des contacts.
+    <i class='bx bx-check'></i>Notre chauffeur viendra vous chercher dans votre hôtel / Riad à Marrakech à l’heure convenue au moment de la réservation
+    <i class='bx bx-check'></i>En cas de problème : veuillez nous envoyer un email ou nous appeler sur les numéros affichés sur la bannière des contacts.
 
 Réservations faciles : Acceptées jusqu'à 18h00 de la veille (heure de Marrakech), Si vous rencontrez des difficultés pour réserver ou avez besoin d'un autre service, contactez-nous.
 
+ 
+Modes de Paiement :
 
-Modes de Paiement:
+     <i class='bx bx-check'></i>En espèce (Euros ou MAD) à votre arrivée
+ 
 
-    En espèce (Euros ou MAD) à votre arrivée
 </pre>                    
                                 </div>
                                 <div class="tab-pane fade package-gallary-tab mt-3" id="pill-body3" role="tabpanel"
                                     aria-labelledby="pills-package3">
                                     <div class="row g-4">
-                                        <div class="col-6">
+                                         <div class="col-6">
                                             <div class="package-gallary-item">
-                                                <img  src="../assets/images/visites/marrakechc2.jpg" alt="">
+                                                <img  src="../assets/images/Agafay/agafayc.jpg" alt="">
                                             </div>
                                         </div>
                                         <div class="col-6">
                                             <div class="package-gallary-item">
-                                                <img  src="../assets/images/visites/marrakechc7.jpg" alt="">
+                                                <img  src="../assets/images/Agafay/agafayc6.jpg" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="col-6">
+                                            <div class="package-gallary-item">
+                                                <img  src="../assets/images/Agafay/agafayg3.jpg" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="col-6">
+                                            <div class="package-gallary-item">
+                                                <img  src="../assets/images/Agafay/agafayc1.jpg" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="col-6">
+                                            <div class="package-gallary-item">
+                                                <img  src="../assets/images/Agafay/agafayg.jpg" alt="">
+                                            </div>
+                                        </div>
+                                         <div class="col-6">
+                                            <div class="package-gallary-item">
+                                                <img  src="../assets/images/Agafay/agafayg1.jpg" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="col-6">
+                                            <div class="package-gallary-item">
+                                                <img  src="../assets/images/Agafay/agafay.jpg" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="col-6">
+                                            <div class="package-gallary-item">
+                                                <img  src="../assets/images/Agafay/agafayc2.jpg" alt="">
                                             </div>
                                         </div>
                                         <div class="col-6">
                                                 <div class="package-gallary-item">
-                                                    <img  src="../assets/images/visites/marrakech6.jpg" alt="">
+                                                    <img  src="../assets/images/Agafay/agafayg4.jpg" alt="">
                                                 </div>
                                         </div>
                                         
@@ -351,23 +376,15 @@ Modes de Paiement:
     <script src="../assets/js/main.js"></script>
    
     <script >
-        var nbr_prive=79;
+        var nbr_prive=45;
         $('#totalpriceprive').val(nbr_prive );
 
        
        $( '#truist-adult' ).change(function() {
     
         nbr= $( '#truist-adult' ).val();
-        nbr_prive=79;
-         if(nbr=='2'){
-          nbr_prive-=1;
-         }else if(nbr=='3'){
-          nbr_prive+=2;
-       }else if(nbr=='4'){
-          nbr_prive+=1;
-       }else if(nbr=='5'){
-          nbr_prive-=4;
-       }
+        nbr_prive=45 * nbr;
+       
        $('#totalpriceprive').val(nbr_prive );
 
        });
