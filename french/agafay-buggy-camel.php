@@ -23,8 +23,8 @@
                         <aside class="package-widget-style-2 widget-form mt-30">
                             <div class="widget-title">
                             <table class="table" style="color: white; border: solid 0px ;border-color: #162b32; ">
-                                    <tr  style="height: 40px ;text-align: center;">
-                                        <th   >Privat</th>
+                                     <tr  style="height: 40px ;text-align: center;" class="privebackground">
+                                        <th  colspan="5" >Private</th>
                                     </tr>
                                     <tr  style="height: 40px ;text-align: center;">
                                         <th   >130 €</th>
@@ -172,7 +172,7 @@
                                     <li class="nav-item navmargin" role="presentation">
                                         <button class="nav-link" id="pills-package3" data-bs-toggle="pill"
                                             data-bs-target="#pill-body3" type="button" role="tab" aria-controls="pill-body3"
-                                            aria-selected="false"><i class="bi bi-images"></i> Tour Gallary</button>
+                                            aria-selected="false"><i class="bi bi-images"></i> Galerie  </button>
                                     </li>
                                   
                                 </ul>
@@ -232,7 +232,7 @@ Point de rencontre:
     <i class='bx bx-check'></i>Notre chauffeur viendra vous chercher dans votre hôtel / Riad à Marrakech à l’heure convenue au moment de la réservation
     <i class='bx bx-check'></i>En cas de problème : veuillez nous envoyer un email ou nous appeler sur les numéros affichés sur la bannière des contacts.
 
-Réservations faciles : Acceptées jusqu'à 18h00 de la veille (heure de Marrakech), Si vous rencontrez des difficultés pour réserver ou avez besoin d'un autre service, contactez-nous.
+Réservations faciles : Acceptées jusqu'à 18h00 de la veille (heure de Marrakech), Si vous rencontrez des difficultés pour réserver ou avez besoin d'un autre service,<a href='contact.php'> contactez-nous </a>.
 
  
 Modes de Paiement:

@@ -7,10 +7,10 @@
     <div class="breadcrumb breadcrumb-style-one">
         <div class="container">
             <div class="col-lg-12 text-center">
-                <h2 class="breadcrumb-title">Excursion Vallée de l'Ourika</h2>
+                <h2 class="breadcrumb-title">Excursion 2 Jours au Désert de Zagora :  </h2>
                 <ul class="d-flex justify-content-center breadcrumb-items">
-                    <li class="breadcrumb-item"><a href="index.php">Acceuil</a></li>
-                    <li class="breadcrumb-item active">excursion</li>
+                     <li class="breadcrumb-item"><a href="index.php">Accueil</a></li>
+                    <li class="breadcrumb-item active">Cercuits</li>
                 </ul>
             </div>
         </div>
@@ -24,8 +24,8 @@
                         <aside class="package-widget-style-2 widget-form mt-30">
                             <div class="widget-title">
                                 <table class="table" style="color: white;">
-                                     <tr  style="height: 40px ;text-align: center;" class="privebackground">
-                                        <th  colspan="5" >Privée</th>
+                                    <tr  style="height: 40px ;text-align: center;">
+                                        <th  colspan="5" >Private</th>
                                     </tr>
                                     <tr>
                                         <th>nbr max*</th>
@@ -36,10 +36,10 @@
                                     </tr>
                                     <tr>
                                         <th>prix* €</th>
-                                        <td>35</td>
-                                        <td>23</td>
-                                        <td>17</td>
-                                        <td>14</td>
+                                        <td>160</td>
+                                        <td>127</td>
+                                        <td>110</td>
+                                        <td>100</td>
 
                                     </tr>
                                 </table>
@@ -50,10 +50,10 @@
                                     <div class="booking-form-wrapper">
                                         <div class="custom-input-group">
                                             <input type="hidden"      name="type_reservation"  value="prive"/> &nbsp;
-                                            <input type="hidden"      name="type_tour" value="Excursion"/> &nbsp;
-                                            <input type="hidden"      name="name_tour" value="ourika"/> &nbsp;
+                                            <input type="hidden"      name="type_tour" value="Cercuit"/> &nbsp;
+                                            <input type="hidden"      name="name_tour" value="zagora"/> &nbsp;
 
-                                            Sélectionnez la date et les participants 
+                                            Sélectionnez la date et les participants :
                                             <i class="bi bi-calendar3"></i>
                                             <input placeholder="Select your date" type="date" name="date"
                                                 id="datepickerprive" value="" class="calendar" required>
@@ -62,7 +62,7 @@
                                             <div class="custom-input-group">
                                                 <i class="bi bi-chevron-down"></i>
                                                 <select id="truist-adult" name="numbertravels">
-                                                    <option  value="notselected" selected > Nombre de voyageurs: : </option>
+                                                    <option  value="notselected" selected > Nombre de voyageurs: </option>
                                                     <option value="1"> 1</option>
                                                     <option value="2"> 2</option>
                                                     <option value="3"> 3</option>
@@ -71,40 +71,39 @@
                                                 </select>
                                             </div>
                                         </div><br>
-                                        <div class="row">
-                                            
-                                             <div class="col-md-6">
-                                                <input type="checkbox" class="radiosize" id="Guide"    value="Guide (15€)"/> &nbsp;
-                                            
-                                                Guide(15€)
-                                            </div>
-                                           
-                                            <div class="col-md-6">
-                                                <input type="checkbox"  class="radiosize"  id="Lunch"    value="Déjeuner (10€ / per)"/>&nbsp;
-                                          
-                                                Déjeuner (10€ / per)  
-
-                                            </div> 
-
-                                            
-                                        </div>
+                                        
                                         <div class="custom-input-group">
                                        
-                                           Prix ​​total en € par personne<input type="text"  id="totalpriceprive"  name="totalprice" class="form-control" disabled>
+                                            Prix ​​total en €<input type="text"  id="totalpriceprive"  name="totalprice" class="form-control" value="300" disabled>
                                         </div>
                                         <div class="custom-input-group">
                                             <input type="text" placeholder="Ton nom complet" id="name" name="name" required>
                                         </div>
                                         <div class="custom-input-group">
-                                            <input type="email" placeholder="votre Email" id="email" name="email" >
+                                            <input type="email" placeholder="Votre Email" id="email" name="email" >
                                         </div>
                                         <div class="custom-input-group">
                                             <input type="tel" placeholder="téléphone" id="phone" name="phone" required>
                                         </div>
                                         
+                                        <div class="row">
+                                                <div class="custom-input-group">
+                                                    <i class="bi bi-chevron-down"></i>
+                                                    <select id="truist-adult" name="adlut">
+                                                        <option value="notselected" selected>Adult</option>
+                                                        <option value="1"> 1</option>
+                                                        <option value="2"> 2</option>
+                                                        <option value="3"> 3</option>
+                                                        <option value="4"> 4</option>
+                                                        <option value="5"> 5</option>
+                                                    </select>
+                                                </div>
+                                            
+                                        </div>
+                                       
                                        
                                         <div class="custom-input-group">
-                                            <textarea cols="20" rows="7" name="message" placeholder="votre message"></textarea>
+                                            <textarea cols="20" rows="7" name="message" placeholder="Votre message"></textarea>
                                         </div>
                                         <div class="custom-input-group">
                                             <div class="submite-btn">
@@ -128,7 +127,7 @@
                                         </div>
                                         <div class="info">
                                             <h6>Duration</h6>
-                                            <span>7-8 hours</span>
+                                            <span>1 night / 2 days</span>
                                         </div>
                                     </div>
                                 </div>
@@ -139,7 +138,7 @@
                                         </div>
                                         <div class="info">
                                             <h6> Distance</h6>
-                                            <span>40 Km x 2</span>
+                                            <span>350 Km x 2</span>
                                         </div>
                                     </div>
                                 </div>
@@ -150,7 +149,7 @@
                                         </div>
                                         <div class="info">
                                             <h6>Heure de départ</h6>
-                                            <span> 09h00</span>
+                                            <span> 07h00</span>
                                         </div>
                                     </div>
                                 </div>
@@ -167,11 +166,11 @@
                                 </div>
                             </div>
                             <div class="pd-thumb">
-                                <img src="../assets/images/excursion/ourika.jpg" alt="">
+                                <img src="../assets/images/Circuit/details/zagora1.jpg" alt="">
                             </div>
                             <div class="header-bottom">
                                 <div class="pd-lavel d-flex justify-content-between align-items-center flex-wrap gap-2">
-                                    <h5 class="location"><i class="bi bi-geo-alt"></i> ourika, maroc</h5>
+                                    <h5 class="location"><i class="bi bi-geo-alt"></i> Zagora, maroc</h5>
                                     <ul class="d-flex align-items-center rating">
                                         <li><i class="bi bi-star-fill"></i></li>
                                         <li><i class="bi bi-star-fill"></i></li>
@@ -180,7 +179,7 @@
                                         <li><i class="bi bi-star-fill"></i></li>
                                     </ul>
                                 </div>
-                                <h2 class="pd-title">Excursion Vallée de l'Ourika</h2>
+                                <h2 class="pd-title">Excursion 2 Jours au Désert de Zagora :</h2>
                             </div>
                         </div>
                     </div>    
@@ -194,10 +193,10 @@
                                         <th   >Groupe</th>
                                     </tr>
                                     <tr  style="height: 40px ;text-align: center;">
-                                        <th   >25 €</th>
+                                        <th   >65 €</th>
                                     </tr>
                                     <tr  style="height: 40px;text-align: center; ">
-                                        <th >par personne</th>                                        
+                                        <th > Par personne </th>                                        
                                     </tr>
                                    
                                 </table>
@@ -208,10 +207,10 @@
                                     <div class="booking-form-wrapper">
                                         <div class="custom-input-group">
                                             <input type="hidden"      name="type_reservation" value="groupe"/> &nbsp;
-                                            <input type="hidden"      name="type_tour" value="Excursion"/> &nbsp;
-                                            <input type="hidden"      name="name_tour" value="ourika"/> &nbsp;
+                                            <input type="hidden"      name="type_tour" value="Cercuit"/> &nbsp;
+                                            <input type="hidden"      name="name_tour" value="zagora"/> &nbsp;
 
-                                            Sélectionnez la date et les participants 
+                                            Sélectionnez la date et les participants :
                                             <i class="bi bi-calendar3"></i>
                                             <input placeholder="Select your date" type="date" name="date"
                                                 id="datepickerfroup" value="" class="calendar" required>
@@ -220,7 +219,7 @@
                                             <div class="custom-input-group">
                                                 <i class="bi bi-chevron-down"></i>
                                                 <select id="truist-adultgroup" name="numbertravels">
-                                                    <option value="notselected" selected> Nombre de voyageurs: : </option>
+                                                    <option value="notselected" selected> Nombre de voyageurs: </option>
                                                     <option value="1"> 1</option>
                                                     <option value="2"> 2</option>
                                                     <option value="3"> 3</option>
@@ -229,23 +228,7 @@
                                                 </select>
                                             </div>
                                         </div><br>
-                                        <div class="row">
-                                            
-                                            <div class="col-6">
-                                               <input type="checkbox" class="radiosize" id="Guidegroup"  name="Guide" value="Guide (15€)"/> &nbsp;
-                                           
-                                               Guide(15€)
-                                           </div>
-                                          
-                                           <div class="col-6">
-                                            <input type="checkbox"  class="radiosize"  id="Lunchgroup"  name="Lunch" value="Déjeuner (10€ / per)"/>&nbsp;
-                                          
-                                               Déjeuner (10€ / per)  
-
-                                           </div> 
-
-                                           
-                                       </div>
+                                        
                                        <div class="custom-input-group">
                                       
                                            Prix ​​total en €<input type="text"   id="totalpricegroup" name="totalprice"  class="form-control" disabled>
@@ -254,16 +237,30 @@
                                             <input type="text" placeholder="Ton nom complet" name="name" id="name" required> 
                                         </div>
                                         <div class="custom-input-group">
-                                            <input type="email" placeholder="votre Email" name="email" id="email">
+                                            <input type="email" placeholder="Votre Email" name="email" id="email">
                                         </div>
                                         <div class="custom-input-group">
                                             <input type="tel" placeholder="téléphone" name="phone" id="phone" required>
                                         </div>
                                         
-                                    
+                                        <div class="row">
+                                                <div class="custom-input-group">
+                                                    <i class="bi bi-chevron-down"></i>
+                                                    <select id="truist-adult" name="adult">
+                                                        <option value="notselected"selected>Adult</option>
+                                                        <option value="1"> 1</option>
+                                                        <option value="2"> 2</option>
+                                                        <option value="3"> 3</option>
+                                                        <option value="4"> 4</option>
+                                                        <option value="5"> 5</option>
+                                                    </select>
+                                                </div>
+                                            
+                                        </div>
+                                       
                                        
                                         <div class="custom-input-group">
-                                            <textarea cols="20" rows="7" name="message" placeholder="votre message"></textarea>
+                                            <textarea cols="20" rows="7" name="message" placeholder="Votre message"></textarea>
                                         </div>
                                         <div class="custom-input-group">
                                             <div class="submite-btn">
@@ -297,6 +294,11 @@
                                             data-bs-target="#pill-body3" type="button" role="tab" aria-controls="pill-body3"
                                             aria-selected="false"><i class="bi bi-images"></i> Galerie  </button>
                                     </li>
+                                    <li class="nav-item navmargin" role="presentation">
+                                        <button class="nav-link" id="pills-package4" data-bs-toggle="pill"
+                                            data-bs-target="#pill-body4" type="button" role="tab" aria-controls="pill-body4"
+                                            aria-selected="false"><i class="bi bi-geo-alt"></i> Itinerary</button>
+                                    </li>
                                   
                                 </ul>
                             <div class="tab-content" id="pills-tabContent">
@@ -305,92 +307,93 @@
                                     role="tabpanel" aria-labelledby="pills-package1">
                                     <h3 class="d-subtitle">Détails du forfait</h3>
  <pre>
+ 1er jour : Marrakech – Ait Ben Haddou – Ouarzazate – Zagora  
 
+Départ tôt le matin, nous traverserons le Haut Atlas et atteindrons le col de Tizi N'Tichka, haut de 2260 mètres. Continuation jusqu’à la Kasbah d'Ait Ben Haddou, nous visiterons ce merveilleux Ksar qui est inscrit au patrimoine mondial de l’Unesco. Plusieurs films sont tournés dans ce décor: the mommy, Gladiator, Seven years in Tibet, Babel…Après le déjeuner en face du Ksar continuation vers Zagora en longeant la vallée du Draâ, oasis presque ininterrompu... 5 Km après Zagora, randonnée à dos de dromadaire d’environ 1h, dans un environnement de nature exceptionnel, où l'air est si pur, que la vue et les sons portent à des centaines de kilomètres, où il y a un silence que rien ne trouble, où l'on pourrait s'entendre penser… Nous assisterons au coucher de soleil, dîner et nuit à Zagora. 
 
- Parmi les plus belles régions naturelles accessibles depuis Marrakech figure la vallée de l’Ourika, sertie au cœur des sommets du haut atlas. Partir à la découverte de cette région est une occasion de plonger au cœur du Maroc authentique et préservé de l’urbanisme galopant. Séjourner à Marrakech sans visiter la vallée de l’Ourika serait tout simplement dommage.
-Lorsqu’on part à la conquête de la vallée de l’Ourika, il est impossible de résister au charme de la région, tant l’écosystème est préservé. Il est souvent difficile de s’imaginer qu’on est à seulement 40 km de la foisonnante ville de Marrakech. La vallée de l’Ourika se caractérise avant tout par un environnement verdoyant où la rivière d’où elle tire son nom serpente tantôt paresseusement, tantôt vivement selon l’intensité des pentes du Haut Atlas. Une piste très appréciée des touristes permet de découvrir une suite de sept cascades.  Il n’y a pas que la nature qui a su être préservée au cœur de la vallée de l’Ourika, on y trouve également de nombreux villages traditionnels accrochés aux flancs des montagnes qui semblent être figés dans le temps… 
+2eme jour : Zagora – La Vallée de Draa – Ouarzazate – Marrakech
 
-    Possibilité de visiter une maison Berbère type.                                     
-    Possibilité de visiter le souk hebdomadaire Berbère : les Lundis  
-    Activités en option pour l’excursion en privée :
-        Balade en Quad à la Palmeraie de Marrakech (2 heures)
-        Balade en chameau à la Palmeraie de Marrakech (1 heure)
+Après le petit déjeuner, découverte de la palmeraie et de sa population, un patrimoine culturel riche et diversifié...déjeuner à Ouarzazate et visite d’orientation de la ville (Kasbah de Taourirt et Studios de cinéma) puis retour à Marrakech via le col de Tichka.
 
-Durée : 8 heures
-Distance: 40 km x 2
+Durée:  2 jours
+Distance: 350 km x 2
 Disponibilité: Tous les jours
-Heure de départ: 09h00
+Heur de départ: 07h00 am
 
-    <i class='bx bx-check'></i>Pas De Frais De Réservation
-    <i class='bx bx-check'></i>Réserver Maintenant et Payez Plus Tard
-    <i class='bx bx-check'></i>Garantie Du Meilleur Tarif
-    <i class='bx bx-check'></i>Excellent Service
- 
-Ce qui est inclus :
+<i class='bx bx-check'></i>Pas De Frais De Réservation
+<i class='bx bx-check'></i>Réserver Maintenant et Payez Plus Tard
+<i class='bx bx-check'></i>Garantie Du Meilleur Tarif
+<i class='bx bx-check'></i>Excellent Service
+ Ce qui est inclus :
 
-    <i class='bx bx-check'></i> Transport avec chauffeur/guide
-    <i class='bx bx-check'></i>Véhicule climatisé et confortable, 4x4 ou bien minibus.
-    <i class='bx bx-check'></i>Assurance de transport
-    <i class='bx bx-check'></i>Assurance responsabilité civile professionnelle
-    <i class='bx bx-check'></i>Service de qualité et  fiabilité
-    <i class='bx bx-check'></i>Toutes les taxes
-
+<i class='bx bx-check'></i>Transport avec chauffeur guide
+<i class='bx bx-check'></i>Véhicule climatisé et très confort 4x4 ou bien mini bus
+<i class='bx bx-check'></i>Hébergement : Caravane du Sud en demi-pension
+<i class='bx bx-check'></i>Promenade à dos de chameaux en plein dunes
+<i class='bx bx-check'></i>Assurance de transport
+<i class='bx bx-check'></i>Service de qualité et  fiabilité
+<i class='bx bx-check'></i>Toutes les taxes
 Ce qui n’est pas inclus :
 
-    <i class='bx bx-check'></i>Déjeuner (Sur demande)
-    <i class='bx bx-check'></i>Guide Local
-    <i class='bx bx-check'></i>Pourboires
-
+<i class='bx bx-check'></i>Déjeuner
+<i class='bx bx-check'></i>Guide Local
+<i class='bx bx-check'></i>Pourboires
 Point de rencontre:                                 
 
-    <i class='bx bx-check'></i>Notre chauffeur viendra vous chercher dans votre hôtel / Riad à Marrakech à l’heure convenue au moment de la réservation
-    <i class='bx bx-check'></i>En cas de problème : veuillez nous envoyer un email ou nous appeler sur les numéros affichés sur la bannière des contacts.
-
+Notre chauffeur viendra vous chercher dans votre hôtel / Riad à Marrakech à l’heure convenue au moment de la réservation
+En cas de problème : veuillez nous envoyer un email ou nous appeler sur les numéros affichés sur la bannière des contacts.
 Réservations faciles : Acceptées jusqu'à 18h00 de la veille (heure de Marrakech), Si vous rencontrez des difficultés pour réserver ou avez besoin d'un autre service,<a href='contact.php'> contactez-nous </a>.
 
  
 Modes de Paiement:
 
-     <i class='bx bx-check'></i>En espèce (Euros ou MAD) à votre arrivée
- 
-
- </pre>                    
+ <i class='bx bx-check'></i>En espèce (Euros ou MAD) à votre arrivée
+  </pre>                    
                                 </div>
                                 <div class="tab-pane fade package-gallary-tab mt-3" id="pill-body3" role="tabpanel"
                                     aria-labelledby="pills-package3">
                                     <div class="row g-4">
                                         <div class="col-6">
                                             <div class="package-gallary-item">
-                                                <img  src="../assets/images/excursion/ourika2.jpg" alt="">
+                                                <img  src="../assets/images/Circuit/details/zagora1.jpg" alt="">
                                             </div>
                                         </div>
                                         <div class="col-6">
                                             <div class="package-gallary-item">
-                                                <img  src="../assets/images/excursion/ourika8.jpg" alt="">
+                                                <img  src="../assets/images/Circuit/details/zagora2.jpg" alt="">
                                             </div>
                                         </div>
                                         <div class="col-6">
                                                 <div class="package-gallary-item">
-                                                    <img  src="../assets/images/excursion/ourika3.jpg" alt="">
+                                                    <img  src="../assets/images/Circuit/details/zagora3.jpg" alt="">
                                                 </div>
                                         </div>
                                         <div class="col-6">
                                             <div class="package-gallary-item">
-                                                <img  src="../assets/images/excursion/ourika4.jpg" alt="">
+                                                <img  src="../assets/images/Circuit/details/zagora4.jpg" alt="">
                                             </div>
                                         </div>
                                         <div class="col-6">
                                                 <div class="package-gallary-item">
-                                                    <img  src="../assets/images/excursion/ourika5.jpg" alt="">
+                                                    <img  src="../assets/images/Circuit/details/zagora5.jpg" alt="">
                                                 </div>
                                         </div>
                                         <div class="col-6">
                                                 <div class="package-gallary-item">
-                                                    <img  src="../assets/images/excursion/ourika6.jpg" alt="">
+                                                    <img  src="../assets/images/Circuit/details/zagora6.jpg" alt="">
                                                 </div>
                                         </div>
                                         
                                         
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade package-location-tab mt-3" id="pill-body4" role="tabpanel"
+                                    aria-labelledby="pills-package4">
+                                    <div class="mapouter">
+                                             <div class="package-gallary-item  ">
+                                            <img  class="imageininerary" src="../assets/images/Circuit/details/zagora-map.jpg" alt="">
+                                            </div>
+                                        <br>
                                     </div>
                                 </div>
                                  
@@ -421,135 +424,28 @@ Modes de Paiement:
 
     <script src="../assets/js/main.js"></script>
     
-    <script >
-        var nbr_prive=70;
+<script >
+        var nbr_prive=300;
         $('#totalpriceprive').val(nbr_prive );
 
-       $('#Guide').change(function() {
-         /* */
-          if($(this).is(':checked')){
-              nbr_prive+=15;
-          }
-          else{
-              nbr_prive-=15;
-          }
-          $('#totalpriceprive').val(nbr_prive );
-
-       });
-       $('#Lunch').change(function() {
-          /* */          
-          var lunch=10;
-
-          if($(this).is(':checked')){
-              nbr= $( '#truist-adult' ).val();
-              if(nbr=='2'){
-                  nbr_prive+=lunch*2;
-              }else if(nbr=='3'){
-                  nbr_prive+=lunch*3;
-              }
-              else if(nbr=='4'){
-                  nbr_prive+=lunch*4;
-              }
-              else if(nbr=='5'){
-                  nbr_prive+=lunch*5;
-              }else{
-                  nbr_prive+=lunch;
-
-              }
-                  
-          }
-          else{
-              nbr= $( '#truist-adult' ).val();
-              if(nbr=='2'){
-                  nbr_prive-=lunch*2;
-              }else if(nbr=='3'){
-                  nbr_prive-=lunch*3;
-              }
-              else if(nbr=='4'){
-                  nbr_prive-=lunch*4;
-              }
-              else if(nbr=='5'){
-                  nbr_prive-=lunch*5;
-              }else{
-                  nbr_prive-=lunch;
-
-              }            }
-          $('#totalpriceprive').val(nbr_prive );
-
-      });
-
        $( '#truist-adult' ).change(function() {
-          $( "#Lunch" ).prop( "checked", false );
-          $( "#Guide" ).prop( "checked", false );
+          
         nbr= $( '#truist-adult' ).val();
-        nbr_prive=parseInt(70 / nbr);
-
-       $('#totalpriceprive').val(nbr_prive );
+       var new_nbr_prive = nbr_prive / nbr ;
+       $('#totalpriceprive').val(new_nbr_prive );
 
        });
 </script>
 <script >
-  var nbr_group=25 ;
+  var nbr_group=65 ;
   $('#totalpricegroup').val(nbr_group );
 
- $('#Guidegroup').change(function() {
-   /* */
-    if($(this).is(':checked')){
-      nbr_group+=15;
-    }
-    else{
-      nbr_group-=15;
-    }
-    $('#totalpricegroup').val(nbr_group );
-
- });
- $('#Lunchgroup').change(function() {
-   /* */
-      var lunchgroup=10;
-
-    if($(this).is(':checked')){
-      nbr= $( '#truist-adultgroup' ).val();
-      if(nbr=='2'){
-          nbr_group+= lunchgroup * 2;
-      }else if(nbr=='3'){
-          nbr_group+= lunchgroup * 3;
-      }
-      else if(nbr=='4'){
-          nbr_group+= lunchgroup * 4;
-      }
-      else if(nbr=='5'){
-          nbr_group+= lunchgroup * 5;
-      }else{
-          nbr_group+= lunchgroup;
-
-      }
-          
-    }
-    else{
-      if(nbr=='2'){
-          nbr_group-= lunchgroup * 2;
-      }else if(nbr=='3'){
-          nbr_group-= lunchgroup * 3;
-      }
-      else if(nbr=='4'){
-          nbr_group-= lunchgroup * 4;
-      }
-      else if(nbr=='5'){
-          nbr_group-= lunchgroup * 5;
-      }else{
-          nbr_group-= lunchgroup;
-
-      }
-    }
-    $('#totalpricegroup').val(nbr_group );
- });
-
- $( '#truist-adultgroup' ).change(function() {
-    $( "#Lunchgroup" ).prop( "checked", false );
-    $( "#Guidegroup" ).prop( "checked", false );
+$( '#truist-adultgroup' ).change(function() {
+   
   nbr= $( '#truist-adultgroup' ).val();
-  nbr_group=25 *nbr ;
- $('#totalpricegroup').val(nbr_group );
+    
+  var new_nbr_group =   nbr_group * nbr ;
+ $('#totalpricegroup').val(new_nbr_group );
 
  });
 </script>

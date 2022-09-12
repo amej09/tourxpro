@@ -164,8 +164,8 @@
                                     <a href="javascript:void(0)">Trensfers</a>
                                     <i class="fl flaticon-plus">+</i>
                                     <ul class="sub-menu">
-                                        <li><a href="trensfers-airoport-marrakech.php">Marrakech Menara Airport <--> Marrakech </a></li>
-                                        <li><a href="trensfers-marrakech-casablanca.php">Marrakech  <--> Airport M5 Casablanca </a></li>
+                                        <li><a href="trensfers-airoport-marrakech.php">Marrakech Menara Aéroport <--> Marrakech </a></li>
+                                        <li><a href="trensfers-marrakech-casablanca.php">Marrakech  <--> Aéroport M5 Casablanca </a></li>
                                         <li><a href="trensfers-marrakech-agadir.php">Marrakech  <--> Agadir</a></li>
                                         <li><a href="trensfers-marrakech-chefchaoun.php">Marrakech  <--> Chefchaoun </a></li>
                                         <li><a href="trensfers-marrakech-fes.php">Marrakech  <--> Fès</a></li>

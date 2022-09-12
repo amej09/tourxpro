@@ -23,8 +23,8 @@
                         <aside class="package-widget-style-2 widget-form mt-30">
                             <div class="widget-title">
                                 <table class="table" style="color: white; border: solid 0px ;border-color: #162b32; ">
-                                    <tr  style="height: 40px ;text-align: center;">
-                                        <th   >Privat</th>
+                                     <tr  style="height: 40px ;text-align: center;" class="privebackground">
+                                        <th  colspan="5" >Private</th>
                                     </tr>
                                     <tr  style="height: 40px ;text-align: center;">
                                         <th   >50 €</th>
@@ -183,7 +183,7 @@
                                     <li class="nav-item navmargin" role="presentation">
                                         <button class="nav-link" id="pills-package3" data-bs-toggle="pill"
                                             data-bs-target="#pill-body3" type="button" role="tab" aria-controls="pill-body3"
-                                            aria-selected="false"><i class="bi bi-images"></i> Tour Gallary</button>
+                                            aria-selected="false"><i class="bi bi-images"></i> Galerie  </button>
                                     </li>
                                   
                                 </ul>

@@ -192,7 +192,7 @@
                                     <li class="nav-item navmargin" role="presentation">
                                         <button class="nav-link" id="pills-package3" data-bs-toggle="pill"
                                             data-bs-target="#pill-body3" type="button" role="tab" aria-controls="pill-body3"
-                                            aria-selected="false"><i class="bi bi-images"></i> Tour Gallary</button>
+                                            aria-selected="false"><i class="bi bi-images"></i> Galerie  </button>
                                     </li>
                                     <li class="nav-item navmargin" role="presentation">
                                         <button class="nav-link" id="pills-package4" data-bs-toggle="pill"
@@ -225,11 +225,11 @@ Etape 3 : Place des nations unis
 
 Autre curiosité : la Place des Nations Unis, fait le lien, comme un pont entre le passé et le présent, elle est le point de rencontre des grandes artères. On trouve tout à proximité : une station de tramway, le souk, des hôtels de luxe, des restaurants, des cafés, des boutiques mais aussi des banques, des sièges de grandes entreprises, des agences de voyage... visite du bar du Hyatt regency, célèbre décor du film interprété par Humphrey Bogart et Ingrid Bergman pour une dernière pause-café.
 
-Etape 4 : La corniche and Morocco Mall
+Etape 4 : La corniche and maroc Mall
 
 D’autre part, la Corniche, autre lieu phare de la ville a été accommodée dans les années 20. Elle alterne plages, piscines, café et autres lieux de distraction très populeux par les casablancais le week-end.
 
-Ensuite le grand Morocco Mall  Pour les uns c’est le meilleur pour la fin, Morocco Mall ouvert en 2011, le Morocco Mall est le 20e plus grand centre commercial du monde et le 2e plus grand d’Afrique. Véritable fierté nationale, c’est le paradis du shopping et l’un des plus importants symboles du dynamisme économique de Casablanca.
+Ensuite le grand maroc Mall  Pour les uns c’est le meilleur pour la fin, maroc Mall ouvert en 2011, le maroc Mall est le 20e plus grand centre commercial du monde et le 2e plus grand d’Afrique. Véritable fierté nationale, c’est le paradis du shopping et l’un des plus importants symboles du dynamisme économique de Casablanca.
 
 A l’intérieur vous trouverez les plus importantes chaînes internationales de magasins mais aussi de nombreuses attractions comme un aquarium, une patinoire et un parc d’attraction.
 
@@ -264,7 +264,7 @@ Point de rencontre:
     <i class='bx bx-check'></i>Notre chauffeur viendra vous chercher dans votre hôtel / Riad à Marrakech à l’heure convenue au moment de la réservation
     <i class='bx bx-check'></i>En cas de problème : veuillez nous envoyer un email ou nous appeler sur les numéros affichés sur la bannière des contacts.
 
-Réservations faciles : Acceptées jusqu'à 18h00 de la veille (heure de Marrakech), Si vous rencontrez des difficultés pour réserver ou avez besoin d'un autre service, contactez-nous.
+Réservations faciles : Acceptées jusqu'à 18h00 de la veille (heure de Marrakech), Si vous rencontrez des difficultés pour réserver ou avez besoin d'un autre service,<a href='contact.php'> contactez-nous </a>.
 
  
 Modes de Paiement:

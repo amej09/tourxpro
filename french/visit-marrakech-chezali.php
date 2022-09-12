@@ -204,7 +204,7 @@
                                     <li class="nav-item navmargin" role="presentation">
                                         <button class="nav-link" id="pills-package3" data-bs-toggle="pill"
                                             data-bs-target="#pill-body3" type="button" role="tab" aria-controls="pill-body3"
-                                            aria-selected="false"><i class="bi bi-images"></i> Tour Gallary</button>
+                                            aria-selected="false"><i class="bi bi-images"></i> Galerie  </button>
                                     </li>
                                   
                                 </ul>
@@ -284,7 +284,7 @@ Enfant de 0 à 04 ans : gratuit
 Enfant de 05 à 10 ans : 50% réduction
 Enfant de 11 et plus : plein tarif
 
-Réservations faciles : Acceptées jusqu'à 18h00 de la veille (heure de Marrakech), Si vous rencontrez des difficultés pour réserver ou avez besoin d'un autre service, contactez-nous.
+Réservations faciles : Acceptées jusqu'à 18h00 de la veille (heure de Marrakech), Si vous rencontrez des difficultés pour réserver ou avez besoin d'un autre service,<a href='contact.php'> contactez-nous </a>.
 
  
 Modes de Paiement:

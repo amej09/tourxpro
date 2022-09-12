@@ -2,9 +2,6 @@
 <html lang="en">
 
 
-   
-
-
     <?php include('template/header.php')?>
 
 
@@ -12,10 +9,10 @@
     <div class="breadcrumb breadcrumb-style-one">
         <div class="container">
             <div class="col-lg-12 text-center">
-                <h2 class="breadcrumb-title">Visite de Ville: Marrakech en ½ Journée </h2>
+                <h2 class="breadcrumb-title">Circuit en buggy dans le désert de Marrakech avec pause thé berbère et transfert:  </h2>
                 <ul class="d-flex justify-content-center breadcrumb-items">
-                    <li class="breadcrumb-item"><a href="index.php">Acceuil</a></li>
-                    <li class="breadcrumb-item active">visites</li>
+                     <li class="breadcrumb-item"><a href="index.php">Accueil</a></li>
+                    <li class="breadcrumb-item active">Activite</li>
                 </ul>
             </div>
         </div>
@@ -28,25 +25,17 @@
                     <div class="package-sidebar">
                         <aside class="package-widget-style-2 widget-form mt-30">
                             <div class="widget-title">
-                                <table class="table" style="color: white;">
+                                <table class="table" style="color: white; border: solid 0px ;border-color: #162b32; ">
                                      <tr  style="height: 40px ;text-align: center;" class="privebackground">
-                                        <th  colspan="5" >Privée</th>
+                                        <th  colspan="5" >Private</th>
                                     </tr>
-                                    <tr>
-                                        <th>nbr max*</th>
-                                        <td>2</td>
-                                        <td>3</td>
-                                        <td>4</td>
-                                        <td>5</td>
+                                    <tr  style="height: 40px ;text-align: center;">
+                                        <th   >100 €</th>
                                     </tr>
-                                    <tr>
-                                        <th>prix* €</th>
-                                        <td>30</td>
-                                        <td>20</td>
-                                        <td>15</td>
-                                        <td>12</td>
-
+                                    <tr  style="height: 40px;text-align: center; ">
+                                        <th > Par personne </th>                                        
                                     </tr>
+                                   
                                 </table>
                             </div>
 
@@ -55,10 +44,10 @@
                                     <div class="booking-form-wrapper">
                                         <div class="custom-input-group">
                                             <input type="hidden"      name="type_reservation"  value="prive"/> &nbsp;
-                                            <input type="hidden"      name="type_tour" value="visites"/> &nbsp;
-                                            <input type="hidden"      name="name_tour" value="Visite de Ville: Marrakech en ½ Journée "/> &nbsp;
+                                            <input type="hidden"      name="type_tour" value="Activity"/> &nbsp;
+                                            <input type="hidden"      name="name_tour" value="Buggy"/> &nbsp;
 
-                                            Sélectionnez la date et les participants 
+                                            Sélectionnez la date et les participants :
                                             <i class="bi bi-calendar3"></i>
                                             <input placeholder="Select your date" type="date" name="date"
                                                 id="datepickerprive" value="" class="calendar" required>
@@ -67,7 +56,7 @@
                                             <div class="custom-input-group">
                                                 <i class="bi bi-chevron-down"></i>
                                                 <select id="truist-adult" name="numbertravels">
-                                                    <option  value="notselected" selected > Nombre de voyageurs: : </option>
+                                                    <option  value="notselected" selected > Nombre de voyageurs: </option>
                                                     <option value="1"> 1</option>
                                                     <option value="2"> 2</option>
                                                     <option value="3"> 3</option>
@@ -76,40 +65,25 @@
                                                 </select>
                                             </div>
                                         </div><br>
-                                        <div class="row">
-                                            
-                                             <div class="col-md-6">
-                                                <input type="checkbox" class="radiosize" id="Guide"    value="Guide (30€)"/> &nbsp;
-                                            
-                                                Guide(30€)
-                                            </div>
-                                           
-                                            <div class="col-md-6">
-                                                <input type="checkbox"  class="radiosize"  id="Lunch"    value="Déjeuner (12€ / per)"/>&nbsp;
-                                          
-                                                Déjeuner  (12€ / per) 
-
-                                            </div> 
-
-                                            
-                                        </div>
+                                         
                                         <div class="custom-input-group">
                                        
-                                           Prix ​​total en € par personne<input type="text"  id="totalpriceprive"  name="totalprice" class="form-control" disabled>
+                                            Prix ​​total en € Par personne<input type="text"  id="totalpriceprive"  name="totalprice" class="form-control" disabled>
                                         </div>
                                         <div class="custom-input-group">
                                             <input type="text" placeholder="Ton nom complet" id="name" name="name" required>
                                         </div>
                                         <div class="custom-input-group">
-                                            <input type="email" placeholder="votre Email" id="email" name="email" >
+                                            <input type="email" placeholder="Votre Email" id="email" name="email" >
                                         </div>
                                         <div class="custom-input-group">
                                             <input type="tel" placeholder="téléphone" id="phone" name="phone" required>
                                         </div>
-                                        
+                                   
+                                       
                                        
                                         <div class="custom-input-group">
-                                            <textarea cols="20" rows="7" name="message" placeholder="votre message"></textarea>
+                                            <textarea cols="20" rows="7" name="message" placeholder="Votre message"></textarea>
                                         </div>
                                         <div class="custom-input-group">
                                             <div class="submite-btn">
@@ -133,11 +107,11 @@
                                         </div>
                                         <div class="info">
                                             <h6>Duration</h6>
-                                            <span>3-4 hours</span>
+                                            <span>4 Hours</span>
                                         </div>
                                     </div>
                                 </div>
-                               
+                                
                                 <div class="col">
                                     <div class="pd-single-info">
                                         <div class="info-icon">
@@ -145,7 +119,7 @@
                                         </div>
                                         <div class="info">
                                             <h6>Heure de départ</h6>
-                                            <span> 09h00/14h00</span>
+                                            <span> At your choice</span>
                                         </div>
                                     </div>
                                 </div>
@@ -162,7 +136,7 @@
                                 </div>
                             </div>
                             <div class="pd-thumb">
-                                <img src="../assets/images/visites/marrakech.jpg" alt="">
+                                <img src="../assets/images/Activite/buggy1.jpg" alt="">
                             </div>
                             <div class="header-bottom">
                                 <div class="pd-lavel d-flex justify-content-between align-items-center flex-wrap gap-2">
@@ -175,7 +149,7 @@
                                         <li><i class="bi bi-star-fill"></i></li>
                                     </ul>
                                 </div>
-                                <h2 class="pd-title">Visite de Ville: Marrakech en ½ Journée </h2>
+                                <h2 class="pd-title">Circuit en buggy dans le désert de Marrakech avec pause thé berbère et transfert</h2>
                             </div>
                         </div>
                     </div>    
@@ -202,6 +176,7 @@
                                             data-bs-target="#pill-body3" type="button" role="tab" aria-controls="pill-body3"
                                             aria-selected="false"><i class="bi bi-images"></i> Galerie  </button>
                                     </li>
+                                    
                                   
                                 </ul>
                             <div class="tab-content" id="pills-tabContent">
@@ -209,143 +184,92 @@
                                 <div class="tab-pane fade show active package-info-tab mt-3" id="pill-body1"
                                     role="tabpanel" aria-labelledby="pills-package1">
                                     <h3 class="d-subtitle">Détails du forfait</h3>
-<pre>
+ <pre>
 
 
-Renommée depuis toujours pour l’activité de ses commerçants et l’habileté de ses artisans, Marrakech brille aussi par la qualité de son climat et un environnement aussi exceptionnel que varié, avec sa palmeraie, ses roseraies, la proximité de l’Atlas enneigé et des vallées fleuries qui en descendent. Elle est encore aujourd’hui la capitale du Sud Marocain, toujours au carrefour des cultures, gardienne des traditions et du folklore, et riche d’un patrimoine architectural qui en fait l’un des hauts lieux du tourisme international.  
+ Sortez des sentiers battus et explorez les paysages désertiques escarpés du Maroc à bord d’un quad tout-terrain lors de 
+ cette excursion d’aventure. Changez l’agitation de la ville pour profiter de la solitude et de la beauté du désert, en faisant 
+ la route avec votre guide le long de sentiers poussiéreux, à l’ombre des sommets vertigineux. Profitez des vues sur les lits
+  de rivières arides, les palmeraies naturelles et les terrains volcaniques primordiaux, et faites une pause pour prendre 
+  un thé marocain et un goûter avec une famille locale dans un village berbère.
+  
 
-Monuments et Palaces: Vous découvrirez la majestueuse silhouette de la Koutoubia (11e siècle) et le Palais la Bahia (19e siècle).
-
-La place Jemaa el Fna: Cœur vivant de la ville, connue dans le monde entier pour son animation perpétuelle.   
-
-Souks: Véritables poumons économiques de la ville rouge où les artisans utilisent encore dans de nombreux domaines les anciennes techniques.  
-
-Les Jardins Historiques: Le jardin Majorelle et les Jardins de la Menara
-
-Durée: 3 à 4 heures
+Tour Duration: 4 hours
 Disponibilité: Tous les jours
-Heur de départ: à 9h00 ou 14h00
 
-    <i class='bx bx-check'></i>Pas De Frais De Réservation
-    <i class='bx bx-check'></i>Réserver Maintenant et Payez Plus Tard
-    <i class='bx bx-check'></i>Garantie Du Meilleur Tarif
-    <i class='bx bx-check'></i>Excellent Service
-     
+  <i class='bx bx-check'></i>Excursion en quad dans le désert : Échappez à l’agitation de la ville
+  <i class='bx bx-check'></i>Explorez les vallées du désert et les villages berbères traditionnels
+  <i class='bx bx-check'></i>Transfert pratique depuis et vers votre hôtel à Marrakech
+  <i class='bx bx-check'></i>Déguster une tasse de thé et un en-cas marocain avec une famille locale
 
-Ce qui est inclus:
-
-    <i class='bx bx-check'></i>Transport avec chauffeur guide
-    <i class='bx bx-check'></i>Service de qualité et  fiabilité
-    <i class='bx bx-check'></i>Assurance de transport
-    <i class='bx bx-check'></i>Assurance responsabilité civile.
-    <i class='bx bx-check'></i>Toutes les taxes
-
-Ce qui n’est pas inclus:
-
-    <i class='bx bx-check'></i>Guide Local
-    <i class='bx bx-check'></i>Frais d'entrée aux Monuments et Jardins  Majorelle   
-    <i class='bx bx-check'></i>Pourboires
-
-Point de rencontre:                                 
-
-    <i class='bx bx-check'></i>Notre chauffeur viendra vous chercher dans votre hôtel / Riad à Marrakech à l’heure convenue au moment de la réservation
-    <i class='bx bx-check'></i>En cas de problème : veuillez nous envoyer un email ou nous appeler sur les numéros affichés sur la bannière des contacts.
-
-Réservations faciles : Acceptées jusqu'à 18h00 de la veille (heure de Marrakech), Si vous rencontrez des difficultés pour réserver ou avez besoin d'un autre service,<a href='contact.php'> contactez-nous </a>.
+  Ce qui est inclus?
 
 
-Modes de Paiement:
+    <i class='bx bx-check'></i> Transfert depuis et vers l'hôtel
+    <i class='bx bx-check'></i> Guide professionnel
+    <i class='bx bx-check'></i> Briefing sur la sécurité
+    <i class='bx bx-check'></i> Utilisation de buggy, casque, gants et lunettes
+    <i class='bx bx-check'></i> Eau en bouteille
+    <i class='bx bx-check'></i> Thé et en-cas
 
-<i class='bx bx-check'></i>En espèce (Euros ou MAD) à votre arrivée
 
+    Qu’est-ce qui n’est PAS inclus? 
+    <i class='bx bx-block'></i>Pourboires
+    <i class='bx bx-block'></i> Aliments et boissons, sauf indication contraire
 
-</pre>                    
+    
+
+Lieu de rencontre :
+
+    <i class='bx bx-check'></i> Notre chauffeur viendra vous chercher à votre hôtel/Riad ou à tout autre endroit à l’heure convenue.
+    <i class='bx bx-check'></i> En cas de problème, veuillez nous envoyer un courriel ou nous appeler aux numéros indiqués sur les coordonnées.
+
+Réservation facile : Accepté jusqu’à 18h la veille (heure de Marrakech), Si vous avez des difficultés à réserver ou besoin d’un autre service, veuillez utiliser notre <a href="contact.php" > Formulaire de contact </a> 
+
+ 
+Modes de paiement :
+
+    En espèces (Euros ou MAD) à l’arrivée
+ </pre>                    
                                 </div>
                                 <div class="tab-pane fade package-gallary-tab mt-3" id="pill-body3" role="tabpanel"
                                     aria-labelledby="pills-package3">
                                     <div class="row g-4">
                                         <div class="col-6">
                                             <div class="package-gallary-item">
-                                                <img  src="../assets/images/visites/marrakech1.jpg" alt="">
+                                                <img  src="../assets/images/Activite/buggy1.jpg" alt="">
                                             </div>
                                         </div>
                                         <div class="col-6">
                                             <div class="package-gallary-item">
-                                                <img  src="../assets/images/visites/marrakech2.jpg" alt="">
+                                                <img  src="../assets/images/Activite/buggy2.jpg" alt="">
                                             </div>
                                         </div>
                                         <div class="col-6">
                                                 <div class="package-gallary-item">
-                                                    <img  src="../assets/images/visites/marrakech3.jpg" alt="">
+                                                    <img  src="../assets/images/Activite/buggy3.jpg" alt="">
                                                 </div>
                                         </div>
                                         <div class="col-6">
                                             <div class="package-gallary-item">
-                                                <img  src="../assets/images/visites/marrakech4.jpg" alt="">
+                                                <img  src="../assets/images/Activite/buggy4.jpg" alt="">
                                             </div>
                                         </div>
                                         <div class="col-6">
                                                 <div class="package-gallary-item">
-                                                    <img  src="../assets/images/visites/marrakech5.jpg" alt="">
+                                                    <img  src="../assets/images/Activite/buggy5.jpg" alt="">
                                                 </div>
                                         </div>
                                         <div class="col-6">
                                                 <div class="package-gallary-item">
-                                                    <img  src="../assets/images/visites/marrakech6.jpg" alt="">
-                                                </div>
-                                        </div>
-                                        <div class="col-6">
-                                                <div class="package-gallary-item">
-                                                    <img  src="../assets/images/visites/marrakech7.jpg" alt="">
-                                                </div>
-                                        </div>
-                                        <div class="col-6">
-                                                <div class="package-gallary-item">
-                                                    <img  src="../assets/images/visites/marrakech8.jpg" alt="">
+                                                    <img  src="../assets/images/Activite/buggy6.jpg" alt="">
                                                 </div>
                                         </div>
                                         
                                         
                                     </div>
                                 </div>
-                                <!--<form action="#" id="comment_form" method="post">
-                                        <div class="comment-form mt-110">
-                                            <h4>Leave Your Comment</h4>
-                                            <div class="row">
-                                                <div class="col-lg-6">
-                                                    <div class="custom-input-group">
-
-                                                        <input type="text" placeholder="Ton nom complet"  id="namecontact">
-                                                    </div>
-                                                </div>
-                                                <div class="col-lg-6">
-                                                    <div class="custom-input-group">
-                                                        <input type="text" placeholder="votre Email" id="emailcontact">
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="custom-input-group">
-                                                <input type="text" placeholder="your number" id="phonecontact">
-                                            </div>
-                                            <div class="custom-input-group">
-                                                <input type="text" placeholder="Tour Type" id="typecontact">
-                                            </div>
-                                            <div class="custom-input-group">
-                                                <textarea cols="20" rows="7" placeholder="Write Message" id="messagecontact"></textarea>
-                                            </div>
-                                            <ul class="form-rating d-flex">
-                                                <li><i class="bi bi-star"></i></li>
-                                                <li><i class="bi bi-star"></i></li>
-                                                <li><i class="bi bi-star"></i></li>
-                                                <li><i class="bi bi-star"></i></li>
-                                                <li><i class="bi bi-star"></i></li>
-                                            </ul>
-                                            <div class="custom-input-group">
-                                                <div class="submite-btn">
-                                                <button type="button" id="send" class="btn btn-warning">send</button>                                                </div>
-                                            </div>
-                                        </div>
-                                    </form>-->
+                                
 
                             </div>
                         </div>
@@ -372,44 +296,17 @@ Modes de Paiement:
     <script src="../assets/js/jquery-ui.js"></script>
 
     <script src="../assets/js/main.js"></script>
-   
+    
     <script >
-        var nbr_prive=60;
+        var nbr_prive=67
         $('#totalpriceprive').val(nbr_prive );
 
-       $('#Guide').change(function() {
-         /* */
-          if($(this).is(':checked')){
-              nbr_prive+=30;
-          }
-          else{
-              nbr_prive-=30;
-          }
-          $('#totalpriceprive').val(nbr_prive );
-
-       });
-       $('#Lunch').change(function() {
-          /* */          
-          var lunch=12;
-
-          if($(this).is(':checked')){
-            nbr_prive+=lunch;    
-          }
-          else{
-                  nbr_prive-=lunch;
-                
-                }
-          $('#totalpriceprive').val(nbr_prive );
-
-      });
-
        $( '#truist-adult' ).change(function() {
-          $( "#Lunch" ).prop( "checked", false );
-          $( "#Guide" ).prop( "checked", false );
+          
         nbr= $( '#truist-adult' ).val();
-        nbr_prive=parseInt( 60 / nbr);
-       $('#totalpriceprive').val(nbr_prive );
-
+       var new_nbr_prive = nbr_prive * nbr ;
+       $('#totalpriceprive').val(new_nbr_prive );
+       
        });
 </script>
 

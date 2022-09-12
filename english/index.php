@@ -454,10 +454,10 @@
                             </p>
                         </div>
                         <div class="package-card-body">
-                            <h3 class="p-card-title"><a href="package-details.html">Hot-air Balloon Flight in Marrakech</a></h3>
+                            <h3 class="p-card-title"><a href="activity-montgolfiere.php">Hot-air Balloon Flight in Marrakech</a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
-                                    <a href="package-details.html">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
+                                    <a href="activity-montgolfiere.php">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
                                 </div>
                                 <div class="p-card-info">
                                     <span>From</span>
@@ -468,9 +468,7 @@
                     </div>
                 </div>
             </div>
-            <div class="package-page-btn text-center mt-60">
-                <a href="#" class="button-fill-round">View All</a>
-            </div>
+           
         </div>
     </div>
     <br><br>
