@@ -12,10 +12,10 @@
     <div class="breadcrumb breadcrumb-style-one">
         <div class="container">
             <div class="col-lg-12 text-center">
-                <h2 class="breadcrumb-title">Day Trip to Ouzoud Waterfalls  </h2>
+                <h2 class="breadcrumb-title">Excursión de un día a las cascadas de Ouzoud  </h2>
                 <ul class="d-flex justify-content-center breadcrumb-items">
-                    <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                    <li class="breadcrumb-item active">excursion</li>
+                    <li class="breadcrumb-item"><a href="index.php">Acogida</a></li>
+                    <li class="breadcrumb-item active">excursión</li>
                 </ul>
             </div>
         </div>
@@ -30,7 +30,7 @@
                             <div class="widget-title">
                                 <table class="table" style="color: white;">
                                      <tr  style="height: 40px ;text-align: center;" class="privebackground">
-                                        <th  colspan="5" >Privat</th>
+                                        <th  colspan="5" >privado</th>
                                     </tr>
                                     <tr>
                                         <th>nbr max*</th>
@@ -40,7 +40,7 @@
                                         <td>5</td>
                                     </tr>
                                     <tr>
-                                        <th>prix* €</th>
+                                        <th>Premio* €</th>
                                         <td>60</td>
                                         <td>40</td>
                                         <td>30</td>
@@ -58,16 +58,16 @@
                                             <input type="hidden"      name="type_tour" value="Excursion"/> &nbsp;
                                             <input type="hidden"      name="name_tour" value="ouzoud"/> &nbsp;
 
-                                            Select date and participants: 
+                                            Seleccione la fecha y los participantes: 
                                             <i class="bi bi-calendar3"></i>
-                                            <input placeholder="Select your date" type="date" name="date"
+                                            <input placeholder="Selecciona tu fecha" type="date" name="date"
                                                 id="datepickerprive" value="" class="calendar" required>
                                         </div>
                                         <div class="row">
                                             <div class="custom-input-group">
                                                 <i class="bi bi-chevron-down"></i>
                                                 <select id="truist-adult" name="numbertravels">
-                                                    <option  value="notselected" selected > Number of travelers: </option>
+                                                    <option  value="notselected" selected > Número de viajeros: </option>
                                                     <option value="1"> 1</option>
                                                     <option value="2"> 2</option>
                                                     <option value="3"> 3</option>
@@ -81,13 +81,13 @@
                                              <div class="col-md-6">
                                                 <input type="checkbox" class="radiosize" id="Guide"    value="Guide (15€)"/> &nbsp;
                                             
-                                                Guide(15€)
+                                                Guía(15€)
                                             </div>
                                            
                                             <div class="col-md-6">
-                                                <input type="checkbox"  class="radiosize"  id="Lunch"    value="Lunch (10€ / per)"/>&nbsp;
+                                                <input type="checkbox"  class="radiosize"  id="Lunch"    value="Almuerzo (10€ / por)"/>&nbsp;
                                           
-                                                Lunch (10€ / per) 
+                                                Almuerzo (10€ / por) 
 
                                             </div> 
 
@@ -95,25 +95,25 @@
                                         </div>
                                         <div class="custom-input-group">
                                        
-                                            Total Price in  € Per Person<input type="text"  id="totalpriceprive"  name="totalprice" class="form-control" disabled>
+                                            Precio total en  € Per Person<input type="text"  id="totalpriceprive"  name="totalprice" class="form-control" disabled>
                                         </div>
                                         <div class="custom-input-group">
-                                            <input type="text" placeholder="Your Full Name" id="name" name="name" required>
+                                            <input type="text" placeholder="tu nombre completo" id="name" name="name" required>
                                         </div>
                                         <div class="custom-input-group">
-                                            <input type="email" placeholder="Your Email" id="email" name="email" >
+                                            <input type="email" placeholder="Tu correo electrónico" id="email" name="email" >
                                         </div>
                                         <div class="custom-input-group">
-                                            <input type="tel" placeholder="Phone" id="phone" name="phone" required>
+                                            <input type="tel" placeholder="número de teléfono" id="phone" name="phone" required>
                                         </div>
                                         
                                        
                                         <div class="custom-input-group">
-                                            <textarea cols="20" rows="7" name="message" placeholder="Your message"></textarea>
+                                            <textarea cols="20" rows="7" name="message" placeholder="tu mensaje"></textarea>
                                         </div>
                                         <div class="custom-input-group">
                                             <div class="submite-btn">
-                                                <button type="submit" >Book Now</button>
+                                                <button type="submit" >Reserva ahora</button>
                                             </div>
                                         </div>
                                     </div>
@@ -132,8 +132,8 @@
                                             <img src="../assets/images/icons/pd1.svg" alt="">
                                         </div>
                                         <div class="info">
-                                            <h6>Duration</h6>
-                                            <span>10 hours</span>
+                                            <h6>duración</h6>
+                                            <span>10 horas</span>
                                         </div>
                                     </div>
                                 </div>
@@ -143,7 +143,7 @@
                                             <img src="../assets/images/icons/pd2.svg" alt="">
                                         </div>
                                         <div class="info">
-                                            <h6> Distance</h6>
+                                            <h6> distancia</h6>
                                             <span>160 Km x 2</span>
                                         </div>
                                     </div>
@@ -154,7 +154,7 @@
                                             <img src="../assets/images/icons/pd2.svg" alt="">
                                         </div>
                                         <div class="info">
-                                            <h6>Departure time</h6>
+                                            <h6>hora de salida</h6>
                                             <span> 08h00</span>
                                         </div>
                                     </div>
@@ -165,8 +165,8 @@
                                             <img src="../assets/images/icons/pd4.svg" alt="">
                                         </div>
                                         <div class="info">
-                                            <h6> Availability </h6>
-                                            <span>Every day</span>
+                                            <h6> disponibilidad </h6>
+                                            <span>todos los días</span>
                                         </div>
                                     </div>
                                 </div>
@@ -176,7 +176,7 @@
                             </div>
                             <div class="header-bottom">
                                 <div class="pd-lavel d-flex justify-content-between align-items-center flex-wrap gap-2">
-                                    <h5 class="location"><i class="bi bi-geo-alt"></i> ouzoud, morocco</h5>
+                                    <h5 class="location"><i class="bi bi-geo-alt"></i> ouzoud, Marruecos</h5>
                                     <ul class="d-flex align-items-center rating">
                                         <li><i class="bi bi-star-fill"></i></li>
                                         <li><i class="bi bi-star-fill"></i></li>
@@ -185,7 +185,7 @@
                                         <li><i class="bi bi-star-fill"></i></li>
                                     </ul>
                                 </div>
-                                <h2 class="pd-title">Day Trip to Ouzoud Waterfalls</h2>
+                                <h2 class="pd-title">Excursión de un día a las cascadas de Ouzoud</h2>
                             </div>
                         </div>
                     </div>    
@@ -196,13 +196,13 @@
                             <div class="widget-title">
                                 <table class="table" style="color: white; border: solid 0px ;border-color: #162b32; ">
                                     <tr  style="height: 40px ;text-align: center;" class="groupbackground">
-                                        <th   >Group</th>
+                                        <th   >Grupo</th>
                                     </tr>
                                     <tr  style="height: 40px ;text-align: center;">
                                         <th   >30 €</th>
                                     </tr>
                                     <tr  style="height: 40px;text-align: center; ">
-                                        <th > Per person </th>                                        
+                                        <th > Por persona </th>                                        
                                     </tr>
                                    
                                 </table>
@@ -216,16 +216,16 @@
                                             <input type="hidden"      name="type_tour" value="Excursion"/> &nbsp;
                                             <input type="hidden"      name="name_tour" value="ouzoud"/> &nbsp;
 
-                                            Select date and participants: 
+                                            Seleccione la fecha y los participantes: 
                                             <i class="bi bi-calendar3"></i>
-                                            <input placeholder="Select your date" type="date" name="date"
+                                            <input placeholder="Selecciona tu fecha" type="date" name="date"
                                                 id="datepickerfroup" value="" class="calendar" required>
                                         </div>
                                         <div class="row">
                                             <div class="custom-input-group">
                                                 <i class="bi bi-chevron-down"></i>
                                                 <select id="truist-adultgroup" name="numbertravels">
-                                                    <option value="notselected" selected> Number of travelers: </option>
+                                                    <option value="notselected" selected> Número de viajeros: </option>
                                                     <option value="1"> 1</option>
                                                     <option value="2"> 2</option>
                                                     <option value="3"> 3</option>
@@ -239,13 +239,13 @@
                                             <div class="col-6">
                                                <input type="checkbox" class="radiosize" id="Guidegroup"  name="Guide" value="Guide (15€)"/> &nbsp;
                                            
-                                               Guide(15€)
+                                               Guía(15€)
                                            </div>
                                           
                                            <div class="col-6">
-                                            <input type="checkbox"  class="radiosize"  id="Lunchgroup"  name="Lunch" value="Lunch (10€ / per)"/>&nbsp;
+                                            <input type="checkbox"  class="radiosize"  id="Lunchgroup"  name="Lunch" value="Almuerzo (10€ / por)"/>&nbsp;
                                           
-                                               Lunch (10€ / per)  
+                                               Almuerzo (10€ / por)  
 
                                            </div> 
 
@@ -253,26 +253,26 @@
                                        </div>
                                        <div class="custom-input-group">
                                       
-                                           Total Price in  €<input type="text"   id="totalpricegroup" name="totalprice"  class="form-control" disabled>
+                                           Precio total en  €<input type="text"   id="totalpricegroup" name="totalprice"  class="form-control" disabled>
                                        </div>
                                         <div class="custom-input-group">
-                                            <input type="text" placeholder="Your Full Name" name="name" id="name" required> 
+                                            <input type="text" placeholder="tu nombre completo" name="name" id="name" required> 
                                         </div>
                                         <div class="custom-input-group">
-                                            <input type="email" placeholder="Your Email" name="email" id="email">
+                                            <input type="email" placeholder="tu correo electrónico" name="email" id="email">
                                         </div>
                                         <div class="custom-input-group">
-                                            <input type="tel" placeholder="Phone" name="phone" id="phone" required>
+                                            <input type="tel" placeholder="número de teléfono" name="phone" id="phone" required>
                                         </div>
                                         
                                          
                                        
                                         <div class="custom-input-group">
-                                            <textarea cols="20" rows="7" name="message" placeholder="Your message"></textarea>
+                                            <textarea cols="20" rows="7" name="message" placeholder="tu mensaje"></textarea>
                                         </div>
                                         <div class="custom-input-group">
                                             <div class="submite-btn">
-                                                <button type="submit"  >Book Now</button>
+                                                <button type="submit"  >Reserva ahora</button>
                                             </div>
                                         </div>
                                     </div>
@@ -294,7 +294,8 @@
                                     <li class="nav-item navmargin" role="presentation">
                                         <button class="nav-link active" id="pills-package1" data-bs-toggle="pill"
                                             data-bs-target="#pill-body1" type="button" role="tab" aria-controls="pill-body1"
-                                            aria-selected="true"><i class="bi bi-info-lg"></i> Information</button>
+                                            aria-selected="true"><i class="bi bi-info-lg"></i> información
+</button>
                                     </li>
                                     
                                     <li class="nav-item navmargin" role="presentation">
@@ -308,50 +309,50 @@
 
                                 <div class="tab-pane fade show active package-info-tab mt-3" id="pill-body1"
                                     role="tabpanel" aria-labelledby="pills-package1">
-                                    <h3 class="d-subtitle">Package Details</h3>
+                                    <h3 class="d-subtitle">detalles del paquete</h3>
  <pre>
 
 
- Early departure from Marrakesh heading the direction of the famous Ouzoud waterfalls of about 110 metres in height, which constitute one of the most spectacular natural beauty spots in Morocco. The surrounding countryside offers red cliffs, oleander and doves.  And if you are lucky, you will catch a glimpse of some Barbary apes. Bird-watchers will enjoy a trip to the waterfalls, in addition to walkers who can enjoy the area at any time of year. There are plenty of places to have lunch with a view over the waterfalls from their terraces. A short walk will bring you to the top of the falls from where you can see small and constantly active mills.
+ Salida temprano de Marrakech en dirección a las famosas cascadas de Ouzoud de unos 110 metros de altura, que constituyen uno de los parajes naturales más espectaculares de Marruecos. La campiña circundante ofrece acantilados rojos, adelfas y palomas.  Y si tienes suerte, podrás echar un vistazo a algunos simios berberiscos. Los observadores de aves podrán disfrutar de un viaje a las cascadas, además de los caminantes que pueden disfrutar de la zona en cualquier época del año. Hay un montón de lugares para almorzar con una vista sobre las cascadas desde sus terrazas. Un corto paseo le llevará a la cima de las cataratas desde donde se puede ver pequeños y constantemente activos molinos.
 
-Distance: 160 Km x 2  
-Duration:   10 hours
-Availability: Every day
-Deparature time: 8h00 am
+distancia: 160 km x 2  
+duración:   10 horas
+disponibilidad: todos los días
+Hora de salida: 8h00 am
 
-<i class='bx bx-check'></i> No Booking Fees
-<i class='bx bx-check'></i> Book Now and Pay Later
-<i class='bx bx-check'></i> Best Price Guaranteed
-<i class='bx bx-check'></i> Excellent Service
-<i class='bx bx-check'></i> Free cancellation
-<i class='bx bx-check'></i> Available every day
+<i class='bx bx-check'></i> Sin tarifas de reserva
+<i class='bx bx-check'></i> Reserva ahora y paga después
+<i class='bx bx-check'></i> Mejor precio garantizado
+<i class='bx bx-check'></i> Excelente servicio
+<i class='bx bx-check'></i> Cancelación gratuita
+<i class='bx bx-check'></i> Disponible todos los días
 
-What is included?
+¿Qué es lo que incluye?
 
-<i class='bx bx-check'></i> Hotel pickup and drop-off
-<i class='bx bx-check'></i> Transport by air-conditioned minivan
-<i class='bx bx-check'></i> Transportation Insurance
-<i class='bx bx-check'></i> Professional Liability Insurance
-<i class='bx bx-check'></i> Quality service reliability
-<i class='bx bx-check'></i> All taxes
+<i class='bx bx-check'></i> Recogida y entrega en el hotel
+<i class='bx bx-check'></i> Transporte en minivan con aire acondicionado
+<i class='bx bx-check'></i> Seguro de transporte
+<i class='bx bx-check'></i> Seguro de responsabilidad profesional
+<i class='bx bx-check'></i> Fiabilidad del servicio de calidad
+<i class='bx bx-check'></i> Todos los impuestos
 
-What is not included?
+¿Qué no está incluido?
 
-<i class='bx bx-check'></i> Lunch
-<i class='bx bx-check'></i> Local Guide
-<i class='bx bx-check'></i> Tips
+<i class='bx bx-check'></i> Almuerzo
+<i class='bx bx-check'></i> Guía local
+<i class='bx bx-check'></i> Consejos
 
-Meeting place:
+Lugar de encuentro:
 
-    Our driver will pick you up at your hotel/Riad or any other location at the agreed time.
-    In case of any problem: please email us or call us on the numbers displayed on contact informations.
+    Nuestro conductor lo recogerá en su hotel/ Riad o en cualquier otro lugar a la hora acordada.
+    En caso de cualquier problema: por favor envíenos un correo electrónico o llámenos a los números que aparecen en la información de contacto.
 
-Easy Booking: Accepted until 6pm the day before (Marrakech time), If you have any difficulties to book or need another service, please use our <a href="contact.php" > Contact Form </a> 
+Easy Booking: Aceptado hasta las 6pm del día anterior (hora de Marrakech), Si tiene alguna dificultad para reservar o necesita otro servicio, utilice nuestro <a href="contact.php" > Formulario de contacto </a> 
 
 
-Payment Methods:
+Formas de pago:
 
-    In cash (Euros or MAD) upon arrival
+    En efectivo (Euros o MAD) a la llegada
 
 
  </pre>                    

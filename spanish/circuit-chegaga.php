@@ -103,7 +103,7 @@
                                        
                                        
                                         <div class="custom-input-group">
-                                            <textarea cols="20" rows="7" name="message" placeholder="Your message"></textarea>
+                                            <textarea cols="20" rows="7" name="message" placeholder="tu mensaje"></textarea>
                                         </div>
                                         <div class="custom-input-group">
                                             <div class="submite-btn">
@@ -160,7 +160,7 @@
                                         </div>
                                         <div class="info">
                                             <h6> disponibilidad </h6>
-                                            <span>Every day</span>
+                                            <span>todos los días</span>
                                         </div>
                                     </div>
                                 </div>
@@ -170,7 +170,7 @@
                             </div>
                             <div class="header-bottom">
                                 <div class="pd-lavel d-flex justify-content-between align-items-center flex-wrap gap-2">
-                                    <h5 class="location"><i class="bi bi-geo-alt"></i> Chagaga, morocco</h5>
+                                    <h5 class="location"><i class="bi bi-geo-alt"></i> Chagaga, Marruecos</h5>
                                     <ul class="d-flex align-items-center rating">
                                         <li><i class="bi bi-star-fill"></i></li>
                                         <li><i class="bi bi-star-fill"></i></li>

@@ -68,7 +68,7 @@
                                          
                                         <div class="custom-input-group">
                                        
-                                            Total Price in  € Per Person<input type="text"  id="totalpriceprive"  name="totalprice" class="form-control" disabled>
+                                            Precio total en  € Per Person<input type="text"  id="totalpriceprive"  name="totalprice" class="form-control" disabled>
                                         </div>
                                         <div class="custom-input-group">
                                             <input type="text" placeholder="tu nombre completo" id="name" name="name" required>

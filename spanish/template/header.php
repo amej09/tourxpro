@@ -102,7 +102,7 @@
                                 <a href="#"><img src="../assets/images/logo11.png" style="height: 110px;width:100px;" alt=""></a>
                             </div>
                             <ul>
-                                <li><a href="index.php">Home</a></li>
+                                <li><a href="index.php">Acogida</a></li>
                                 <li class="has-child-menu">
                                     <a href="javascript:void(0)">Excursions</a>
                                     <i class="fl flaticon-plus">+</i>
@@ -133,7 +133,7 @@
                                     <ul class="sub-menu">
                                         <li><a href="visit-marrakech-halfday.php">Marrakech City Highlight Half-Day Tour</a></li>
                                         <li><a href="visit-marrakech-histical.php">Marrakech Historical and Cultural Tour</a></li>
-                                        <li><a href="visit-marrakech-night.php">Marrakech By Night City Privat Tour</a></li>
+                                        <li><a href="visit-marrakech-night.php">Marrakech By Night City privado Tour</a></li>
                                         <li><a href="visit-marrakech-medina.php">Medina Souks Shopping Tour</a></li>
                                         <li><a href="visit-marrakech-chezali.php">Restaurant Chez Ali</a></li>
                                     </ul>

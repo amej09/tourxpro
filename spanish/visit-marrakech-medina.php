@@ -6,9 +6,9 @@
     <div class="breadcrumb breadcrumb-style-one">
         <div class="container">
             <div class="col-lg-12 text-center">
-                <h2 class="breadcrumb-title">Medina Souks Shopping Tour  </h2>
+                <h2 class="breadcrumb-title">Tour de compras por Medina Souks  </h2>
                 <ul class="d-flex justify-content-center breadcrumb-items">
-                    <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                    <li class="breadcrumb-item"><a href="index.php">Acogida</a></li>
                     <li class="breadcrumb-item active">visits</li>
                 </ul>
             </div>
@@ -24,7 +24,7 @@
                             <div class="widget-title">
                                 <table class="table" style="color: white;">
                                      <tr  style="height: 40px ;text-align: center;" class="privebackground">
-                                        <th  colspan="5" >Privat</th>
+                                        <th  colspan="5" >privado</th>
                                     </tr>
                                     <tr>
                                         <th>nbr max*</th>
@@ -34,7 +34,7 @@
                                         <td>5</td>
                                     </tr>
                                     <tr>
-                                        <th>prix* €</th>
+                                        <th>Premio* €</th>
                                         <td>39</td>
                                         <td>26</td>
                                         <td>20</td>
@@ -52,16 +52,16 @@
                                             <input type="hidden"      name="type_tour" value="visites"/> &nbsp;
                                             <input type="hidden"      name="name_tour" value="Shopping dans les Souks de La Médina "/> &nbsp;
 
-                                            Select date and participants: 
+                                            Seleccione la fecha y los participantes: 
                                             <i class="bi bi-calendar3"></i>
-                                            <input placeholder="Select your date" type="date" name="date"
+                                            <input placeholder="Selecciona tu fecha" type="date" name="date"
                                                 id="datepickerprive" value="" class="calendar" required>
                                         </div>
                                         <div class="row">
                                             <div class="custom-input-group">
                                                 <i class="bi bi-chevron-down"></i>
                                                 <select id="truist-adult" name="numbertravels">
-                                                    <option  value="notselected" selected > Number of travelers: </option>
+                                                    <option  value="notselected" selected > Número de viajeros: </option>
                                                     <option value="1"> 1</option>
                                                     <option value="2"> 2</option>
                                                     <option value="3"> 3</option>
@@ -73,27 +73,27 @@
                                         
                                         <div class="custom-input-group">
                                        
-                                            Total Price in  € Per Person<input type="text"  id="totalpriceprive"  name="totalprice" class="form-control" disabled>
+                                            Precio total en  € Per Person<input type="text"  id="totalpriceprive"  name="totalprice" class="form-control" disabled>
                                         </div>
                                         <div class="custom-input-group">
-                                            <input type="text" placeholder="Your Full Name" id="name" name="name" required>
+                                            <input type="text" placeholder="tu nombre completo" id="name" name="name" required>
                                         </div>
                                         <div class="custom-input-group">
-                                            <input type="email" placeholder="Your Email" id="email" name="email" >
+                                            <input type="email" placeholder="Tu correo electrónico" id="email" name="email" >
                                         </div>
                                         <div class="custom-input-group">
-                                            <input type="tel" placeholder="Phone" id="phone" name="phone" required>
+                                            <input type="tel" placeholder="número de teléfono" id="phone" name="phone" required>
                                         </div>
                                         
                                          
                                        
                                        
                                         <div class="custom-input-group">
-                                            <textarea cols="20" rows="7" name="message" placeholder="Your message"></textarea>
+                                            <textarea cols="20" rows="7" name="message" placeholder="tu mensaje"></textarea>
                                         </div>
                                         <div class="custom-input-group">
                                             <div class="submite-btn">
-                                                <button type="submit" >Book Now</button>
+                                                <button type="submit" >Reserva ahora</button>
                                             </div>
                                         </div>
                                     </div>
@@ -112,8 +112,8 @@
                                             <img src="../assets/images/icons/pd1.svg" alt="">
                                         </div>
                                         <div class="info">
-                                            <h6>Duration</h6>
-                                            <span>3-4 hours</span>
+                                            <h6>duración</h6>
+                                            <span>3-4 horas</span>
                                         </div>
                                     </div>
                                 </div>
@@ -124,7 +124,7 @@
                                             <img src="../assets/images/icons/pd2.svg" alt="">
                                         </div>
                                         <div class="info">
-                                            <h6>Departure time</h6>
+                                            <h6>hora de salida</h6>
                                             <span> 9h00 / 14h00 </span>
                                         </div>
                                     </div>
@@ -135,8 +135,8 @@
                                             <img src="../assets/images/icons/pd4.svg" alt="">
                                         </div>
                                         <div class="info">
-                                            <h6> Availability </h6>
-                                            <span>Every day</span>
+                                            <h6> disponibilidad </h6>
+                                            <span>todos los días</span>
                                         </div>
                                     </div>
                                 </div>
@@ -146,7 +146,7 @@
                             </div>
                             <div class="header-bottom">
                                 <div class="pd-lavel d-flex justify-content-between align-items-center flex-wrap gap-2">
-                                    <h5 class="location"><i class="bi bi-geo-alt"></i> marrakech, morocco</h5>
+                                    <h5 class="location"><i class="bi bi-geo-alt"></i> marrakech, Marruecos</h5>
                                     <ul class="d-flex align-items-center rating">
                                         <li><i class="bi bi-star-fill"></i></li>
                                         <li><i class="bi bi-star-fill"></i></li>
@@ -155,7 +155,7 @@
                                         <li><i class="bi bi-star-fill"></i></li>
                                     </ul>
                                 </div>
-                                <h2 class="pd-title">Medina Souks Shopping Tour   </h2>
+                                <h2 class="pd-title">Tour de compras por Medina Souks   </h2>
                             </div>
                         </div>
                     </div>    
@@ -174,7 +174,8 @@
                                     <li class="nav-item navmargin" role="presentation">
                                         <button class="nav-link active" id="pills-package1" data-bs-toggle="pill"
                                             data-bs-target="#pill-body1" type="button" role="tab" aria-controls="pill-body1"
-                                            aria-selected="true"><i class="bi bi-info-lg"></i> Information</button>
+                                            aria-selected="true"><i class="bi bi-info-lg"></i> información
+</button>
                                     </li>
                                     
                                     <li class="nav-item navmargin" role="presentation">
@@ -188,71 +189,71 @@
 
                                 <div class="tab-pane fade show active package-info-tab mt-3" id="pill-body1"
                                     role="tabpanel" aria-labelledby="pills-package1">
-                                    <h3 class="d-subtitle">Package Details</h3>
+                                    <h3 class="d-subtitle">detalles del paquete</h3>
 <pre>
     
-Are you curious about the Moroccan handicraft and looking for some souvenirs from your holidays in Marrakech?
+¿Tiene curiosidad por la artesanía marroquí y en busca de algunos recuerdos de sus vacaciones en Marrakech?
 
-If so, this Marrakech Private Tour is designed specially for you.
+Si es así, este tour privado de Marrakech está diseñado especialmente para usted.
 
-Join this unforgettable Medina Shopping Tour and let your local guide lead you through the labyrinth of Marrakech Souks. Plan with your guide the perfect itinerary that best suites your needs and visit the most distinctive shops for carpets, traditional clothes, potters, herbs and spices.
+Únete a este inolvidable Medina Shopping Tour y deja que tu guía local te guíe por el laberinto de los zocos de Marrakech. Planifique con su guía el itinerario perfecto que mejor se adapte a sus necesidades y visite las tiendas más distintivas para alfombras, ropa tradicional, alfareros, hierbas y especias.
 
-Before buying your souvenirs and gifts, learn how to haggle in Arabic and enjoy exclusive shopping discounts.
+Antes de comprar sus recuerdos y regalos, aprenda a regatear en árabe y disfrute de descuentos exclusivos de compras.
 
-You may also want to visit the local workshops in the heart of the Medina, where very talented artisans will show you their inherited skills, then finish your Medina Shopping Tour with a coffee-break in Jamaa El Fna Square.
-
- 
-
-Highlights of this Experience
-
-Discover Marrakech Medina Souks with a professional tour guide
-
-Visit a huge variety of handicraft shops that you will not be able to find on your own
-
-Meet some Moroccan artisans and learn about their local craft methods
-
-Get exclusive shopping discounts with your private tour guide
-
-Enjoy a coffee-break in the heart of the wonderful Jamaa El Fna Square
-
-NB: This shopping tour includes free delivery of your goods directly to your hotel or Riad in Marrakech
+También puede visitar los talleres locales en el corazón de la Medina, donde los artesanos muy talentosos le mostrarán sus habilidades heredadas, y luego terminar su Medina Shopping Tour con un coffee-break en Jamaa El Fna Square.
 
  
 
-Duration: 3 to 4 hours
-Availability: Every day
+Aspectos destacados de esta experiencia
+
+Descubre Marrakech Medina Souks con un guía turístico profesional
+
+Visita una gran variedad de tiendas de artesanía que no podrás encontrar por tu cuenta
+
+Conoce a algunos artesanos marroquíes y aprende sobre sus métodos artesanales locales
+
+Obtenga descuentos exclusivos de compras con su guía turístico privado
+
+Disfrute de un coffee-break en el corazón de la maravillosa Plaza Jamaa El Fna
+
+NB: Este tour de compras incluye la entrega gratuita de sus productos directamente a su hotel o Riad en Marrakech
+
+ 
+
+duración: 3 to 4 horas
+disponibilidad: todos los días
 Deparature time: 9h00 am or 14h00 pm
 
-<i class='bx bx-check'></i>No Booking Fees
-<i class='bx bx-check'></i>Book Now and Pay Later
-<i class='bx bx-check'></i>Best Price Guaranteed
-<i class='bx bx-check'></i>Excellent Service
-<i class='bx bx-check'></i>Free cancellation
-<i class='bx bx-check'></i>Available every day
-What is included?
+<i class='bx bx-check'></i>Sin tarifas de reserva
+<i class='bx bx-check'></i>Reserva ahora y paga después
+<i class='bx bx-check'></i>Mejor precio garantizado
+<i class='bx bx-check'></i>Excelente servicio
+<i class='bx bx-check'></i>Cancelación gratuita
+<i class='bx bx-check'></i>Disponible todos los días
+¿Qué es lo que incluye?
 
-<i class='bx bx-check'></i>Hotel pickup and drop-off
-<i class='bx bx-check'></i>English speaking tour guide
-<i class='bx bx-check'></i>Visit of the Souks and craft workshops
-<i class='bx bx-check'></i>Negotiating prices with merchants
-<i class='bx bx-check'></i>Free delivery of your goods to your hotel or Riad
-<i class='bx bx-check'></i>Liability insurance
-<i class='bx bx-check'></i>All taxes
-What is not included?
+<i class='bx bx-check'></i>Recogida y devolución del hotel
+<i class='bx bx-check'></i>Guía de turismo de habla inglesa
+<i class='bx bx-check'></i>Visita a los zocos y talleres de artesanía
+<i class='bx bx-check'></i>Negociación de precios con comerciantes
+<i class='bx bx-check'></i>Entrega gratuita de sus productos a su hotel o Riad
+<i class='bx bx-check'></i>Seguro de responsabilidad civil
+<i class='bx bx-check'></i>Todos los impuestos
+¿Qué no está incluido?
 
-<i class='bx bx-check'></i>Costs of the purchased goods
-<i class='bx bx-check'></i>Coffe Break in Jamaa El Fna Square
-<i class='bx bx-check'></i>Tips
-Meeting place:
+<i class='bx bx-check'></i>Costos de los bienes comprados
+<i class='bx bx-check'></i>Coffe Break en Jamaa El Fna Square
+<i class='bx bx-check'></i>Consejos
+Lugar de encuentro:
 
-<i class='bx bx-check'></i>Our driver will pick you up at your hotel/Riad or any other location at the agreed time.
-<i class='bx bx-check'></i>In case of any problem: please email us or call us on the numbers displayed on contact informations.
-<i class='bx bx-check'></i>Easy Booking: Accepted until 6pm the day before (Marrakech time), If you have any difficulties to book or need another service, please use our Contact Form
+<i class='bx bx-check'></i>Nuestro conductor lo recogerá en su hotel/Riad o en cualquier otro lugar a la hora acordada.
+<i class='bx bx-check'></i>En caso de cualquier problema: envíenos un correo electrónico o llámenos a los números que se muestran en la información de contacto.
+<i class='bx bx-check'></i>Easy Booking: Aceptado hasta las 6pm del día anterior (hora de Marrakech), Si tiene alguna dificultad para reservar o necesita otro servicio, utilice nuestro Formulario de contacto
 
 
-Payment Methods:
+Formas de pago:
 
-In cash (Euros or MAD) upon arrival
+En efectivo (Euros o MAD) a la llegada
 </pre>                    
                                 </div>
                                 <div class="tab-pane fade package-gallary-tab mt-3" id="pill-body3" role="tabpanel"
@@ -286,12 +287,12 @@ In cash (Euros or MAD) upon arrival
                                                 <div class="col-lg-6">
                                                     <div class="custom-input-group">
 
-                                                        <input type="text" placeholder="Your Full Name"  id="namecontact">
+                                                        <input type="text" placeholder="tu nombre completo"  id="namecontact">
                                                     </div>
                                                 </div>
                                                 <div class="col-lg-6">
                                                     <div class="custom-input-group">
-                                                        <input type="text" placeholder="Your Email" id="emailcontact">
+                                                        <input type="text" placeholder="Tu correo electrónico" id="emailcontact">
                                                     </div>
                                                 </div>
                                             </div>

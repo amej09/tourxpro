@@ -6,9 +6,9 @@
     <div class="breadcrumb breadcrumb-style-one">
         <div class="container">
             <div class="col-lg-12 text-center">
-                <h2 class="breadcrumb-title">Marrakech by Night City Private Tour </h2>
+                <h2 class="breadcrumb-title">Tour privado por la ciudad de Marrakech de noche </h2>
                 <ul class="d-flex justify-content-center breadcrumb-items">
-                    <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                    <li class="breadcrumb-item"><a href="index.php">Acogida</a></li>
                     <li class="breadcrumb-item active">visits</li>
                 </ul>
             </div>
@@ -24,7 +24,7 @@
                             <div class="widget-title">
                                 <table class="table" style="color: white;">
                                      <tr  style="height: 40px ;text-align: center;" class="privebackground">
-                                        <th  colspan="5" >Privat</th>
+                                        <th  colspan="5" >privado</th>
                                     </tr>
                                     <tr>
                                         <th>nbr max*</th>
@@ -34,7 +34,7 @@
                                         <td>5</td>
                                     </tr>
                                     <tr>
-                                        <th>prix* €</th>
+                                        <th>Premio* €</th>
                                         <td>25</td>
                                         <td>16</td>
                                         <td>12</td>
@@ -50,18 +50,18 @@
                                         <div class="custom-input-group">
                                             <input type="hidden"      name="type_reservation"  value="prive"/> &nbsp;
                                             <input type="hidden"      name="type_tour" value="visites"/> &nbsp;
-                                            <input type="hidden"      name="name_tour" value="Marrakech by Night City Private Tour"/> &nbsp;
+                                            <input type="hidden"      name="name_tour" value="Marrakech by Night City privadoe Tour"/> &nbsp;
 
-                                            Select date and participants: 
+                                            Seleccione la fecha y los participantes: 
                                             <i class="bi bi-calendar3"></i>
-                                            <input placeholder="Select your date" type="date" name="date"
+                                            <input placeholder="Selecciona tu fecha" type="date" name="date"
                                                 id="datepickerprive" value="" class="calendar" required>
                                         </div>
                                         <div class="row">
                                             <div class="custom-input-group">
                                                 <i class="bi bi-chevron-down"></i>
                                                 <select id="truist-adult" name="numbertravels">
-                                                    <option  value="notselected" selected > Number of travelers: </option>
+                                                    <option  value="notselected" selected > Número de viajeros: </option>
                                                     <option value="1"> 1</option>
                                                     <option value="2"> 2</option>
                                                     <option value="3"> 3</option>
@@ -73,26 +73,26 @@
                                         
                                         <div class="custom-input-group">
                                        
-                                            Total Price in  € Per Person<input type="text"  id="totalpriceprive"  name="totalprice" class="form-control" disabled>
+                                            Precio total en  € Per Person<input type="text"  id="totalpriceprive"  name="totalprice" class="form-control" disabled>
                                         </div>
                                         <div class="custom-input-group">
-                                            <input type="text" placeholder="Your Full Name" id="name" name="name" required>
+                                            <input type="text" placeholder="tu nombre completo" id="name" name="name" required>
                                         </div>
                                         <div class="custom-input-group">
-                                            <input type="email" placeholder="Your Email" id="email" name="email" >
+                                            <input type="email" placeholder="Tu correo electrónico" id="email" name="email" >
                                         </div>
                                         <div class="custom-input-group">
-                                            <input type="tel" placeholder="Phone" id="phone" name="phone" required>
+                                            <input type="tel" placeholder="número de teléfono" id="phone" name="phone" required>
                                         </div>
                                         
                                        
                                        
                                         <div class="custom-input-group">
-                                            <textarea cols="20" rows="7" name="message" placeholder="Your message"></textarea>
+                                            <textarea cols="20" rows="7" name="message" placeholder="tu mensaje"></textarea>
                                         </div>
                                         <div class="custom-input-group">
                                             <div class="submite-btn">
-                                                <button type="submit" >Book Now</button>
+                                                <button type="submit" >Reserva ahora</button>
                                             </div>
                                         </div>
                                     </div>
@@ -111,8 +111,8 @@
                                             <img src="../assets/images/icons/pd1.svg" alt="">
                                         </div>
                                         <div class="info">
-                                            <h6>Duration</h6>
-                                            <span>3 hours</span>
+                                            <h6>duración</h6>
+                                            <span>3 horas</span>
                                         </div>
                                     </div>
                                 </div>
@@ -123,7 +123,7 @@
                                             <img src="../assets/images/icons/pd2.svg" alt="">
                                         </div>
                                         <div class="info">
-                                            <h6>Departure time</h6>
+                                            <h6>hora de salida</h6>
                                             <span> 20h00</span>
                                         </div>
                                     </div>
@@ -134,8 +134,8 @@
                                             <img src="../assets/images/icons/pd4.svg" alt="">
                                         </div>
                                         <div class="info">
-                                            <h6> Availability </h6>
-                                            <span>Every day</span>
+                                            <h6> disponibilidad </h6>
+                                            <span>todos los días</span>
                                         </div>
                                     </div>
                                 </div>
@@ -145,7 +145,7 @@
                             </div>
                             <div class="header-bottom">
                                 <div class="pd-lavel d-flex justify-content-between align-items-center flex-wrap gap-2">
-                                    <h5 class="location"><i class="bi bi-geo-alt"></i> marrakech, morocco</h5>
+                                    <h5 class="location"><i class="bi bi-geo-alt"></i> marrakech, Marruecos</h5>
                                     <ul class="d-flex align-items-center rating">
                                         <li><i class="bi bi-star-fill"></i></li>
                                         <li><i class="bi bi-star-fill"></i></li>
@@ -154,7 +154,7 @@
                                         <li><i class="bi bi-star-fill"></i></li>
                                     </ul>
                                 </div>
-                                <h2 class="pd-title">Marrakech by Night City Private Tour </h2>
+                                <h2 class="pd-title">Tour privado por la ciudad de Marrakech de noche</h2>
                             </div>
                         </div>
                     </div>    
@@ -173,7 +173,8 @@
                                     <li class="nav-item navmargin" role="presentation">
                                         <button class="nav-link active" id="pills-package1" data-bs-toggle="pill"
                                             data-bs-target="#pill-body1" type="button" role="tab" aria-controls="pill-body1"
-                                            aria-selected="true"><i class="bi bi-info-lg"></i> Information</button>
+                                            aria-selected="true"><i class="bi bi-info-lg"></i> información
+</button>
                                     </li>
                                     
                                     <li class="nav-item navmargin" role="presentation">
@@ -187,59 +188,67 @@
 
                                 <div class="tab-pane fade show active package-info-tab mt-3" id="pill-body1"
                                     role="tabpanel" aria-labelledby="pills-package1">
-                                    <h3 class="d-subtitle">Package Details</h3>
+                                    <h3 class="d-subtitle">detalles del paquete</h3>
 <pre>
 
 
-We put at your disposal an experienced driver-guide, Marrakech specialist, and an air-conditioned vehicle for 3 hours to allow you to discover Marrakech after sunset. You can manage yourself the program of the visit according to your choice and your priorities, hereafter our program proposal:
+Ponemos a su disposición un conductor-guía experimentado, especialista en Marrakech, y un vehículo con aire acondicionado durante 3 horas para que pueda descubrir Marrakech después de la puesta del sol. Puede gestionar usted mismo el programa de la visita de acuerdo a su elección y sus prioridades, a continuación nuestra propuesta de programa:
 
-Jemaa el Fna is the busiest and most visited of the squares in the medina quarter of Marrakech and you will love it at any time of the day or night.
+Jemaa el Fna es la más concurrida y visitada de las plazas en el barrio de la medina de Marrakech y le encantará en cualquier momento del día o de la noche.
 
-Marrakesh’s main square is the city’s magical centrepiece, a stage on which street-theatre performances are acted out across the day. Like any accomplished magician, Djemaa El Fna doesn't reveal all the tricks up its sleeve straight away, meaning you’ll need to revisit it several times during the day to enjoy the full show. Here's what to expect at morning, noon and night.
+La plaza principal de Marrakech es la pieza central mágica de la ciudad, un escenario en el que se representan representaciones de teatro callejero durante todo el día. Como cualquier mago consumado, Djemaa El Fna no revela todos los trucos en su manga de inmediato, lo que significa que tendrá que volver a visitarlo varias veces durante el día para disfrutar del espectáculo completo. Esto es lo que puede esperar por la mañana, el mediodía y la noche.
 
-As the evening sets in, a steady wave of people flood into the Djemaa.  Lights are switched on, and the first wafts of smoke rise above the food stalls as the grills are heated up. Mountains of coiled shells entice diners to tuck into snail broth while waiters patrol the food stall area brandishing menus and touting for business.
+Al anochecer, una ola constante de gente inunda el Djemaa.  Las luces se encienden, y las primeras ráfagas de humo se elevan por encima de los puestos de comida a medida que las parrillas se calientan. Montañas de conchas en espiral atraen a los comensales a arroparse en caldo de caracol mientras los camareros patrullan el área del puesto de comida blandiendo menús y promocionando para los negocios.
 
-Musical troupes bang drums, strike up their fiddles, chant and tune their lutes as a great symphonic battle begins for the night. Duelling bands blend together into one ringing din that merges with the shouts of food stall touts and the snake charmers’ flutes.
+Las compañías musicales tocan tambores, tocan sus violines, cantan y afinan sus laúdes mientras una gran batalla sinfónica comienza por la noche. Las bandas de duelos se mezclan en un estruendo que se fusiona con los gritos de los vendedores de comida y las flautas de los encantadores de serpientes.
 
-The Medina of Marrakech is the center of nightlife in Marrakech – but the idea of “nightlife” there is completely different to the one you’re usually used to. This is where you go to experience the bustling heart of Marrakech, with hundreds of restaurants, drink and food stands, and the Djamaa El Fna square where you can watch street performers, artists, and dancers do their thing,
+La Medina de Marrakech es el centro de la vida nocturna en Marrakech - pero la idea de "vida nocturna" no es completamente diferente a la que está acostumbrado. Aquí es donde vas a experimentar el bullicioso corazón de Marrakech, con cientos de restaurantes, puestos de bebidas y comida, y la plaza Djamaa El Fna donde puedes ver a artistas callejeros, y bailarines hacer lo suyo,
 
-If you’re in the mood of partying beyond the clubs and bars, you can spend your night at a belly dance performance. There are no shortages of entertainment options. Cozy restaurants to booming night clubs with the hottest djs spinning until the wee hours to cabaret style shows, and trendy cocktail bars are all options for a night out in Marrakech.
+Si estás de humor para ir de fiesta más allá de los clubes y bares, puedes pasar la noche en una presentación de danza del vientre. No hay escasez de opciones de entretenimiento. Restaurantes acogedores a los clubes nocturnos en auge con los mejores djs girando hasta el wee horas a espectáculos de estilo cabaret, y bares de cócteles de moda son todas las opciones para una noche de fiesta en Marrakech.
 
-Known for its festive evenings, the red city has a large number of Restaurants, Bars, Casino and Nightclubs to enjoy going out in marrakech. Many atmospheres coexist, from the typical Moroccan to the trendiest Oriental Evenings by the pools. Depending on the neighborhoods, the atmosphere varies.
+Conocida por sus noches festivas, la ciudad roja tiene un gran número de restaurantes, bares, casino y discotecas para disfrutar de salir en Marrakech. Muchos ambientes coexisten, desde el típico marroquí a las noches orientales más de moda junto a las piscinas. Dependiendo de los barrios, el ambiente varía.
 
-Duration: 3 to 4 hours
-Availability: Every day
+duración: 3 to 4 horas
+disponibilidad: todos los días
 Deparature time: At Your Choice
 
-    <i class='bx bx-check'></i>No Booking Fees
-    <i class='bx bx-check'></i>Book Now and Pay Later
-    <i class='bx bx-check'></i>Best Price Guaranteed
-    <i class='bx bx-check'></i>Excellent Service
-    <i class='bx bx-check'></i>Free cancellation
-    <i class='bx bx-check'></i>Available every day
+<i class='bx bx-check'></i>Sin tarifas de reserva
+    <i class='bx bx-check'></i>Reserva ahora y paga después
+    <i class='bx bx-check'></i>Mejor precio garantizado
+    <i class='bx bx-check'></i>Excelente servicio
+    <i class='bx bx-check'></i>Cancelación gratuita
+    <i class='bx bx-check'></i>Disponible todos los días
 
-What is included?
+¿Qué es lo que incluye?
 
-    <i class='bx bx-check'></i>Transportation with a driver Guide
-    <i class='bx bx-check'></i>Transportation Insurance
-    <i class='bx bx-check'></i>Quality service reliability
-    <i class='bx bx-check'></i>All taxes
+    <i class='bx bx-check'></i>Transporte con guía del conductor
+    <i class='bx bx-check'></i>Seguro de transporte
+    <i class='bx bx-check'></i>Fiabilidad del servicio de calidad
+    <i class='bx bx-check'></i>Todos los impuestos
 
-What is not included?
+¿Qué no está incluido?
 
-    <i class='bx bx-check'></i>Tips
+    <i class='bx bx-check'></i>Consejos
 
-Meeting place:
+¿Qué no está incluido?
 
-    <i class='bx bx-check'></i>Our driver will pick you up at your hotel/Riad or any other location at the agreed time.
-    <i class='bx bx-check'></i>In case of any problem: please email us or call us on the numbers displayed on contact informations.
+<i class='bx bx-check'></i> comida
+<i class='bx bx-check'></i> guía local
+<i class='bx bx-check'></i> Consejos
 
-Easy Booking: Accepted until 6pm the day before (Marrakech time), If you have any difficulties to book or need another service, please use our <a href="contact.php" > Contact Form </a> 
 
 
-Payment Methods:
+Punto de encuentro:
 
-    In cash (Euros or MAD) upon arrival
+    <i class='bx bx-check'></i> Nuestro conductor lo recogerá en su hotel/ Riad o en cualquier otro lugar a la hora acordada.
+    <i class='bx bx-check'></i> En caso de cualquier problema: por favor envíenos un correo electrónico o llámenos a los números que aparecen en la información de contacto.
+
+Easy Booking: Aceptado hasta las 6pm del día anterior (hora de Marrakech), Si tiene alguna dificultad para reservar o necesita otro servicio, use nuestro <a href="contact.php" > Formulario de contacto</a> 
+
+
+Métodos de pago:
+
+    En efectivo (Euros o MAD) a la llegada
 </pre>                    
                                 </div>
                                 <div class="tab-pane fade package-gallary-tab mt-3" id="pill-body3" role="tabpanel"
@@ -277,12 +286,12 @@ Payment Methods:
                                                 <div class="col-lg-6">
                                                     <div class="custom-input-group">
 
-                                                        <input type="text" placeholder="Your Full Name"  id="namecontact">
+                                                        <input type="text" placeholder="tu nombre completo"  id="namecontact">
                                                     </div>
                                                 </div>
                                                 <div class="col-lg-6">
                                                     <div class="custom-input-group">
-                                                        <input type="text" placeholder="Your Email" id="emailcontact">
+                                                        <input type="text" placeholder="Tu correo electrónico" id="emailcontact">
                                                     </div>
                                                 </div>
                                             </div>

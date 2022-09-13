@@ -15,8 +15,8 @@
         <div class="col-lg-12 text-center">
             <h2 class="breadcrumb-title">Marrakech <--> Fès </h2>
             <ul class="d-flex justify-content-center breadcrumb-items">
-                <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                <li class="breadcrumb-item active">Transfer</li>
+                <li class="breadcrumb-item"><a href="index.php">Acogida</a></li>
+                <li class="breadcrumb-item active">transferencia</li>
             </ul>
         </div>
     </div>
@@ -31,7 +31,7 @@
                         <div class="widget-title">
                             <table class="table" style="color: white;">
                                 <tr style="height: 40px ;text-align: center;">
-                                    <th colspan="5">Privat</th>
+                                    <th colspan="5">privado</th>
                                 </tr>
                                 <tr>
                                     <th>nbr max*</th>
@@ -41,7 +41,7 @@
                                     <td>5</td>
                                 </tr>
                                 <tr>
-                                    <th>prix* €</th>
+                                    <th>Premio* €</th>
                                     <td>50</td>
                                     <td>35</td>
                                     <td>30</td>
@@ -59,15 +59,15 @@
                                         <input type="hidden" name="type_tour" value="visites" /> &nbsp;
                                         <input type="hidden" name="name_tour" value="Visite de Ville: Marrakech en ½ Journée " /> &nbsp;
 
-                                        Select date and participants:
+                                        Seleccione la fecha y los participantes:
                                         <i class="bi bi-calendar3"></i>
-                                        <input placeholder="Select your date" type="date" name="date" id="datepickerprive" value="" class="calendar" required>
+                                        <input placeholder="Selecciona tu fecha" type="date" name="date" id="datepickerprive" value="" class="calendar" required>
                                     </div>
                                     <div class="row">
                                         <div class="custom-input-group">
                                             <i class="bi bi-chevron-down"></i>
                                             <select id="truist-adult" name="numbertravels">
-                                                <option value="notselected" selected> Number of travelers: </option>
+                                                <option value="notselected" selected> Número de viajeros: </option>
                                                 <option value="1"> 1</option>
                                                 <option value="2"> 2</option>
                                                 <option value="3"> 3</option>
@@ -98,20 +98,20 @@
                                         Total Price in €<input type="text" id="totalpriceprive" name="totalprice" class="form-control" disabled>
                                     </div>
                                     <div class="custom-input-group">
-                                        <input type="text" placeholder="Your Full Name" id="name" name="name" required>
+                                        <input type="text" placeholder="tu nombre completo" id="name" name="name" required>
                                     </div>
                                     <div class="custom-input-group">
-                                        <input type="email" placeholder="Your Email" id="email" name="email">
+                                        <input type="email" placeholder="Tu correo electrónico" id="email" name="email">
                                     </div>
                                     <div class="custom-input-group">
-                                        <input type="tel" placeholder="Phone" id="phone" name="phone" required>
+                                        <input type="tel" placeholder="número de teléfono" id="phone" name="phone" required>
                                     </div>
 
                                     <div class="row">
                                         <div class="custom-input-group">
                                             <i class="bi bi-chevron-down"></i>
                                             <select id="truist-adult" name="adlut">
-                                                <option value="notselected" selected>Adult</option>
+                                                <option value="notselected" selected>adulto</option>
                                                 <option value="1"> 1</option>
                                                 <option value="2"> 2</option>
                                                 <option value="3"> 3</option>
@@ -124,11 +124,11 @@
 
 
                                     <div class="custom-input-group">
-                                        <textarea cols="20" rows="7" name="message" placeholder="Your message"></textarea>
+                                        <textarea cols="20" rows="7" name="message" placeholder="tu mensaje"></textarea>
                                     </div>
                                     <div class="custom-input-group">
                                         <div class="submite-btn">
-                                            <button type="submit">Book Now</button>
+                                            <button type="submit">Reserva ahora</button>
                                         </div>
                                     </div>
                                 </div>
@@ -147,8 +147,8 @@
                                         <img src="../assets/images/icons/pd1.svg" alt="">
                                     </div>
                                     <div class="info">
-                                        <h6>Duration</h6>
-                                        <span>3-4 hours</span>
+                                        <h6>duración</h6>
+                                        <span>3-4 horas</span>
                                     </div>
                                 </div>
                             </div>
@@ -159,7 +159,7 @@
                                         <img src="../assets/images/icons/pd2.svg" alt="">
                                     </div>
                                     <div class="info">
-                                        <h6>Departure time</h6>
+                                        <h6>hora de salida</h6>
                                         <span> 09h00/14h00</span>
                                     </div>
                                 </div>
@@ -170,8 +170,8 @@
                                         <img src="../assets/images/icons/pd4.svg" alt="">
                                     </div>
                                     <div class="info">
-                                        <h6> Availability </h6>
-                                        <span>Every day</span>
+                                        <h6> disponibilidad </h6>
+                                        <span>todos los días</span>
                                     </div>
                                 </div>
                             </div>
@@ -181,7 +181,7 @@
                         </div>
                         <div class="header-bottom">
                             <div class="pd-lavel d-flex justify-content-between align-items-center flex-wrap gap-2">
-                                <h5 class="location"><i class="bi bi-geo-alt"></i> marrakech, morocco</h5>
+                                <h5 class="location"><i class="bi bi-geo-alt"></i> marrakech, Marruecos</h5>
                                 <ul class="d-flex align-items-center rating">
                                     <li><i class="bi bi-star-fill"></i></li>
                                     <li><i class="bi bi-star-fill"></i></li>
@@ -207,10 +207,10 @@
                     <div class="package-details-tabs">
                         <ul class="nav nav-pills tab-switchers gap-xxl-4 gap-3" id="pills-tab" role="tablist">
                         <li class="nav-item navmargin" role="reservation">
-                                <button class="nav-link active" id="pills-package2" data-bs-toggle="pill" data-bs-target="#pill-body2" type="button" role="tab" aria-controls="pill-body2" aria-selected="true"><i class="bi bi-plus-circle"></i> Reservation</button>
+                                <button class="nav-link active" id="pills-package2" data-bs-toggle="pill" data-bs-target="#pill-body2" type="button" role="tab" aria-controls="pill-body2" aria-selected="true"> <i class="bi bi-plus-circle"></i> Reserva</button>
                             </li>
                             <li class="nav-item navmargin" role="presentation">
-                                <button class="nav-link" id="pills-package1" data-bs-toggle="pill" data-bs-target="#pill-body1" type="button" role="tab" aria-controls="pill-body1" aria-selected="true"><i class="bi bi-info-lg"></i> Information</button>
+                                <button class="nav-link" id="pills-package1" data-bs-toggle="pill" data-bs-target="#pill-body1" type="button" role="tab" aria-controls="pill-body1" aria-selected="true"><i class="bi bi-info-lg"></i> información</button>
                             </li>
 
                             <li class="nav-item navmargin" role="presentation">
@@ -223,8 +223,8 @@
                             
                             <table class="table" style="color: black;">
                                 <tr>
-                                    <th>Transfer arrival or departure</th>
-                                    <th>Price</th>
+                                    <th>Traslado de llegada o salida</th>
+                                    <th>precio</th>
                                     
                                 </tr>
                                 <tr>
@@ -236,7 +236,7 @@
                                 </tr>
                                
                             </table><br>
-                            <h4>Choose <span style="color: #FF8C00;">transfer type : </span></h4>
+                            <h4>Elija <span style="color: #FF8C00;">transfer type : </span></h4>
                             <br>
                             <div class="accordion faq-accordion accordion-flush" id="faq-accordion-example">
                             <div class="accordion-item faq-accordion">
@@ -244,7 +244,7 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#faq-collapseOne" aria-expanded="false"
                                         aria-controls="faq-collapseOne">
-                                        Transfer from Marrakech to Fès
+                                        traslado desde Marrakech to Fès
                                     </button>
                                 </h2>
                                 <div id="faq-collapseOne" class="accordion-collapse collapse"
@@ -261,42 +261,42 @@
                                                     <div class="row">
                                                         <div class="col-lg-6">
                                                             <div class="custom-input-group">
-                                                                <label for="name">Full Name</label>
-                                                                <input type="text" placeholder="Your Full name" id="name" name="name">
+                                                                <label for="name">Nombre completo</label>
+                                                                <input type="text" placeholder="tu nombre completo" id="name" name="name">
                                                             </div>
                                                         </div>
                                                         <div class="col-lg-6">
                                                             <div class="custom-input-group">
-                                                                <label for="passenger">Number Of Passenger</label>
-                                                                <input type="number" placeholder="Number Of Passenger" name="passenger" id="passenger" min="0" max="5">
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="row">
-                                                        <div class="col-lg-6">
-                                                            <div class="custom-input-group">
-                                                                <label for="arrival">Arrival date</label>
-                                                                <input type="date" placeholder=" Your Arrival date" name="arrival" id="arrival">
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-lg-6">
-                                                            <div class="custom-input-group">
-                                                                <label for="timearrival">Time of arrival</label>
-                                                                <input type="time" placeholder="Your Time of arrival" name="timearrival" id="timearrival">
+                                                                <etiqueta para="pasajero">Número de pasajero</etiqueta>
+                                                                <input type="number" placeholder="Número de pasajero" name="passenger" id="passenger" min="0" max="5">
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="row">
                                                         <div class="col-lg-6">
                                                             <div class="custom-input-group">
-                                                                <label for="flightnumber">Arrival flight number</label>
-                                                                <input type="text" placeholder="Your Arrival flight number" name="flightnumber" id="flightnumber">
+                                                                <label for="arrival">Fecha de llegada</label>
+                                                                <input type="date" placeholder=" su fecha de llegada" name="arrival" id="arrival">
                                                             </div>
                                                         </div>
                                                         <div class="col-lg-6">
                                                             <div class="custom-input-group">
-                                                                <label for="destinition">The destination address in Fès</label>
-                                                                <input type="text" placeholder="Your destination address in Fès" name="destinition" id="destinition">
+                                                                <label for="timearrival">Hora de llegada</label>
+                                                                <input type="time" placeholder="Su Hora de llegada" name="timearrival" id="timearrival">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="row">
+                                                        <div class="col-lg-6">
+                                                            <div class="custom-input-group">
+                                                                <label for="flightnumber">Número de vuelo de llegada</label>
+                                                                <input type="text" placeholder="Su Número de vuelo de llegada" name="flightnumber" id="flightnumber">
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-lg-6">
+                                                            <div class="custom-input-group">
+                                                                <label for="destinition">La dirección de destino en Fès</label>
+                                                                <input type="text" placeholder="su dirección de destino en  Fès" name="destinition" id="destinition">
                                                             </div>
                                                         </div>
                                                     </div>
@@ -304,22 +304,22 @@
                                                         <div class="col-lg-6">
                                                             <div class="custom-input-group">
                                                                 <label for="Email">Email </label>
-                                                                <input type="text" placeholder="Your Email" id="Email" name="email">
+                                                                <input type="text" placeholder="Tu correo electrónico" id="Email" name="email">
                                                             </div>
                                                         </div>
                                                         <div class="col-lg-6">
                                                             <div class="custom-input-group">
-                                                                <label for="Phone">Phone Number</label>
-                                                                <input type="text" placeholder="Your Phone Number" id="Phone" name="phone">
+                                                                <label for="Phone">Número de teléfono</label>
+                                                                <input type="text" placeholder="Su número de teléfono" id="Phone" name="phone">
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="custom-input-group">
-                                                        <textarea cols="20" rows="7" placeholder="Your message" name="message"></textarea>
+                                                        <textarea cols="20" rows="7" placeholder="Tu mensajee" name="message"></textarea>
                                                     </div>
                                                     <div class="custom-input-group">
                                                         <div class="submite-btn">
-                                                            <button type="submit">Send</button>
+                                                            <button type="submit">Enviar </button>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -333,7 +333,7 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#faq-collapseTwo" aria-expanded="false"
                                         aria-controls="faq-collapseTwo">
-                                        Transfer from Fès to Marrakech
+                                        traslado desde Fès to Marrakech
                                     </button>
                                 </h2>
                                 <div id="faq-collapseTwo" class="accordion-collapse collapse"
@@ -349,42 +349,42 @@
                                                     <div class="row">
                                                         <div class="col-lg-6">
                                                             <div class="custom-input-group">
-                                                                <label for="name">Full Name</label>
-                                                                <input type="text" placeholder="Your Full name" id="name" name="name">
+                                                                <label for="name">Nombre completo</label>
+                                                                <input type="text" placeholder="tu nombre completo" id="name" name="name">
                                                             </div>
                                                         </div>
                                                         <div class="col-lg-6">
                                                             <div class="custom-input-group">
-                                                                <label for="passenger">Number Of Passenger</label>
-                                                                <input type="number" placeholder="Number Of Passenger" name="passenger" id="passenger" min="0" max="5">
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="row">
-                                                        <div class="col-lg-6">
-                                                            <div class="custom-input-group">
-                                                                <label for="departure">Departure date</label>
-                                                                <input type="date" placeholder=" Your Departure date" name="departure" id="departure">
-                                                            </div>
-                                                        </div>
-                                                        <div class="col-lg-6">
-                                                            <div class="custom-input-group">
-                                                                <label for="timedeparture">Time of Departure</label>
-                                                                <input type="time" placeholder="Your Time of Departure" name="timedeparture" id="timedeparture">
+                                                                <etiqueta para="pasajero">Número de pasajero</etiqueta>
+                                                                <input type="number" placeholder="Número de pasajero" name="passenger" id="passenger" min="0" max="5">
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="row">
                                                         <div class="col-lg-6">
                                                             <div class="custom-input-group">
-                                                                <label for="flightnumber">Departure flight number</label>
-                                                                <input type="text" placeholder="Your Departure flight number" name="flightnumber" id="flightnumber">
+                                                                <label for="departure">Fecha de salida</label>
+                                                                <input type="date" placeholder=" Su fecha de salida" name="departure" id="departure">
                                                             </div>
                                                         </div>
                                                         <div class="col-lg-6">
                                                             <div class="custom-input-group">
-                                                                <label for="pickupadresse">Pick Up Point Adresse</label>
-                                                                <input type="text" placeholder="Your Pick Up Point Adresse" name="pickupadresse" id="pickupadresse">
+                                                                <label for="timedeparture">Hora de salida</label>
+                                                                <input type="time" placeholder="Su hora de salida" name="timedeparture" id="timedeparture">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="row">
+                                                        <div class="col-lg-6">
+                                                            <div class="custom-input-group">
+                                                                <label for="flightnumber">Número de vuelo de salida</label>
+                                                                <input type="text" placeholder="Su número de vuelo de salida" name="flightnumber" id="flightnumber">
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-lg-6">
+                                                            <div class="custom-input-group">
+                                                                <label for="pickupadresse">Dirección del punto de recogida</label>
+                                                                <input type="text" placeholder="Su dirección de punto de recogida" name="pickupadresse" id="pickupadresse">
                                                             </div>
                                                         </div>
                                                     </div>
@@ -392,22 +392,22 @@
                                                         <div class="col-lg-6">
                                                             <div class="custom-input-group">
                                                                 <label for="Email">Email </label>
-                                                                <input type="text" placeholder="Your Email" id="Email" name="email" >
+                                                                <input type="text" placeholder="Tu correo electrónico" id="Email" name="email" >
                                                             </div>
                                                         </div>
                                                         <div class="col-lg-6">
                                                             <div class="custom-input-group">
-                                                                <label for="Phone">Phone Number</label>
-                                                                <input type="text" placeholder="Your Phone Number" id="Phone" name="phone">
+                                                                <label for="Phone">Número de teléfono</label>
+                                                                <input type="text" placeholder="Su número de teléfono" id="Phone" name="phone">
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="custom-input-group">
-                                                        <textarea cols="20" rows="7" placeholder="Your message" name="message"></textarea>
+                                                        <textarea cols="20" rows="7" placeholder="Tu mensajee" name="message"></textarea>
                                                     </div>
                                                     <div class="custom-input-group">
                                                         <div class="submite-btn">
-                                                            <button type="submit">Send</button>
+                                                            <button type="submit">Enviar </button>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -421,52 +421,52 @@
                         </div>
                             </div>
                             <div class="tab-pane fade  package-info-tab mt-3" id="pill-body1" role="tabpanel" aria-labelledby="pills-package1">
-                                <h3 class="d-subtitle">Package Details</h3>
+                                <h3 class="d-subtitle">detalles del paquete</h3>
                                 <br>
                                 <pre>
-You come for a few days in Marrakech with family or friends, our tourist transport agency in Marrakech guarantees you high 
-quality local services and at the best possible price:)
-To succeed your trip, your tourist transport agency in marrakech takes care of all your trips within Marrakech or from 
-this city and to all the destinations of your choice in the best conditions. Fes, Essaouira, Casablanca, Ouarzazat, Rabat...
+Usted viene por unos días en Marrakech con la familia o amigos, nuestra agencia de transporte turístico en Marrakech le garantiza alta 
+servicios locales de calidad y al mejor precio posible:)
+Para tener éxito en su viaje, su agencia de transporte turístico en Marrakech se encarga de todos sus viajes dentro de Marrakech o desde 
+esta ciudad y a todos los destinos de su elección en las mejores condiciones. Fez, Essaouira, Casablanca, Ouarzazat, Rabat...
 
-You arrive or depart from Marrakech Menara airport, whatever the time and place, our agency offers a comfortable, reliable and punctual 
-shuttle service without waiting, without wasting time at a reasonable price and defined in advance by a simple contact.
+Usted llega o sale del aeropuerto de Marrakech Menara, sea cual sea el momento y el lugar, nuestra agencia ofrece un cómodo, fiable y puntual 
+servicio de transporte sin esperar, sin perder tiempo a un precio razonable y definido de antemano por un simple contacto.
 
  
 
-<bold>Distance:</bold> 565Km
-<bold>Duration:</bold> 6h45
-<bold>Availability:</bold> Every day
+<bold>distancia:</bold> 565Km
+<bold>duración:</bold> 6h45
+<bold>disponibilidad:</bold> todos los días
 
-<i class='bx bx-check'></i>  No Booking Fees
-<i class='bx bx-check'></i>  Book Now and Pay Later
-<i class='bx bx-check'></i>  Best Price Guaranteed
-<i class='bx bx-check'></i>  Excellent Service
-<i class='bx bx-check'></i>  Free cancellation
-<i class='bx bx-check'></i>  Available every day
-<bold>What is included?</bold>
+<i class='bx bx-check'></i>  Sin cargos de reserva
+<i class='bx bx-check'></i>  Reserva ahora y paga después
+<i class='bx bx-check'></i>  Mejor precio garantizado
+<i class='bx bx-check'></i>  Excelente servicio
+<i class='bx bx-check'></i>  Cancelación gratuita
+<i class='bx bx-check'></i>  Disponible todos los días
+<bold>¿Qué se incluye? </bold>
 
-<i class='bx bx-check'></i>  Transport with private driver
-<i class='bx bx-check'></i>  Transport by air-conditioned 4x4 or minibus
-<i class='bx bx-check'></i>  Transportation Insurance
-<i class='bx bx-check'></i>  Professional Liability Insurance
-<i class='bx bx-check'></i>  Quality service reliability
-<i class='bx bx-check'></i>  All taxes
+<i class='bx bx-check'></i>  Transporte con conductor privado
+<i class='bx bx-check'></i>  Transporte en 4x4 o minibús con aire acondicionado
+<i class='bx bx-check'></i>  Seguro de transporte
+<i class='bx bx-check'></i>  Seguro de responsabilidad profesional
+<i class='bx bx-check'></i>  Fiabilidad del servicio de calidad
+<i class='bx bx-check'></i>  Todos los impuestos
 
-<bold>What is not included?</bold>
-<i class='bx bx-check'></i>  Tips
-<bold>Meeting place:</bold>
+<bold>¿Qué no está incluido? </bold>
+<i class='bx bx-check'></i>  Consejos
+<bold>Lugar de reunión:</bold>
 
-<i class='bx bx-check'></i>  Our driver will pick you up at your hotel/Riad or at the airport at the agreed time.
-<i class='bx bx-check'></i>  In case of any problem: please email us or call us on the numbers displayed on contact informations.
-
-
-<bold>Easy Booking:</bold> Accepted until 6pm the day before (Marrakech time), If you have any difficulties to book or need another service, please use our <a href="contact.php" > Contact Form </a> 
-
-<bold>Payment Methods:</bold>
+<i class='bx bx-check'></i>  Nuestro conductor lo recogerá en su hotel/Riad o en el aeropuerto a la hora acordada.
+<i class='bx bx-check'></i>  En caso de cualquier problema: por favor envíenos un correo electrónico o llámenos a los números que se muestran en la información de contacto.
 
 
-<i class='bx bx-check'></i>  In cash (Euros or MAD) upon arrival
+<bold>Easy Booking:</bold> Aceptado hasta las 6pm del día anterior (hora de Marrakech), Si tiene alguna dificultad para reservar o necesita otro servicio, utilice nuestro <a href="contact.php" > Formulario de contacto </a> 
+
+<bold>Métodos de pago:</bold>
+
+
+<i class='bx bx-check'></i>  En efectivo (Euros o MAD) a la llegada
 
                                 </pre>
                             </div>
@@ -516,12 +516,12 @@ shuttle service without waiting, without wasting time at a reasonable price and 
                                                 <div class="col-lg-6">
                                                     <div class="custom-input-group">
 
-                                                        <input type="text" placeholder="Your Full Name"  id="namecontact">
+                                                        <input type="text" placeholder="tu nombre completo"  id="namecontact">
                                                     </div>
                                                 </div>
                                                 <div class="col-lg-6">
                                                     <div class="custom-input-group">
-                                                        <input type="text" placeholder="Your Email" id="emailcontact">
+                                                        <input type="text" placeholder="Tu correo electrónico" id="emailcontact">
                                                     </div>
                                                 </div>
                                             </div>

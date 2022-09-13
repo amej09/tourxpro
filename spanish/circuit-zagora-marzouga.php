@@ -103,7 +103,7 @@
                                        
                                        
                                         <div class="custom-input-group">
-                                            <textarea cols="20" rows="7" name="message" placeholder="Your message"></textarea>
+                                            <textarea cols="20" rows="7" name="message" placeholder="tu mensaje"></textarea>
                                         </div>
                                         <div class="custom-input-group">
                                             <div class="submite-btn">
@@ -170,7 +170,7 @@
                             </div>
                             <div class="header-bottom">
                                 <div class="pd-lavel d-flex justify-content-between align-items-center flex-wrap gap-2">
-                                    <h5 class="location"><i class="bi bi-geo-alt"></i> Marzouga, Zagoura, morocco</h5>
+                                    <h5 class="location"><i class="bi bi-geo-alt"></i> Marzouga, Zagoura, Marruecos</h5>
                                     <ul class="d-flex align-items-center rating">
                                         <li><i class="bi bi-star-fill"></i></li>
                                         <li><i class="bi bi-star-fill"></i></li>
@@ -213,7 +213,7 @@
 
                                 <div class="tab-pane fade show active package-info-tab mt-3" id="pill-body1"
                                     role="tabpanel" aria-labelledby="pills-package1">
-                                    <h3 class="d-subtitle">Package Details</h3>
+                                    <h3 class="d-subtitle">detalles del paquete</h3>
  <pre>
 
  Si desea explorar la belleza y el encanto del Sahara de Marruecos, este tour privado del desierto de 4 días está hecho para usted.

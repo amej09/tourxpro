@@ -149,7 +149,7 @@
                             </div>
                             <div class="header-bottom">
                                 <div class="pd-lavel d-flex justify-content-between align-items-center flex-wrap gap-2">
-                                    <h5 class="location"><i class="bi bi-geo-alt"></i> Agafay, morocco</h5>
+                                    <h5 class="location"><i class="bi bi-geo-alt"></i> Agafay, Marruecos</h5>
                                     <ul class="d-flex align-items-center rating">
                                         <li><i class="bi bi-star-fill"></i></li>
                                         <li><i class="bi bi-star-fill"></i></li>
@@ -191,7 +191,7 @@
 
                                 <div class="tab-pane fade show active package-info-tab mt-3" id="pill-body1"
                                     role="tabpanel" aria-labelledby="pills-package1">
-                                    <h3 class="d-subtitle">Package Details</h3>
+                                    <h3 class="d-subtitle">detalles del paquete</h3>
 <pre>
 
 
@@ -316,12 +316,12 @@ Métodos de pago:
                                                 <div class="col-lg-6">
                                                     <div class="custom-input-group">
 
-                                                        <input type="text" placeholder="Your Full Name"  id="namecontact">
+                                                        <input type="text" placeholder="tu nombre completo"  id="namecontact">
                                                     </div>
                                                 </div>
                                                 <div class="col-lg-6">
                                                     <div class="custom-input-group">
-                                                        <input type="text" placeholder="Your Email" id="emailcontact">
+                                                        <input type="text" placeholder="Tu correo electrónico" id="emailcontact">
                                                     </div>
                                                 </div>
                                             </div>

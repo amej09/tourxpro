@@ -12,9 +12,9 @@
     <div class="breadcrumb breadcrumb-style-one">
         <div class="container">
             <div class="col-lg-12 text-center">
-                <h2 class="breadcrumb-title">Marrakech City Highlights Half-Day Tour  </h2>
+                <h2 class="breadcrumb-title">Tour de medio día por la ciudad de Marrakech  </h2>
                 <ul class="d-flex justify-content-center breadcrumb-items">
-                    <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                    <li class="breadcrumb-item"><a href="index.php">Acogida</a></li>
                     <li class="breadcrumb-item active">visits</li>
                 </ul>
             </div>
@@ -30,7 +30,7 @@
                             <div class="widget-title">
                                 <table class="table" style="color: white;">
                                      <tr  style="height: 40px ;text-align: center;" class="privebackground">
-                                        <th  colspan="5" >Privat</th>
+                                        <th  colspan="5" >privado</th>
                                     </tr>
                                     <tr>
                                         <th>nbr max*</th>
@@ -40,7 +40,7 @@
                                         <td>5</td>
                                     </tr>
                                     <tr>
-                                        <th>prix* €</th>
+                                        <th>Premio* €</th>
                                         <td>30</td>
                                         <td>20</td>
                                         <td>15</td>
@@ -58,16 +58,16 @@
                                             <input type="hidden"      name="type_tour" value="visites"/> &nbsp;
                                             <input type="hidden"      name="name_tour" value="Visite de Ville: Marrakech en ½ Journée "/> &nbsp;
 
-                                            Select date and participants: 
+                                            Seleccione la fecha y los participantes: 
                                             <i class="bi bi-calendar3"></i>
-                                            <input placeholder="Select your date" type="date" name="date"
+                                            <input placeholder="Selecciona tu fecha" type="date" name="date"
                                                 id="datepickerprive" value="" class="calendar" required>
                                         </div>
                                         <div class="row">
                                             <div class="custom-input-group">
                                                 <i class="bi bi-chevron-down"></i>
                                                 <select id="truist-adult" name="numbertravels">
-                                                    <option  value="notselected" selected > Number of travelers: </option>
+                                                    <option  value="notselected" selected > Número de viajeros: </option>
                                                     <option value="1"> 1</option>
                                                     <option value="2"> 2</option>
                                                     <option value="3"> 3</option>
@@ -81,13 +81,13 @@
                                              <div class="col-md-6">
                                                 <input type="checkbox" class="radiosize" id="Guide"    value="Guide (30€)"/> &nbsp;
                                             
-                                                Guide(30€)
+                                                Guía(30€)
                                             </div>
                                            
                                             <div class="col-md-6">
                                                 <input type="checkbox"  class="radiosize"  id="Lunch"    value="Lunch (12€ / per)"/>&nbsp;
                                           
-                                                Lunch (12€ / per) 
+                                                Almuerzo (12€ / por) 
 
                                             </div> 
 
@@ -95,25 +95,25 @@
                                         </div>
                                         <div class="custom-input-group">
                                        
-                                            Total Price in  € Per Person<input type="text"  id="totalpriceprive"  name="totalprice" class="form-control" disabled>
+                                            Precio total en  € Per Person<input type="text"  id="totalpriceprive"  name="totalprice" class="form-control" disabled>
                                         </div>
                                         <div class="custom-input-group">
-                                            <input type="text" placeholder="Your Full Name" id="name" name="name" required>
+                                            <input type="text" placeholder="tu nombre completo" id="name" name="name" required>
                                         </div>
                                         <div class="custom-input-group">
-                                            <input type="email" placeholder="Your Email" id="email" name="email" >
+                                            <input type="email" placeholder="Tu correo electrónico" id="email" name="email" >
                                         </div>
                                         <div class="custom-input-group">
-                                            <input type="tel" placeholder="Phone" id="phone" name="phone" required>
+                                            <input type="tel" placeholder="número de teléfono" id="phone" name="phone" required>
                                         </div>
                                         
                                        
                                         <div class="custom-input-group">
-                                            <textarea cols="20" rows="7" name="message" placeholder="Your message"></textarea>
+                                            <textarea cols="20" rows="7" name="message" placeholder="tu mensaje"></textarea>
                                         </div>
                                         <div class="custom-input-group">
                                             <div class="submite-btn">
-                                                <button type="submit" >Book Now</button>
+                                                <button type="submit" >Reserva ahora</button>
                                             </div>
                                         </div>
                                     </div>
@@ -132,8 +132,8 @@
                                             <img src="../assets/images/icons/pd1.svg" alt="">
                                         </div>
                                         <div class="info">
-                                            <h6>Duration</h6>
-                                            <span>3-4 hours</span>
+                                            <h6>duración</h6>
+                                            <span>3-4 horas</span>
                                         </div>
                                     </div>
                                 </div>
@@ -144,7 +144,7 @@
                                             <img src="../assets/images/icons/pd2.svg" alt="">
                                         </div>
                                         <div class="info">
-                                            <h6>Departure time</h6>
+                                            <h6>hora de salida</h6>
                                             <span> 09h00/14h00</span>
                                         </div>
                                     </div>
@@ -155,8 +155,8 @@
                                             <img src="../assets/images/icons/pd4.svg" alt="">
                                         </div>
                                         <div class="info">
-                                            <h6> Availability </h6>
-                                            <span>Every day</span>
+                                            <h6> disponibilidad </h6>
+                                            <span>todos los días</span>
                                         </div>
                                     </div>
                                 </div>
@@ -166,7 +166,7 @@
                             </div>
                             <div class="header-bottom">
                                 <div class="pd-lavel d-flex justify-content-between align-items-center flex-wrap gap-2">
-                                    <h5 class="location"><i class="bi bi-geo-alt"></i> marrakech, morocco</h5>
+                                    <h5 class="location"><i class="bi bi-geo-alt"></i> marrakech, Marruecos</h5>
                                     <ul class="d-flex align-items-center rating">
                                         <li><i class="bi bi-star-fill"></i></li>
                                         <li><i class="bi bi-star-fill"></i></li>
@@ -175,7 +175,7 @@
                                         <li><i class="bi bi-star-fill"></i></li>
                                     </ul>
                                 </div>
-                                <h2 class="pd-title">Marrakech City Highlights Half-Day Tour </h2>
+                                <h2 class="pd-title">Tour de medio día por la ciudad de Marrakech </h2>
                             </div>
                         </div>
                     </div>    
@@ -194,7 +194,8 @@
                                     <li class="nav-item navmargin" role="presentation">
                                         <button class="nav-link active" id="pills-package1" data-bs-toggle="pill"
                                             data-bs-target="#pill-body1" type="button" role="tab" aria-controls="pill-body1"
-                                            aria-selected="true"><i class="bi bi-info-lg"></i> Information</button>
+                                            aria-selected="true"><i class="bi bi-info-lg"></i> información
+</button>
                                     </li>
                                     
                                     <li class="nav-item navmargin" role="presentation">
@@ -208,57 +209,57 @@
 
                                 <div class="tab-pane fade show active package-info-tab mt-3" id="pill-body1"
                                     role="tabpanel" aria-labelledby="pills-package1">
-                                    <h3 class="d-subtitle">Package Details</h3>
+                                    <h3 class="d-subtitle">detalles del paquete</h3>
 <pre>
 
 
-    Marrakesh has always been something of a pleasure, a marketplace where the southern tribesmen and Berber villagers bring their goods, spend their money and find entertainment. For visitors it's an enduring fantasy – a city of immense beauty, low, red and tent-like before a great shaft of mountains immediately exciting.   
+Marrakech siempre ha sido un placer, un mercado donde los miembros de las tribus del sur y los aldeanos bereberes traen sus bienes, gastan su dinero y encuentran entretenimiento. Para los visitantes es una fantasía duradera - una ciudad de inmensa belleza, baja, roja y tienda de campaña-como ante un gran eje de montañas inmediatamente emocionante.   
 
-    Monuments and Palaces: See the famous Koutoubia Tower (11th century), and Bahia Palace (19th century).
+Monumentos y Palacios: Visita la famosa Torre Koutoubia (siglo XI) y el Palacio de Bahía (siglo XIX).
 
-    Djemaa el Fna square: Really no more than an open space in the centre of the city, but the stage for a long-established ritual in which shifting circles of onlookers gather round groups of acrobats, drummers, pipe musicians, dancers, storytellers, comedians and fairground acts…  
+Plaza Djemaa el Fna: Realmente no es más que un espacio abierto en el centro de la ciudad, sino el escenario de un ritual de larga data en el que los círculos cambiantes de espectadores se reúnen alrededor de grupos de acróbatas, bateristas, músicos de tubo, bailarines, narradores, comediantes y actos de feria...  
 
-    Souks: Visit many Souks and Medinas of Marrakech, to see the locals selling everything from fresh vegetables and spices to leather and jewelry.  
+Zocos: Visite muchos zocos y medinas de Marrakech, para ver a los lugareños vendiendo todo, desde verduras frescas y especias hasta cuero y joyas.  
 
-    Historical gardens: Visit the famous Majorelle Gardens; surround yourself with the orchards and olive groves in Menara Garden 
+Jardines históricos: visite los famosos jardines de Majorelle; rodéese de los huertos y olivares en el jardín de Menara 
 
-    Duration: 3 to 4 hours
-    Availability: Every day
-    Deparature time: 9h00 am or 14h00 pm
+duración: 3 a 4 horas
+disponibilidad: todos los días
+Hora de salida: 9h00 am o 14h00 pm
 
-        <i class='bx bx-check'></i>No Booking Fees
-        <i class='bx bx-check'></i>Book Now and Pay Later
-        <i class='bx bx-check'></i>Best Price Guaranteed
-        <i class='bx bx-check'></i>Excellent Service
-        <i class='bx bx-check'></i>Free cancellation
-        <i class='bx bx-check'></i>Available every day
+<i class='bx bx-check'></i>Sin tarifas de reserva
+        <i class='bx bx-check'></i>Reserva ahora y paga después
+        <i class='bx bx-check'></i>Mejor precio garantizado
+        <i class='bx bx-check'></i>Excelente servicio
+        <i class='bx bx-check'></i>Cancelación gratuita
+        <i class='bx bx-check'></i>Disponible todos los días
 
-    What is included?
+    ¿Qué es lo que incluye?
 
-        <i class='bx bx-check'></i>Hotel pickup and drop-off
-        <i class='bx bx-check'></i>Transport by air-conditioned minivan
-        <i class='bx bx-check'></i>Transportation Insurance
-        <i class='bx bx-check'></i>Liability insurance.
-        <i class='bx bx-check'></i>Quality service reliability
-        <i class='bx bx-check'></i>All taxes.
+        <i class='bx bx-check'></i>Recogida y devolución del hotel
+        <i class='bx bx-check'></i>Transporte en minivan con aire acondicionado
+        <i class='bx bx-check'></i>Seguro de transporte
+        <i class='bx bx-check'></i>Seguro de responsabilidad civil.
+        <i class='bx bx-check'></i>Fiabilidad del servicio de calidad
+        <i class='bx bx-check'></i>Todos los impuestos.
 
-    What is not included?
+    ¿Qué no está incluido?
 
-        <i class='bx bx-check'></i> Local Guide
-        <i class='bx bx-check'></i> Entrance fees for Monuments and Majorelle Gardens
-        <i class='bx bx-check'></i> Tips
+        <i class='bx bx-check'></i> Guía local
+        <i class='bx bx-check'></i> Entradas para monumentos y jardines de Majorelle
+        <i class='bx bx-check'></i> Consejos
 
-    Meeting place:
+    Lugar de encuentro:
 
-        <i class='bx bx-check'></i>Our driver will pick you up at your hotel/Riad or any other location at the agreed time.
-        <i class='bx bx-check'></i>In case of any problem: please email us or call us on the numbers displayed on contact informations.
+        <i class='bx bx-check'></i>Nuestro conductor lo recogerá en su hotel/Riad o en cualquier otro lugar a la hora acordada.
+        <i class='bx bx-check'></i>En caso de cualquier problema: envíenos un correo electrónico o llámenos a los números que se muestran en la información de contacto.
 
-    Easy Booking: Accepted until 6pm the day before (Marrakech time), If you have any difficulties to book or need another service, please use our <a href="contact.php" > Contact Form </a> 
+    Easy Booking: Aceptado hasta las 6pm del día anterior (hora de Marrakech), Si tiene alguna dificultad para reservar o necesita otro servicio, utilice nuestro <a href="contact.php" > Formulario de contacto </a> 
 
 
-    Payment Methods:
+    Formas de pago:
 
-        In cash (Euros or MAD) upon arrival
+        En efectivo (Euros o MAD) a la llegada
 </pre>                    
                                 </div>
                                 <div class="tab-pane fade package-gallary-tab mt-3" id="pill-body3" role="tabpanel"
@@ -315,12 +316,12 @@
                                                 <div class="col-lg-6">
                                                     <div class="custom-input-group">
 
-                                                        <input type="text" placeholder="Your Full Name"  id="namecontact">
+                                                        <input type="text" placeholder="tu nombre completo"  id="namecontact">
                                                     </div>
                                                 </div>
                                                 <div class="col-lg-6">
                                                     <div class="custom-input-group">
-                                                        <input type="text" placeholder="Your Email" id="emailcontact">
+                                                        <input type="text" placeholder="Tu correo electrónico" id="emailcontact">
                                                     </div>
                                                 </div>
                                             </div>

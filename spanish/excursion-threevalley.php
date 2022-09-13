@@ -11,10 +11,10 @@
     <div class="breadcrumb breadcrumb-style-one">
         <div class="container">
             <div class="col-lg-12 text-center">
-                <h2 class="breadcrumb-title">Day Trip to The Three Valleys   </h2>
+                <h2 class="breadcrumb-title">Excursión de un día a los Tres Valles   </h2>
                 <ul class="d-flex justify-content-center breadcrumb-items">
-                    <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                    <li class="breadcrumb-item active">excursion</li>
+                    <li class="breadcrumb-item"><a href="index.php">Acogida</a></li>
+                    <li class="breadcrumb-item active">excursión</li>
                 </ul>
             </div>
         </div>
@@ -29,7 +29,7 @@
                             <div class="widget-title">
                                 <table class="table" style="color: white;">
                                      <tr  style="height: 40px ;text-align: center;" class="privebackground">
-                                        <th  colspan="5" >Privat</th>
+                                        <th  colspan="5" >privado</th>
                                     </tr>
                                     <tr>
                                         <th>nbr max*</th>
@@ -39,7 +39,7 @@
                                         <td>5</td>
                                     </tr>
                                     <tr>
-                                        <th>prix* €</th>
+                                        <th>Premio* €</th>
                                         <td>60</td>
                                         <td>40</td>
                                         <td>30</td>
@@ -57,16 +57,16 @@
                                             <input type="hidden"      name="type_tour" value="Excursion"/> &nbsp;
                                             <input type="hidden"      name="name_tour" value="the three valley"/> &nbsp;
 
-                                            Select date and participants: 
+                                            Seleccione la fecha y los participantes: 
                                             <i class="bi bi-calendar3"></i>
-                                            <input placeholder="Select your date" type="date" name="date"
+                                            <input placeholder="Selecciona tu fecha" type="date" name="date"
                                                 id="datepickerprive" value="" class="calendar" required>
                                         </div>
                                         <div class="row">
                                             <div class="custom-input-group">
                                                 <i class="bi bi-chevron-down"></i>
                                                 <select id="truist-adult" name="numbertravels">
-                                                    <option  value="notselected" selected > Number of travelers: </option>
+                                                    <option  value="notselected" selected > Número de viajeros: </option>
                                                     <option value="1"> 1</option>
                                                     <option value="2"> 2</option>
                                                     <option value="3"> 3</option>
@@ -80,13 +80,13 @@
                                              <div class="col-md-6">
                                                 <input type="checkbox" class="radiosize" id="Guide"    value="Guide (15€)"/> &nbsp;
                                             
-                                                Guide(15€)
+                                                Guía(15€)
                                             </div>
                                            
                                             <div class="col-md-6">
-                                                <input type="checkbox"  class="radiosize"  id="Lunch"    value="Lunch (10€ / per)"/>&nbsp;
+                                                <input type="checkbox"  class="radiosize"  id="Lunch"    value="Almuerzo (10€ / por)"/>&nbsp;
                                           
-                                                Lunch (10€ / per)  
+                                                Almuerzo (10€ / por)  
 
                                             </div> 
 
@@ -94,26 +94,26 @@
                                         </div>
                                         <div class="custom-input-group">
                                        
-                                            Total Price in  € Per Person<input type="text"  id="totalpriceprive"  name="totalprice" class="form-control" disabled>
+                                            Precio total en  € Per Person<input type="text"  id="totalpriceprive"  name="totalprice" class="form-control" disabled>
                                         </div>
                                         <div class="custom-input-group">
-                                            <input type="text" placeholder="Your Full Name" id="name" name="name" required>
+                                            <input type="text" placeholder="tu nombre completo" id="name" name="name" required>
                                         </div>
                                         <div class="custom-input-group">
-                                            <input type="email" placeholder="Your Email" id="email" name="email" >
+                                            <input type="email" placeholder="Tu correo electrónico" id="email" name="email" >
                                         </div>
                                         <div class="custom-input-group">
-                                            <input type="tel" placeholder="Phone" id="phone" name="phone" required>
+                                            <input type="tel" placeholder="número de teléfono" id="phone" name="phone" required>
                                         </div>
                                          
                                        
                                        
                                         <div class="custom-input-group">
-                                            <textarea cols="20" rows="7" name="message" placeholder="Your message"></textarea>
+                                            <textarea cols="20" rows="7" name="message" placeholder="tu mensaje"></textarea>
                                         </div>
                                         <div class="custom-input-group">
                                             <div class="submite-btn">
-                                                <button type="submit" >Book Now</button>
+                                                <button type="submit" >Reserva ahora</button>
                                             </div>
                                         </div>
                                     </div>
@@ -132,8 +132,8 @@
                                             <img src="../assets/images/icons/pd1.svg" alt="">
                                         </div>
                                         <div class="info">
-                                            <h6>Duration</h6>
-                                            <span>8 hours</span>
+                                            <h6>duración</h6>
+                                            <span>8 horas</span>
                                         </div>
                                     </div>
                                 </div>
@@ -143,7 +143,7 @@
                                             <img src="../assets/images/icons/pd2.svg" alt="">
                                         </div>
                                         <div class="info">
-                                            <h6> Distance</h6>
+                                            <h6> distancia</h6>
                                             <span>85 Km x 2</span>
                                         </div>
                                     </div>
@@ -154,7 +154,7 @@
                                             <img src="../assets/images/icons/pd2.svg" alt="">
                                         </div>
                                         <div class="info">
-                                            <h6>Departure time</h6>
+                                            <h6>hora de salida</h6>
                                             <span> 09h00</span>
                                         </div>
                                     </div>
@@ -165,8 +165,8 @@
                                             <img src="../assets/images/icons/pd4.svg" alt="">
                                         </div>
                                         <div class="info">
-                                            <h6> Availability </h6>
-                                            <span>Every day</span>
+                                            <h6> disponibilidad </h6>
+                                            <span>todos los días</span>
                                         </div>
                                     </div>
                                 </div>
@@ -176,7 +176,7 @@
                             </div>
                             <div class="header-bottom">
                                 <div class="pd-lavel d-flex justify-content-between align-items-center flex-wrap gap-2">
-                                    <h5 class="location"><i class="bi bi-geo-alt"></i> The Three Valleys, morocco</h5>
+                                    <h5 class="location"><i class="bi bi-geo-alt"></i> The Three Valleys, Marruecos</h5>
                                     <ul class="d-flex align-items-center rating">
                                         <li><i class="bi bi-star-fill"></i></li>
                                         <li><i class="bi bi-star-fill"></i></li>
@@ -185,7 +185,7 @@
                                         <li><i class="bi bi-star-fill"></i></li>
                                     </ul>
                                 </div>
-                                <h2 class="pd-title">Day Trip to The Three Valleys </h2>
+                                <h2 class="pd-title">Excursión de un día a los Tres Valles </h2>
                             </div>
                         </div>
                     </div>    
@@ -204,7 +204,8 @@
                                     <li class="nav-item navmargin" role="presentation">
                                         <button class="nav-link active" id="pills-package1" data-bs-toggle="pill"
                                             data-bs-target="#pill-body1" type="button" role="tab" aria-controls="pill-body1"
-                                            aria-selected="true"><i class="bi bi-info-lg"></i> Information</button>
+                                            aria-selected="true"><i class="bi bi-info-lg"></i> información
+</button>
                                     </li>
                                     
                                     <li class="nav-item navmargin" role="presentation">
@@ -215,7 +216,7 @@
                                     <li class="nav-item navmargin" role="presentation">
                                         <button class="nav-link" id="pills-package4" data-bs-toggle="pill"
                                             data-bs-target="#pill-body4" type="button" role="tab" aria-controls="pill-body4"
-                                            aria-selected="false"><i class="bi bi-geo-alt"></i> Itinerary</button>
+                                            aria-selected="false"><i class="bi bi-geo-alt"></i> itinerario</button>
                                     </li>
                                   
                                   
@@ -224,50 +225,50 @@
 
                                 <div class="tab-pane fade show active package-info-tab mt-3" id="pill-body1"
                                     role="tabpanel" aria-labelledby="pills-package1">
-                                    <h3 class="d-subtitle">Package Details</h3>
+                                    <h3 class="d-subtitle">detalles del paquete</h3>
  <pre>
 
 
- Explore the Atlas Mountains, beautiful valleys and traditional Berber life on this full-day trip from Marrakech. You get to see how different life is in the villages of the valleys and what a truly beautiful country Morocco is. Begin your small-group day trip with a pickup from your Marrakech hotel or riad, and board your air-conditioned 4x4. Hear about Morocco’s rural way of life as you drive into the foothills of the Atlas Mountains. Admire the snow-tipped peaks as you head further into the spectacular range, and after roughly an hour, arrive at the Ourika Valley. The Plateau du Kik is situated over Asni, he dominates the dam of Lalla Takerkoust Lake.
+ Explore las montañas del Atlas, los hermosos valles y la vida tradicional bereber en este viaje de día completo desde Marrakech. Podrás ver lo diferente que es la vida en los pueblos de los valles y lo hermoso que es Marruecos. Comience su viaje de un día para grupos pequeños con una recogida en su hotel o riad de Marrakech y suba a su 4x4 con aire acondicionado. Conoce el estilo de vida rural de Marruecos mientras te adentras en las estribaciones de las montañas del Atlas. Admire los picos nevados mientras se adentra en la espectacular cordillera, y después de aproximadamente una hora, llegue al valle de Ourika. La meseta du Kik está situada sobre Asni, domina la presa del lago Lalla Takerkoust.
 
-The combination of these three valleys brings you into secluded fertile valleys where daily life of the indigenous Berber inhabitant moves wih time honoured traditions.
+La combinación de estos tres valles lo lleva a valles fértiles aislados donde la vida cotidiana del habitante indígena bereber se mueve con las tradiciones respetadas.
 
  
 
-Distance: 100 Km x 2  
-Duration:   8 hours
-Availability: Every day
-Deparature time: 9h00 am
+distancia: 100 km x 2  
+duración:   8 horas
+disponibilidad: todos los días
+Hora de salida: 9h00 am
 
-<i class='bx bx-check'></i>  No Booking Fees
-<i class='bx bx-check'></i>  Book Now and Pay Later
-<i class='bx bx-check'></i> Best Price Guaranteed
-<i class='bx bx-check'></i>  Excellent Service
-<i class='bx bx-check'></i> Free cancellation
-<i class='bx bx-check'></i>  Available every day
+<i class='bx bx-check'></i>  Sin cargos de reserva
+<i class='bx bx-check'></i>  Reserva ahora y paga después
+<i class='bx bx-check'></i> Mejor precio garantizado
+<i class='bx bx-check'></i>  Excelente servicio
+<i class='bx bx-check'></i> Cancelación gratuita
+<i class='bx bx-check'></i>  Disponible todos los días
 
-What is included?
+¿Qué es lo que incluye?
 
-<i class='bx bx-check'></i> Transportation with a driver Guide
-<i class='bx bx-check'></i> Transportation Insurance
-<i class='bx bx-check'></i> Quality service reliability
-<i class='bx bx-check'></i> All taxes
+<i class='bx bx-check'></i> Transporte con guía del conductor
+<i class='bx bx-check'></i> Seguro de transporte
+<i class='bx bx-check'></i> Fiabilidad del servicio de calidad
+<i class='bx bx-check'></i> Todos los impuestos
 
-What is not included?
+¿Qué no está incluido?
 
-<i class='bx bx-check'></i> Lunch
-<i class='bx bx-check'></i> Tips
+<i class='bx bx-check'></i> Almuerzo
+<i class='bx bx-check'></i> Consejos
 
-Meeting place:
+Lugar de encuentro:
 
-<i class='bx bx-check'></i> Our driver will pick you up at your hotel/Riad or any other location at the agreed time.
-<i class='bx bx-check'></i> In case of any problem: please email us or call us on the numbers displayed on contact informations.
+<i class='bx bx-check'></i> Nuestro conductor lo recogerá en su hotel/Riad o en cualquier otro lugar a la hora acordada.
+<i class='bx bx-check'></i> En caso de cualquier problema: envíenos un correo electrónico o llámenos a los números que se muestran en la información de contacto.
 
-Easy Booking: Accepted until 6pm the day before (Marrakech time), If you have any difficulties to book or need another service, please use our <a href="contact.php" > Contact Form </a> 
+Easy Booking: Aceptado hasta las 6pm del día anterior (hora de Marrakech), Si tiene alguna dificultad para reservar o necesita otro servicio, utilice nuestro <a href="contact.php" > Formulario de contacto </a> 
 
-Payment Methods:
+Formas de pago:
 
-    In cash (Euros or MAD) upon arrival
+    En efectivo (Euros o MAD) a la llegada
 
 
  </pre>                    

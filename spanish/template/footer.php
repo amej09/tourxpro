@@ -10,7 +10,7 @@
                     <div class="footer-about text-lg-start text-center">
                         <a href="index.php"><img src="../assets/images/logowhite.png" id="logo" style="width:100%;" alt=""></a>
 
-                        <p>Happy marrakech tours has been organising holidays, excursions and tours in Morocco since 2007. Travelling
+                        <p>Happy marrakech tours has been organising holidays, excursions and tours in Marruecos since 2007. Travelling
                             in a group or independently, join one of
                             our safaris and you will discover fascinating landscapes of the mountains and the
                             desert. We have also choosen a wide range of activities to make your stay in
@@ -88,7 +88,7 @@
                                             class="__cf_email__"
                                             data-cfemail="4c25222a230c29342d213c2029622f2321">contact@happymarrakechtour.com</span></a>
                     </li>
-                    <li><i class="bi bi-geo-alt"></i> <a href="#">Marrakech , Morocco</a></li>
+                    <li><i class="bi bi-geo-alt"></i> <a href="#">Marrakech , Marruecos</a></li>
                 </ul>
             </div>
         </div>

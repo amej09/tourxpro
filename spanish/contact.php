@@ -7,10 +7,10 @@
     <div class="breadcrumb breadcrumb-style-one">
         <div class="container">
             <div class="col-lg-12 text-center">
-                <h2 class="breadcrumb-title">Contact Us</h2>
+                <h2 class="breadcrumb-title">contáctenos</h2>
                 <ul class="d-flex justify-content-center breadcrumb-items">
-                    <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                    <li class="breadcrumb-item active">Contact Us</li>
+                    <li class="breadcrumb-item"><a href="index.php">Acogida</a></li>
+                    <li class="breadcrumb-item active">contáctenos</li>
                 </ul>
             </div>
         </div>
@@ -30,17 +30,17 @@
                         <h3>Contact Info.</h3>
                         <ul>
                             <li>
-                                <h6>Let’s Talk</h6>
+                                <h6>vamos a hablar</h6>
                                 <a href="https://demo.egenslab.com/cdn-cgi/l/email-protection#5b32353d341b3e233a362b373e75383436"><span class="__cf_email__" data-cfemail="2e474048416e4b564f435e424b004d4143">[email&#160;protected]</span></a>
                                 <a href="https://demo.egenslab.com/cdn-cgi/l/email-protection#11787f777e517469707c617d743f727e7c"><span class="__cf_email__" data-cfemail="771e19111837120f161a071b125914181a">[email&#160;protected]</span></a>
                                 <a href="tel:8801761111456">+212 0176 1111 456</a>
                             </li>
                             <li>
-                                <h6>Loacation.</h6>
-                                <a href="#"> Marrakech / Morocco </a>
+                                <h6>localización.</h6>
+                                <a href="#"> Marrakech / Marruecos </a>
                             </li>
                             <li>
-                                <h6>Visit Us.</h6>
+                                <h6>visitarnos.</h6>
                                 <a href="#">Facebook: https://www.facebook.com/</a>
                                 <a href="#">Twitter: https://www.twitter.com/</a>
                             </li>
@@ -60,29 +60,29 @@
         <div class="container mt-120">
             <form action="../assets/php/sender.php" method="post"   id="booking-form">
                 <div class="contact-form-wrap">
-                    <h4>Get a free Keystroke quote now</h4>
+                    <h4>Obtenga una cotización de pulsación de tecla gratuita ahora</h4>
                      <div class="row">
                         <div class="col-lg-6">
                             <div class="custom-input-group">
                                 <input type="hidden"   name="name_tour" value="contact">
 
-                                <label for="name">Name</label>
-                                <input type="text" placeholder="Your name" name="name" id="name">
+                                <label for="name">nombre</label>
+                                <input type="text" placeholder="tu nombre" name="name" id="name">
                             </div>
                         </div>
                         <div class="col-lg-6">
                             <div class="custom-input-group">
-                                <label for="email">Email</label>
-                                <input type="text" placeholder="Your Email" name="email" id="email">
+                                <label for="email">correo electrónico</label>
+                                <input type="text" placeholder="tu correo electrónico" name="email" id="email">
                             </div>
                         </div>
                     </div>
                     <div class="custom-input-group">
-                        <textarea cols="20" rows="7" placeholder="Your message" name="message"></textarea>
+                        <textarea cols="20" rows="7" placeholder="tu mensaje" name="message"></textarea>
                     </div>
                     <div class="custom-input-group">
                         <div class="submite-btn">
-                            <button type="submit">Send Message</button>
+                            <button type="submit">Enviar mensaje</button>
                         </div>
                     </div>
                 </div>

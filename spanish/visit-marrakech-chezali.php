@@ -6,9 +6,9 @@
     <div class="breadcrumb breadcrumb-style-one">
         <div class="container">
             <div class="col-lg-12 text-center">
-                <h2 class="breadcrumb-title">Restaurant chez Ali Marrakech - Diner & spectacle Fantasia </h2>
+                <h2 class="breadcrumb-title">Restaurante chez Ali Marrakech - Cena y espectáculo Fantasia </h2>
                 <ul class="d-flex justify-content-center breadcrumb-items">
-                    <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                    <li class="breadcrumb-item"><a href="index.php">Acogida</a></li>
                     <li class="breadcrumb-item active">visits</li>
                 </ul>
             </div>
@@ -24,7 +24,7 @@
                             <div class="widget-title">
                                 <table class="table" style="color: white;">
                                      <tr  style="height: 40px ;text-align: center;" class="privebackground">
-                                        <th  colspan="5" >In Private</th>
+                                        <th  colspan="5" >In privadoe</th>
                                     </tr>
                                     <tr>
                                         <th>nbr max*</th>
@@ -32,7 +32,7 @@
                                         
                                     </tr>
                                     <tr>
-                                        <th>prix* €</th>
+                                        <th>Premio* €</th>
                                         <td>45</td>
                                         
 
@@ -48,9 +48,9 @@
                                             <input type="hidden"      name="type_tour" value="visites"/> &nbsp;
                                             <input type="hidden"      name="name_tour" value="chez ali"/> &nbsp;
 
-                                            Select date and participants: 
+                                            Seleccione la fecha y los participantes: 
                                             <i class="bi bi-calendar3"></i>
-                                            <input placeholder="Select your date" type="date" name="date"
+                                            <input placeholder="Selecciona tu fecha" type="date" name="date"
                                                 id="datepickerprive" value="" class="calendar" required>
                                         </div>
                                         <div class="row">
@@ -71,7 +71,7 @@
                                             <div class="custom-input-group">
                                                 <i class="bi bi-chevron-down"></i>
                                                 <select id="truist-adult" name="numbertravels">
-                                                    <option value="1" selected > Number of travelers: </option>
+                                                    <option value="1" selected > Número de viajeros: </option>
                                                     <option value="1"> 1</option>
                                                     <option value="2"> 2</option>
                                                     <option value="3"> 3</option>
@@ -84,7 +84,7 @@
                                             <div class="custom-input-group">
                                                 <i class="bi bi-chevron-down"></i>
                                                 <select id="truist-child" name="numberchilds">
-                                                    <option  value="0" selected > Number of childs:(Age 4-11) </option>
+                                                    <option  value="0" selected > Número de hijos:(Edad 4-11) </option>
                                                     <option value="0"> 0</option>
                                                     <option value="1"> 1</option>
                                                     <option value="2"> 2</option>
@@ -97,27 +97,27 @@
                                         
                                         <div class="custom-input-group">
                                        
-                                            Total Price in  € <input type="text"  id="totalpriceprive"  name="totalprice" class="form-control" disabled>
+                                            Precio total en  € <input type="text"  id="totalpriceprive"  name="totalprice" class="form-control" disabled>
                                         </div>
                                         <div class="custom-input-group">
-                                            <input type="text" placeholder="Your Full Name" id="name" name="name" required>
+                                            <input type="text" placeholder="tu nombre completo" id="name" name="name" required>
                                         </div>
                                         <div class="custom-input-group">
-                                            <input type="email" placeholder="Your Email" id="email" name="email" >
+                                            <input type="email" placeholder="Tu correo electrónico" id="email" name="email" >
                                         </div>
                                         <div class="custom-input-group">
-                                            <input type="tel" placeholder="Phone" id="phone" name="phone" required>
+                                            <input type="tel" placeholder="número de teléfono" id="phone" name="phone" required>
                                         </div>
                                         
                                        
                                        
                                        
                                         <div class="custom-input-group">
-                                            <textarea cols="20" rows="7" name="message" placeholder="Your message"></textarea>
+                                            <textarea cols="20" rows="7" name="message" placeholder="tu mensaje"></textarea>
                                         </div>
                                         <div class="custom-input-group">
                                             <div class="submite-btn">
-                                                <button type="submit" >Book Now</button>
+                                                <button type="submit" >Reserva ahora</button>
                                             </div>
                                         </div>
                                     </div>
@@ -136,8 +136,8 @@
                                             <img src="../assets/images/icons/pd1.svg" alt="">
                                         </div>
                                         <div class="info">
-                                            <h6>Duration</h6>
-                                            <span>3 -4  hours</span>
+                                            <h6>duración</h6>
+                                            <span>3 -4  horas</span>
                                         </div>
                                     </div>
                                 </div>
@@ -148,7 +148,7 @@
                                             <img src="../assets/images/icons/pd2.svg" alt="">
                                         </div>
                                         <div class="info">
-                                            <h6>Departure time</h6>
+                                            <h6>hora de salida</h6>
                                             <span> 20h00</span>
                                         </div>
                                     </div>
@@ -159,8 +159,8 @@
                                             <img src="../assets/images/icons/pd4.svg" alt="">
                                         </div>
                                         <div class="info">
-                                            <h6> Availability </h6>
-                                            <span>Every day</span>
+                                            <h6> disponibilidad </h6>
+                                            <span>todos los días</span>
                                         </div>
                                     </div>
                                 </div>
@@ -170,7 +170,7 @@
                             </div>
                             <div class="header-bottom">
                                 <div class="pd-lavel d-flex justify-content-between align-items-center flex-wrap gap-2">
-                                    <h5 class="location"><i class="bi bi-geo-alt"></i> marrakech, morocco</h5>
+                                    <h5 class="location"><i class="bi bi-geo-alt"></i> marrakech, Marruecos</h5>
                                     <ul class="d-flex align-items-center rating">
                                         <li><i class="bi bi-star-fill"></i></li>
                                         <li><i class="bi bi-star-fill"></i></li>
@@ -179,7 +179,7 @@
                                         <li><i class="bi bi-star-fill"></i></li>
                                     </ul>
                                 </div>
-                                <h2 class="pd-title">Restaurant Chez Ali Marrakech - Dinner & Fantasia Show </h2>
+                                <h2 class="pd-title">Restaurante Chez Ali Marrakech - Cena y Espectáculo de Fantasía </h2>
                             </div>
                         </div>
                     </div>    
@@ -198,7 +198,8 @@
                                     <li class="nav-item navmargin" role="presentation">
                                         <button class="nav-link active" id="pills-package1" data-bs-toggle="pill"
                                             data-bs-target="#pill-body1" type="button" role="tab" aria-controls="pill-body1"
-                                            aria-selected="true"><i class="bi bi-info-lg"></i> Information</button>
+                                            aria-selected="true"><i class="bi bi-info-lg"></i> información
+</button>
                                     </li>
                                     
                                     <li class="nav-item navmargin" role="presentation">
@@ -212,79 +213,79 @@
 
                                 <div class="tab-pane fade show active package-info-tab mt-3" id="pill-body1"
                                     role="tabpanel" aria-labelledby="pills-package1">
-                                    <h3 class="d-subtitle">Package Details</h3>
+                                    <h3 class="d-subtitle">detalles del paquete</h3>
 <pre>
 
 
-    An unbelievable night of entertainment, offers the chance to experience the sights and sounds of Moroccan musicians and dancers, while eating a 5 courses meal in caidal tents. Berber Tribes singing and greeting you upon arrival. It delivers all sorts of entertainment-food, song, dance, horse back stunts, fireworks, parades, acrobats, belly dancers.  
+Una noche increíble de entretenimiento, ofrece la oportunidad de experimentar las vistas y sonidos de los músicos y bailarines marroquíes, mientras come una comida de 5 platos en tiendas caidal. Las tribus bereberes cantan y te saludan al llegar. Ofrece todo tipo de entretenimiento: comida, canciones, baile, acrobacias a caballo, fuegos artificiales, desfiles, acróbatas, bailarinas del vientre.  
 
-    Originated from the Rif, the fantasia is a war ceremony which consists of opposing different groups of horsemen; each represents the best rider of his own tribe. Each group quivers away in a glaring light; all its members point their rifles to the sky and shoot at the same time leaving behind them a tumult burst and shouts. Enjoy a typical Moroccan dinner which mainly includes Harira, Mechoui and couscous under caidal "tents". A traditional event including an opportunity to see the Berber folklore, the jugglers’ performance, the flying carpet, the belly dancing and finally the fantasia show. 
+Originaria del Rif, la fantasía es una ceremonia de guerra que consiste en oponerse a diferentes grupos de jinetes; cada uno representa al mejor jinete de su propia tribu. Cada grupo se estremece en una luz deslumbrante; todos sus miembros apuntan sus rifles al cielo y disparan al mismo tiempo dejando atrás un estallido de tumulto y gritos. Disfrute de una cena típica marroquí que incluye principalmente harira, mechoui y cuscús bajo "tiendas" caidal. Un evento tradicional que incluye la oportunidad de ver el folclore bereber, la actuación de los malabaristas, la alfombra voladora, la danza del vientre y finalmente el espectáculo de fantasía. 
 
-    Our Menus :
+Nuestros menús :
 
- 
 
-    Menu N° 1 – Drinks excluded :     
 
-    Moroccan Harira
-    - Chiken Tagine with lemon
-    Or Lamb Tagine with prunes
-    - Seven-Vegetable Couscous
-    - Seasonal fruits
-    - Mint tea
-    - Moroccan pastries
-        
+Menú N° 1 - Bebidas no incluidas:     
 
-    Menu N° 2 – Drinks excluded :
+Harira marroquí
+- Chiken Tagine con limón
+O Tagine de cordero con ciruelas pasas
+- Cuscús de siete verduras
+- Frutas de temporada
+- Té de menta
+- Bollería marroquí
+    
 
-    - Maroccan Harira
-    - 1/2 Méchoui (lamb)
-    - Seven-Vegetable Couscous
-    - Seasonal fruits
-    - Mint tea
-    - Moroccan pastries
+Menú N° 2 - Bebidas no incluidas:
 
-    Duration: 3 to 4 hours
-    Availability: Every day.
-    Deparature time: 20h00
+- Maroccan Harira
+- 1/2 Méchoui (cordero)
+- Cuscús de siete verduras
+- Frutas de temporada
+- Té de menta
+- Bollería marroquí
 
-    <i class='bx bx-check'></i>No Booking Fees
-    <i class='bx bx-check'></i>Book Now and Pay Later
-    <i class='bx bx-check'></i>Best Price Guaranteed
-    <i class='bx bx-check'></i>Excellent Service
-    <i class='bx bx-check'></i>Free cancellation
+duración: 3 a 4 horas
+disponibilidad: todos los días.
+Hora de salida: 20h00
 
-    What is included?
+    <i class='bx bx-check'></i>Sin tarifas de reserva
+    <i class='bx bx-check'></i>Reserva ahora y paga después
+    <i class='bx bx-check'></i>Mejor precio garantizado
+    <i class='bx bx-check'></i>Excelente servicio
+    <i class='bx bx-check'></i>Cancelación gratuita
 
-    <i class='bx bx-check'></i>Transportation with a driver Guide
-    <i class='bx bx-check'></i>Vehicle conditioning and very comfortable 4x4 or mini bus.
-    <i class='bx bx-check'></i>Diner (one menu of your choice)
-    <i class='bx bx-check'></i>Show and entertainment
-    <i class='bx bx-check'></i>Transportation Insurance
-    <i class='bx bx-check'></i>Quality service reliability
-    <i class='bx bx-check'></i>All taxes.
+    ¿Qué es lo que incluye?
 
-    What is not included?
+    <i class='bx bx-check'></i>Transporte con guía del conductor
+    <i class='bx bx-check'></i>Acondicionamiento de vehículos y muy cómodo 4x4 o mini bus.
+    <i class='bx bx-check'></i>Diner (un menú de su elección)
+    <i class='bx bx-check'></i>Mostrar y entretenimiento
+    <i class='bx bx-check'></i>Seguro de transporte
+    <i class='bx bx-check'></i>Fiabilidad del servicio de calidad
+    <i class='bx bx-check'></i>Todos los impuestos.
 
-    <i class='bx bx-check'></i>Extra drinks
-    <i class='bx bx-check'></i>Tips
+    ¿Qué no está incluido?
 
-    Meeting place:
+    <i class='bx bx-check'></i>Bebidas extra
+    <i class='bx bx-check'></i>Consejos
 
-    <i class='bx bx-check'></i>Our driver will pick you up at your hotel/Riad or any other location at the agreed time.
-    <i class='bx bx-check'></i>In case of any problem: please email us or call us on the numbers displayed on contact informations.
+    Lugar de encuentro:
 
-    Child Policy:
-    - Children from 0 to 4 years : free of charge
-    - Children from 5 to 10 years : 50% discount
-    - Children 11 years and older will be charged the full price
+    <i class='bx bx-check'></i>Nuestro conductor lo recogerá en su hotel/Riad o en cualquier otro lugar a la hora acordada.
+    <i class='bx bx-check'></i>En caso de cualquier problema: envíenos un correo electrónico o llámenos a los números que se muestran en la información de contacto.
 
-    Easy Booking: Accepted until 18h00 the day before (Marrakech time), If you have any difficulties to book or need another service, please use our <a href="contact.php" > Contact Form </a> 
+    Política del niño:
+    - Niños de 0 a 4 años : gratuito
+    - Niños de 5 a 10 años : 50% de descuento
+    - Los niños de 11 años en adelante se les cobrará el precio completo
+
+    Easy Booking: Aceptado hasta las 18h00 del día anterior (hora de Marrakech), Si tiene alguna dificultad para reservar o necesita otro servicio, utilice nuestro <a href="contact.php" > Formulario de contacto </a> 
 
     
-    Payment Methods:
+    Formas de pago:
 
-        In cash (Euros or MAD) upon arrival
+        En efectivo (Euros o MAD) a la llegada
  
 
 </pre>                    
@@ -331,12 +332,12 @@
                                                 <div class="col-lg-6">
                                                     <div class="custom-input-group">
 
-                                                        <input type="text" placeholder="Your Full Name"  id="namecontact">
+                                                        <input type="text" placeholder="tu nombre completo"  id="namecontact">
                                                     </div>
                                                 </div>
                                                 <div class="col-lg-6">
                                                     <div class="custom-input-group">
-                                                        <input type="text" placeholder="Your Email" id="emailcontact">
+                                                        <input type="text" placeholder="Tu correo electrónico" id="emailcontact">
                                                     </div>
                                                 </div>
                                             </div>

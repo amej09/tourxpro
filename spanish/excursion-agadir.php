@@ -9,10 +9,10 @@
     <div class="breadcrumb breadcrumb-style-one">
         <div class="container">
             <div class="col-lg-12 text-center">
-                <h2 class="breadcrumb-title">Day Trip to agadir   </h2>
+                <h2 class="breadcrumb-title">Excursión de un día a agadir   </h2>
                 <ul class="d-flex justify-content-center breadcrumb-items">
-                    <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                    <li class="breadcrumb-item active">excursion</li>
+                    <li class="breadcrumb-item"><a href="index.php">Acogida</a></li>
+                    <li class="breadcrumb-item active">excursión</li>
                 </ul>
             </div>
         </div>
@@ -27,7 +27,7 @@
                             <div class="widget-title">
                                 <table class="table" style="color: white;">
                                      <tr  style="height: 40px ;text-align: center;" class="privebackground">
-                                        <th  colspan="5" >Privat</th>
+                                        <th  colspan="5" >privado</th>
                                     </tr>
                                    
                                     <tr>
@@ -38,7 +38,7 @@
                                         <td>5</td>
                                     </tr>
                                     <tr>
-                                        <th>prix* €</th>
+                                        <th>precio* €</th>
                                         <td>85</td>
                                         <td>56</td>
                                         <td>42</td>
@@ -52,20 +52,20 @@
                                 <form action="../assets/php/sender.php" method="post" id="booking-form">
                                     <div class="booking-form-wrapper">
                                         <div class="custom-input-group">
-                                            <input type="hidden"      name="type_reservation"  value="prive"/> &nbsp;
-                                            <input type="hidden"      name="type_tour" value="Excursion"/> &nbsp;
-                                            <input type="hidden"      name="name_tour" value="agadir"/> &nbsp;
+                                            <input type="hidden" name="type_reservation"  value="prive"/> &nbsp;
+                                            <input type="hidden" name="type_tour" value="Excursion"/> &nbsp;
+                                            <input type="hidden" name="name_tour" value="agadir"/> &nbsp;
 
-                                            Select date and participants: 
+                                            Seleccione la fecha y los participantes: 
                                             <i class="bi bi-calendar3"></i>
-                                            <input placeholder="Select your date" type="date" name="date"
+                                            <input placeholder="Selecciona tu fecha" type="date" name="date"
                                                 id="datepickerprive" value="" class="calendar" required>
                                         </div>
                                         <div class="row">
                                             <div class="custom-input-group">
                                                 <i class="bi bi-chevron-down"></i>
                                                 <select id="truist-adult" name="numbertravels">
-                                                    <option  value="notselected" selected > Number of travelers: </option>
+                                                    <option  value="notselected" selected > Número de viajeros: </option>
                                                     <option value="1"> 1</option>
                                                     <option value="2"> 2</option>
                                                     <option value="3"> 3</option>
@@ -77,23 +77,23 @@
                                          
                                         <div class="custom-input-group">
                                        
-                                            Total Price in  € Per Person<input type="text"  id="totalpriceprive"  name="totalprice" class="form-control" disabled>
+                                        Precio total en  € Por persona<input type="text"  id="totalpriceprive"  name="totalprice" class="form-control" disabled>
                                         </div>
                                         <div class="custom-input-group">
-                                            <input type="text" placeholder="Your Full Name" id="name" name="name" required>
+                                            <input type="text" placeholder="tu nombre completo" id="name" name="name" required>
                                         </div>
                                         <div class="custom-input-group">
-                                            <input type="email" placeholder="Your Email" id="email" name="email" >
+                                            <input type="email" placeholder="tu correo electrónico" id="email" name="email" >
                                         </div>
                                         <div class="custom-input-group">
-                                            <input type="tel" placeholder="Phone" id="phone" name="phone" required>
+                                            <input type="tel" placeholder="número de teléfono" id="phone" name="phone" required>
                                         </div>
                                         <div class="custom-input-group">
-                                            <textarea cols="20" rows="7" name="message" placeholder="Your message"></textarea>
+                                            <textarea cols="20" rows="7" name="message" placeholder="tu mensaje"></textarea>
                                         </div>
                                         <div class="custom-input-group">
                                             <div class="submite-btn">
-                                                <button type="submit" >Book Now</button>
+                                                <button type="submit" >¡Reserva ahora</button>
                                             </div>
                                         </div>
                                     </div>
@@ -112,8 +112,8 @@
                                             <img src="../assets/images/icons/pd1.svg" alt="">
                                         </div>
                                         <div class="info">
-                                            <h6>Duration</h6>
-                                            <span>12 hours</span>
+                                            <h6>duración</h6>
+                                            <span>12 horas</span>
                                         </div>
                                     </div>
                                 </div>
@@ -123,7 +123,7 @@
                                             <img src="../assets/images/icons/pd2.svg" alt="">
                                         </div>
                                         <div class="info">
-                                            <h6> Distance</h6>
+                                            <h6> distancia</h6>
                                             <span>250  Km x 2</span>
                                         </div>
                                     </div>
@@ -134,7 +134,7 @@
                                             <img src="../assets/images/icons/pd2.svg" alt="">
                                         </div>
                                         <div class="info">
-                                            <h6>Departure time</h6>
+                                            <h6>hora de salida</h6>
                                             <span> 07h00</span>
                                         </div>
                                     </div>
@@ -145,8 +145,8 @@
                                             <img src="../assets/images/icons/pd4.svg" alt="">
                                         </div>
                                         <div class="info">
-                                            <h6> Availability </h6>
-                                            <span>Every day</span>
+                                            <h6> disponibilidad </h6>
+                                            <span>todos los días</span>
                                         </div>
                                     </div>
                                 </div>
@@ -156,7 +156,7 @@
                             </div>
                             <div class="header-bottom">
                                 <div class="pd-lavel d-flex justify-content-between align-items-center flex-wrap gap-2">
-                                    <h5 class="location"><i class="bi bi-geo-alt"></i> agadir, morocco</h5>
+                                    <h5 class="location"><i class="bi bi-geo-alt"></i> agadir, Marruecos</h5>
                                     <ul class="d-flex align-items-center rating">
                                         <li><i class="bi bi-star-fill"></i></li>
                                         <li><i class="bi bi-star-fill"></i></li>
@@ -165,7 +165,7 @@
                                         <li><i class="bi bi-star-fill"></i></li>
                                     </ul>
                                 </div>
-                                <h2 class="pd-title">Day Trip to agadir </h2>
+                                <h2 class="pd-title">Excursión de un día a agadir </h2>
                             </div>
                         </div>
                     </div>    
@@ -184,7 +184,8 @@
                                     <li class="nav-item navmargin" role="presentation">
                                         <button class="nav-link active" id="pills-package1" data-bs-toggle="pill"
                                             data-bs-target="#pill-body1" type="button" role="tab" aria-controls="pill-body1"
-                                            aria-selected="true"><i class="bi bi-info-lg"></i> Information</button>
+                                            aria-selected="true"><i class="bi bi-info-lg"></i> información
+</button>
                                     </li>
                                     
                                     <li class="nav-item navmargin" role="presentation">
@@ -195,7 +196,7 @@
                                     <li class="nav-item navmargin" role="presentation">
                                         <button class="nav-link" id="pills-package4" data-bs-toggle="pill"
                                             data-bs-target="#pill-body4" type="button" role="tab" aria-controls="pill-body4"
-                                            aria-selected="false"><i class="bi bi-geo-alt"></i> Itinerary</button>
+                                            aria-selected="false"><i class="bi bi-geo-alt"></i> itinerario</button>
                                     </li>
                                   
                                 </ul>
@@ -203,58 +204,66 @@
 
                                 <div class="tab-pane fade show active package-info-tab mt-3" id="pill-body1"
                                     role="tabpanel" aria-labelledby="pills-package1">
-                                    <h3 class="d-subtitle">Package Details</h3>
+                                    <h3 class="d-subtitle">detalles del paquete</h3>
  <pre>
- Agadir is Berber name from Phoenician origine which means "collective Attic" or strengthened village. This word still exists in the region of Souss and is a kind of store for all the fortunes of the tribe.
+ Agadir es el nombre bereber de origen fenicio que significa "ático colectivo" o pueblo fortalecido. Esta palabra todavía existe en la región de Souss y es una especie de almacén para todas las fortunas de la tribu.
 
-Leave the vivacity of Marrakech and spend the day in one of the most famous sea resorts in Morocco.
+Deja la vivacidad de Marrakech y pasa el día en uno de los balnearios más famosos de Marruecos.
 
-Agadir is sunny during the whole year, the city offer, windsurfing, riding, tennis, golf, trapshooting to the sporting amateurs.
+Agadir es soleado durante todo el año, la ciudad ofrece, windsurf, equitación, tenis, golf, trapshooting a los aficionados deportivos.
 
-Enjoy a visit to the main monuments of the city and admire the picturesque view from the medieval Kasabah Ouflah, a citadel of 236 meter height.
+Disfrute de una visita a los principales monumentos de la ciudad y admire la pintoresca vista desde la medieval Kasabah Ouflah, una ciudadela de 236 metros de altura.
 
-You can also have a short walk on the famous beach of Agadir before visiting the valley of birds, an Argan oil cooperative and the Museum of Arts and Popular Traditions to see great exhibitions of the oldest Berber jewels, the pottery, the carpet, the woodwork and the other objects...
+También puede dar un corto paseo por la famosa playa de Agadir antes de visitar el valle de las aves, una cooperativa de aceite de argán y el Museo de Artes y Tradiciones Populares para ver grandes exposiciones de las joyas bereberes más antiguas, la cerámica, la alfombra, la carpintería y los otros objetos...
 
-Finally, we will visit Souk El Had and we will take one last look around before living Agadir.
+Finalmente, visitaremos Souk El Had y echaremos un último vistazo antes de vivir Agadir.
 
-Distance: 250 Km x 2  
-Duration:   12 hours
-Availability: Every day
-Deparature time: 07h00 am
+distancia: 250 km x 2  
+duración:   12 horas
+disponibilidad: todos los días
+Hora de salida: 07h00 am
 
-    <i class='bx bx-check'></i>No Booking Fees
-    <i class='bx bx-check'></i> Book Now and Pay Later
-    <i class='bx bx-check'></i> Best Price Guaranteed
-    <i class='bx bx-check'></i>Excellent Service
-    <i class='bx bx-check'></i>Free cancellation
-    <i class='bx bx-check'></i>Available every day
+    <i class='bx bx-check'></i> sin gastos de reserva
+    <i class='bx bx-check'></i> Reserve ahora y pague más tarde
+    <i class='bx bx-check'></i> mejor precio garantizado
+    <i class='bx bx-check'></i>excelente servicio
+    <i class='bx bx-check'></i>cancelación gratis
+    <i class='bx bx-check'></i>disponible todos los días
 
-What is included?
+que esta incluido?
 
-    <i class='bx bx-check'></i>Hotel pickup and drop-off (selected hotels only)
-    <i class='bx bx-check'></i>Transport by air-conditioned minivan
-    <i class='bx bx-check'></i>Transportation Insurance
-    <i class='bx bx-check'></i>Liability insurance.
-    <i class='bx bx-check'></i>Quality service reliability
-    <i class='bx bx-check'></i>All taxes.
+    <i class='bx bx-check'></i>Abholung und Rücktransport vom Hotel (nur ausgewählte Hotels)
+    <i class='bx bx-check'></i>Transporte por aire acondicionado minivan
+    <i class='bx bx-check'></i>seguro de transporte
+    <i class='bx bx-check'></i>Seguro de responsabilidad civil.
+    <i class='bx bx-check'></i>Fiabilidad del servicio de calidad
+    <i class='bx bx-check'></i>Todos los impuestos.
 
-What is not included?
+¿Qué no está incluido?
 
-    <i class='bx bx-check'></i>Lunch
-    <i class='bx bx-check'></i>Local Guide
-    <i class='bx bx-check'></i>Tips
+    <i class='bx bx-check'></i>Almuerzo
+    <i class='bx bx-check'></i>Guía local
+    <i class='bx bx-check'></i>Consejos
 
-Meeting place:
+¿Qué no está incluido?
 
-    <i class='bx bx-check'></i>Our driver will pick you up at your hotel/Riad or any other location at the agreed time.
-    <i class='bx bx-check'></i>In case of any problem: please email us or call us on the numbers displayed on contact informations.
+<i class='bx bx-check'></i> comida
+<i class='bx bx-check'></i> guía local
+<i class='bx bx-check'></i> Tips
 
-Easy Booking: Accepted until 6pm the day before (Marrakech time), If you have any difficulties to book or need another service, please use our <a href="contact.php" > Contact Form </a> 
 
 
-Payment Methods:
+Punto de encuentro:
 
-    In cash (Euros or MAD) upon arrival
+    <i class='bx bx-check'></i> Nuestro conductor lo recogerá en su hotel/ Riad o en cualquier otro lugar a la hora acordada.
+    <i class='bx bx-check'></i> En caso de cualquier problema: por favor envíenos un correo electrónico o llámenos a los números que aparecen en la información de contacto.
+
+Easy Booking: Aceptado hasta las 6pm del día anterior (hora de Marrakech), Si tiene alguna dificultad para reservar o necesita otro servicio, utilice nuestro <a href="contact.php" > Formulario de contacto</a> 
+
+
+Métodos de pago:
+
+    En efectivo (Euros o MAD) a la llegada
 
 
  </pre>                    

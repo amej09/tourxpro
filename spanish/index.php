@@ -30,7 +30,7 @@
                                             <span>for today </span>  or upcoming days   
                                         </h2>
                                         <h3 class="featured-price">From 25$ /<span>Person</span></h3>
-                                        <p>Have a magical day just outside of Marrakech! Enjoy a private day trip
+                                        <p>Have a magical day just outside of Marrakech! Enjoy a privadoe day trip
                                              to the scenic Atlas Mountains, to charming Essaouira or the one-of-a-kind Sahara desert.
                                               Discover more of the Moroccan culture with the local of your choice.
                                         </p>
@@ -58,7 +58,7 @@
 
                                         <div class="hero-title">Day Trips & Tours<span>Around Marrakech.</span></div>
                                         <h3 class="featured-price">From 35$ /<span>Person</span></h3>
-                                        <p> Our Agency offers exclusive experiences and great itineraries in Morocco.
+                                        <p> Our Agency offers exclusive experiences and great itineraries in Marruecos.
                                              We provide the most authentic, best price/quality ratio days trips and tours.
                                         </p>
                                         <div class="hero-btns">
@@ -87,7 +87,7 @@
                                         </h2>
                                         <h3 class="featured-price">From 15$/<span>Person</span></h3>
                                         <p>We offer the easiest and most cost-effective Marrakech airport transfers ,
-                                             inter cities Transfers, hotels or private homes or any private address Transfers.
+                                             inter cities Transfers, hotels or privadoe Acogidas or any privadoe address Transfers.
                                         </p>
                                         <div class="hero-btns">
                                             
@@ -126,7 +126,7 @@
                         <div class="package-thumb">
                             <a href="excursion-ourika.php"><img src="../assets/images/excursion/Test/Ourika1.jpg" alt=""></a>
                             <p class="card-lavel">
-                                <i class="bi bi-clock"></i> <span>7 to 8 Hours</span>
+                                <i class="bi bi-clock"></i> <span>7 to 8 horas</span>
                             </p>
                         </div>
                         <div class="package-card-body">
@@ -148,7 +148,7 @@
                         <div class="package-thumb">
                             <a href="excursion-essaouira.php"><img src="../assets/images/excursion/Test/Essaouira1.jpg" alt=""></a>
                             <p class="card-lavel">
-                                <i class="bi bi-clock"></i> <span>9 To 10 Hours</span>
+                                <i class="bi bi-clock"></i> <span>9 To 10 horas</span>
                             </p>
                         </div>
                         <div class="package-card-body">
@@ -170,7 +170,7 @@
                         <div class="package-thumb">
                             <a href="excursion-ouarzazat.php"><img src="../assets/images/excursion/ouarzazate2.jpg" alt=""></a>
                             <p class="card-lavel">
-                                <i class="bi bi-clock"></i> <span>10 Hours</span>
+                                <i class="bi bi-clock"></i> <span>10 horas</span>
                             </p>
                         </div>
                         <div class="package-card-body">
@@ -192,7 +192,7 @@
                         <div class="package-thumb">
                             <a href="excursion-imlil.php"><img src="../assets/images/excursion/Test/Imlil1.jpg" alt=""></a>
                             <p class="card-lavel">
-                                <i class="bi bi-clock"></i> <span>7 to 8 Hours</span>
+                                <i class="bi bi-clock"></i> <span>7 to 8 horas</span>
                             </p>
                         </div>
                         <div class="package-card-body">
@@ -214,7 +214,7 @@
                         <div class="package-thumb">
                             <a href="excursion-agadir.php"><img src="../assets/images/excursion/Test/Agadir1.jpg" alt=""></a>
                             <p class="card-lavel">
-                                <i class="bi bi-clock"></i> <span>9 to 10 Hours</span>
+                                <i class="bi bi-clock"></i> <span>9 to 10 horas</span>
                             </p>
                         </div>
                         <div class="package-card-body">
@@ -236,7 +236,7 @@
                         <div class="package-thumb">
                             <a href="excursion-casablanca.php"><img src="../assets/images/excursion/Test/Casablanca1.jpg" alt=""></a>
                             <p class="card-lavel">
-                                <i class="bi bi-clock"></i> <span>12 Hours</span>
+                                <i class="bi bi-clock"></i> <span>12 horas</span>
                             </p>
                         </div>
                         <div class="package-card-body">
@@ -274,7 +274,7 @@
                         <div class="package-thumb">
                             <a href="visit-marrakech-halfday.php"><img src="../assets/images/tours/MarrakechHalfDay.jpg" alt=""></a>
                             <p class="card-lavel">
-                                <i class="bi bi-clock"></i> <span>3 to 4 Hours</span>
+                                <i class="bi bi-clock"></i> <span>3 to 4 horas</span>
                             </p>
                         </div>
                         <div class="package-card-body">
@@ -296,7 +296,7 @@
                         <div class="package-thumb">
                             <a href="visit-marrakech-histical.php"><img src="../assets/images/tours/Histoire&Colture.jpg" alt=""></a>
                             <p class="card-lavel">
-                                <i class="bi bi-clock"></i> <span>6 To 8 Hours</span>
+                                <i class="bi bi-clock"></i> <span>6 To 8 horas</span>
                             </p>
                         </div>
                         <div class="package-card-body">
@@ -318,7 +318,7 @@
                         <div class="package-thumb">
                             <a href="visit-marrakech-medina.php"><img src="../assets/images/tours/ElMedina.jpg" alt=""></a>
                             <p class="card-lavel">
-                                <i class="bi bi-clock"></i> <span>3 To 4 Hours</span>
+                                <i class="bi bi-clock"></i> <span>3 To 4 horas</span>
                             </p>
                         </div>
                         <div class="package-card-body">
@@ -340,11 +340,11 @@
                         <div class="package-thumb">
                             <a href="visit-marrakech-night.php"><img src="../assets/images/tours/MarrakechNight.jpg" alt=""></a>
                             <p class="card-lavel">
-                                <i class="bi bi-clock"></i> <span>3 To 4 Hours</span>
+                                <i class="bi bi-clock"></i> <span>3 To 4 horas</span>
                             </p>
                         </div>
                         <div class="package-card-body">
-                            <h3 class="p-card-title"><a href="visit-marrakech-night.php">Marrakech by Night City Private Tour </a></h3>
+                            <h3 class="p-card-title"><a href="visit-marrakech-night.php">Marrakech by Night City privadoe Tour </a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
                                     <a href="visit-marrakech-night.php">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
@@ -362,7 +362,7 @@
                         <div class="package-thumb">
                             <a href="visit-marrakech-chezali.php"><img src="../assets/images/tours/Restaurant_Chez_Ali.jpg" alt=""></a>
                             <p class="card-lavel">
-                                <i class="bi bi-clock"></i> <span>3 to 4 Hours</span>
+                                <i class="bi bi-clock"></i> <span>3 to 4 horas</span>
                             </p>
                         </div>
                         <div class="package-card-body">
@@ -384,7 +384,7 @@
                         <div class="package-thumb">
                             <a href="activity-quad-camel.php"><img src="../assets/images/Activite/Quad+Chameau.jpg" alt=""></a>
                             <p class="card-lavel">
-                                <i class="bi bi-clock"></i> <span>3 To 4 Hours</span>
+                                <i class="bi bi-clock"></i> <span>3 To 4 horas</span>
                             </p>
                         </div>
                         <div class="package-card-body">
@@ -406,7 +406,7 @@
                         <div class="package-thumb">
                             <a href="activity-buggy.php"><img src="../assets/images/Activite/Buggy.jpg" alt=""></a>
                             <p class="card-lavel">
-                                <i class="bi bi-clock"></i> <span>3 To 4 Hours</span>
+                                <i class="bi bi-clock"></i> <span>3 To 4 horas</span>
                             </p>
                         </div>
                         <div class="package-card-body">
@@ -428,7 +428,7 @@
                         <div class="package-thumb">
                             <a href="activity-quad.php"><img src="../assets/images/Activite/Quad.jpg" alt=""></a>
                             <p class="card-lavel">
-                                <i class="bi bi-clock"></i> <span>3 To 4 Hours</span>
+                                <i class="bi bi-clock"></i> <span>3 To 4 horas</span>
                             </p>
                         </div>
                         <div class="package-card-body">
