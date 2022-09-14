@@ -495,7 +495,7 @@
                             <div class="swiper-slide">
                                 <div class="package-card-beta">
                                     <div class="package-thumb">
-                                        <a href="circuit-zagora.php"><img src="../assets/images/Circuit/Bivouac_la_nuit_à_Zagora.jpg"
+                                        <a href="circuit-zagora.php"><img src="../assets/images/Circuit/Bivouac_la_nuit_a_Zagora.jpg"
                                                 alt=""></a>
                                         <p class="card-lavel">
                                             <i class="bi bi-clock"></i> <span>2 días y 1 noche</span>
@@ -519,7 +519,7 @@
                             <div class="swiper-slide">
                                 <div class="package-card-beta">
                                     <div class="package-thumb">
-                                        <a href="circuit-fez.php"><img src="../assets/images/Circuit/Randonnée_Chameau_à_Merzouga.jpg"
+                                        <a href="circuit-fez.php"><img src="../assets/images/Circuit/Randonnée_Chameau_a_Merzouga.jpg"
                                                 alt=""></a>
                                         <p class="card-lavel">
                                             <i class="bi bi-clock"></i> <span>3 días y 2 noches</span>
