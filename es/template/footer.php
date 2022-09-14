@@ -10,13 +10,13 @@
                     <div class="footer-about text-lg-start text-center">
                         <a href="index.php"><img src="../assets/images/logowhite.png" id="logo" style="width:100%;" alt=""></a>
 
-                        <p>Happy marrakech tours has been organising holidays, excursions and tours in Marruecos since 2007. Travelling
-                            in a group or independently, join one of
-                            our safaris and you will discover fascinating landscapes of the mountains and the
-                            desert. We have also choosen a wide range of activities to make your stay in
-                            Marrakech an unforgettable experience.</p>
+                        <p>Happy marrakech tours organiza vacaciones, excursiones y tours en Marruecos desde 2007. Viajes
+                            en un grupo o independientemente, unirse a uno de
+                            nuestros safaris y descubrirá fascinantes paisajes de las montañas y el
+                            desierto. También hemos elegido una amplia gama de actividades para que su estancia en
+                            Marrakech una experiencia inolvidable.</p>
                         <div class="footer-social-wrap">
-                            <h5>Follow Us On:</h5>
+                            <h5>síguenos en:</h5>
                             <ul class="footer-social-links justify-content-lg-start justify-content-center">
                                 <li><a href="https://www.instagram.com/happymarrakechtours/" target="blank"><i class='bx bxl-facebook'></i></a></li>
                                 <li><a href="https://www.facebook.com/Annoqri.tours" target="blank"><i class="bx bxl-facebook"></i></a></li>
@@ -30,32 +30,32 @@
                 </div>
                 <div class="col-lg-2 col-md-4">
                     <div class="footer-widget">
-                        <h4 class="footer-widget-title">Transfers</h4>
+                        <h4 class="footer-widget-title">transferencias</h4>
                         <ul class="footer-links">
-                            <li><a href="trensfers-airoport-marrakech.php">Marrakech Menara Airport <--> Marrakech </a></li>
-                            <li><a href="trensfers-marrakech-casablanca.php">Marrakech <--> Airport M5 Casablanca </a></li>
-                            <li><a href="trensfers-marrakech-agadir.php">Marrakech <--> Agadir</a></li>
-                            <li><a href="trensfers-marrakech-chefchaoun.php">Marrakech <--> Chefchaoun </a></li>
-                            <li><a href="trensfers-marrakech-fes.php">Marrakech <--> Fès</a></li>
-                            <li><a href="trensfers-marrakech-tanger.php">Marrakech <--> Tanger</a></li>
-                            <li><a href="trensfers-marrakech-essaouira.php">Marrakech <--> Essaouira </a></li>
+                             <li><a href="trensfers-airoport-marrakech.php">Aeropuerto de Marrakech Menara <-> Marrakech </a></li>
+                            <li><a href="trensfers-marrakech-casablanca.php">Marrakech <-> Aeropuerto M5 Casablanca </a></li>
+                            <li><a href="trensfers-marrakech-agadir.php">Marrakech <-> Agadir</a></li>
+                            <li><a href="trensfers-marrakech-chefchaoun.php">Marrakech <-> Chefchaoun </a></li>
+                            <li><a href="trensfers-marrakech-fes.php">Marrakech <-> Fez</a></li>
+                            <li><a href="trensfers-marrakech-tanger.php">Marrakech <-> Tanger</a></li>
+                            <li><a href="trensfers-marrakech-essaouira.php">Marrakech <-> Essaouira </a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-lg-2 col-md-4">
                     <div class="footer-widget">
-                        <h4 class="footer-widget-title">Circuit</h4>
+                        <h4 class="footer-widget-title">Circuito</h4>
                         <ul class="footer-links">
                             <li><a href="circuit-zagora.php">2-Days Zagora Desert Tour</a></li>
-                            <li><a href="circuit-chegaga.php">3-Days to Erg Chegaga</a></li>
-                            <li><a href="circuit-fez.php">3-Days Desert Trip from Marrakech to Fez</a></li>
-                            <li><a href="circuit-zagora-marzouga.php">4-Days Tour to Zagora & Marzouga</a></li>
+                            <li><a href="circuit-chegaga.php">3 días a Erg Chegaga</a></li>
+                            <li><a href="circuit-fez.php">Viaje de 3 días al desierto desde Marrakech a Fez</a></li>
+                            <li><a href="circuit-zagora-marzouga.php">Tour de 4 días a Zagora & Marzouga</a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-8">
                     <div class="footer-widget">
-                        <h4 class="footer-widget-title text-center">Gallery</h4>
+                        <h4 class="footer-widget-title text-center">galería</h4>
                         <div class="footer-gallary-grid">
                             <div class="footer-gallary-item">
                                 <a href="../assets/images/excursion/agadir4.jpg" data-fancybox="footer" data-caption="Caption Here"><img src="../assets/images/excursion/agadir4.jpg" alt=""></a>
@@ -80,7 +80,7 @@
                 </div>
             </div>
             <div class="footer-contact-wrapper">
-                <h5>Contact Us:</h5>
+                <h5>contáctenos:</h5>
                 <ul class="footer-contact-list">
                     
                     <li><i class="bi bi-envelope-open"></i> <a

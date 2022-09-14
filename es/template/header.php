@@ -35,11 +35,6 @@
             <span></span>
         </div>
     </div>-->
-
-
-
-
-
     <div class="topbar-area topbar-style-one">
         <div class="container">
             <div class="row">
@@ -57,11 +52,14 @@
                 </div>
                 <div class="col-xl-5 col-lg-6 col-md-6 text-xl-center text-md-start text-center">
                     <div class="topbar-ad">
-                        <a href="#">Always We Have A Good Offers For You</a>
+                        <a href="#">Siempre tenemos buenas ofertas para usted</a>
                     </div>
                 </div>
                 <div class="col-xl-3 col-lg-6 col-md-6 d-md-flex  d-none align-items-center justify-content-end">
                     <ul class="topbar-social-links">
+                          <li><a href="../fr/" target="blank"><img src='../assets/images/fr.png' class="flag"/></a></li>
+                        <li><a href="../en/" target="blank"><img src='../assets/images/en.png' class="flag"/></a></li>
+                        <li><a href="#" target="blank"><img src='../assets/images/es.png' class="flag"/></a></li>
                         <li><a href="https://www.facebook.com/Annoqri.tours" target="blank"><i class='bx bxl-facebook'></i></a></li>
                         <li><a href="https://www.instagram.com/happymarrakechtours/" target="blank"><i class='bx bxl-instagram-alt'></i></a></li>
                         <li><a href="https://www.tripadvisor.fr/Attraction_Review-g293734-d17582639-Reviews-AnnoQri_Travel_Services-Marrakech_Marrakech_Safi.html" target="blank"><img src="../assets/images/icons/tripadvisor.svg"  style="height: 20.36px;width: 20px;color: #fd2929;background: darkorange;"/></a></li>
@@ -102,62 +100,65 @@
                                 <a href="#"><img src="../assets/images/logo11.png" style="height: 110px;width:100px;" alt=""></a>
                             </div>
                             <ul>
-                                <li><a href="index.php">Home</a></li>
+                                 
+                                <!--<li><a href="index.php">Acogida</a></li>
+                                <li><a href="index.php">Acogida</a></li>-->
+                                <li><a href="index.php">Acogida</a></li>
                                 <li class="has-child-menu">
-                                    <a href="javascript:void(0)">Excursions</a>
+                                    <a href="javascript:void(0)">excursiones</a>
                                     <i class="fl flaticon-plus">+</i>
                                     <ul class="sub-menu">
-                                        <li><a href="excursion-ouarzazat.php">Day trip to Ouarzazate - Ait Benhaddou</a></li>
-                                        <li><a href="excursion-ourika.php">Day trip to Vallée de l'Ourika</a></li>
-                                        <li><a href="excursion-essaouira.php">Day trip to Essaouira - Mogador</a></li>
-                                        <li><a href="excursion-ouzoud.php">Day trip to Ouzoud Watterfalls</a></li>
-                                        <li><a href="excursion-threevalley.php">Day trip to The Threy Valleys </a></li>
-                                        <li><a href="excursion-imlil.php">Day trip to Imlil & Hight Atlas</a></li>
-                                        <li><a href="excursion-casablanca.php">Day trip to Casablanca</a></li>
-                                        <li><a href="excursion-agadir.php">Day trip to Agadir</a></li>
+                                        <li><a href="excursion-ouarzazat.php">excursión de un día a Ouarzazate - Ait Benhaddou</a></li>
+                                        <li><a href="excursion-ourika.php">excursión de un día a Vallée de l'Ourika</a></li>
+                                        <li><a href="excursion-essaouira.php">excursión de un día a Essaouira - Mogador</a></li>
+                                        <li><a href="excursion-ouzoud.php">excursión de un día a Ouzoud Watterfalls</a></li>
+                                        <li><a href="excursion-threevalley.php">excursión de un día a The Threy Valleys </a></li>
+                                        <li><a href="excursion-imlil.php">excursión de un día a Imlil & Hight Atlas</a></li>
+                                        <li><a href="excursion-casablanca.php">excursión de un día a Casablanca</a></li>
+                                        <li><a href="excursion-agadir.php">excursión de un día a Agadir</a></li>
                                     </ul>
                                 </li>
                                 <li class="has-child-menu">
-                                    <a href="javascript:void(0)">Circuits</a>
+                                    <a href="javascript:void(0)">Circuitos</a>
                                     <i class="fl flaticon-plus">+</i>
                                     <ul class="sub-menu">
                                         <li><a href="circuit-zagora.php">2-Days Zagora Desert Tour</a></li>
-                                        <li><a href="circuit-chegaga.php">3-Days to Erg Chegaga</a></li>
-                                        <li><a href="circuit-fez.php">3-Days Desert Trip from Marrakech to Fez</a></li>
-                                        <li><a href="circuit-zagora-marzouga.php">4-Days Tour to Zagora & Marzouga</a></li>
+                                        <li><a href="circuit-chegaga.php">3 días a Erg Chegaga</a></li>
+                                        <li><a href="circuit-fez.php">Viaje de 3 días al desierto desde Marrakech a Fez</a></li>
+                                        <li><a href="circuit-zagora-marzouga.php">Tour de 4 días a Zagora & Marzouga</a></li>
                                     </ul>
                                 </li>
                                 <li class="has-child-menu">
-                                    <a href="javascript:void(0)">Visits</a>
+                                    <a href="javascript:void(0)">Visitas</a>
                                     <i class="fl flaticon-plus">+</i>
                                     <ul class="sub-menu">
-                                        <li><a href="visit-marrakech-halfday.php">Marrakech City Highlight Half-Day Tour</a></li>
-                                        <li><a href="visit-marrakech-histical.php">Marrakech Historical and Cultural Tour</a></li>
-                                        <li><a href="visit-marrakech-night.php">Marrakech By Night City Privat Tour</a></li>
+                                        <li><a href="visit-marrakech-halfday.php">Tour de medio día por la ciudad de Marrakech</a></li>
+                                        <li><a href="visit-marrakech-histical.php">Tour histórico y cultural de Marrakech</a></li>
+                                        <li><a href="visit-marrakech-night.php">Marrakech por la noche ciudad privada Tour</a></li>
                                         <li><a href="visit-marrakech-medina.php">Medina Souks Shopping Tour</a></li>
-                                        <li><a href="visit-marrakech-chezali.php">Restaurant Chez Ali</a></li>
+                                        <li><a href="visit-marrakech-chezali.php">Restaurante Chez Ali</a></li>
                                     </ul>
                                 </li>
                                 <li class="has-child-menu">
-                                    <a href="javascript:void(0)">Activity</a>
+                                    <a href="javascript:void(0)">Actividad</a>
                                     <i class="fl flaticon-plus">+</i>
                                     <ul class="sub-menu">
-                                        <li><a href="activity-buggy.php">Buggy adventure in the Palmeraie </a></li>
-                                        <li><a href="activity-quad-camel.php">Quad and Camel in the Palmeraie </a></li>
-                                        <li><a href="activity-quad.php">Quad Excursion in Marrakech</a></li>
-                                        <li><a href="activity-camel.php">Camel walk in the Palmeraie</a></li>
-                                        <li><a href="activity-montgolfiere.php">Flight by Montgolfiere in Marrakech</a></li>
+                                        <li><a href="activity-buggy.php">Aventura con buggy en el Palmeraie </a></li>
+                                        <li><a href="activity-quad-camel.php">Quad y Camel en el Palmeraie </a></li>
+                                        <li><a href="activity-quad.php">Quad excursión en Marrakech</a></li>
+                                        <li><a href="activity-camel.php">Paseo en camello en el Palmeraie</a></li>
+                                        <li><a href="activity-montgolfiere.php">Vuelo de Montgolfiere en Marrakech</a></li>
                                     </ul>
                                 </li>
                                 <li class="has-child-menu">
-                                    <a href="javascript:void(0)">Agafay</a>
+                                  <a href="javascript:void(0)">Agafay</a>
                                     <i class="fl flaticon-plus">+</i>
                                     <ul class="sub-menu">
-                                        <li><a href="agafay-quad.php">Quad Biking in the Agafay Desert </a></li>
-                                        <li><a href="agafay-buggy-camel.php">Buggy adventure in the Agafay Desert </a></li>
-                                        <li><a href="agafay-camels.php">Camels at sunset in Agafay</a></li>
-                                        <li><a href="agafay-sunset.php">Sunset in the Agafay Desert </a></li>
-                                        <li><a href="agafay-bivouac.php">Overnight in Bivouac in the Agafay Desert</a></li>
+                                        <li><a href="agafay-quad.php">Quad Biking en el desierto de Agafay </a></li>
+                                        <li><a href="agafay-buggy-camel.php">Aventura en buggy en el desierto de Agafay </a></li>
+                                        <li><a href="agafay-camels.php">Camellos al atardecer en Agafay</a></li>
+                                        <li><a href="agafay-sunset.php">Atardecer en el desierto de Agafay </a></li>
+                                        <li><a href="agafay-bivouac.php">Alojamiento en Vivac en el desierto de Agafay</a></li>
                                     </ul>
                                 </li>
                                 <li class="has-child-menu">
@@ -173,7 +174,7 @@
                                         <li><a href="trensfers-marrakech-essaouira.php">Marrakech  <-->   Essaouira </a></li>
                                     </ul>
                                 </li>
-                                <li><a href="contact.php">Contact Us</a></li>
+                                <li><a href="contact.php">contáctenos</a></li>
                                 
                             </ul>
                             <div class="inner-contact-options d-xl-none">

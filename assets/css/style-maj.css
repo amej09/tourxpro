@@ -22,7 +22,10 @@
      }
       .radiosize{
         height: 15px;
-        width: 15px;
+        width: 15px;}
+      .flag{
+        height: 20px;
+        width: 20px;
       }
       /*.imageininerary{
         height: 700px;

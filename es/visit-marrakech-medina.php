@@ -1,18 +1,12 @@
 <!doctype html>
 <html lang="en">
 
-
-   
-
-
     <?php include('template/header.php')?>
-
-
 
     <div class="breadcrumb breadcrumb-style-one">
         <div class="container">
             <div class="col-lg-12 text-center">
-                <h2 class="breadcrumb-title">Tour de medio día por la ciudad de Marrakech  </h2>
+                <h2 class="breadcrumb-title">Tour de compras por Medina Souks  </h2>
                 <ul class="d-flex justify-content-center breadcrumb-items">
                     <li class="breadcrumb-item"><a href="index.php">Acogida</a></li>
                     <li class="breadcrumb-item active">visits</li>
@@ -41,10 +35,10 @@
                                     </tr>
                                     <tr>
                                         <th>Premio* €</th>
-                                        <td>30</td>
+                                        <td>39</td>
+                                        <td>26</td>
                                         <td>20</td>
-                                        <td>15</td>
-                                        <td>12</td>
+                                        <td>16</td>
 
                                     </tr>
                                 </table>
@@ -56,7 +50,7 @@
                                         <div class="custom-input-group">
                                             <input type="hidden"      name="type_reservation"  value="prive"/> &nbsp;
                                             <input type="hidden"      name="type_tour" value="visites"/> &nbsp;
-                                            <input type="hidden"      name="name_tour" value="Visite de Ville: Marrakech en ½ Journée "/> &nbsp;
+                                            <input type="hidden"      name="name_tour" value="Shopping dans les Souks de La Médina "/> &nbsp;
 
                                             Seleccione la fecha y los participantes: 
                                             <i class="bi bi-calendar3"></i>
@@ -76,26 +70,10 @@
                                                 </select>
                                             </div>
                                         </div><br>
-                                        <div class="row">
-                                            
-                                             <div class="col-md-6">
-                                                <input type="checkbox" class="radiosize" id="Guide"    value="Guide (30€)"/> &nbsp;
-                                            
-                                                Guía(30€)
-                                            </div>
-                                           
-                                            <div class="col-md-6">
-                                                <input type="checkbox"  class="radiosize"  id="Lunch"    value="Lunch (12€ / per)"/>&nbsp;
-                                          
-                                                Almuerzo (12€ / por) 
-
-                                            </div> 
-
-                                            
-                                        </div>
+                                        
                                         <div class="custom-input-group">
                                        
-                                            Precio total en  € Per Person<input type="text"  id="totalpriceprive"  name="totalprice" class="form-control" disabled>
+                                            Precio total en  € por persona<input type="text"  id="totalpriceprive"  name="totalprice" class="form-control" disabled>
                                         </div>
                                         <div class="custom-input-group">
                                             <input type="text" placeholder="tu nombre completo" id="name" name="name" required>
@@ -107,6 +85,8 @@
                                             <input type="tel" placeholder="número de teléfono" id="phone" name="phone" required>
                                         </div>
                                         
+                                         
+                                       
                                        
                                         <div class="custom-input-group">
                                             <textarea cols="20" rows="7" name="message" placeholder="tu mensaje"></textarea>
@@ -145,7 +125,7 @@
                                         </div>
                                         <div class="info">
                                             <h6>hora de salida</h6>
-                                            <span> 09h00/14h00</span>
+                                            <span> 9h00 / 14h00 </span>
                                         </div>
                                     </div>
                                 </div>
@@ -162,7 +142,7 @@
                                 </div>
                             </div>
                             <div class="pd-thumb">
-                                <img src="../assets/images/visites/marrakech.jpg" alt="">
+                                <img src="../assets/images/visites/marrakech8.jpg" alt="">
                             </div>
                             <div class="header-bottom">
                                 <div class="pd-lavel d-flex justify-content-between align-items-center flex-wrap gap-2">
@@ -175,7 +155,7 @@
                                         <li><i class="bi bi-star-fill"></i></li>
                                     </ul>
                                 </div>
-                                <h2 class="pd-title">Tour de medio día por la ciudad de Marrakech </h2>
+                                <h2 class="pd-title">Tour de compras por Medina Souks   </h2>
                             </div>
                         </div>
                     </div>    
@@ -211,55 +191,69 @@
                                     role="tabpanel" aria-labelledby="pills-package1">
                                     <h3 class="d-subtitle">detalles del paquete</h3>
 <pre>
+    
+¿Tiene curiosidad por la artesanía marroquí y en busca de algunos recuerdos de sus vacaciones en Marrakech?
 
+Si es así, este tour privado de Marrakech está diseñado especialmente para usted.
 
-Marrakech siempre ha sido un placer, un mercado donde los miembros de las tribus del sur y los aldeanos bereberes traen sus bienes, gastan su dinero y encuentran entretenimiento. Para los visitantes es una fantasía duradera - una ciudad de inmensa belleza, baja, roja y tienda de campaña-como ante un gran eje de montañas inmediatamente emocionante.   
+Únete a este inolvidable Medina Shopping Tour y deja que tu guía local te guíe por el laberinto de los zocos de Marrakech. Planifique con su guía el itinerario perfecto que mejor se adapte a sus necesidades y visite las tiendas más distintivas para alfombras, ropa tradicional, alfareros, hierbas y especias.
 
-Monumentos y Palacios: Visita la famosa Torre Koutoubia (siglo XI) y el Palacio de Bahía (siglo XIX).
+Antes de comprar sus recuerdos y regalos, aprenda a regatear en árabe y disfrute de descuentos exclusivos de compras.
 
-Plaza Djemaa el Fna: Realmente no es más que un espacio abierto en el centro de la ciudad, sino el escenario de un ritual de larga data en el que los círculos cambiantes de espectadores se reúnen alrededor de grupos de acróbatas, bateristas, músicos de tubo, bailarines, narradores, comediantes y actos de feria...  
+También puede visitar los talleres locales en el corazón de la Medina, donde los artesanos muy talentosos le mostrarán sus habilidades heredadas, y luego terminar su Medina Shopping Tour con un coffee-break en Jamaa El Fna Square.
 
-Zocos: Visite muchos zocos y medinas de Marrakech, para ver a los lugareños vendiendo todo, desde verduras frescas y especias hasta cuero y joyas.  
+ 
 
-Jardines históricos: visite los famosos jardines de Majorelle; rodéese de los huertos y olivares en el jardín de Menara 
+Aspectos destacados de esta experiencia
 
-duración: 3 a 4 horas
+Descubre Marrakech Medina Souks con un guía turístico profesional
+
+Visita una gran variedad de tiendas de artesanía que no podrás encontrar por tu cuenta
+
+Conoce a algunos artesanos marroquíes y aprende sobre sus métodos artesanales locales
+
+Obtenga descuentos exclusivos de compras con su guía turístico privado
+
+Disfrute de un coffee-break en el corazón de la maravillosa Plaza Jamaa El Fna
+
+NB: Este tour de compras incluye la entrega gratuita de sus productos directamente a su hotel o Riad en Marrakech
+
+ 
+
+duración: 3 to 4 horas
 disponibilidad: todos los días
-Hora de salida: 9h00 am o 14h00 pm
+Deparature time: 9h00 am or 14h00 pm
 
 <i class='bx bx-check'></i>Sin tarifas de reserva
-        <i class='bx bx-check'></i>Reserva ahora y paga después
-        <i class='bx bx-check'></i>Mejor precio garantizado
-        <i class='bx bx-check'></i>Excelente servicio
-        <i class='bx bx-check'></i>Cancelación gratuita
-        <i class='bx bx-check'></i>Disponible todos los días
+<i class='bx bx-check'></i>Reserva ahora y paga después
+<i class='bx bx-check'></i>Mejor precio garantizado
+<i class='bx bx-check'></i>Excelente servicio
+<i class='bx bx-check'></i>Cancelación gratuita
+<i class='bx bx-check'></i>Disponible todos los días
+¿Qué es lo que incluye?
 
-    ¿Qué es lo que incluye?
+<i class='bx bx-check'></i>Recogida y devolución del hotel
+<i class='bx bx-check'></i>Guía de turismo de habla inglesa
+<i class='bx bx-check'></i>Visita a los zocos y talleres de artesanía
+<i class='bx bx-check'></i>Negociación de precios con comerciantes
+<i class='bx bx-check'></i>Entrega gratuita de sus productos a su hotel o Riad
+<i class='bx bx-check'></i>Seguro de responsabilidad civil
+<i class='bx bx-check'></i>Todos los impuestos
+¿Qué no está incluido?
 
-        <i class='bx bx-check'></i>Recogida y devolución del hotel
-        <i class='bx bx-check'></i>Transporte en minivan con aire acondicionado
-        <i class='bx bx-check'></i>Seguro de transporte
-        <i class='bx bx-check'></i>Seguro de responsabilidad civil.
-        <i class='bx bx-check'></i>Fiabilidad del servicio de calidad
-        <i class='bx bx-check'></i>Todos los impuestos.
+<i class='bx bx-check'></i>Costos de los bienes comprados
+<i class='bx bx-check'></i>Coffe Break en Jamaa El Fna Square
+<i class='bx bx-check'></i>Consejos
+Lugar de encuentro:
 
-    ¿Qué no está incluido?
-
-        <i class='bx bx-check'></i> Guía local
-        <i class='bx bx-check'></i> Entradas para monumentos y jardines de Majorelle
-        <i class='bx bx-check'></i> Consejos
-
-    Lugar de encuentro:
-
-        <i class='bx bx-check'></i>Nuestro conductor lo recogerá en su hotel/Riad o en cualquier otro lugar a la hora acordada.
-        <i class='bx bx-check'></i>En caso de cualquier problema: envíenos un correo electrónico o llámenos a los números que se muestran en la información de contacto.
-
-    Easy Booking: Aceptado hasta las 6pm del día anterior (hora de Marrakech), Si tiene alguna dificultad para reservar o necesita otro servicio, utilice nuestro <a href="contact.php" > Formulario de contacto </a> 
+<i class='bx bx-check'></i>Nuestro conductor lo recogerá en su hotel/Riad o en cualquier otro lugar a la hora acordada.
+<i class='bx bx-check'></i>En caso de cualquier problema: envíenos un correo electrónico o llámenos a los números que se muestran en la información de contacto.
+<i class='bx bx-check'></i>Easy Booking: Aceptado hasta las 6pm del día anterior (hora de Marrakech), Si tiene alguna dificultad para reservar o necesita otro servicio, utilice nuestro Formulario de contacto
 
 
-    Formas de pago:
+Formas de pago:
 
-        En efectivo (Euros o MAD) a la llegada
+En efectivo (Euros o MAD) a la llegada
 </pre>                    
                                 </div>
                                 <div class="tab-pane fade package-gallary-tab mt-3" id="pill-body3" role="tabpanel"
@@ -267,44 +261,21 @@ Hora de salida: 9h00 am o 14h00 pm
                                     <div class="row g-4">
                                         <div class="col-6">
                                             <div class="package-gallary-item">
-                                                <img  src="../assets/images/visites/marrakech1.jpg" alt="">
+                                                <img  src="../assets/images/visites/marrakechc2.jpg" alt="">
                                             </div>
                                         </div>
                                         <div class="col-6">
                                             <div class="package-gallary-item">
-                                                <img  src="../assets/images/visites/marrakech2.jpg" alt="">
+                                                <img  src="../assets/images/visites/marrakechc7.jpg" alt="">
                                             </div>
-                                        </div>
-                                        <div class="col-6">
-                                                <div class="package-gallary-item">
-                                                    <img  src="../assets/images/visites/marrakech3.jpg" alt="">
-                                                </div>
-                                        </div>
-                                        <div class="col-6">
-                                            <div class="package-gallary-item">
-                                                <img  src="../assets/images/visites/marrakech4.jpg" alt="">
-                                            </div>
-                                        </div>
-                                        <div class="col-6">
-                                                <div class="package-gallary-item">
-                                                    <img  src="../assets/images/visites/marrakech5.jpg" alt="">
-                                                </div>
                                         </div>
                                         <div class="col-6">
                                                 <div class="package-gallary-item">
                                                     <img  src="../assets/images/visites/marrakech6.jpg" alt="">
                                                 </div>
                                         </div>
-                                        <div class="col-6">
-                                                <div class="package-gallary-item">
-                                                    <img  src="../assets/images/visites/marrakech7.jpg" alt="">
-                                                </div>
-                                        </div>
-                                        <div class="col-6">
-                                                <div class="package-gallary-item">
-                                                    <img  src="../assets/images/visites/marrakech8.jpg" alt="">
-                                                </div>
-                                        </div>
+                                        
+
                                         
                                         
                                     </div>
@@ -375,40 +346,14 @@ Hora de salida: 9h00 am o 14h00 pm
     <script src="../assets/js/main.js"></script>
    
     <script >
-        var nbr_prive=60;
+        var nbr_prive=79;
         $('#totalpriceprive').val(nbr_prive );
 
-       $('#Guide').change(function() {
-         /* */
-          if($(this).is(':checked')){
-              nbr_prive+=30;
-          }
-          else{
-              nbr_prive-=30;
-          }
-          $('#totalpriceprive').val(nbr_prive );
-
-       });
-       $('#Lunch').change(function() {
-          /* */          
-          var lunch=12;
-
-          if($(this).is(':checked')){
-            nbr_prive+=lunch;    
-          }
-          else{
-                  nbr_prive-=lunch;
-                
-                }
-          $('#totalpriceprive').val(nbr_prive );
-
-      });
-
+       
        $( '#truist-adult' ).change(function() {
-          $( "#Lunch" ).prop( "checked", false );
-          $( "#Guide" ).prop( "checked", false );
+    
         nbr= $( '#truist-adult' ).val();
-        nbr_prive=parseInt( 60 / nbr);
+        nbr_prive=parseInt( 79 / nbr);
        $('#totalpriceprive').val(nbr_prive );
 
        });

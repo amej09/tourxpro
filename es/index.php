@@ -24,19 +24,19 @@
                                         <h5 class="featured-location"><i class="bi bi-geo-alt"></i> Top Excursions in marrakech
 
                                         </h5>
-                                        <h2 class="hero-title">Marrakech Excursions
+                                        <h2 class="hero-title">Excursiones en Marrakech
 
 
-                                            <span>for today </span>  or upcoming days   
+                                            <span>para hoy </span>,  o próximos días   
                                         </h2>
                                         <h3 class="featured-price">From 25$ /<span>Person</span></h3>
-                                        <p>Have a magical day just outside of Marrakech! Enjoy a privadoe day trip
-                                             to the scenic Atlas Mountains, to charming Essaouira or the one-of-a-kind Sahara desert.
+                                        <p>Enjoy a magical day outside Marrakech! Enjoy a private tour
+                                             to the picturesque mountains of the Atlas, to the charming Essaouira or to the only desert of the Sahara.
                                               Discover more of the Moroccan culture with the local of your choice.
                                         </p>
                                         <div class="hero-btns">
-                                            <a href="#excursion" class="button-fill-round">Book Now</a>
-                                            <a href="excursion-imlil.php" class="button-fill-round">View Details</a>
+                                            <a href="#excursion" class="button-fill-round">reservar ahora</a>
+                                            <a href="excursion-imlil.php" class="button-fill-round">ver los detalles</a>
                                         </div>
                                     </div>
                                 </div>
@@ -56,14 +56,14 @@
                                         <h5 class="featured-location"><i class="bi bi-geo-alt"></i> Trips & Tours
                                         </h5>
 
-                                        <div class="hero-title">Day Trips & Tours<span>Around Marrakech.</span></div>
-                                        <h3 class="featured-price">From 35$ /<span>Person</span></h3>
-                                        <p> Our Agency offers exclusive experiences and great itineraries in Marruecos.
-                                             We provide the most authentic, best price/quality ratio days trips and tours.
+                                        <div class="hero-title">Excursiones de un día y tours<span>Alrededor de Marrakech.</span></div>
+                                        <h3 class="featured-price">Desde 35$ /<span>Persona</span></h3>
+                                        <p> Nuestra Agencia ofrece experiencias exclusivas y grandes itinerarios en Marruecos.
+                                             Ofrecemos la más auténtica, mejor relación precio/ calidad días viajes y excursiones.
                                         </p>
                                         <div class="hero-btns">
-                                            <a href="#cercuit" class="button-fill-round">Book Now</a>
-                                            <a href="circuit-zagora-marzouga.php" class="button-fill-round">View Details</a>
+                                            <a href="#cercuit" class="button-fill-round">reservar ahora</a>
+                                            <a href="circuit-zagora-marzouga.php" class="button-fill-round">ver los detalles</a>
                                         </div>
                                     </div>
                                 </div>
@@ -80,18 +80,18 @@
                             <div class="row align-items-center">
                                 <div class="col-lg-6">
                                     <div class="hero-content">
-                                        <h5 class="featured-location"><i class="bi bi-geo-alt"></i> Trensfers
+                                    <h5 class="featured-location"><i class="bi-geo-alt"></i> Trensfers
                                         </h5>
-                                        <h2 class="hero-title">Airport & inter-cities 
-                                            <span>Transfers </span> from Marrakech
+                                        <h2 class="hero-title">Aeropuerto y ciudades 
+                                            <span>Transferencias </span> desde Marrakech
                                         </h2>
-                                        <h3 class="featured-price">From 15$/<span>Person</span></h3>
-                                        <p>We offer the easiest and most cost-effective Marrakech airport transfers ,
-                                             inter cities Transfers, hotels or privadoe Acogidas or any privadoe address Transfers.
+                                        <h3 class="featured-price">Desde 15$/<span>Persona</span></h3>
+                                        <p>Ofrecemos los más fáciles y rentables traslados al aeropuerto de Marrakech ,
+                                             Traslados entre ciudades, hoteles o privadoe Acogidas o cualquier dirección privadoe Transfers.
                                         </p>
                                         <div class="hero-btns">
                                             
-                                            <a href="trensfers-airoport-marrakech.php" class="button-fill-round">View Details</a>
+                                            <a href="trensfers-airoport-marrakech.php" class="button-fill-round">ver los detalles</a>
                                         </div>
                                     </div>
                                 </div>
@@ -114,9 +114,9 @@
     <div class="package-area package-style-two pt-110 " id="excursion">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-lg-12">
+            <div class="col-lg-12">
                     <div class="section-head-gamma">
-                        <h2>Marrakech <span style="color: #FF8C00;"> Top Destinations </span></h2>
+                        <h2>Marrakech <span style="color: #FF8C00;"> Destinos principales </span></h2>
                     </div>
                 </div>
             </div>
@@ -124,20 +124,20 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="package-card-alpha">
                         <div class="package-thumb">
-                            <a href="excursion-ourika.php"><img src="../assets/images/excursion/Test/Ourika1.jpg" alt=""></a>
-                            <p class="card-lavel">
-                                <i class="bi bi-clock"></i> <span>7 to 8 horas</span>
+                            <a href="excursion-ourika.php"><img src=".. /assets/images/excursión/Test/Ourika1.jpg" alt="></a>
+                            <p clase="card-lavel">
+                                <i class="bi-clock"></i> <span>7 a 8 horas</span>
                             </p>
                         </div>
-                        <div class="package-card-body">
-                            <h3 class="p-card-title"><a href="excursion-ourika.php">Day Trip to Ourika Valley</a></h3>
+                        <div class="paquete-tarjeta-cuerpo">
+                            <h3 class="p-card-title"><a href="excursión-ourika.php">Excursión a Ourika Valley</a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
-                                    <a href="excursion-ourika.php">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
+                                    <a href="excursion-ourika.php">reservar ahora <i class='bx bxs-right-arrow-alt'></i></a>
                                 </div>
                                 <div class="p-card-info">
-                                    <span>From</span>
-                                    <h6>25.00 €<span>Per Person</span></h6>
+                                    <span>Desde</span>
+                                    <h6>25.00 €<span>Por persona</span></h6>
                                 </div>
                             </div>
                         </div>
@@ -152,14 +152,14 @@
                             </p>
                         </div>
                         <div class="package-card-body">
-                            <h3 class="p-card-title"><a href="excursion-essaouira.php">Day Trip to Essaouira - Mogador</a></h3>
+                            <h3 class="p-card-title"><a href="excursion-essaouira.php">excursión de un día a Essaouira - Mogador</a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
-                                    <a href="excursion-essaouira.php">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
+                                    <a href="excursion-essaouira.php">reservar ahora <i class='bx bxs-right-arrow-alt'></i></a>
                                 </div>
                                 <div class="p-card-info">
-                                    <span>From</span>
-                                    <h6>30.00 € <span>Per Person</span></h6>
+                                    <span>Desde</span>
+                                    <h6>30.00 € <span>por persona</span></h6>
                                 </div>
                             </div>
                         </div>
@@ -174,14 +174,14 @@
                             </p>
                         </div>
                         <div class="package-card-body">
-                            <h3 class="p-card-title"><a href="excursion-ouarzazat.php">Day Trip to Ouarzazate - Ait Benhaddou.</a></h3>
+                            <h3 class="p-card-title"><a href="excursion-ouarzazat.php">excursión de un día a Ouarzazate - Ait Benhaddou.</a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
-                                    <a href="excursion-ouarzazat.php">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
+                                    <a href="excursion-ouarzazat.php">reservar ahora <i class='bx bxs-right-arrow-alt'></i></a>
                                 </div>
                                 <div class="p-card-info">
-                                    <span>From</span>
-                                    <h6>35.00 €<span>Per Person</span></h6>
+                                    <span>Desde</span>
+                                    <h6>35.00 €<span>por persona</span></h6>
                                 </div>
                             </div>
                         </div>
@@ -196,14 +196,14 @@
                             </p>
                         </div>
                         <div class="package-card-body">
-                            <h3 class="p-card-title"><a href="excursion-imlil.php">Day Trip to Imlil & High Atlas </a></h3>
+                            <h3 class="p-card-title"><a href="excursion-imlil.php">excursión de un día a Imlil & High Atlas </a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
-                                    <a href="excursion-imlil.php">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
+                                    <a href="excursion-imlil.php">reservar ahora <i class='bx bxs-right-arrow-alt'></i></a>
                                 </div>
                                 <div class="p-card-info">
-                                    <span>From</span>
-                                    <h6>50.00 € <span>Per Person</span></h6>
+                                    <span>Desde</span>
+                                    <h6>50.00 € <span>por persona</span></h6>
                                 </div>
                             </div>
                         </div>
@@ -218,14 +218,14 @@
                             </p>
                         </div>
                         <div class="package-card-body">
-                            <h3 class="p-card-title"><a href="excursion-agadir.php">Day Trip to Agadir</a></h3>
+                            <h3 class="p-card-title"><a href="excursion-agadir.php">excursión de un día a Agadir</a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
-                                    <a href="excursion-agadir.php">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
+                                    <a href="excursion-agadir.php">reservar ahora <i class='bx bxs-right-arrow-alt'></i></a>
                                 </div>
                                 <div class="p-card-info">
-                                    <span>From</span>
-                                    <h6>85.00 € <span>Per Person</span></h6>
+                                    <span>Desde</span>
+                                    <h6>85.00 € <span>por persona</span></h6>
                                 </div>
                             </div>
                         </div>
@@ -240,14 +240,14 @@
                             </p>
                         </div>
                         <div class="package-card-body">
-                            <h3 class="p-card-title"><a href="excursion-casablanca.php">Day Trip to Casablanca</a></h3>
+                            <h3 class="p-card-title"><a href="excursion-casablanca.php">excursión de un día a Casablanca</a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
-                                    <a href="excursion-casablanca.php">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
+                                    <a href="excursion-casablanca.php">reservar ahora <i class='bx bxs-right-arrow-alt'></i></a>
                                 </div>
                                 <div class="p-card-info">
-                                    <span>From</span>
-                                    <h6>85.00 € <span>Per Person</span></h6>
+                                    <span>Desde</span>
+                                    <h6>85.00 € <span>por persona</span></h6>
                                 </div>
                             </div>
                         </div>
@@ -264,7 +264,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-12">
                     <div class="section-head-gamma">
-                        <h2>Marrakech <span style="color: #FF8C00;">  Top Attractions </span></h2>
+                        <h2>Marrakech <span style="color: #FF8C00;">  Lugares para visitar</span></h2>
                     </div>
                 </div>
             </div>
@@ -281,11 +281,11 @@
                             <h3 class="p-card-title"><a href="visit-marrakech-halfday.php">Marrakech City Highlights Half-Day Tour</a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
-                                    <a href="visit-marrakech-halfday.php">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
+                                    <a href="visit-marrakech-halfday.php">reservar ahora <i class='bx bxs-right-arrow-alt'></i></a>
                                 </div>
                                 <div class="p-card-info">
-                                    <span>From</span>
-                                    <h6>39.00 €<span>Per Person</span></h6>
+                                    <span>Desde</span>
+                                    <h6>39.00 €<span>por persona</span></h6>
                                 </div>
                             </div>
                         </div>
@@ -303,11 +303,11 @@
                             <h3 class="p-card-title"><a href="visit-marrakech-histical.php">Marrakech Historical and Cultural Tour</a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
-                                    <a href="visit-marrakech-histical.php">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
+                                    <a href="visit-marrakech-histical.php">reservar ahora <i class='bx bxs-right-arrow-alt'></i></a>
                                 </div>
                                 <div class="p-card-info">
-                                    <span>From</span>
-                                    <h6>50.00 € <span>Per Person</span></h6>
+                                    <span>Desde</span>
+                                    <h6>50.00 € <span>por persona</span></h6>
                                 </div>
                             </div>
                         </div>
@@ -325,11 +325,11 @@
                             <h3 class="p-card-title"><a href="visit-marrakech-medina.php">Medina Souks Shopping Tour</a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
-                                    <a href="visit-marrakech-medina.php">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
+                                    <a href="visit-marrakech-medina.php">reservar ahora <i class='bx bxs-right-arrow-alt'></i></a>
                                 </div>
                                 <div class="p-card-info">
-                                    <span>From</span>
-                                    <h6>57.00 €<span>Per Person</span></h6>
+                                    <span>Desde</span>
+                                    <h6>57.00 €<span>por persona</span></h6>
                                 </div>
                             </div>
                         </div>
@@ -347,11 +347,11 @@
                             <h3 class="p-card-title"><a href="visit-marrakech-night.php">Marrakech by Night City privadoe Tour </a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
-                                    <a href="visit-marrakech-night.php">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
+                                    <a href="visit-marrakech-night.php">reservar ahora <i class='bx bxs-right-arrow-alt'></i></a>
                                 </div>
                                 <div class="p-card-info">
-                                    <span>From</span>
-                                    <h6>50.00 € <span>Per Person</span></h6>
+                                    <span>Desde</span>
+                                    <h6>50.00 € <span>por persona</span></h6>
                                 </div>
                             </div>
                         </div>
@@ -369,11 +369,11 @@
                             <h3 class="p-card-title"><a href="visit-marrakech-chezali.php">Chez Ali Fantasia - Dinner And Show</a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
-                                    <a href="visit-marrakech-chezali.php">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
+                                    <a href="visit-marrakech-chezali.php">reservar ahora <i class='bx bxs-right-arrow-alt'></i></a>
                                 </div>
                                 <div class="p-card-info">
-                                    <span>From</span>
-                                    <h6>35.00 € <span>Per Person</span></h6>
+                                    <span>Desde</span>
+                                    <h6>35.00 € <span>por persona</span></h6>
                                 </div>
                             </div>
                         </div>
@@ -391,11 +391,11 @@
                             <h3 class="p-card-title"><a href="activity-quad-camel.php">Quad + Camel at the Palmeraie</a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
-                                    <a href="activity-quad-camel.php">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
+                                    <a href="activity-quad-camel.php">reservar ahora <i class='bx bxs-right-arrow-alt'></i></a>
                                 </div>
                                 <div class="p-card-info">
-                                    <span>From</span>
-                                    <h6>55.00 € <span>Per Person</span></h6>
+                                    <span>Desde</span>
+                                    <h6>55.00 € <span>por persona</span></h6>
                                 </div>
                             </div>
                         </div>
@@ -413,11 +413,11 @@
                             <h3 class="p-card-title"><a href="activity-buggy.php">Buggy at the Palmeraie</a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
-                                    <a href="activity-buggy.php">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
+                                    <a href="activity-buggy.php">reservar ahora <i class='bx bxs-right-arrow-alt'></i></a>
                                 </div>
                                 <div class="p-card-info">
-                                    <span>From</span>
-                                    <h6>55.00 € <span>Per Person</span></h6>
+                                    <span>Desde</span>
+                                    <h6>55.00 € <span>por persona</span></h6>
                                 </div>
                             </div>
                         </div>
@@ -435,11 +435,11 @@
                             <h3 class="p-card-title"><a href="activity-quad.php">Quad  at the Palmeraie</a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
-                                    <a href="activity-quad.php">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
+                                    <a href="activity-quad.php">reservar ahora <i class='bx bxs-right-arrow-alt'></i></a>
                                 </div>
                                 <div class="p-card-info">
-                                    <span>From</span>
-                                    <h6>35.00 € <span>Per Person</span></h6>
+                                    <span>Desde</span>
+                                    <h6>35.00 € <span>por persona</span></h6>
                                 </div>
                             </div>
                         </div>
@@ -457,11 +457,11 @@
                             <h3 class="p-card-title"><a href="package-details.html">Hot-air Balloon Flight in Marrakech</a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
-                                    <a href="package-details.html">Book Now <i class='bx bxs-right-arrow-alt'></i></a>
+                                    <a href="package-details.html">reservar ahora <i class='bx bxs-right-arrow-alt'></i></a>
                                 </div>
                                 <div class="p-card-info">
-                                    <span>From</span>
-                                    <h6>180.00 € <span>Per Person</span></h6>
+                                    <span>Desde</span>
+                                    <h6>180.00 € <span>por persona</span></h6>
                                 </div>
                             </div>
                         </div>
@@ -502,19 +502,19 @@
                                         <a href="circuit-zagora.php"><img src="../assets/images/Circuit/Bivouac_la_nuit_à_Zagora.jpg"
                                                 alt=""></a>
                                         <p class="card-lavel">
-                                            <i class="bi bi-clock"></i> <span>2 Day & 1 night</span>
+                                            <i class="bi bi-clock"></i> <span>2 días y 1 noche</span>
                                         </p>
                                     </div>
                                     <div class="package-card-body">
-                                        <h3 class="p-card-title"><a href="circuit-zagora.php">2-Day Zagora Desert Tour<br><br></a></h3>
+                                        <h3 class="p-card-title"><a href="circuit-zagora.php">Excursión de 2 días al desierto de Zagora<br><br></a></h3>
                                         <div class="p-card-bottom">
                                             <div class="book-btn">
-                                                <a href="circuit-zagora.php">Book Now <i
+                                                <a href="circuit-zagora.php">reservar ahora <i
                                                         class='bx bxs-right-arrow-alt'></i></a>
                                             </div>
                                             <div class="p-card-info">
-                                                <span>From</span>
-                                                <h6>160.00 € <span>Per Person</span></h6>
+                                                <span>Desde</span>
+                                                <h6>160.00 € <span>por persona</span></h6>
                                             </div>
                                         </div>
                                     </div>
@@ -526,19 +526,19 @@
                                         <a href="circuit-fez.php"><img src="../assets/images/Circuit/Randonnée_Chameau_à_Merzouga.jpg"
                                                 alt=""></a>
                                         <p class="card-lavel">
-                                            <i class="bi bi-clock"></i> <span>3 Day & 2 night</span>
+                                            <i class="bi bi-clock"></i> <span>3 días y 2 noches</span>
                                         </p>
                                     </div>
                                     <div class="package-card-body">
-                                        <h3 class="p-card-title"><a href="circuit-fez.php">3-Days Desert Trip from Marrakech to Fez </a></h3>
+                                        <h3 class="p-card-title"><a href="circuit-fez.php">Viaje de 3 días desde Marrakech a Fez </a></h3>
                                         <div class="p-card-bottom">
                                             <div class="book-btn">
-                                                <a href="circuit-fez.php">Book Now <i
+                                                <a href="circuit-fez.php">reservar ahora <i
                                                         class='bx bxs-right-arrow-alt'></i></a>
                                             </div>
                                             <div class="p-card-info">
-                                                <span>From</span>
-                                                <h6>350.00  €<span>Per Person</span></h6>
+                                                <span>Desde</span>
+                                                <h6>350.00  €<span>por persona</span></h6>
                                             </div>
                                         </div>
                                     </div>
@@ -550,19 +550,19 @@
                                         <a href="circuit-zagora-marzouga.php"><img src="../assets/images/Circuit/excursion_ouarzazate_ait_benhaddou.jpg"
                                                 alt=""></a>
                                         <p class="card-lavel">
-                                            <i class="bi bi-clock"></i> <span>4 Day & 3 night</span>
+                                            <i class="bi bi-clock"></i> <span>4 días y 3 noches</span>
                                         </p>
                                     </div>
                                     <div class="package-card-body">
-                                        <h3 class="p-card-title"><a href="circuit-zagora-marzouga.php">4-Day Desert Tour to Zagora & Merzouga</a></h3>
+                                        <h3 class="p-card-title"><a href="circuit-zagora-marzouga.php">Excursión de 4 días al desierto de Zagora y Merzouga</a></h3>
                                         <div class="p-card-bottom">
                                             <div class="book-btn">
-                                                <a href="circuit-zagora-marzouga.php">Book Now <i
+                                                <a href="circuit-zagora-marzouga.php">reservar ahora <i
                                                         class='bx bxs-right-arrow-alt'></i></a>
                                             </div>
                                             <div class="p-card-info">
-                                                <span>From</span>
-                                                <h6>400.00 €<span>Per Person</span></h6>
+                                                <span>Desde</span>
+                                                <h6>400.00 €<span>por persona</span></h6>
                                             </div>
                                         </div>
                                     </div>
@@ -574,19 +574,19 @@
                                         <a href="circuit-chegaga.php"><img src="../assets/images/Circuit/camp-bivouac-desert-chegaga.jpg"
                                                 alt=""></a>
                                         <p class="card-lavel">
-                                            <i class="bi bi-clock"></i> <span>3 Day & 2 night</span>
+                                            <i class="bi bi-clock"></i> <span>3 días y 2 noches</span>
                                         </p>
                                     </div>
                                     <div class="package-card-body">
-                                        <h3 class="p-card-title"><a href="circuit-chegaga.php">3-Day Tour to Erg Chegaga <br><br> </a></h3>
+                                        <h3 class="p-card-title"><a href="circuit-chegaga.php">Tour de 3 días a Erg Chegaga <br><br> </a></h3>
                                         <div class="p-card-bottom">
                                             <div class="book-btn">
-                                                <a href="circuit-chegaga.php">Book Now <i
+                                                <a href="circuit-chegaga.php">reservar ahora <i
                                                         class='bx bxs-right-arrow-alt'></i></a>
                                             </div>
                                             <div class="p-card-info">
-                                                <span>From</span>
-                                                <h6>345.00 € <span>Per Person</span></h6>
+                                                <span>Desde</span>
+                                                <h6>345.00 € <span>por persona</span></h6>
                                             </div>
                                         </div>
                                     </div>
@@ -611,7 +611,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-6 col-sm-10">
                     <div class="section-head-alpha text-center mx-auto">
-                        <h2>Best Of Agafay</h2>
+                        <h2>Lo mejor de Agafay</h2>
                     </div>
                 </div>
             </div>
@@ -624,9 +624,9 @@
                         </div>
                         <div class="guide-content">
                             <a href="agafay-quad.php">
-                                <h4 class="guide-name">Quad Biking in Agafay Desert<br><br> </h4>
+                                <h4 class="guide-name">Quad Biking en el desierto de Agafay<br><br> </h4>
                             </a>
-                            <h6 class="guide-designation">Tour Guide</h6>
+                            <h6 class="guide-designation">guía turístico</h6>
                         </div>
                     </div>
                 </div>
@@ -638,9 +638,9 @@
                         </div>
                         <div class="guide-content">
                             <a href="agafay-buggy-camel.php">
-                                <h4 class="guide-name">Buggy Adventure in Agafay Desert</h4>
+                                <h4 class="guide-name">Aventura en buggy en el desierto de Agafay</h4>
                             </a>
-                            <h6 class="guide-designation">Tour Guide</h6>
+                            <h6 class="guide-designation">guía turístico</h6>
                         </div>
                     </div>
                 </div>
@@ -654,9 +654,9 @@
                         </div>
                         <div class="guide-content">
                             <a href="agafay-camels.php">
-                                <h4 class="guide-name">Camel Ride at sunset in Agafay </h4>
+                                <h4 class="guide-name">Paseo en camello al atardecer en Agafay </h4>
                             </a>
-                            <h6 class="guide-designation">Tour Guide</h6>
+                            <h6 class="guide-designation">guía turístico</h6>
                         </div>
                     </div>
                 </div>
@@ -670,9 +670,9 @@
                         </div>
                         <div class="guide-content">
                             <a href="agafay-bivouac.php">
-                                <h4 class="guide-name">Night in Bivouac in Agafay Desert</h4>
+                                <h4 class="guide-name">Noche en Vivac en el desierto de Agafay</h4>
                             </a>
-                            <h6 class="guide-designation">Tour Guide</h6>
+                            <h6 class="guide-designation">guía turístico</h6>
                         </div>
                     </div>
                 </div>
@@ -686,9 +686,9 @@
                         </div>
                         <div class="guide-content">
                             <a href="agafay-sunset.php">
-                                <h4 class="guide-name">Sunset in Agafay <br><br></h4>
+                                <h4 class="guide-name">Atardecer en Agafay <br><br></h4>
                             </a>
-                            <h6 class="guide-designation">Tour Guide</h6>
+                            <h6 class="guide-designation">guía turístico</h6>
                         </div>
                     </div>
                 </div>

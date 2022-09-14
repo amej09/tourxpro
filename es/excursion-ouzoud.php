@@ -1,5 +1,10 @@
 <!doctype html>
 <html lang="en">
+
+<!-- Mirrored from demo.egenslab.com/html/tourxpro/demo/package-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 18 Aug 2022 11:46:12 GMT -->
+ 
+
+
     <?php include('template/header.php')?>
 
 
@@ -7,7 +12,7 @@
     <div class="breadcrumb breadcrumb-style-one">
         <div class="container">
             <div class="col-lg-12 text-center">
-                <h2 class="breadcrumb-title">Excursión de un día al valle de Ourika  </h2>
+                <h2 class="breadcrumb-title">Excursión de un día a las cascadas de Ouzoud  </h2>
                 <ul class="d-flex justify-content-center breadcrumb-items">
                     <li class="breadcrumb-item"><a href="index.php">Acogida</a></li>
                     <li class="breadcrumb-item active">excursión</li>
@@ -36,10 +41,10 @@
                                     </tr>
                                     <tr>
                                         <th>Premio* €</th>
-                                        <td>35</td>
-                                        <td>23</td>
-                                        <td>17</td>
-                                        <td>14</td>
+                                        <td>60</td>
+                                        <td>40</td>
+                                        <td>30</td>
+                                        <td>24</td>
 
                                     </tr>
                                 </table>
@@ -51,7 +56,7 @@
                                         <div class="custom-input-group">
                                             <input type="hidden"      name="type_reservation"  value="prive"/> &nbsp;
                                             <input type="hidden"      name="type_tour" value="Excursion"/> &nbsp;
-                                            <input type="hidden"      name="name_tour" value="ourika"/> &nbsp;
+                                            <input type="hidden"      name="name_tour" value="ouzoud"/> &nbsp;
 
                                             Seleccione la fecha y los participantes: 
                                             <i class="bi bi-calendar3"></i>
@@ -82,7 +87,7 @@
                                             <div class="col-md-6">
                                                 <input type="checkbox"  class="radiosize"  id="Lunch"    value="Almuerzo (10€ / por)"/>&nbsp;
                                           
-                                                Almuerzo (10€ / por)  
+                                                Almuerzo (10€ / por) 
 
                                             </div> 
 
@@ -90,7 +95,7 @@
                                         </div>
                                         <div class="custom-input-group">
                                        
-                                            Precio total en  € Per Person<input type="text"  id="totalpriceprive"  name="totalprice" class="form-control" disabled>
+                                            Precio total en  € por persona<input type="text"  id="totalpriceprive"  name="totalprice" class="form-control" disabled>
                                         </div>
                                         <div class="custom-input-group">
                                             <input type="text" placeholder="tu nombre completo" id="name" name="name" required>
@@ -128,7 +133,7 @@
                                         </div>
                                         <div class="info">
                                             <h6>duración</h6>
-                                            <span>7-8 horas</span>
+                                            <span>10 horas</span>
                                         </div>
                                     </div>
                                 </div>
@@ -139,7 +144,7 @@
                                         </div>
                                         <div class="info">
                                             <h6> distancia</h6>
-                                            <span>40 Km x 2</span>
+                                            <span>160 Km x 2</span>
                                         </div>
                                     </div>
                                 </div>
@@ -150,7 +155,7 @@
                                         </div>
                                         <div class="info">
                                             <h6>hora de salida</h6>
-                                            <span> 09h00</span>
+                                            <span> 08h00</span>
                                         </div>
                                     </div>
                                 </div>
@@ -167,11 +172,11 @@
                                 </div>
                             </div>
                             <div class="pd-thumb">
-                                <img src="../assets/images/excursion/ourika.jpg" alt="">
+                                <img src="../assets/images/excursion/ouzoud2.jpg" alt="">
                             </div>
                             <div class="header-bottom">
                                 <div class="pd-lavel d-flex justify-content-between align-items-center flex-wrap gap-2">
-                                    <h5 class="location"><i class="bi bi-geo-alt"></i> ourika, Marruecos</h5>
+                                    <h5 class="location"><i class="bi bi-geo-alt"></i> ouzoud, Marruecos</h5>
                                     <ul class="d-flex align-items-center rating">
                                         <li><i class="bi bi-star-fill"></i></li>
                                         <li><i class="bi bi-star-fill"></i></li>
@@ -180,7 +185,7 @@
                                         <li><i class="bi bi-star-fill"></i></li>
                                     </ul>
                                 </div>
-                                <h2 class="pd-title">Excursión de un día al valle de Ourika</h2>
+                                <h2 class="pd-title">Excursión de un día a las cascadas de Ouzoud</h2>
                             </div>
                         </div>
                     </div>    
@@ -194,7 +199,7 @@
                                         <th   >Grupo</th>
                                     </tr>
                                     <tr  style="height: 40px ;text-align: center;">
-                                        <th   >25 €</th>
+                                        <th   >30 €</th>
                                     </tr>
                                     <tr  style="height: 40px;text-align: center; ">
                                         <th > Por persona </th>                                        
@@ -209,7 +214,7 @@
                                         <div class="custom-input-group">
                                             <input type="hidden"      name="type_reservation" value="groupe"/> &nbsp;
                                             <input type="hidden"      name="type_tour" value="Excursion"/> &nbsp;
-                                            <input type="hidden"      name="name_tour" value="ourika"/> &nbsp;
+                                            <input type="hidden"      name="name_tour" value="ouzoud"/> &nbsp;
 
                                             Seleccione la fecha y los participantes: 
                                             <i class="bi bi-calendar3"></i>
@@ -260,7 +265,7 @@
                                             <input type="tel" placeholder="número de teléfono" name="phone" id="phone" required>
                                         </div>
                                         
-                                    
+                                         
                                        
                                         <div class="custom-input-group">
                                             <textarea cols="20" rows="7" name="message" placeholder="tu mensaje"></textarea>
@@ -308,19 +313,12 @@
  <pre>
 
 
+ Salida temprano de Marrakech en dirección a las famosas cascadas de Ouzoud de unos 110 metros de altura, que constituyen uno de los parajes naturales más espectaculares de Marruecos. La campiña circundante ofrece acantilados rojos, adelfas y palomas.  Y si tienes suerte, podrás echar un vistazo a algunos simios berberiscos. Los observadores de aves podrán disfrutar de un viaje a las cascadas, además de los caminantes que pueden disfrutar de la zona en cualquier época del año. Hay un montón de lugares para almorzar con una vista sobre las cascadas desde sus terrazas. Un corto paseo le llevará a la cima de las cataratas desde donde se puede ver pequeños y constantemente activos molinos.
 
- El valle de Ourika es uno de los valles más bellos y mejor conservados de Marruecos. La región es sin duda el destino turístico perfecto para las personas que buscan aventura marroquí, descubrimiento, relajación y meditación. A través del valle de Ourika se encuentra el río Ourika, que comienza en las montañas del Alto Atlas y baja hacia Marrakech. El valle de Ourika es mucho más que un lugar turístico, ya que alberga una serie de especies de plantas y los raros macacos de Berbería... La excursión a pie del Alto Atlas es ideal para aquellos que quieren ver el hermoso esplendor de las montañas del Alto Atlas sin trekking a la cumbre. La caminata comienza en Setti Fatma, donde los turistas caminan durante una hora hasta que están en el corazón del valle de Ourika. En esta coyuntura hay cascadas, que proporcionan un lugar resplandeciente para tomar fotografías. Una familia que vive en el valle a menudo abre su Acogida a los visitantes que desean disfrutar de su entorno.  Atmósfera de Ourika y decoración única es seguro para impresionar !
-
-Posibilidad de visitar una casa típica bereber.
-Posibilidad de visitar el zoco semanal de Berbère: lunes
-Actividades opcionales para la excursión privada:
-    Quad en el Palmeraie de Marrakech (2 horas)
-    Paseo en camello en el Palmeral de Marrakech (1 hora)
-
-distancia: 40 km x 2  
-duración: 8 horas
+distancia: 160 km x 2  
+duración:   10 horas
 disponibilidad: todos los días
-hora de salida: 9h00 am
+Hora de salida: 8h00 am
 
 <i class='bx bx-check'></i> Sin tarifas de reserva
 <i class='bx bx-check'></i> Reserva ahora y paga después
@@ -344,19 +342,17 @@ hora de salida: 9h00 am
 <i class='bx bx-check'></i> Guía local
 <i class='bx bx-check'></i> Consejos
 
-
-
 Lugar de encuentro:
 
-Nuestro conductor lo recogerá en su hotel/ Riad o en cualquier otro lugar a la hora acordada.
-En caso de cualquier problema: por favor envíenos un correo electrónico o llámenos a los números que aparecen en la información de contacto.
+    Nuestro conductor lo recogerá en su hotel/ Riad o en cualquier otro lugar a la hora acordada.
+    En caso de cualquier problema: por favor envíenos un correo electrónico o llámenos a los números que aparecen en la información de contacto.
 
 Easy Booking: Aceptado hasta las 6pm del día anterior (hora de Marrakech), Si tiene alguna dificultad para reservar o necesita otro servicio, utilice nuestro <a href="contact.php" > Formulario de contacto </a> 
 
 
 Formas de pago:
 
-En efectivo (Euros o MAD) a la llegada
+    En efectivo (Euros o MAD) a la llegada
 
 
  </pre>                    
@@ -366,32 +362,32 @@ En efectivo (Euros o MAD) a la llegada
                                     <div class="row g-4">
                                         <div class="col-6">
                                             <div class="package-gallary-item">
-                                                <img  src="../assets/images/excursion/ourika2.jpg" alt="">
+                                                <img  src="../assets/images/excursion/ouzoud1.jpg" alt="">
                                             </div>
                                         </div>
                                         <div class="col-6">
                                             <div class="package-gallary-item">
-                                                <img  src="../assets/images/excursion/ourika8.jpg" alt="">
+                                                <img  src="../assets/images/excursion/ouzoud7.jpg" alt="">
                                             </div>
                                         </div>
                                         <div class="col-6">
                                                 <div class="package-gallary-item">
-                                                    <img  src="../assets/images/excursion/ourika3.jpg" alt="">
+                                                    <img  src="../assets/images/excursion/ouzoud3.jpg" alt="">
                                                 </div>
                                         </div>
                                         <div class="col-6">
                                             <div class="package-gallary-item">
-                                                <img  src="../assets/images/excursion/ourika4.jpg" alt="">
+                                                <img  src="../assets/images/excursion/ouzoud4.jpg" alt="">
                                             </div>
                                         </div>
                                         <div class="col-6">
                                                 <div class="package-gallary-item">
-                                                    <img  src="../assets/images/excursion/ourika5.jpg" alt="">
+                                                    <img  src="../assets/images/excursion/ouzoud5.jpg" alt="">
                                                 </div>
                                         </div>
                                         <div class="col-6">
                                                 <div class="package-gallary-item">
-                                                    <img  src="../assets/images/excursion/ourika6.jpg" alt="">
+                                                    <img  src="../assets/images/excursion/ouzoud6.jpg" alt="">
                                                 </div>
                                         </div>
                                         
@@ -427,7 +423,7 @@ En efectivo (Euros o MAD) a la llegada
     <script src="../assets/js/main.js"></script>
     
     <script >
-        var nbr_prive=70;
+        var nbr_prive=120;
         $('#totalpriceprive').val(nbr_prive );
 
        $('#Guide').change(function() {
@@ -444,41 +440,12 @@ En efectivo (Euros o MAD) a la llegada
        $('#Lunch').change(function() {
           /* */          
           var lunch=10;
-
-          if($(this).is(':checked')){
-              nbr= $( '#truist-adult' ).val();
-              if(nbr=='2'){
-                  nbr_prive+=lunch*2;
-              }else if(nbr=='3'){
-                  nbr_prive+=lunch*3;
-              }
-              else if(nbr=='4'){
-                  nbr_prive+=lunch*4;
-              }
-              else if(nbr=='5'){
-                  nbr_prive+=lunch*5;
-              }else{
-                  nbr_prive+=lunch;
-
-              }
-                  
+          if($(this).is(':checked')){            
+            nbr_prive+=lunch;  
           }
           else{
-              nbr= $( '#truist-adult' ).val();
-              if(nbr=='2'){
-                  nbr_prive-=lunch*2;
-              }else if(nbr=='3'){
-                  nbr_prive-=lunch*3;
-              }
-              else if(nbr=='4'){
-                  nbr_prive-=lunch*4;
-              }
-              else if(nbr=='5'){
-                  nbr_prive-=lunch*5;
-              }else{
-                  nbr_prive-=lunch;
-
-              }            }
+            nbr_prive-=lunch;
+           }
           $('#totalpriceprive').val(nbr_prive );
 
       });
@@ -487,14 +454,14 @@ En efectivo (Euros o MAD) a la llegada
           $( "#Lunch" ).prop( "checked", false );
           $( "#Guide" ).prop( "checked", false );
         nbr= $( '#truist-adult' ).val();
-        nbr_prive=parseInt(70 / nbr);
+        nbr_prive=parseInt(120 / nbr);
 
        $('#totalpriceprive').val(nbr_prive );
 
        });
 </script>
 <script >
-  var nbr_group=25 ;
+  var nbr_group=30 ;
   $('#totalpricegroup').val(nbr_group );
 
  $('#Guidegroup').change(function() {
@@ -553,7 +520,7 @@ En efectivo (Euros o MAD) a la llegada
     $( "#Lunchgroup" ).prop( "checked", false );
     $( "#Guidegroup" ).prop( "checked", false );
   nbr= $( '#truist-adultgroup' ).val();
-  nbr_group=25 *nbr ;
+  nbr_group=30 * nbr ;
  $('#totalpricegroup').val(nbr_group );
 
  });

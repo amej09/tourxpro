@@ -1,10 +1,5 @@
 <!doctype html>
 <html lang="en">
-
-<!-- Mirrored from demo.egenslab.com/html/tourxpro/demo/package-details.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 18 Aug 2022 11:46:12 GMT -->
- 
-
-
     <?php include('template/header.php')?>
 
 
@@ -12,10 +7,10 @@
     <div class="breadcrumb breadcrumb-style-one">
         <div class="container">
             <div class="col-lg-12 text-center">
-                <h2 class="breadcrumb-title">Excursión de un día a las cascadas de Ouzoud  </h2>
+                <h2 class="breadcrumb-title">Viaje de 3 días desde Marrakech a Fez :  </h2>
                 <ul class="d-flex justify-content-center breadcrumb-items">
-                    <li class="breadcrumb-item"><a href="index.php">Acogida</a></li>
-                    <li class="breadcrumb-item active">excursión</li>
+                <li class="breadcrumb-item"><a href="index.php">Acogida</a></li>
+                    <li class="breadcrumb-item active">Cercuitos</li>
                 </ul>
             </div>
         </div>
@@ -23,8 +18,8 @@
 
     <div class="package-details-wrapper pt-76">
         <div class="container">
-            <div class="row ">
-                <div class="col-lg-3">
+        <div class="row ">
+                <div class="col-lg-4">
                     <div class="package-sidebar">
                         <aside class="package-widget-style-2 widget-form mt-30">
                             <div class="widget-title">
@@ -40,11 +35,11 @@
                                         <td>5</td>
                                     </tr>
                                     <tr>
-                                        <th>Premio* €</th>
-                                        <td>60</td>
-                                        <td>40</td>
-                                        <td>30</td>
-                                        <td>24</td>
+                                        <th>precio* €</th>
+                                        <td>364</td>
+                                        <td>270</td>
+                                        <td>220</td>
+                                        <td>190</td>
 
                                     </tr>
                                 </table>
@@ -55,8 +50,8 @@
                                     <div class="booking-form-wrapper">
                                         <div class="custom-input-group">
                                             <input type="hidden"      name="type_reservation"  value="prive"/> &nbsp;
-                                            <input type="hidden"      name="type_tour" value="Excursion"/> &nbsp;
-                                            <input type="hidden"      name="name_tour" value="ouzoud"/> &nbsp;
+                                            <input type="hidden"      name="type_tour" value="Cercuits"/> &nbsp;
+                                            <input type="hidden"      name="name_tour" value="Fez"/> &nbsp;
 
                                             Seleccione la fecha y los participantes: 
                                             <i class="bi bi-calendar3"></i>
@@ -76,44 +71,43 @@
                                                 </select>
                                             </div>
                                         </div><br>
-                                        <div class="row">
-                                            
-                                             <div class="col-md-6">
-                                                <input type="checkbox" class="radiosize" id="Guide"    value="Guide (15€)"/> &nbsp;
-                                            
-                                                Guía(15€)
-                                            </div>
-                                           
-                                            <div class="col-md-6">
-                                                <input type="checkbox"  class="radiosize"  id="Lunch"    value="Almuerzo (10€ / por)"/>&nbsp;
-                                          
-                                                Almuerzo (10€ / por) 
-
-                                            </div> 
-
-                                            
-                                        </div>
+                                         
                                         <div class="custom-input-group">
                                        
-                                            Precio total en  € Per Person<input type="text"  id="totalpriceprive"  name="totalprice" class="form-control" disabled>
+                                            Precio total en  € por persona<input type="text"  id="totalpriceprive"  name="totalprice" class="form-control" disabled>
                                         </div>
                                         <div class="custom-input-group">
                                             <input type="text" placeholder="tu nombre completo" id="name" name="name" required>
                                         </div>
                                         <div class="custom-input-group">
-                                            <input type="email" placeholder="Tu correo electrónico" id="email" name="email" >
+                                            <input type="email" placeholder="tu correo electrónico" id="email" name="email" >
                                         </div>
                                         <div class="custom-input-group">
                                             <input type="tel" placeholder="número de teléfono" id="phone" name="phone" required>
                                         </div>
                                         
+                                        <div class="row">
+                                                <div class="custom-input-group">
+                                                    <i class="bi bi-chevron-down"></i>
+                                                    <select id="truist-adult" name="adlut">
+                                                        <option value="notselected" selected>adulto</option>
+                                                        <option value="1"> 1</option>
+                                                        <option value="2"> 2</option>
+                                                        <option value="3"> 3</option>
+                                                        <option value="4"> 4</option>
+                                                        <option value="5"> 5</option>
+                                                    </select>
+                                                </div>
+                                            
+                                        </div>
+                                       
                                        
                                         <div class="custom-input-group">
                                             <textarea cols="20" rows="7" name="message" placeholder="tu mensaje"></textarea>
                                         </div>
                                         <div class="custom-input-group">
                                             <div class="submite-btn">
-                                                <button type="submit" >Reserva ahora</button>
+                                                <button type="submit" >¡Reserva ahora</button>
                                             </div>
                                         </div>
                                     </div>
@@ -122,7 +116,7 @@
                         </aside>
                     </div>    
                  </div>
-                 <div class="col-lg-6">
+                 <div class="col-lg-8">
                     <div class="tour-package-details">
                         <div class="pd-header">
                             <div class=" pd-top row row-cols-lg-4 row-cols-md-2 row-cols-2 gy-4">
@@ -133,7 +127,7 @@
                                         </div>
                                         <div class="info">
                                             <h6>duración</h6>
-                                            <span>10 horas</span>
+                                            <span>3 días/ 2 noches</span>
                                         </div>
                                     </div>
                                 </div>
@@ -144,7 +138,7 @@
                                         </div>
                                         <div class="info">
                                             <h6> distancia</h6>
-                                            <span>160 Km x 2</span>
+                                            <span>1017 km</span>
                                         </div>
                                     </div>
                                 </div>
@@ -155,7 +149,7 @@
                                         </div>
                                         <div class="info">
                                             <h6>hora de salida</h6>
-                                            <span> 08h00</span>
+                                            <span> 07h00</span>
                                         </div>
                                     </div>
                                 </div>
@@ -172,11 +166,11 @@
                                 </div>
                             </div>
                             <div class="pd-thumb">
-                                <img src="../assets/images/excursion/ouzoud2.jpg" alt="">
+                                <img src="../assets/images/Circuit/details/fez1.jpg" alt="">
                             </div>
                             <div class="header-bottom">
                                 <div class="pd-lavel d-flex justify-content-between align-items-center flex-wrap gap-2">
-                                    <h5 class="location"><i class="bi bi-geo-alt"></i> ouzoud, Marruecos</h5>
+                                    <h5 class="location"><i class="bi bi-geo-alt"></i> Fez, Marruecos</h5>
                                     <ul class="d-flex align-items-center rating">
                                         <li><i class="bi bi-star-fill"></i></li>
                                         <li><i class="bi bi-star-fill"></i></li>
@@ -185,102 +179,12 @@
                                         <li><i class="bi bi-star-fill"></i></li>
                                     </ul>
                                 </div>
-                                <h2 class="pd-title">Excursión de un día a las cascadas de Ouzoud</h2>
+                                <h2 class="pd-title">Viaje de 3 días desde Marrakech a Fez  : </h2>
                             </div>
                         </div>
                     </div>    
                 </div>
-                <div class="col-lg-3">
-                    <div class="package-sidebar">
-                        <aside class="package-widget-style-2 widget-form mt-30">
-                            <div class="widget-title">
-                                <table class="table" style="color: white; border: solid 0px ;border-color: #162b32; ">
-                                    <tr  style="height: 40px ;text-align: center;" class="groupbackground">
-                                        <th   >Grupo</th>
-                                    </tr>
-                                    <tr  style="height: 40px ;text-align: center;">
-                                        <th   >30 €</th>
-                                    </tr>
-                                    <tr  style="height: 40px;text-align: center; ">
-                                        <th > Por persona </th>                                        
-                                    </tr>
-                                   
-                                </table>
-                            </div>
-
-                            <div class="widget-body">
-                                <form action="../assets/php/sender.php" method="post" id="booking-form2">
-                                    <div class="booking-form-wrapper">
-                                        <div class="custom-input-group">
-                                            <input type="hidden"      name="type_reservation" value="groupe"/> &nbsp;
-                                            <input type="hidden"      name="type_tour" value="Excursion"/> &nbsp;
-                                            <input type="hidden"      name="name_tour" value="ouzoud"/> &nbsp;
-
-                                            Seleccione la fecha y los participantes: 
-                                            <i class="bi bi-calendar3"></i>
-                                            <input placeholder="Selecciona tu fecha" type="date" name="date"
-                                                id="datepickerfroup" value="" class="calendar" required>
-                                        </div>
-                                        <div class="row">
-                                            <div class="custom-input-group">
-                                                <i class="bi bi-chevron-down"></i>
-                                                <select id="truist-adultgroup" name="numbertravels">
-                                                    <option value="notselected" selected> Número de viajeros: </option>
-                                                    <option value="1"> 1</option>
-                                                    <option value="2"> 2</option>
-                                                    <option value="3"> 3</option>
-                                                    <option value="4"> 4</option>
-                                                    <option value="5"> 5</option>
-                                                </select>
-                                            </div>
-                                        </div><br>
-                                        <div class="row">
-                                            
-                                            <div class="col-6">
-                                               <input type="checkbox" class="radiosize" id="Guidegroup"  name="Guide" value="Guide (15€)"/> &nbsp;
-                                           
-                                               Guía(15€)
-                                           </div>
-                                          
-                                           <div class="col-6">
-                                            <input type="checkbox"  class="radiosize"  id="Lunchgroup"  name="Lunch" value="Almuerzo (10€ / por)"/>&nbsp;
-                                          
-                                               Almuerzo (10€ / por)  
-
-                                           </div> 
-
-                                           
-                                       </div>
-                                       <div class="custom-input-group">
-                                      
-                                           Precio total en  €<input type="text"   id="totalpricegroup" name="totalprice"  class="form-control" disabled>
-                                       </div>
-                                        <div class="custom-input-group">
-                                            <input type="text" placeholder="tu nombre completo" name="name" id="name" required> 
-                                        </div>
-                                        <div class="custom-input-group">
-                                            <input type="email" placeholder="tu correo electrónico" name="email" id="email">
-                                        </div>
-                                        <div class="custom-input-group">
-                                            <input type="tel" placeholder="número de teléfono" name="phone" id="phone" required>
-                                        </div>
-                                        
-                                         
-                                       
-                                        <div class="custom-input-group">
-                                            <textarea cols="20" rows="7" name="message" placeholder="tu mensaje"></textarea>
-                                        </div>
-                                        <div class="custom-input-group">
-                                            <div class="submite-btn">
-                                                <button type="submit"  >Reserva ahora</button>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </form>
-                            </div>
-                        </aside>
-                    </div> 
-                </div>
+               
 
             </div>
             <br>
@@ -294,8 +198,7 @@
                                     <li class="nav-item navmargin" role="presentation">
                                         <button class="nav-link active" id="pills-package1" data-bs-toggle="pill"
                                             data-bs-target="#pill-body1" type="button" role="tab" aria-controls="pill-body1"
-                                            aria-selected="true"><i class="bi bi-info-lg"></i> información
-</button>
+                                            aria-selected="true"><i class="bi bi-info-lg"></i> información</button>
                                     </li>
                                     
                                     <li class="nav-item navmargin" role="presentation">
@@ -303,6 +206,7 @@
                                             data-bs-target="#pill-body3" type="button" role="tab" aria-controls="pill-body3"
                                             aria-selected="false"><i class="bi bi-images"></i> Tour Gallary</button>
                                     </li>
+                                    
                                   
                                 </ul>
                             <div class="tab-content" id="pills-tabContent">
@@ -313,44 +217,76 @@
  <pre>
 
 
- Salida temprano de Marrakech en dirección a las famosas cascadas de Ouzoud de unos 110 metros de altura, que constituyen uno de los parajes naturales más espectaculares de Marruecos. La campiña circundante ofrece acantilados rojos, adelfas y palomas.  Y si tienes suerte, podrás echar un vistazo a algunos simios berberiscos. Los observadores de aves podrán disfrutar de un viaje a las cascadas, además de los caminantes que pueden disfrutar de la zona en cualquier época del año. Hay un montón de lugares para almorzar con una vista sobre las cascadas desde sus terrazas. Un corto paseo le llevará a la cima de las cataratas desde donde se puede ver pequeños y constantemente activos molinos.
 
-distancia: 160 km x 2  
-duración:   10 horas
-disponibilidad: todos los días
-Hora de salida: 8h00 am
+ Un tour privado por el desierto desde Marrakech a las increíbles dunas de Merzouga.
 
-<i class='bx bx-check'></i> Sin tarifas de reserva
-<i class='bx bx-check'></i> Reserva ahora y paga después
-<i class='bx bx-check'></i> Mejor precio garantizado
-<i class='bx bx-check'></i> Excelente servicio
-<i class='bx bx-check'></i> Cancelación gratuita
-<i class='bx bx-check'></i> Disponible todos los días
+Viaja a través de fascinantes paisajes desérticos e impresionantes pueblos bereberes antes de pasar una experiencia inolvidable en medio del Sahara.
 
-¿Qué es lo que incluye?
+Después de este viaje por el desierto, su chófer privado conducirá directamente a Fez para continuar explorando el auténtico Marruecos.
 
-<i class='bx bx-check'></i> Recogida y entrega en el hotel
-<i class='bx bx-check'></i> Transporte en minivan con aire acondicionado
-<i class='bx bx-check'></i> Seguro de transporte
-<i class='bx bx-check'></i> Seguro de responsabilidad profesional
+
+1er Día: Marrakech - Ait Ben Haddou - Ouarzazate - Boumalne Dadès (300 km)
+
+    Después de una recogida temprana de su hotel o Riad en Marrakech, comenzará su recorrido por el desierto a través de Tizi n'Tichka Pass antes de llegar
+    la famosa Kasbah de Ait Ben Haddou donde tendrá una breve visita guiada y almuerzo.
+    Continuación al valle de Ouarzazate y Dades con su Kasbah 1000, luego llegada a Boulmane donde pasará su primera noche.  
+
+Día 2: Boumalne Dadès - Tinghir - Todra Gorge - Arfoud - Dunas de Merzouga (250 km)   
+
+    Desayuno temprano y salida hacia Merzouga a través de increíbles paisajes desérticos con una parada en el pueblo de Tinghir y Todra Gorge. Entonces
+    continuación a Tinjedad, Touroug y Erfoud antes de llegar a Merzouga.
+    A su llegada, usted tendrá la oportunidad también disfrutar de un paseo en camello en el centro de las espléndidas dunas Erg Chebbi, entonces usted tendrá
+     cena con una maravillosa fiesta bereber alrededor de la fogata antes de pasar su segunda noche bajo tiendas nómadas en el desierto de Merzouga.
+
+3er Día: Merzouga - Fez (467 km)  
+
+    Después de un despertar temprano, podrá disfrutar de un corto trekking de la salida del sol sobre las dunas de Erg Chebbi, luego la salida a Fez cruzando el hermoso Ziz
+    Valle a través de la carretera de Errachidia. Tendrá un descanso para almorzar en Midelt. Continuación a Imouzzar e Ifrane antes de llegar a
+    Fez donde el tour por el desierto termina con una entrega en su hotel o Riad.  
+
+
+
+
+Duración: 3 días/ 2 noches
+Distancia: 1017 km 
+Disponibilidad: Todos los días
+Hora de salida: 07h00 am
+
+<i class='bx bx-check'></i> Recogida y devolución en el hotel
+    <i class='bx bx-check'></i> vehículo con aire acondicionado
+    <i class='bx bx-check'></i> transporte privado
+    <i class='bx bx-check'></i> Café o té o zumo de fruta o soda
+    <i class='bx bx-check'></i> todos los impuestos
+
+que esta incluido?
+
+<i class='bx bx-check'></i> Transporte con un conductor privado
+<i class='bx bx-check'></i> Aire acondicionado y cómodo 4x4
+<i class='bx bx-check'></i> Alojamiento en régimen de media pensión:
+                                • 1ª noche  : Noche en el albergue
+                                • Segunda noche: Noche en Bivouac
+<i class='bx bx-check'></i> Paseo en camello por las dunas de Merzouga
+<i class='bx bx-check'></i> Transporte y seguro de responsabilidad
 <i class='bx bx-check'></i> Fiabilidad del servicio de calidad
-<i class='bx bx-check'></i> Todos los impuestos
+<i class='bx bx-check'></i> todos los impuestos
 
 ¿Qué no está incluido?
 
-<i class='bx bx-check'></i> Almuerzo
-<i class='bx bx-check'></i> Guía local
-<i class='bx bx-check'></i> Consejos
-
-Lugar de encuentro:
-
-    Nuestro conductor lo recogerá en su hotel/ Riad o en cualquier otro lugar a la hora acordada.
-    En caso de cualquier problema: por favor envíenos un correo electrónico o llámenos a los números que aparecen en la información de contacto.
-
-Easy Booking: Aceptado hasta las 6pm del día anterior (hora de Marrakech), Si tiene alguna dificultad para reservar o necesita otro servicio, utilice nuestro <a href="contact.php" > Formulario de contacto </a> 
+<i class='bx bx-check'></i> comida
+<i class='bx bx-check'></i> guía local
+<i class='bx bx-check'></i> Tips
 
 
-Formas de pago:
+
+Punto de encuentro:
+
+    <i class='bx bx-check'></i> Nuestro conductor lo recogerá en su hotel/ Riad o en cualquier otro lugar a la hora acordada.
+    <i class='bx bx-check'></i> En caso de cualquier problema: por favor envíenos un correo electrónico o llámenos a los números que aparecen en la información de contacto.
+
+Easy Booking: Aceptado hasta las 6pm del día anterior (hora de Marrakech), Si tiene alguna dificultad para reservar o necesita otro servicio, utilice nuestro <a href="contact.php" > Formulario de contacto</a> 
+
+
+Métodos de pago:
 
     En efectivo (Euros o MAD) a la llegada
 
@@ -362,38 +298,39 @@ Formas de pago:
                                     <div class="row g-4">
                                         <div class="col-6">
                                             <div class="package-gallary-item">
-                                                <img  src="../assets/images/excursion/ouzoud1.jpg" alt="">
+                                                <img  src="../assets/images/Circuit/details/fez1.jpg" alt="">
                                             </div>
                                         </div>
                                         <div class="col-6">
                                             <div class="package-gallary-item">
-                                                <img  src="../assets/images/excursion/ouzoud7.jpg" alt="">
+                                                <img  src="../assets/images/Circuit/details/fez2.jpg" alt="">
                                             </div>
                                         </div>
                                         <div class="col-6">
                                                 <div class="package-gallary-item">
-                                                    <img  src="../assets/images/excursion/ouzoud3.jpg" alt="">
+                                                    <img  src="../assets/images/Circuit/details/fez3.jpg" alt="">
                                                 </div>
                                         </div>
                                         <div class="col-6">
                                             <div class="package-gallary-item">
-                                                <img  src="../assets/images/excursion/ouzoud4.jpg" alt="">
+                                                <img  src="../assets/images/Circuit/details/fez4.jpg" alt="">
                                             </div>
                                         </div>
                                         <div class="col-6">
                                                 <div class="package-gallary-item">
-                                                    <img  src="../assets/images/excursion/ouzoud5.jpg" alt="">
+                                                    <img  src="../assets/images/Circuit/details/fez5.jpg" alt="">
                                                 </div>
                                         </div>
                                         <div class="col-6">
                                                 <div class="package-gallary-item">
-                                                    <img  src="../assets/images/excursion/ouzoud6.jpg" alt="">
+                                                    <img  src="../assets/images/Circuit/details/fez6.jpg" alt="">
                                                 </div>
                                         </div>
                                         
                                         
                                     </div>
                                 </div>
+                               
                                  
 
                             </div>
@@ -423,45 +360,19 @@ Formas de pago:
     <script src="../assets/js/main.js"></script>
     
     <script >
-        var nbr_prive=120;
+        var nbr_prive=680;
         $('#totalpriceprive').val(nbr_prive );
 
-       $('#Guide').change(function() {
-         /* */
-          if($(this).is(':checked')){
-              nbr_prive+=15;
-          }
-          else{
-              nbr_prive-=15;
-          }
-          $('#totalpriceprive').val(nbr_prive );
-
-       });
-       $('#Lunch').change(function() {
-          /* */          
-          var lunch=10;
-          if($(this).is(':checked')){            
-            nbr_prive+=lunch;  
-          }
-          else{
-            nbr_prive-=lunch;
-           }
-          $('#totalpriceprive').val(nbr_prive );
-
-      });
-
        $( '#truist-adult' ).change(function() {
-          $( "#Lunch" ).prop( "checked", false );
-          $( "#Guide" ).prop( "checked", false );
+          
         nbr= $( '#truist-adult' ).val();
-        nbr_prive=parseInt(120 / nbr);
-
-       $('#totalpriceprive').val(nbr_prive );
+       var new_nbr_prive = nbr_prive / nbr ;
+       $('#totalpriceprive').val(new_nbr_prive );
 
        });
 </script>
 <script >
-  var nbr_group=30 ;
+  var nbr_group=65 ;
   $('#totalpricegroup').val(nbr_group );
 
  $('#Guidegroup').change(function() {
@@ -520,7 +431,18 @@ Formas de pago:
     $( "#Lunchgroup" ).prop( "checked", false );
     $( "#Guidegroup" ).prop( "checked", false );
   nbr= $( '#truist-adultgroup' ).val();
-  nbr_group=30 * nbr ;
+  nbr_group=25;
+ if(nbr=='2'){
+      nbr_group=(nbr_group * 2);
+ }else if(nbr=='3'){
+  nbr_group=(nbr_group * 3);
+ }
+ else if(nbr=='4'){
+  nbr_group=(nbr_group * 4);
+ }
+ else if(nbr=='5'){
+  nbr_group=(nbr_group * 5);
+ }
  $('#totalpricegroup').val(nbr_group );
 
  });

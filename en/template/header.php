@@ -62,6 +62,9 @@
                 </div>
                 <div class="col-xl-3 col-lg-6 col-md-6 d-md-flex  d-none align-items-center justify-content-end">
                     <ul class="topbar-social-links">
+                        <li><a href="../fr/" target="blank"><img src='../assets/images/fr.png' class="flag"/></a></li>
+                        <li><a href="#" target="blank"><img src='../assets/images/en.png' class="flag"/></a></li>
+                        <li><a href="../es/" target="blank"><img src='../assets/images/es.png' class="flag"/></a></li>
                         <li><a href="https://www.facebook.com/Annoqri.tours" target="blank"><i class='bx bxl-facebook'></i></a></li>
                         <li><a href="https://www.instagram.com/happymarrakechtours/" target="blank"><i class='bx bxl-instagram-alt'></i></a></li>
                         <li><a href="https://www.tripadvisor.fr/Attraction_Review-g293734-d17582639-Reviews-AnnoQri_Travel_Services-Marrakech_Marrakech_Safi.html" target="blank"><img src="../assets/images/icons/tripadvisor.svg"  style="height: 20.36px;width: 20px;color: #fd2929;background: darkorange;"/></a></li>
@@ -102,7 +105,7 @@
                                 <a href="#"><img src="../assets/images/logo11.png" style="height: 110px;width:100px;" alt=""></a>
                             </div>
                             <ul>
-                                <li><a href="index.php">Acogida</a></li>
+                                <li><a href="index.php">Home</a></li>
                                 <li class="has-child-menu">
                                     <a href="javascript:void(0)">Excursions</a>
                                     <i class="fl flaticon-plus">+</i>
@@ -133,7 +136,7 @@
                                     <ul class="sub-menu">
                                         <li><a href="visit-marrakech-halfday.php">Marrakech City Highlight Half-Day Tour</a></li>
                                         <li><a href="visit-marrakech-histical.php">Marrakech Historical and Cultural Tour</a></li>
-                                        <li><a href="visit-marrakech-night.php">Marrakech By Night City privado Tour</a></li>
+                                        <li><a href="visit-marrakech-night.php">Marrakech By Night City Privat Tour</a></li>
                                         <li><a href="visit-marrakech-medina.php">Medina Souks Shopping Tour</a></li>
                                         <li><a href="visit-marrakech-chezali.php">Restaurant Chez Ali</a></li>
                                     </ul>
