@@ -29,7 +29,7 @@
 
                                             <span>para hoy </span>,  o próximos días   
                                         </h2>
-                                        <h3 class="featured-price">From 25$ /<span>Person</span></h3>
+                                        <h3 class="featured-price">desde 25$ /<span>persona</span></h3>
                                         <p>Enjoy a magical day outside Marrakech! Enjoy a private tour
                                              to the picturesque mountains of the Atlas, to the charming Essaouira or to the only desert of the Sahara.
                                               Discover more of the Moroccan culture with the local of your choice.
@@ -53,7 +53,7 @@
                             <div class="row align-items-center">
                                 <div class="col-lg-6">
                                     <div class="hero-content">
-                                        <h5 class="featured-location"><i class="bi bi-geo-alt"></i> Trips & Tours
+                                        <h5 class="featured-location"><i class="bi bi-geo-alt"></i> Excursiones
                                         </h5>
 
                                         <div class="hero-title">Excursiones de un día y tours<span>Alrededor de Marrakech.</span></div>
@@ -276,7 +276,7 @@
                             </p>
                         </div>
                         <div class="package-card-body">
-                            <h3 class="p-card-title"><a href="visit-marrakech-halfday.php">Marrakech City Highlights Half-Day Tour</a></h3>
+                            <h3 class="p-card-title"><a href="visit-marrakech-halfday.php">Tour de medio día por la ciudad de Marrakech</a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
                                     <a href="visit-marrakech-halfday.php">reservar ahora <i class='bx bxs-right-arrow-alt'></i></a>
@@ -298,7 +298,7 @@
                             </p>
                         </div>
                         <div class="package-card-body">
-                            <h3 class="p-card-title"><a href="visit-marrakech-histical.php">Marrakech Historical and Cultural Tour</a></h3>
+                            <h3 class="p-card-title"><a href="visit-marrakech-histical.php">Tour histórico y cultural de Marrakech</a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
                                     <a href="visit-marrakech-histical.php">reservar ahora <i class='bx bxs-right-arrow-alt'></i></a>
@@ -320,7 +320,7 @@
                             </p>
                         </div>
                         <div class="package-card-body">
-                            <h3 class="p-card-title"><a href="visit-marrakech-medina.php">Medina Souks Shopping Tour</a></h3>
+                            <h3 class="p-card-title"><a href="visit-marrakech-medina.php">Tour de compras por Medina Souks</a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
                                     <a href="visit-marrakech-medina.php">reservar ahora <i class='bx bxs-right-arrow-alt'></i></a>
@@ -342,7 +342,7 @@
                             </p>
                         </div>
                         <div class="package-card-body">
-                            <h3 class="p-card-title"><a href="visit-marrakech-night.php">Marrakech by Night City privadoe Tour </a></h3>
+                            <h3 class="p-card-title"><a href="visit-marrakech-night.php">Tour privado por la ciudad de Marrakech de noche </a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
                                     <a href="visit-marrakech-night.php">reservar ahora <i class='bx bxs-right-arrow-alt'></i></a>
@@ -364,7 +364,7 @@
                             </p>
                         </div>
                         <div class="package-card-body">
-                            <h3 class="p-card-title"><a href="visit-marrakech-chezali.php">Chez Ali Fantasia - Dinner And Show</a></h3>
+                            <h3 class="p-card-title"><a href="visit-marrakech-chezali.php">Chez ali fantasía - cena y espectáculo</a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
                                     <a href="visit-marrakech-chezali.php">reservar ahora <i class='bx bxs-right-arrow-alt'></i></a>
@@ -386,7 +386,7 @@
                             </p>
                         </div>
                         <div class="package-card-body">
-                            <h3 class="p-card-title"><a href="activity-quad-camel.php">Quad + Camel at the Palmeraie</a></h3>
+                            <h3 class="p-card-title"><a href="activity-quad-camel.php">Quad + Camello en el Palmeraie</a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
                                     <a href="activity-quad-camel.php">reservar ahora <i class='bx bxs-right-arrow-alt'></i></a>
@@ -408,7 +408,7 @@
                             </p>
                         </div>
                         <div class="package-card-body">
-                            <h3 class="p-card-title"><a href="activity-buggy.php">Buggy at the Palmeraie</a></h3>
+                            <h3 class="p-card-title"><a href="activity-buggy.php">Buggy en el Palmeraie</a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
                                     <a href="activity-buggy.php">reservar ahora <i class='bx bxs-right-arrow-alt'></i></a>
@@ -430,7 +430,7 @@
                             </p>
                         </div>
                         <div class="package-card-body">
-                            <h3 class="p-card-title"><a href="activity-quad.php">Quad  at the Palmeraie</a></h3>
+                            <h3 class="p-card-title"><a href="activity-quad.php">Quad en el Palmeraie</a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
                                     <a href="activity-quad.php">reservar ahora <i class='bx bxs-right-arrow-alt'></i></a>
@@ -452,7 +452,7 @@
                             </p>
                         </div>
                         <div class="package-card-body">
-                            <h3 class="p-card-title"><a href="package-details.html">Hot-air Balloon Flight in Marrakech</a></h3>
+                            <h3 class="p-card-title"><a href="package-details.html">Vuelo en globo en Marrakech</a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
                                     <a href="package-details.html">reservar ahora <i class='bx bxs-right-arrow-alt'></i></a>
@@ -476,7 +476,7 @@
             <div class="row d-flex justify-content-center align-items-center">
                 <div class="col-lg-5 d-flex justify-content-lg-start justify-content-center">
                     <div class="section-head-alpha text-lg-start text-center">
-                        <h2 class="text-white">Upcoming Best Tours</h2>
+                        <h2 class="text-white">Próximos mejores tours</h2>
                     </div>
                 </div>
                 <div class="col-lg-7 d-flex justify-content-lg-end justify-content-center">
