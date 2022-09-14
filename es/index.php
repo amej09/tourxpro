@@ -124,19 +124,19 @@
                 <div class="col-lg-4 col-md-6">
                     <div class="package-card-alpha">
                         <div class="package-thumb">
-                            <a href="excursion-ourika.php"><img src=".. /assets/images/excursión/Test/Ourika1.jpg" alt="></a>
-                            <p clase="card-lavel">
-                                <i class="bi-clock"></i> <span>7 a 8 horas</span>
+                            <a href="excursion-ourika.php"><img src="../assets/images/excursion/Test/Ourika1.jpg" alt=""></a>
+                            <p class="card-lavel">
+                                <i class="bi bi-clock"></i> <span>7 a 8 horas</span>
                             </p>
                         </div>
-                        <div class="paquete-tarjeta-cuerpo">
-                            <h3 class="p-card-title"><a href="excursión-ourika.php">Excursión a Ourika Valley</a></h3>
+                        <div class="package-card-body">
+                            <h3 class="p-card-title"><a href="excursion-ourika.php">Excursión de un día al valle de Ourika</a></h3>
                             <div class="p-card-bottom">
                                 <div class="book-btn">
                                     <a href="excursion-ourika.php">reservar ahora <i class='bx bxs-right-arrow-alt'></i></a>
                                 </div>
                                 <div class="p-card-info">
-                                    <span>Desde</span>
+                                <span>Desde</span>
                                     <h6>25.00 €<span>Por persona</span></h6>
                                 </div>
                             </div>
@@ -254,9 +254,7 @@
                     </div>
                 </div>
             </div>
-            <div class="package-page-btn text-center mt-60">
-                <a href="#" class="button-fill-round">View All</a>
-            </div>
+            
         </div>
     </div>
     <div class="package-area package-style-two pt-110 ">
@@ -468,9 +466,7 @@
                     </div>
                 </div>
             </div>
-            <div class="package-page-btn text-center mt-60">
-                <a href="#" class="button-fill-round">View All</a>
-            </div>
+            
         </div>
     </div>
     <br><br>

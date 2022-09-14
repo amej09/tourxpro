@@ -254,9 +254,7 @@
                     </div>
                 </div>
             </div>
-            <div class="package-page-btn text-center mt-60">
-                <a href="#" class="button-fill-round">View All</a>
-            </div>
+            
         </div>
     </div>
     <div class="package-area package-style-two pt-110 ">
